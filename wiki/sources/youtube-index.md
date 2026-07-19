@@ -63,6 +63,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-07 — [[2009-02-07-yt-fa1Lr-W2aBU|HD Test 1: Camtasia Studio 6]] ★ · production-filmmaking, consumer-tech-culture
 - 2009-02-08 — [[2009-02-08-yt-DmqmZ_ORPbc|HD Tutorial: Get OS X Cursors in Windows (Request)]] · consumer-tech-culture
 - 2009-02-08 — [[2009-02-08-yt-E63fdjyck2k|HD Tutorial: Customize Command Prompt]] · consumer-tech-culture
+- 2009-02-08 — [[2009-02-08-yt-uGL9arjQRl0|HD Tutorial: Get OS X Theme on Rocket Dock]] · consumer-tech-culture
+- 2009-02-08 — [[2009-02-08-yt-IMXaHZLjFQA|HD Tutorial: Offline Gmail]] · consumer-tech-culture
+- 2009-02-08 — [[2009-02-08-yt-kDD7b1sfmLg|HD Tutorial: Get Old Menus Back in Vista Explorer]] · consumer-tech-culture
+- 2009-02-08 — [[2009-02-08-yt-S1ThX4gDPrQ|HD Tutorial: Firefox 'Superbar']] · consumer-tech-culture
+- 2009-02-08 — [[2009-02-08-yt-bLIxfnQqe_c|HD Tutorial: Start Menu Customization]] · consumer-tech-culture
+- 2009-02-08 — [[2009-02-08-yt-MqudmZQVWyo|HD Tutorial: Installing Firefox Themes]] · consumer-tech-culture
+- 2009-02-08 — [[2009-02-08-yt-1VRajWZr-PE|HD Tutorial: Get OS X Cursors in Windows]] · consumer-tech-culture
+- 2009-02-09 — [[2009-02-09-yt-BAAC5c2uEP8|HD Tutorial: Measure your Download and Upload Speeds]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -210,4 +218,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_179 videos ingested (L2) so far._
+_187 videos ingested (L2) so far._
