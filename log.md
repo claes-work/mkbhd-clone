@@ -1084,3 +1084,43 @@ comparative-review instinct** — closes the IE tutorial by conceding IE "is not
 web browser" and demoing Safari faster (proto tech-review); (5) **audience-engagement tell
 repeats** — again invites viewers to send tutorial requests. Both ★ items flagged as
 L3-candidates for the next synthesis pass; do not inline-promote.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: Vista tweak cluster (UAC / virtual-memory / menu-delay / boot-speed / ViStart / volume-mixer) + Safari 4 WebKit Acid3 benchmark
+
+Stage B (P2, @mkbhd solo — cleanest attribution; main P1 drained). Eight 2009-02-04→05
+origin-era **HD Tutorial** screencasts, all solo Marques (no co-hosts/guests). Seven had
+captions and were ingested; **1 no-captions** (`gU9kqC8rEcM` "HD Benchmark: Safari Webkit",
+auto-marked L1 `notes: no-captions` by the driver — never Whispered). 0 yt-dlp failures /
+**0 429s**. Wrote 7 `wiki/sources/` L2 pages.
+
+Videos: Disable UAC — advanced-users-only caveat (`1g1aQTEocX0`); Virtual Memory — 1.5×
+RAM rule, his 2009 rig = 4 GB RAM + 7200 RPM HDD (`q0aKUO9xmds`); Eliminate Menu Show
+Delay — regedit MenuShowDelay (`khEaSeMShk8`); Boot Faster — msconfig, keeps GUI boot over
+faster No-GUI boot (`OBNkCLRGx2k`); Safari 4 WebKit — Acid3 75 vs 100 benchmark argument
+(`NrOWLTqRLc8`); ViStart — Vista Start menu on XP freeware (`ADK6fdkWiBY`); per-app Volume
+Mixer, recorded while multitasking uploads (`SkXXq2cOAso`).
+
+**Attribution:** all solo (`attribution: solo`) — MKBHD-fronted personal screencasts, all
+quotes are persona/voice data. No co-hosted material this round (ensemble channels
+@Waveform/@TheStudio and dedup-tier @WaveformClips were not touched; the 2 open @WaveformClips
+P1 rows were deliberately left for an attribution-gated pass, not this solo batch).
+
+**Bookkeeping:** 7 ledger rows → L2 (+1 → L1 no-captions); 7 rows inserted into
+`wiki/sources/youtube-index.md` @mkbhd section (date order, after the 2009-02-04 Safari
+Addons row); footer 164 → 171; `index.md` count 164 → 171. No staging to delete. No
+fabrication, all English.
+
+Synthesis notes: debt counter now 5 batches (checkpoint at 10). Genuinely-new, all L2-only
+(not inlined): (1) ★ **early benchmark-driven review instinct** — the Safari 4 WebKit video
+leans on the standardized **Acid3 test (75/100 stock vs 100/100 WebKit nightly)** to make a
+comparative claim; strongest 2009 precursor yet to his later spec/benchmark-led review
+methodology (`tech-reviews`); (2) ★ **aesthetics-over-raw-numbers value tell** — in the
+boot-speed video he keeps the slower GUI boot because he "actually like[s] the GUI boot,"
+choosing experience/polish over the faster No-GUI number; early experience-vs-spec value;
+(3) **measured-advice pattern** — recurring "set it low but not to zero" caution and an
+explicit "advanced users only" caveat on the UAC tweak, prefiguring his duty-of-care tone;
+(4) **creator/audience-relationship origins repeat** — "the features that i use in my
+videos" (ViStart) + "send me a message and i'll make it" (Volume Mixer) confirm the early
+audience-request loop; (5) **gear-origin datapoint** — 2009 rig on record: 4 GB RAM, 7200
+RPM HDD. Both ★ items flagged as L3-candidates for the next synthesis pass; do not
+inline-promote.

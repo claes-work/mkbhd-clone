@@ -48,6 +48,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-03 — [[2009-02-03-yt-PssBv2rusgw|HD Tutorial: Start Menu Shutdown Button]] · consumer-tech-culture
 - 2009-02-03 — [[2009-02-03-yt-8OUGVgQLxNU|HD Tutorial: Screencasting Zoom Function]] ★ · production-filmmaking, consumer-tech-culture
 - 2009-02-04 — [[2009-02-04-yt-7g2q___Kiag|HD Tutorial: Safari and Webkit Addons]] · consumer-tech-culture
+- 2009-02-04 — [[2009-02-04-yt-1g1aQTEocX0|HD Tutorial: Disable User Account Control]] · consumer-tech-culture
+- 2009-02-04 — [[2009-02-04-yt-q0aKUO9xmds|HD Tutorial: Virtual Memory]] · consumer-tech-culture
+- 2009-02-04 — [[2009-02-04-yt-khEaSeMShk8|HD Tutorial: Eliminate Menu Show Delay]] · consumer-tech-culture
+- 2009-02-04 — [[2009-02-04-yt-OBNkCLRGx2k|HD Tutorial: Boot Your Computer Faster]] · consumer-tech-culture
+- 2009-02-04 — [[2009-02-04-yt-NrOWLTqRLc8|HD Tutorial: Safari 4 Webkit]] ★ · consumer-tech-culture, tech-reviews
+- 2009-02-04 — [[2009-02-04-yt-ADK6fdkWiBY|HD Tutorial: Vistart]] · consumer-tech-culture
+- 2009-02-05 — [[2009-02-05-yt-SkXXq2cOAso|HD Tutorial: Volume App]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -195,4 +202,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_164 videos ingested (L2) so far._
+_171 videos ingested (L2) so far._
