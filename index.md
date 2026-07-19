@@ -7,7 +7,7 @@ _Last updated: 2026-07-19 (ingest: @mkbhd P1 batch, 8 L2)_
 
 - [wiki/sources/2026-07-14-research-biography-dossier.md](wiki/sources/2026-07-14-research-biography-dossier.md) — full dated life/career timeline (Maplewood NJ → Stevens → 2008 channel → 21M subs → Waveform/Auto Focus/Panels), registry-verified vs self-reported marked per claim.
 - [wiki/sources/2026-07-14-research-media-inventory-dossier.md](wiki/sources/2026-07-14-research-media-inventory-dossier.md) — every channel/podcast/site/social with verified IDs and counts; defines the enumeration universe.
-- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **24 videos ingested (L2)** — @Waveform + @mkbhd P1 batches (2026-07-19).
+- [wiki/sources/youtube-index.md](wiki/sources/youtube-index.md) — YouTube sub-index (grown by the ingest loop). **32 videos ingested (L2)** — @Waveform + @mkbhd P1 batches (2026-07-19).
 
 ## Topics
 

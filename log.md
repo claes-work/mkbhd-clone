@@ -133,3 +133,45 @@ matte-black finish verdict** (special-edition jet black = scratch/fingerprint-pr
 = the "safe route") as an early durable review heuristic on premium finishes. All
 attribution-clean (solo) and ready to corroborate/date-stamp the earlier @mkbhd + @Waveform
 debt at the next synthesis pass.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 8) — P1 solo Dope Tech / Awards / iPhone X batch
+
+Stage B (P1-first) on **@mkbhd**, the main solo tech-review channel. Batch size 8:
+drained the next 8 oldest open P1 rows (late 2016 → early 2018) — the annual **Smartphone
+Awards** (2016 + 2017), four **Dope Tech** episodes (Best Drones, 4K OLED Wallpaper TV,
+Shot on Smartphones, and the two-part CES 2018 roundup), plus the **iPhone X unboxing**.
+All 8 had English captions; **0 no-captions, 0 duplicates, 0 skipped, no yt-dlp
+rate-limiting**. Fourth real ingest batch of the clone (32 L2 total now).
+
+Videos (→ `wiki/sources/`): 2016-12-23 Smartphone Awards 2016 · 2017-01-18 Dope Tech: The
+Best Drones · 2017-05-01 Dope Tech: The 4K OLED Wallpaper TV · 2017-06-28 Dope Tech: Shot
+on Smartphones · 2017-10-31 Apple iPhone X Unboxing · 2017-12-20 Smartphone Awards 2017 ·
+2018-01-11 Dope Tech of CES 2018 (Part 1) · 2018-01-14 Dope Tech of CES 2018 (Part 2).
+
+**Attribution (solo channel).** All eight are single-presenter @mkbhd videos: Marques
+narrates throughout, so every page is `attribution: solo` and the full transcript is
+Marques voice/persona data — no per-line quarantine. The two CES show-floor episodes were
+checked specifically for booth reps / demoers speaking on-mic (the usual quarantine risk
+at a trade show): **none** — Marques narrates the whole floor walk solo. Collaborators
+merely credited but never heard on-mic (e.g. "Dom" for drone shots) were correctly left
+un-quarantined. No interview/collab episodes in this batch.
+
+Ledger: 8 rows @mkbhd L0→L2. Open after: **P1 89** (@mkbhd 87 + @WaveformClips 2),
+P2 2667 long-form (@mkbhd 1551 · @WaveformClips 623 · @Waveform 275 · @AutoFocus 120 ·
+@TheStudio 98), shorts 363. @WaveformClips still holds its 2 fresh-upload P1 clips —
+intentionally left open (clips dedupe against parent @Waveform episodes, not yet ingested).
+Ingest batches since last synthesis: **4** (checkpoint at 10 — no synthesis due).
+
+Synthesis notes: 7 of 8 pages carry ★ L3-candidate material (only the iPhone X *unboxing*
+is un-flagged — first impressions, verdicts deferred to the full review). Two durable
+threads strengthen this batch: (1) the annual **Smartphone Awards** franchise and its
+per-category rubric (MVP = most-used phone, near-stock-Android optimization as recurring
+tiebreaker, "best design" reframed as "best build") — two consecutive years now on record
+(2016 Pixel XL MVP; 2017 Note 8 MVP / Pixel 2 best camera), a strong scorecard series to
+distill; (2) a third + fourth **CES "glimpse of the future, not a shopping list"** data
+point (2018 Parts 1-2) corroborating the 2016 CES framing — concept-vs-buyable filter,
+"can't judge audio on a noisy floor" honesty, "~75% won't ship" test. Plus his subtractive
+design-taste heuristic (Wallpaper TV: "remove everything until it stops looking like a TV")
+and smartphone-camera philosophy ("Shot on X" ads are technically true but rig-heavy; a
+phone never beats a DSLR on quality but always wins on being with you — enough to just
+start). All attribution-clean (solo), ready for the next synthesis pass (debt now 4/10).

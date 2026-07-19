@@ -30,6 +30,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2016-10-11 — [[2016-10-11-yt-J8esUVOF-G4|Dope Tech: 8K RED Epic-W Unboxing!]] ★ · production-filmmaking, tech-reviews, creator-business
 - 2016-12-01 — [[2016-12-01-yt-C9Plog9I1JY|Dope Tech: Self Lacing Nike HyperAdapt 1.0!]] ★ · tech-reviews, consumer-tech-culture
 - 2016-12-17 — [[2016-12-17-yt-H3ZDtArXS6I|Dope Tech: Custom LED Clock!]] ★ · tech-reviews, consumer-tech-culture, creator-business
+- 2016-12-23 — [[2016-12-23-yt-NKY93vCiPIo|Smartphone Awards 2016!]] ★ · smartphones, tech-reviews, consumer-tech-culture
+- 2017-01-18 — [[2017-01-18-yt-qtXZlpJP-Ik|Dope Tech: The Best Drones!]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking
+- 2017-05-01 — [[2017-05-01-yt-DFKFnkP_sLQ|Dope Tech: The 4K OLED Wallpaper TV!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary
+- 2017-06-28 — [[2017-06-28-yt-OkPter7MC1I|Dope Tech: 'Shot on Smartphones!']] ★ · production-filmmaking, smartphones, consumer-tech-culture, tech-reviews, creator-business
+- 2017-10-31 — [[2017-10-31-yt-l0DoQYGZt8M|Apple iPhone X Unboxing!]] · tech-reviews, smartphones, consumer-tech-culture
+- 2017-12-20 — [[2017-12-20-yt-aMQbRpxgFvs|Smartphone Awards 2017!]] ★ · smartphones, tech-reviews, consumer-tech-culture
+- 2018-01-11 — [[2018-01-11-yt--IqpbDJFbZA|Dope Tech of CES 2018! (Part 1)]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews, smartphones, production-filmmaking
+- 2018-01-14 — [[2018-01-14-yt-9GqohosViw4|Dope Tech of CES 2018! (Part 2)]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews, smartphones, ev-cars
 
 ## @Waveform
 
@@ -48,4 +56,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_24 videos ingested (L2) so far._
+_32 videos ingested (L2) so far._
