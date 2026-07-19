@@ -73,6 +73,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2020-08-17 — [[2020-08-17-yt-5NNO5Kb-PZo|Dope Tech: The iPad Pro Killer?!]] ★ · tech-reviews, consumer-tech-culture, smartphones
 - 2020-09-16 — [[2020-09-16-yt-eAagtcAup0o|Talking Tech and The Metaverse with Mark Zuckerberg!]] ★ · tech-industry-commentary, consumer-tech-culture, creator-business _(interview; Mark Zuckerberg guest — quarantined)_
 - 2020-09-23 — [[2020-09-23-yt-kFz9afj8lu0|Can You Actually Game in 8K? (RTX 3090 Gameplay!)]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking
+- 2020-09-25 — [[2020-09-25-yt-cH66LWWluVE|The Ultimate iOS 14 Homescreen Setup Guide!]] ★ · consumer-tech-culture, smartphones
+- 2020-10-20 — [[2020-10-20-yt-Sx6dAx7dnXg|iPhone 12 Unboxing Experience + MagSafe Demo!]] ★ · smartphones, tech-reviews, consumer-tech-culture
+- 2020-10-25 — [[2020-10-25-yt-X1b3C2081-Q|iPhone 12 Review: Just Got Real!]] ★ · smartphones, tech-reviews, consumer-tech-culture
+- 2020-10-27 — [[2020-10-27-yt-QtMzV73NAgk|PlayStation 5 Unboxing & Accessories!]] · consumer-tech-culture, tech-reviews
+- 2020-12-10 — [[2020-12-10-yt-UdfSrJvqY_E|AirPods Max Unboxing & Impressions: $550?!]] · tech-reviews, consumer-tech-culture, production-filmmaking
+- 2020-12-16 — [[2020-12-16-yt-I49VNQ6lmKk|Some Quick Advice from Barack Obama!]] ★ · tech-industry-commentary, creator-business, consumer-tech-culture _(interview; Obama quarantined)_
+- 2020-12-16 — [[2020-12-16-yt-Gvvo6vUpJRc|AirPods Max Review: Luxury Listening!]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking
 
 ## @Waveform
 
@@ -91,4 +98,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_67 videos ingested (L2) so far._
+_74 videos ingested (L2) so far._

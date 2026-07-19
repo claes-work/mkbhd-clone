@@ -392,3 +392,53 @@ resolution buys immersion"** + **"the tech works, the ecosystem isn't ready"** (
 a **disclosed** paid placement, stated up-front — a data point for the sponsorship-ethics
 thread in SUBJECT.md. Most Zuckerberg interview substance is guest-sourced and NOT
 persona-bound.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 7) — P1 solo late-2020: iPhone 12 / AirPods Max / PS5 + Obama interview
+
+Stage B (P1-first) on **@mkbhd**, oldest-first, batch size 8. One row rate-limited on the
+first fetch — **iPhone SE 2020 (yt-aXfiyuUziY0)** returned HTTP 429 and was **left open**
+for a later retry (not a hard failure; the other 7 fetched clean, so no 3-in-a-row stop).
+The other 7 went to **L2**.
+
+Videos (→ 7 L2): 2020-09-25 The Ultimate iOS 14 Homescreen Setup Guide! · 2020-10-20 iPhone
+12 Unboxing + MagSafe Demo! · 2020-10-25 iPhone 12 Review: Just Got Real! · 2020-10-27
+PlayStation 5 Unboxing & Accessories! (embargo: hardware-only) · 2020-12-10 AirPods Max
+Unboxing & Impressions ($550) · 2020-12-16 Some Quick Advice from Barack Obama! (interview) ·
+2020-12-16 AirPods Max Review: Luxury Listening!.
+
+**Attribution.** Six solo Marques videos (all persona/voice data). One **interview** — the
+Barack Obama BookTube exchange — handled like the Elon/Gates/Zuckerberg pages: Obama is a
+guest (context entity), his answers quarantined in a "Quarantined — guest" section and
+excluded from persona training; only Marques's interviewer framing + self-description train
+the persona. That Obama page is a **high-value biography source** (self-reported: age 26 in
+2020, channel started 2009, 10+ years, pro ultimate frisbee / NY Empire undefeated 2019,
+avid golfer, NBA fan, attended the 2009 inauguration) and carries a dated diversity belief
+(golf/ultimate/tech "not very diverse at a high level" → "the spotlight just a little bit
+hotter as a Black man"). Obama = context entity, flagged for a later `wiki/entities/` pass
+(not created here).
+
+Pipeline after: **@mkbhd P1 43** (was 50: −7 L2; iPhone SE 429 still counted open). Open P1
+total **45** (@mkbhd 43 + @WaveformClips 2 held for dedup). P2 1551, P3 38 (@mkbhd). Other
+channels unchanged (@Waveform 292, @AutoFocus 120, @TheStudio 104). Ingested **L2=74**, L3=0.
+Shorts open 363. Rate limits: **1×429** this batch (iPhone SE). Synthesis debt **10/10 — a
+synthesis CHECKPOINT is now due**: this batch crosses the ~10-batch threshold, so the next
+iteration should run **Stage S** (the first synthesis pass — fold the accumulated @Waveform +
+@mkbhd 2013–2020 P1 debt into `wiki/topics/` hubs + build `persona/` beliefs/voice/biography
+for the first time + compile `persona/system-prompt.md` v1) BEFORE resuming ingest. Retry the
+iPhone SE 429 on the next Stage B.
+
+Synthesis notes: strong ★ L3 material this batch. New/reinforced durable threads: (1)
+**"the best technologies are invisible"** — an explicit, dated core Marques design principle
+(iPhone 12 5G Smart Data Mode; ProMotion analogy) → promote to `persona/beliefs.md`. (2)
+**scratch-vs-shatter inverse tradeoff** — a reusable durability-analysis framework (iPhone 12
+Ceramic Shield), with his standing "I'll live my life / defer scratch truth to JerryRig­
+Everything's Zack" posture. (3) **portless-iPhone prediction (2020)** — dated forecast off
+MagSafe, worth logging for later "was he right?" tracking. (4) **no-charger-in-box critique**
+with the USB-A/USB-C mismatch counter-argument — a citable position on Apple's environmental
+framing. (5) **"two types of high-end headphones: reference/production vs luxury listening"**
+— a reusable audio-review taxonomy (AirPods Max), plus the recurring **electric-car-cornering
+weight analogy** and his **"I'm not an audiophile but I know what I like"** self-positioning.
+(6) **Apple-review verdict shape**: premium execution + a few glaring quirks + "if you're in
+Apple's ecosystem" = recommendation. (7) **iOS 14 "welcome to the party" stance** — even-
+handed Apple-catches-up-to-Android framing. (8) Biography/voice from the Obama page (see
+Attribution). Obama's own answers are guest-sourced and NOT persona-bound.
