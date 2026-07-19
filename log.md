@@ -504,3 +504,45 @@ doesn't move L2→L3 rows; it promotes content). No rate limits, no errors, no f
 Synthesis notes: none — synthesis debt fully drained (10/10 → 0). Next ingest batch starts a
 fresh counter toward the next checkpoint (~10 batches or next channel/era completion). Resume
 Stage B on @mkbhd P1 oldest-first next iteration (retry the iPhone SE 2020 yt-aXfiyuUziY0 429).
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 7) — P1 solo Smartphone Awards 2020 / iPhone-REALLY + Retro Tech S2 docs
+
+Stage B (P1-first) on @mkbhd, oldest-first, batch size 8. The oldest P1, **iPhone SE
+(2020) Review (yt-aXfiyuUziY0, 2020-04-22)**, hit HTTP 429 again on caption fetch — a
+repeat offender across prior batches — so per instructions it was tried once, left open,
+and NOT allowed to block the batch. Recorded a `429 rate-limited (repeated)` marker on
+its ledger notes so the oldest-first selector stops re-drawing (and re-429-ing) it every
+batch; it remains open (L0-discovered, P1) for a later retry. The other 7 rows all had
+English captions → 7 L2 pages written. 0 no-captions, 0 duplicates, 0 skipped. **1× 429
+(the one known-bad row); not a rate-limiting cascade** (safety rail not tripped).
+
+Videos (→ `wiki/sources/`): 2020-12-23 **Smartphone Awards 2020!** (yt-e6_t26Q9aVM) ·
+2021-03-05 **What I REALLY Think of the iPhone!** (yt-V7J9aMy_CFk) · 2021-03-17 **Dope
+Tech: The Fastest Drone AND Car Yet!** (yt-syiQmaGZFXM) · 2021-04-13 **Retro Tech: Flying
+Cars** (yt-ifI_fwg55k8) · 2021-04-14 **Retro Tech: Teleportation** (yt-tEmLMCPK8OE) ·
+2021-04-15 **Retro Tech: Robots** (yt-nLeScEdf550) · 2021-04-16 **Retro Tech:
+Hyperconnectivity** (yt-MhKiMPiZOdE).
+
+**Attribution (mixed batch).** 3 solo Marques videos (Smartphone Awards, iPhone-REALLY,
+Dope Tech) → fully persona/voice data. The 4 Retro Tech Season 2 episodes are produced
+**documentaries** with heavy guest content, but — like the S1 Retro Tech docs — the
+transcripts carry **reliable speaker labels**, so attribution is clean: each page's
+Marques voice-bank is limited to labeled-Marques narration/hosting, and guest experts
+(Gali Russell/Michael Ian Black/Omni Hoverboards; Vsauce2/Game Ranks/**Neil deGrasse
+Tyson**; UrAvgConsumer/Mark Parsons; Chuck Nice/Sara Dietschy/NextMind) are paraphrased
+as clearly-attributed key claims only — NOT persona data. Unlabeled "Dope or Nope" banter
+lines were quarantined `attribution: uncertain`.
+
+Synthesis notes: Genuinely-new, high-value persona material this batch (7 ★ L3-candidates
+flagged for the next synthesis pass, NOT inline-promoted): (1) **"What I REALLY Think of
+the iPhone"** is a landmark review-methodology source — the "review as a balancing act /
+art of compression," "nine jobs in one," point-and-shoot-vs-manual camera framework,
+app-support as his reason for carrying an iPhone, and the "glass is glass" anti-hype
+stance (fits tech-reviews + creator-business + voice/beliefs). (2) The **Smartphone
+Awards** annual-format + the **"premium mid-range ~$700 tier" 2020 thesis** (S20 FE MVP).
+(3) The **Dope Tech Top Gear / Auto Focus partnership announcement** (2021-03-17) — a
+datable biography node predating the Aug-2022 Auto Focus channel launch; plus his
+first-person-POV production rationale. (4) Recurring **tech-optimist framing** across the
+Retro Tech docs ("bring B to A instead of A to B"; "we already have our robot future — as
+the Roomba"; "communication is the one sci-fi category that came true"; recreational
+individual flight) — reusable beliefs/voice material.

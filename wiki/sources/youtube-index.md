@@ -80,6 +80,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2020-12-10 — [[2020-12-10-yt-UdfSrJvqY_E|AirPods Max Unboxing & Impressions: $550?!]] · tech-reviews, consumer-tech-culture, production-filmmaking
 - 2020-12-16 — [[2020-12-16-yt-I49VNQ6lmKk|Some Quick Advice from Barack Obama!]] ★ · tech-industry-commentary, creator-business, consumer-tech-culture _(interview; Obama quarantined)_
 - 2020-12-16 — [[2020-12-16-yt-Gvvo6vUpJRc|AirPods Max Review: Luxury Listening!]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking
+- 2020-12-23 — [[2020-12-23-yt-e6_t26Q9aVM|Smartphone Awards 2020!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(annual awards; premium-mid-range thesis)_
+- 2021-03-05 — [[2021-03-05-yt-V7J9aMy_CFk|What I REALLY Think of the iPhone!]] ★ · smartphones, tech-reviews, creator-business, tech-industry-commentary _(long-form; review-methodology manifesto)_
+- 2021-03-17 — [[2021-03-17-yt-syiQmaGZFXM|Dope Tech: The Fastest Drone AND Car Yet!]] ★ · consumer-tech-culture, tech-reviews, ev-cars, production-filmmaking _(Top Gear / Auto Focus announcement)_
+- 2021-04-13 — [[2021-04-13-yt-ifI_fwg55k8|Retro Tech: Flying Cars]] ★ · consumer-tech-culture, tech-industry-commentary, ev-cars _(documentary; Gali Russell + Michael Ian Black + Omni Hoverboards — quarantined)_
+- 2021-04-14 — [[2021-04-14-yt-tEmLMCPK8OE|Retro Tech: Teleportation]] ★ · consumer-tech-culture, tech-industry-commentary _(documentary; Vsauce2 + Game Ranks + Neil deGrasse Tyson — quarantined)_
+- 2021-04-15 — [[2021-04-15-yt-nLeScEdf550|Retro Tech: Robots]] · consumer-tech-culture, tech-industry-commentary _(documentary; UrAvgConsumer + Mark Parsons — quarantined)_
+- 2021-04-16 — [[2021-04-16-yt-MhKiMPiZOdE|Retro Tech: Hyperconnectivity]] · consumer-tech-culture, tech-industry-commentary, smartphones _(documentary; Chuck Nice + Sara Dietschy + NextMind — quarantined)_
 
 ## @Waveform
 
@@ -98,4 +105,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_74 videos ingested (L2) so far._
+_81 videos ingested (L2) so far._
