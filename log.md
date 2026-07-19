@@ -809,3 +809,43 @@ synthesis (biography/voice). Also flagged above: the Humane AI Pin P1 is stuck b
 positive and should be ingested once unstuck. Debt now 7 batches since synthesis pass 1 (checkpoint
 at 10). Next iteration: continue @mkbhd P2 oldest-first (or @AutoFocus/@Waveform P2); unstick + ingest
 the Humane AI Pin P1; Stage S when the 10-batch checkpoint or a channel/era boundary hits.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 8) — Humane AI Pin P1 (unstuck) + Galaxy Fold + 2009 origin tutorials
+
+Stage B (P1-first) on @mkbhd, batch size 8 — the first batch after **fixing the `FLAG_RE` driver bug**
+flagged in the previous entry (view-count digits like `views=9429879` falsely matched the bare "429"
+token). With the pattern word-boundaried (`(?<!\d)429(?!\d)`, commit `accc8f4`), the previously-hidden
+landmark P1 became selectable. Driver selection (priority asc, oldest-first) pulled the **2 open P1 +
+the oldest 6 P2**. Outcome: **8 ingested L2, 0 no-captions, 0 rate-limits, 0 errors** (all 8 captions
+fetched cleanly — no yt-dlp failures, 0 HTTP 429s).
+
+Ingested (→ `wiki/sources/`):
+- **P1** 2024-04-14 **The Worst Product I've Ever Reviewed… For Now** (`yt-TitZV6k8zfA`, Humane AI Pin —
+  the row that was stuck behind the FLAG_RE bug) ★
+- **P1** 2019-04-16 **Samsung Galaxy Fold Unboxing: Magnets!** (`yt-x4yF3a3Zn4Y`) — retail unboxing,
+  companion to the already-ingested 2019-04-18 "Broken Galaxy Folds: Explained!"
+- **P2 origin cluster (2009-01-30, age 15):** HQ Tutorial: Windows 7 Calculator · HQ Tutorial: Safari
+  for Windows · Quick Note on Speedfan · HQ Tutorial: Rocket Dock Application · Camstudio Clarity ·
+  Tutorial: Camstudio HQ.
+
+**Attribution:** all 8 pages are solo MKBHD-fronted — no guests, no interview/collab episodes in this
+batch → clean persona/voice data, no per-line quarantine needed.
+
+Synthesis notes: **Genuinely new.** (1) **Landmark review doctrine (Humane AI Pin, 2024-04-14)** — a
+canonical statement of several recurring MKBHD frameworks worth promoting at the next synthesis:
+**"smartphones are OP"** (any new personal-computing form factor is judged against what a phone already
+does better/faster/easier); **"never buy a product based on the future promise of updates"**;
+**"victim of its future ambition"** (deliberately refusing phone-pairing hamstrings the present
+product — same critique he applies to Vision Pro); and his **respect-the-attempt** stance toward
+first-gen hardware even when panning it. Note the exact, frequently-misquoted verdict: "the new worst
+product I think I've ever reviewed, **in its current state**" (qualified, not absolute). → tech-reviews
++ tech-industry-commentary topics, persona/beliefs.md. (2) **Foldables first-gen risk** — the Galaxy
+Fold unboxing ($1,980 "luxury device," Galaxy Buds bundled to commit to wireless, the magnet demo)
+pairs with the existing Broken-Folds page to document the 2019 first-gen foldable launch. (3) **More
+production-origin breadcrumbs (2009-01-30)** — the CamStudio pages document Marques's earliest
+video-production toolchain (CamStudio + DivX 6.8.7, 30 fps, 720 HD @ 3,000 kbps, 640×360; "Windows
+Movie Maker is not good") and an early quality-obsession; the Win7-calc page adds a dated biography
+breadcrumb ("I use trigonometry, I'm in school right now"). Flag `yt-TitZV6k8zfA` as ★ L3-candidate.
+Debt now **8 batches** since synthesis pass 1 (checkpoint at 10). Next iteration: continue @mkbhd P2
+oldest-first (or @AutoFocus/@Waveform P2); **Stage S synthesis due after ~2 more batches** or at the
+next channel/era boundary.

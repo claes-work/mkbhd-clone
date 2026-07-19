@@ -18,6 +18,12 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-01-30 — [[2009-01-30-yt-Wi_RIX7r0mg|HQ Tutorial: Firefox Preloader]] · consumer-tech-culture
 - 2009-01-30 — [[2009-01-30-yt-8iIOsv_RJBA|HQ Tutorial: Download Skype]] · consumer-tech-culture
 - 2009-01-30 — [[2009-01-30-yt-xsdcq4z10pc|MY Internet Speed!]] · consumer-tech-culture
+- 2009-01-30 — [[2009-01-30-yt-b491eWiGw0k|HQ Tutorial: Windows 7 Calculator]] · consumer-tech-culture
+- 2009-01-30 — [[2009-01-30-yt-29jHsM35yA8|HQ Tutorial: Safari for Windows]] · consumer-tech-culture
+- 2009-01-30 — [[2009-01-30-yt-bDYTAydFNXo|Quick Note on Speedfan]] · consumer-tech-culture
+- 2009-01-30 — [[2009-01-30-yt-h84bR62zg3E|HQ Tutorial: Rocket Dock Application]] · consumer-tech-culture
+- 2009-01-30 — [[2009-01-30-yt-hntI5lbDv9E|Camstudio Clarity]] · consumer-tech-culture, creator-business, production-filmmaking
+- 2009-01-30 — [[2009-01-30-yt-0hNd56lIAxY|Tutorial: Camstudio HQ]] · consumer-tech-culture, creator-business, production-filmmaking
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -49,6 +55,7 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2018-12-19 — [[2018-12-19-yt-cpIEWsQpRMk|Smartphone Awards 2018!]] ★ · tech-reviews, smartphones, consumer-tech-culture
 - 2019-02-12 — [[2019-02-12-yt-4mxXdCUXSSs|Talking Tech & Saving the World with Bill Gates!]] ★ · ev-cars, tech-industry-commentary, creator-business _(interview; Bill Gates guest — quarantined)_
 - 2019-02-20 — [[2019-02-20-yt-t9R7xx0joOU|Samsung Galaxy S10 Impressions!]] ★ · tech-reviews, smartphones
+- 2019-04-16 — [[2019-04-16-yt-x4yF3a3Zn4Y|Samsung Galaxy Fold Unboxing: Magnets!]] · tech-reviews, smartphones, consumer-tech-culture
 - 2019-04-18 — [[2019-04-18-yt-vtqtyyGZvXM|The Broken Galaxy Folds: Explained!]] ★ · tech-reviews, smartphones, tech-industry-commentary
 - 2019-04-19 — [[2019-04-19-yt-Oy8zSYKkczI|Retro Tech: Game Boy]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(documentary; Casey Neistat + historians guests — quarantined)_
 - 2019-05-17 — [[2019-05-17-yt-jFZ0MFYup-o|Dope Tech: The Probe Lens!]] · production-filmmaking, consumer-tech-culture
@@ -115,6 +122,7 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2023-12-19 — [[2023-12-19-yt-JkRXhe3KaPE|Smartphone Awards 2023!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(annual awards format)_
 - 2024-01-26 — [[2024-01-26-yt-XaqOejIaFgM|Samsung Galaxy S24 Ultra Review: Why Buy Anything Else?]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary _(Galaxy AI; Ridge sponsored)_
 - 2024-01-31 — [[2024-01-31-yt-dtp6b76pMak|Using Apple Vision Pro: What It's Actually Like!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary, production-filmmaking _(hands-on; part 1 of 2)_
+- 2024-04-14 — [[2024-04-14-yt-TitZV6k8zfA|The Worst Product I've Ever Reviewed... For Now]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Humane AI Pin; "smartphones are OP")_
 - 2024-04-26 — [[2024-04-26-yt-1KEtxTQUzxY|I Tried a Disney Secret Project!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(Dope Tech; Disney HoloTile exclusive; Lanny Smoot context)_
 - 2024-06-12 — [[2024-06-12-yt-pMX2cQdPubk|Talking Tech and AI with Tim Cook!]] ★ · tech-industry-commentary, consumer-tech-culture, creator-business _(interview; Tim Cook guest — quarantined)_
 - 2024-09-10 — [[2024-09-10-yt-9lx11dy9J30|iPhone 16/Pro Impressions: The Great Separation!]] ★ · smartphones, tech-reviews, tech-industry-commentary, consumer-tech-culture _(Anker sponsored)_
@@ -141,4 +149,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_117 videos ingested (L2) so far._
+_125 videos ingested (L2) so far._
