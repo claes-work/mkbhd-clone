@@ -175,3 +175,48 @@ design-taste heuristic (Wallpaper TV: "remove everything until it stops looking 
 and smartphone-camera philosophy ("Shot on X" ads are technically true but rig-heavy; a
 phone never beats a DSLR on quality but always wins on being with you — enough to just
 start). All attribution-clean (solo), ready for the next synthesis pass (debt now 4/10).
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 8) — P1 solo reviews + Elon Musk / Bill Gates interviews
+
+Fifth ingest batch. Drained 8 open P1 long-form rows from **@mkbhd**, oldest-first
+(2018-04-03 → 2019-04-18), all to L2. One subagent per video wrote its own
+`wiki/sources/` page; coordinator did ledger/index/log. **8 ingested, 0 skipped,
+0 no-captions, 0 dup.** Captions fetched clean (no yt-dlp failures / rate limits).
+
+Batch: Dope Tech: Camera Robots! (yt-UIwdCN4dV6w) · OnePlus 6 Review (yt-0PrUr3bQdwM) ·
+Talking Tech with Elon Musk! (yt-MevKTPN4ozw) · Tesla Factory Tour with Elon Musk!
+(yt-mr9kK0_7x08) · Smartphone Awards 2018! (yt-cpIEWsQpRMk) · Talking Tech & Saving the
+World with Bill Gates! (yt-4mxXdCUXSSs) · Samsung Galaxy S10 Impressions! (yt-t9R7xx0joOU) ·
+The Broken Galaxy Folds: Explained! (yt-vtqtyyGZvXM).
+
+**Attribution — three interview/collab episodes handled per SUBJECT.md rules:** the two
+Elon Musk videos (Talking Tech + Tesla Factory Tour) and the Bill Gates interview are
+`attribution: interview`. Guests are context entities, NOT the subject — every substantive
+Musk/Gates statement (Tesla/SpaceX engineering, "best part is no part," EV economics,
+philanthropy/disease/AI-in-medicine) is quarantined to a non-persona "Unattributed /
+other-speaker material" section and excluded from voice/beliefs training; only Marques's
+own questions, framing, and self-description entered the voice bank. Recommended (not
+created) `wiki/entities/` context pages for Elon Musk, Tesla, SpaceX, and Bill Gates —
+recurring high-value context figures. The five remaining videos are solo, fully
+Marques-attributed. Notable garble catch: Gates's "being able to jump over a garbage can"
+was auto-captioned "believing Trump over a garbage can" — corrected, no political
+reference. Other fixes logged per page (MKBHD misrenders, phone-model decimals, FANUC,
+Roadster, Snapdragon 855, ultrasonic-fingerprint specs).
+
+Pipeline after: **@mkbhd P1 79** (was 87), P2 1551, P3 38. Other channels unchanged
+(@WaveformClips P1:2 held for dedup, @Waveform 292, @AutoFocus 120, @TheStudio 104).
+Ingested L2=40, L3=0. Shorts open 363. Synthesis debt **5/10** (no checkpoint due).
+Next iteration: continue Stage B on @mkbhd P1, oldest-first.
+
+Synthesis notes: 7 of 8 pages carry ★ L3-candidate material. Durable threads sharpened:
+(1) the annual **Smartphone Awards** franchise gains a third consecutive year (2018:
+OnePlus 6T MVP, Note 9 best big, iPhone XS best small, Pixel 3 best camera, Mate 20 Pro
+best-ever battery, Oppo Find X best design, Pocophone F1 best budget, Red Hydrogen One
+biggest bust) — a strong multi-year scorecard series to distill; (2) an explicit
+**price-to-value review lens** (OnePlus 6: "B+ camera, A+ for the price" — refusing to
+grade a $529 phone on a flagship curve); (3) a **first-gen durability doctrine** (original
+Galaxy Fold: "first-gen = public beta," robot fold-counts ≠ human longevity, soft-plastic
+culprit); (4) **production-craft-as-core-value** (cinema camera robots, wants motion-control
+in his own studio); (5) an **interview posture** (enthusiast-owner who does the research;
+access-first, defer to the expert) visible across the Musk/Gates sit-downs. All persona-bound
+material is Marques-attributed and attribution-clean; ready for the next synthesis pass.

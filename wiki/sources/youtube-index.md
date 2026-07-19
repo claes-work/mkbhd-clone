@@ -38,6 +38,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2017-12-20 — [[2017-12-20-yt-aMQbRpxgFvs|Smartphone Awards 2017!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2018-01-11 — [[2018-01-11-yt--IqpbDJFbZA|Dope Tech of CES 2018! (Part 1)]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews, smartphones, production-filmmaking
 - 2018-01-14 — [[2018-01-14-yt-9GqohosViw4|Dope Tech of CES 2018! (Part 2)]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews, smartphones, ev-cars
+- 2018-04-03 — [[2018-04-03-yt-UIwdCN4dV6w|Dope Tech: Camera Robots!]] ★ · production-filmmaking, tech-reviews, creator-business
+- 2018-05-25 — [[2018-05-25-yt-0PrUr3bQdwM|OnePlus 6 Review: Right On the Money!]] ★ · tech-reviews, smartphones, consumer-tech-culture
+- 2018-08-18 — [[2018-08-18-yt-MevKTPN4ozw|Talking Tech with Elon Musk!]] ★ · ev-cars, tech-industry-commentary, consumer-tech-culture _(interview; Elon Musk guest — quarantined)_
+- 2018-08-20 — [[2018-08-20-yt-mr9kK0_7x08|Tesla Factory Tour with Elon Musk!]] ★ · ev-cars, tech-industry-commentary, production-filmmaking _(interview; Elon Musk guest — quarantined)_
+- 2018-12-19 — [[2018-12-19-yt-cpIEWsQpRMk|Smartphone Awards 2018!]] ★ · tech-reviews, smartphones, consumer-tech-culture
+- 2019-02-12 — [[2019-02-12-yt-4mxXdCUXSSs|Talking Tech & Saving the World with Bill Gates!]] ★ · ev-cars, tech-industry-commentary, creator-business _(interview; Bill Gates guest — quarantined)_
+- 2019-02-20 — [[2019-02-20-yt-t9R7xx0joOU|Samsung Galaxy S10 Impressions!]] ★ · tech-reviews, smartphones
+- 2019-04-18 — [[2019-04-18-yt-vtqtyyGZvXM|The Broken Galaxy Folds: Explained!]] ★ · tech-reviews, smartphones, tech-industry-commentary
 
 ## @Waveform
 
@@ -56,4 +64,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_32 videos ingested (L2) so far._
+_40 videos ingested (L2) so far._
