@@ -1015,3 +1015,39 @@ breadcrumbs**: the **"MKB" initials** (Marques Keith Brownlee) placed on his fir
 the self-reported detail that his prior avatar was "a picture of me playing golf"; (4) recurring early
 tells already present at age 15 — side-by-side comparison instinct, lived-with testing, and "download
 drivers from the manufacturer's website" practical-tip habit. All L2-only here; not inlined.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: CPU-Intensive demo / Opera 10 Alpha first-look / Extended Task Manager / Firefox add-ons (redo) / Fraps / Firefox theme / Thunderbird add-ons / Justhearit
+
+Stage B (P2) on @mkbhd — @mkbhd P1 fully drained, so the driver selected the oldest open
+P2 rows: the next block of **2009-02-01/02 origin-era freeware/how-to screencasts** (age-15
+Marques, all **solo**). Batch size 8. All 8 had English captions; 0 no-captions, 0 skipped,
+0 duplicates. **Rate limits: 0 (8 ok, 0 retry/error — no 429s).**
+
+Videos (→ `wiki/sources/`): 2009-02-01 HD Example: CPU Intensive (yt-ZZnVdFjig88) ·
+HD first look: Opera 10 Alpha (yt-r8b7qMeUHsg) · HD Tutorial: Extended Task Manager
+(yt-s9lU1eAXVn4) · HD Tutorial: Firefox Addons / redo (yt-NuxUMQ5CrX0) · HD Tutorial: Fraps
+(yt-XCuIjLI2VMg) · Tutorial: Firefox Addons / theme (yt-TVMu1S8jY2A) · HD Tutorial:
+Thunderbird Addons (yt-QYRvQh043GQ) · 2009-02-02 HD Tutorial: Justhearit! (yt-Ec7_yCwXmWY).
+
+**Attribution:** all 8 are solo MKBHD-fronted screencasts — no co-hosts/guests, no
+quarantine needed (this is the cleanest-attribution corpus, hence preferred over the
+co-hosted side channels @Waveform/@TheStudio and the dedup-tier @WaveformClips this round).
+
+**Bookkeeping:** 8 ledger rows → L2; 8 rows inserted into `wiki/sources/youtube-index.md`
+@mkbhd section (date order, after the 2009-02-01 Mouse-6000 row, ahead of 2013-10-12);
+footer 148 → 156; `index.md` count 148 → 156. No staging to delete. No fabrication, all English.
+
+Synthesis notes: debt counter now 3 batches (checkpoint at 10). Genuinely-new, all L2-only
+(not inlined): (1) **early explicit review intent** — in the Extended Task Manager video he
+says "I'll start reviewing freeware," one of the earliest on-record statements of the
+reviewing instinct (`tech-reviews`/`creator-business` origin marker); (2) **reshoot /
+do-it-until-it's-right perfectionism** on record — the Firefox add-ons "redo" opens by
+scrapping a bad take; (3) **audience-request content loop** at age 15 — invites email/PM
+tutorial requests and promises HD tutorials back; (4) **early 1080p experimentation** (Fraps
+video references a prior "1080p test" upload — extends the HD-obsession thread from the
+"How to Upload HD Youtube Videos" origin video); (5) ⚠️ **candid software-piracy admission**
+(torrenting the full Fraps) — historical/context only, note verbatim, do not over-weight;
+(6) **hardware/gaming background** breadcrumbs — Nvidia GeForce 9200M (512 MB) laptop GPU,
+Fraps game-capture use; (7) confirms the "Marques" Windows user account ("Marcus downloads")
+seen in the Thunderbird video. Marginal-value tutorials (Firefox theme, Thunderbird add-ons)
+carry little persona signal.
