@@ -946,3 +946,47 @@ limits, no yt-dlp calls, no fabrication.
 
 Synthesis notes: none — debt fully drained (9/9 → 0). Next ingest batch starts a fresh counter; resume
 Stage B next iteration (@AutoFocus P2 remainder, or @mkbhd P2 long tail / @Waveform).
+
+## [2026-07-20] ingest | yt batch (@AutoFocus, 7) — 2026 Q1 P2 EV/performance reviews: Ioniq 5 XRT / Rivian R2 / EV-in-winter / Corvette ZR1 / Lamborghini Temerario / Polestar 4 / Audi RS e-tron GT
+Stage B, P2, @AutoFocus (cleanest-attribution Marques-fronted channel; continued the first @AutoFocus
+batch backward into 2026 Q1). Prepared 8 oldest-first P2 rows; captions fetched cleanly for all 8 (0×429,
+0 no-captions). Ingested **7 to L2**, **skipped 1**.
+
+**Ingested (L2):**
+- 2026-01-29 Hyundai Ioniq 5 XRT — solo Marques. "Specialty EVs" framing; NACS-at-Supercharger slower than
+  expected (~50–60 kW).
+- 2026-02-10 Rivian R2 first drive — solo Marques. Half-price R1S via "simplify by fewer parts"; ~5 mi/kWh;
+  haptic dials; "their Model Y."
+- 2026-02-13 "Electric Cars Suck in the Winter" explainer — solo Marques. Prefers EV in winter; one downside
+  (road trips), several upsides; home charging neutralizes daily range hit.
+- 2026-02-19 Corvette C8 ZR1 ("Model S Plaid Walked…") — **co-host**: Marques intro/interior/Plaid tech-angle
+  comparison; **Miles driving segment quarantined**.
+- 2026-02-24 Lamborghini Temerario — **co-host**: Marques aesthetics/interior/hybrid-tech + close;
+  **Miles dynamics segment quarantined**.
+- 2026-03-03 Polestar 4 — solo Marques. "What's stopping me from recommending it?" → no rear window +
+  sub-200mi winter range; "best software that's not CarPlay."
+- 2026-03-09 Audi RS e-tron GT — **co-host**: Marques intro/tech/interior + depreciation logic;
+  **Miles early interjection + driving segment quarantined**.
+
+**Skipped:**
+- 2026-03-27 Porsche Cayenne Electric Turbo (yt-We-lvUeRGb0) — **co-host-only: Miles solo hosts, Marques
+  absent** ("while he's doing that, I thought it'd be good to take another look…"). No subject-attributable
+  content → marked `skipped` per SUBJECT.md ensemble rules; no source page.
+
+**Attribution discipline:** only Marques-attributed lines fed the pages; all co-host "Miles" driving
+segments quarantined in a dedicated section on each co-host page (`attribution: co-host`), following the
+Porsche Macan precedent. Miles now solo-hosts at least one full @AutoFocus upload (Cayenne) — reinforces the
+open candidate for a `wiki/entities/miles` context page (name/spelling still unconfirmed).
+
+**Bookkeeping:** 7 ledger rows → L2, 1 → skipped; 7 rows inserted into `wiki/sources/youtube-index.md`
+@AutoFocus section (date order, ahead of 2026-04-01); footer 133 → 140; `index.md` count 133 → 140. Deleted
+staging none (driver-managed). No rate limits, no fabrication, all English.
+
+Synthesis notes: fresh debt counter starts (1 batch). Genuinely-new, worth promoting at next checkpoint —
+(1) the **"specialty EVs" market-maturation** observation (2026); (2) **NACS isn't always faster** real-world
+finding; (3) the **winter-EV ownership framework** (road-trip downside vs. preheat-anywhere / superior
+traction / no-warm-up upsides; home charging neutralizes daily loss) — strong `wiki/topics/ev-cars` +
+`persona/beliefs.md` candidate; (4) the **"performance bargain / democratized daily-usable 1,000-hp"** lens
+(Model S Plaid ↔ Corvette ZR1); (5) the signature **"what's stopping me from recommending it?"** review
+framework and the running **"best software that's not CarPlay"** ranking (Tesla/Rivian/Polestar);
+(6) **depreciation-aware buying logic** on expensive performance EVs (buy the better platform-twin / used).

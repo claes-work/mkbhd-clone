@@ -154,6 +154,13 @@ _Marques's dedicated car channel — Marques-fronted, so content is Marques-attr
 (persona/voice data) UNLESS a co-host takes a segment. The Porsche Macan page quarantines a
 driving section delivered by co-host "Miles" (`attribution: co-host`)._
 
+- 2026-01-29 — [[2026-01-29-yt-46tvrNZFxjQ|The Ioniq 5 XRT: My Favorite Electric Car Right Now]] ★ · ev-cars, tech-reviews, consumer-tech-culture
+- 2026-02-10 — [[2026-02-10-yt-EfReqcUJfBU|2026 Rivian R2 First Drive — Rivian's Model Y Fighter]] ★ · ev-cars, tech-reviews, tech-industry-commentary
+- 2026-02-13 — [[2026-02-13-yt-cAmEAgNc0eY|"Electric Cars Suck in the Winter" — Living With an EV in the Cold]] ★ · ev-cars, tech-reviews, consumer-tech-culture
+- 2026-02-19 — [[2026-02-19-yt-1q-hpaepgk0|The Model S Plaid Walked so This Car Could Run (Corvette ZR1)]] ★ · ev-cars, tech-reviews, consumer-tech-culture _(co-host Miles quarantined)_
+- 2026-02-24 — [[2026-02-24-yt-h_NEOIwrG-E|Lamborghini Temerario is Perfecting the Hybrid Formula]] · ev-cars, tech-reviews, consumer-tech-culture _(co-host Miles quarantined)_
+- 2026-03-03 — [[2026-03-03-yt-i4eCZ6dLVrg|There's Only 2 Problems with the Polestar 4]] ★ · ev-cars, tech-reviews, consumer-tech-culture
+- 2026-03-09 — [[2026-03-09-yt-fOwC95ZXh08|Audi RS E-Tron GT: Stuck Between a Rock and a Porsche Place]] · ev-cars, tech-reviews, tech-industry-commentary _(co-host Miles quarantined)_
 - 2026-04-01 — [[2026-04-01-yt-Gs5r8iGPjSg|Little Tikes Cozy Coupe Review]] · ev-cars, tech-reviews, consumer-tech-culture _(April Fools comedy)_
 - 2026-04-13 — [[2026-04-13-yt-9s69aThM7rA|Mercedes CLA EV is a Great Fighter in a Dying Sport]] ★ · ev-cars, tech-reviews, consumer-tech-culture
 - 2026-04-20 — [[2026-04-20-yt-4-eB-n5NYRs|Subaru Doesn't Want to Make EVs.]] ★ · ev-cars, tech-reviews, tech-industry-commentary
@@ -164,4 +171,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_133 videos ingested (L2) so far._
+_140 videos ingested (L2) so far._
