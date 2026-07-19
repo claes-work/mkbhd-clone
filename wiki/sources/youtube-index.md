@@ -54,6 +54,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2019-09-30 — [[2019-09-30-yt-OoY7zp8GkLI|iPhone 11 Review: Too Easy!]] · tech-reviews, smartphones
 - 2019-10-11 — [[2019-10-11-yt-JR4KHfqw-oE|This Is What Happens When You Re-Upload a YouTube Video 1000 Times!]] · production-filmmaking, consumer-tech-culture
 - 2019-10-29 — [[2019-10-29-yt-MrUhzYdcX6w|AirPods Pro Unboxing & Impressions!]] ★ · tech-reviews, consumer-tech-culture
+- 2019-11-22 — [[2019-11-22-yt-oTZ84U-K_5k|Tesla CyberTruck Impressions & First Drive!]] ★ · ev-cars, tech-industry-commentary
+- 2019-11-25 — [[2019-11-25-yt-mXgG8k5tTFM|RETRO TECH: OFFICIAL TRAILER]] · consumer-tech-culture, production-filmmaking _(mixed; guest cameos)_
+- 2019-12-02 — [[2019-12-02-yt-kOEXcMoh2II|RETRO TECH: DYNATAC]] ★ · consumer-tech-culture, smartphones, tech-industry-commentary _(mixed; guest-led — Martin Cooper)_
+- 2019-12-02 — [[2019-12-02-yt-6oHrNuXPVck|RETRO TECH: POLAROID]] ★ · consumer-tech-culture, production-filmmaking, tech-industry-commentary _(mixed; guest-led)_
+- 2019-12-02 — [[2019-12-02-yt-AjQ7CEeONb4|RETRO TECH: WALKMAN]] · consumer-tech-culture, tech-industry-commentary _(mixed; guest-led)_
+- 2019-12-02 — [[2019-12-02-yt-PRVr1heimY8|RETRO TECH: SEGA GENESIS]] · consumer-tech-culture, tech-industry-commentary _(mixed; guest-led)_
+- 2019-12-02 — [[2019-12-02-yt-VJI88QIW7H4|RETRO TECH: MACINTOSH]] · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(mixed; guest-led)_
+- 2019-12-02 — [[2019-12-02-yt-kMtN9KJHn5Y|RETRO TECH: CAMCORDER]] ★ · consumer-tech-culture, production-filmmaking, tech-industry-commentary _(mixed; guest-led)_
 
 ## @Waveform
 
@@ -72,4 +80,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_48 videos ingested (L2) so far._
+_56 videos ingested (L2) so far._

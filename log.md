@@ -263,3 +263,37 @@ Also a reusable **price-to-value review lens** (iPhone 11 "easy to recommend, mo
 the base iPhone"; standing low-res-LCD critique) and a **production-craft demonstration**
 (1000x re-upload experiment: generational YouTube re-encode loss — 720p lock-in, magenta drift,
 audio drift). All persona-bound material is Marques-attributed and attribution-clean.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 8) — P1 solo Cybertruck + Retro Tech S1 docs
+
+Stage B (P1, @mkbhd, oldest-first). Ingested 8 long-form to L2 — 1 solo Marques
+(Tesla Cybertruck first drive, 2019-11-22) + the 7-part **Retro Tech Season 1** launch
+(official trailer 2019-11-25; DynaTAC, Polaroid, Walkman, Sega Genesis, Macintosh,
+Camcorder, all 2019-12-02). All 8 fetched clean (no 429, no no-captions, no dups).
+
+Attribution: the Cybertruck video is **solo** (Marques vlog voice-over; Elon/Franz/Fisher
+recounted by him, not separate speakers). The 7 Retro Tech episodes are **mixed / guest-led
+documentaries** — Marques hosts/narrates but the substantive history/analysis is carried by
+named interviewees. These transcripts are **professionally captioned WITH speaker labels**
+(Marques:, Martin Cooper:, iJustine:, Ken Segall:, Bill Nye:, Casey Neistat, etc.), so guest
+material was cleanly quarantined (paraphrased into Key claims, attributed by name) and only
+confident-Marques narration/hands-on lines entered each page's voice bank. Ambiguous/unlabeled
+banter flagged `attribution: uncertain`. No non-Marques speech reached persona/voice data.
+
+Pipeline after: **@mkbhd P1 63** (was 71), P2 1551, P3 38. Other channels unchanged
+(@WaveformClips P1:2 held for dedup, @Waveform 292, @AutoFocus 120, @TheStudio 104).
+Ingested L2=56, L3=0. Shorts open 363. Synthesis debt **7/10** (no checkpoint due).
+Next iteration: continue Stage B on @mkbhd P1, oldest-first.
+
+Synthesis notes: 4 of 8 pages carry ★ L3-candidate material. New durable threads:
+(1) a **Retro Tech / creator-origin self-narrative** — Marques explicitly locates his own
+filmmaking/camera obsession in the 1984 JVC GR-C1 camcorder ("I still owe a lot of what I do
+now to this"), and frames the whole series around how portable-personal tech "shrinks the
+world" (DynaTAC); a first-person biography/beliefs thread worth promoting. (2) A **design-
+provocation lens on the Cybertruck** — "at least we're not bored": a polarizing love-it/hate-it
+design beats a safe cookie-cutter one — reusable articulation of his EV/industry-design taste.
+(3) **Instant/analog craft appreciation** (Polaroid: "you have to frame it right and nail focus,
+you can't change that later") reinforcing his photography-fundamentals stance. Most Retro Tech
+substance is guest-sourced history (not persona-bound). Caption garbles flagged on pages:
+Cybertruck "2024 F150" (likely mis-year in a 2019 clip) and "64-bit Gravis consoles" in the
+Genesis episode — kept as spoken, flagged, no specs altered.
