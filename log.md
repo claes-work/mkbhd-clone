@@ -340,3 +340,55 @@ reinforces the same "enthusiast who does the homework" interview stance seen in 
 Musk sit-down; an L3 persona thread. (4) **"tech as moving art" inclusion criterion** for
 Dope Tech (Sisyphus kinetic table, rehoused Helios lens) — what qualifies something as
 "dope" beyond specs. Most interview substance (Gates) is guest-sourced and NOT persona-bound.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 5) — P1 solo 2020 reviews + Zuckerberg interview + 8K gaming
+
+Stage B (P1-first) on **@mkbhd**, oldest-first, batch size 8. Retried the two rows the
+previous batch left open on 429 first: **iPad Pro (yt-x_R-qzjZrKQ)** — the 429 cleared but
+the only caption track fetched was music-only (`[music]`, 1 word), no speech captions, so
+it can't be ingested without fabricating → marked **L1 no-captions (music-only; revisit)**;
+**iPhone SE 2020 (yt-aXfiyuUziY0)** — **429 again**, left open for retry. One further
+selection, **Dope Tech: Boston Dynamics Robot Dog (yt-s6_azdBnAlU)**, had no subtitles →
+auto-marked L1 no-captions by the driver. The remaining 5 had good English captions and
+were written to `wiki/sources/`.
+
+Videos (→ 5 L2): 2020-06-23 iOS 14 Hands-On: Everything New! · 2020-07-18 Dope Tech: The
+Biggest Ultrawide Monitor! (3X Pods giant-AirPods speaker, Asus ROG Zephyrus Duo, Samsung
+Odyssey G9) · 2020-08-17 Dope Tech: The iPad Pro Killer?! (Xiaomi smart charging pad, Hachi
+Infinite M1 projector [disclosed sponsorship], Galaxy Tab S7+) · 2020-09-16 Talking Tech
+and The Metaverse with Mark Zuckerberg! · 2020-09-23 Can You Actually Game in 8K? (RTX 3090
+Gameplay!).
+
+**Attribution.** Four solo Marques videos (all persona/voice data). One **interview** —
+the Mark Zuckerberg sit-down — handled like the Elon/Gates pages: Zuckerberg is a guest
+(context entity), his substantive VR/AR answers are quarantined in an "Unattributed /
+other-speaker material" section and excluded from persona training; only Marques's
+questions/framing (8 verbatim quotes) train the voice. Zuckerberg + Facebook/Oculus flagged
+for a later `wiki/entities/` context pass (not created here).
+
+Pipeline after: **@mkbhd P1 50** (was 57: −5 L2, −1 iPad no-cap, −1 Boston no-cap; iPhone SE
+429 still counted open). Open P1 total **52** (@mkbhd 50 + @WaveformClips 2 held for dedup).
+P2 1551, P3 38 (@mkbhd). Other channels unchanged (@Waveform 292, @AutoFocus 120,
+@TheStudio 104). Ingested **L2=67**, L3=0. Shorts open 363. Rate limits: **1×429** this
+batch (iPhone SE). Synthesis debt **9/10** (no checkpoint due yet — a checkpoint/Stage S is
+now one batch away). Next iteration: continue Stage B on @mkbhd P1 oldest-first (retry the
+iPhone SE 429 first); expect a synthesis checkpoint to fall due shortly.
+
+Synthesis notes: all 5 pages carry ★ L3-candidate material. New/reinforced durable threads:
+(1) **"why now?" review lens** (iOS 14) — when a company ships an obvious/overdue feature,
+ask what it waited to get right instead of just dunking on the lateness; plus his even-handed
+Apple-vs-Android platform comparisons. (2) **Novelty-axis verdict** — "don't buy these for
+the build quality, don't buy these for the sound quality, buy these for the immense flex"
+(3X Pods): being explicit that a gadget can be worth it purely for novelty. (3) **"copied
+Apple's homework but changed it up just a little bit"** — recurring Samsung/Android-borrows-
+Apple framing (Galaxy Tab S7+), plus his standing "buy the Samsung tablet for the screen"
+verdict. (4) **VR as "the next version of tech reviews"** — a genuine dated **2020 Marques
+belief** ("put you in my shoes… you'll feel like you're in the car I'm driving"), persona-
+relevant (frame as a 2020 view, not necessarily current); his prepared, self-checking
+interviewer posture reinforces the Elon/Gates thread. (5) **"frame rate is king, but
+resolution buys immersion"** + **"the tech works, the ecosystem isn't ready"** (8K/RTX 3090:
+"the world of 8K gaming monitors doesn't really exist yet") — reinforces the prior batch's
+"bleeding-edge statement piece" thread. (6) Sponsorship note: the Hachi projector segment is
+a **disclosed** paid placement, stated up-front — a data point for the sponsorship-ethics
+thread in SUBJECT.md. Most Zuckerberg interview substance is guest-sourced and NOT
+persona-bound.

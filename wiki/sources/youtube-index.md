@@ -68,6 +68,11 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2020-02-14 — [[2020-02-14-yt-FV2tMP37ygs|Talking Tech and 2020 with Bill Gates!]] ★ · tech-industry-commentary, consumer-tech-culture, ev-cars, creator-business _(interview; guest-led — Bill Gates quarantined)_
 - 2020-02-28 — [[2020-02-28-yt-PTpoj4f25dk|Xiaomi Mi Mix Alpha Impressions: The Wraparound Display!]] ★ · tech-reviews, smartphones, consumer-tech-culture
 - 2020-06-09 — [[2020-06-09-yt-0FC94Tgz2ho|Dope Tech: The $3500 Bluetooth Speaker!]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking
+- 2020-06-23 — [[2020-06-23-yt-ZLyDvABxGF0|iOS 14 Hands-On: Everything New!]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary
+- 2020-07-18 — [[2020-07-18-yt-nF4hg6g7SwE|Dope Tech: The Biggest Ultrawide Monitor!]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking
+- 2020-08-17 — [[2020-08-17-yt-5NNO5Kb-PZo|Dope Tech: The iPad Pro Killer?!]] ★ · tech-reviews, consumer-tech-culture, smartphones
+- 2020-09-16 — [[2020-09-16-yt-eAagtcAup0o|Talking Tech and The Metaverse with Mark Zuckerberg!]] ★ · tech-industry-commentary, consumer-tech-culture, creator-business _(interview; Mark Zuckerberg guest — quarantined)_
+- 2020-09-23 — [[2020-09-23-yt-kFz9afj8lu0|Can You Actually Game in 8K? (RTX 3090 Gameplay!)]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking
 
 ## @Waveform
 
@@ -86,4 +91,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_62 videos ingested (L2) so far._
+_67 videos ingested (L2) so far._
