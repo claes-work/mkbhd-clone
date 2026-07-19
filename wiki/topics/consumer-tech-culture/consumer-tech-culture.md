@@ -34,6 +34,13 @@ A docuseries where guest historians carry the substance and Marques hosts/narrat
 ## Accessibility appreciation
 - Highlights accessibility as genuinely-new/underrated in reviews — iOS 14 Back Tap, Sound Recognition, sign-language prominence in group FaceTime ("genuinely new stuff Google should copy"). [2020-06-23] ([[2020-06-23-yt-ZLyDvABxGF0]])
 
+## Retro Tech Season 2 — the tech-optimist frame (2021)
+The Season-2 documentaries sharpen a recurring optimism: **the sci-fi future mostly arrived sideways.** "We already have our robot future — as the Roomba"; "communication is the one sci-fi category that actually came true" (Hyperconnectivity); recreational individual flight and "bring B to A instead of A to B" as the realistic path to promised futures. Guest historians carry the substance (quarantined at source); these host-narration threads are Marques's. [2021-04-13] ([[2021-04-13-yt-ifI_fwg55k8]]) · [2021-04-15] ([[2021-04-15-yt-nLeScEdf550]]) · [2021-04-16] ([[2021-04-16-yt-MhKiMPiZOdE]])
+- **"Straight line" from withered tech to today.** Retro Tech: Smart Homes traces Clapper / X-10 / Butler-In-A-Box → the modern voice assistant ("the sweet spot between the Clapper and the Nest"), reinforcing the Game Boy minimalism doctrine. [2021-04-17] ([[2021-04-17-yt-ccnlAVDXd7k]])
+
+## Teaching-explainer craft
+- **VR locomotion / motion-sickness explainer.** On the Disney HoloTile floor he explains motion sickness as the eyes-vs-inner-ear (vestibular) mismatch — a characteristic "teach the underlying mechanism, not just the gadget" move. [2024-04-26] ([[2024-04-26-yt-1KEtxTQUzxY]])
+
 ## Related
 - Retro Tech creator-origin also feeds → [[../production-filmmaking/production-filmmaking|Production & Filmmaking hub]] and [[../../../persona/biography|biography]]
 

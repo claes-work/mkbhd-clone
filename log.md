@@ -892,3 +892,57 @@ frame, and Auto Focus's shot-on-phone/Osmo production gimmick. (6) ★ **UI tast
 cutout displays over real gauges = his "physical + digital done right" lens. Debt now **9 batches**
 since synthesis pass 1 (checkpoint at 10). **Stage S synthesis is due next iteration** (10th batch, and
 this is a natural channel-boundary start for @AutoFocus/ev-cars).
+
+## [2026-07-19] lint | synthesis pass 2 — @mkbhd 2021→2025 P1 completion + origin-2009 + Humane AI Pin + @AutoFocus 2026 EV (batches 11–19, 59 new L2)
+
+**Second Stage S / second synthesis pass.** Trigger: the @mkbhd main-channel P1 era completed and the
+first @AutoFocus (ev-cars) batch landed — a channel/era boundary (the batch-19 log entry itself flagged
+"Stage S synthesis is due next iteration"). Drained all **9 accumulated `Synthesis notes:` lines**
+(batches 11–19). Done in one agent context, one file at a time (no sub-agents, per the run constraint).
+
+**Topic hubs extended (7/7):**
+- tech-reviews — the golden rule (never buy for a promised update), "The Great Separation," "smartphones
+  are OP," "victim of its future ambition" + qualified "in its current state" verdict, "series zero"/
+  "compared to what?", the "two buckets" Apple lens, "Porsche 911 of ___" iterative-refinement praise,
+  the "was it worth it?" long-term format, diminishing-returns and utility-vs-aesthetics; a Humane AI Pin
+  landmark box.
+- smartphones — Smartphone Awards **2020–2025** slate added to the winner table; MVP-as-"story of the
+  year" doctrine, the 2024→2025 iPhone-camera-streak-broken arc, high-refresh/incremental-craft, skin-tone
+  criterion, "they need each other," bimodal battery distribution, canonical iPhone-line verdicts
+  (with the iOS-7/4S misstatement flagged ⚠️ and NOT promoted).
+- ev-cars — new "@AutoFocus era" section: EV-design-is-battery-constrained ("blobs"), one-pedal demand,
+  affordable-EV-that-doesn't-suck, rebadge/hybrid critique, "multiple personalities," UI-taste-applied-to-
+  cars, the @AutoFocus review rubric; plus Cybertruck "impressions ≠ review."
+- production-filmmaking — three-levels-of-production, "the tool should enable the creative idea," and the
+  documented **2009 origin toolchain** (CamStudio/DivX on an HP dv7t).
+- creator-business — self-sponsorship ($40k iPhone), Barbara-Corcoran loss-leader credit, and the
+  2021-03-17 Auto Focus pre-announcement node.
+- tech-industry-commentary — "this will be copied" (Dynamic Island), "form over function," "two-in-one is
+  always worse at one thing," and the solo-hardened AI-hardware-vs-phone judgment.
+- consumer-tech-culture — Retro Tech S2 tech-optimist frame, "straight line" withered-tech-to-today, and
+  the VR motion-sickness teaching explainer.
+
+**Persona refreshed + recompiled to v2:**
+- `beliefs.md` — 10 new frameworks + 4 values + 4 opinions + updated predictions; two @Waveform
+  attribution-to-confirm items (paperware, AI-hardware) marked **solo-hardened** by main-channel sources.
+- `voice.md` — new catchphrases ("glass is glass," "in its current state," "are we cooked?", "Porsche 911
+  of ___," "compared to what?"), car-review cadence, and 6 new verbatim quotes (exact wording verified
+  against source pages).
+- `biography.md` — new "origin-2009 + 2021–2026" anchors section (first video, school breadcrumb, Auto
+  Focus pre-announcement, Humane, Tim Cook, first @AutoFocus corpus, 6'3").
+- `appearance.md` — seeded with the one caption-supplied fact (~6'3" build); rest still needs watched video.
+- `system-prompt.md` — recompiled **v1 → v2**, `compiled_from_sources` 74 → 133; coverage now 2009→2025
+  main channel + 2026 @AutoFocus; changelog inline.
+
+**Attribution discipline:** interview/co-host material stayed quarantined and OUT of persona — Tim Cook
+(interview), Doctor Mike (Dyson Zone medical expert), @AutoFocus co-host "Miles" (Macan driving section),
+and Retro Tech guest historians. Only Marques-attributed framing/voice was promoted. "Miles" flagged as a
+candidate `wiki/entities/` context page (name/spelling unconfirmed).
+
+**Bookkeeping:** advanced the high-water mark to batches 1–19 (133 L2) and moved the checkpoint to Done
+(tagged v2) in `pipeline/synthesis-state.md`. No new topic pages created (hubs extended in place), so
+`index.md` unchanged. No ledger changes (synthesis promotes content, doesn't move L2→L3 rows). No rate
+limits, no yt-dlp calls, no fabrication.
+
+Synthesis notes: none — debt fully drained (9/9 → 0). Next ingest batch starts a fresh counter; resume
+Stage B next iteration (@AutoFocus P2 remainder, or @mkbhd P2 long tail / @Waveform).

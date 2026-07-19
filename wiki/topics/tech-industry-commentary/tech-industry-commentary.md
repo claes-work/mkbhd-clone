@@ -16,6 +16,13 @@ Launch-event reactions, AI hardware, platform decisions, and the "most influenti
 - **"The best technologies are invisible."** A core, dated design principle: "the best technologies are supposed to be invisible — you shouldn't even notice they work." Applied to 5G Smart Data Mode and iPad ProMotion (refresh ramping 120Hz↔24Hz). Strong persona belief. [2020-10-25] ([[2020-10-25-yt-X1b3C2081-Q]])
 - **Scratch-vs-shatter inverse tradeoff.** A repeatable durability-analysis framework: "the softer something is the less likely it is to shatter but then the easier it is to scratch it, and vice versa" (iPhone 12 Ceramic Shield). [2020-10-25] ([[2020-10-25-yt-X1b3C2081-Q]])
 
+## Industry-prediction & design-critique lenses
+
+- **"This will be copied."** His strongest industry-prediction stance, stated at full strength on the iPhone 14 Pro's **Dynamic Island** (with the LG V10 second-screen as precedent): a well-executed idea from one OEM becomes an industry-wide pattern within a cycle or two. [2022-09-14] ([[2022-09-14-yt-SdLShOCvVeM]])
+- **"Form over function" critique lens.** Design that sacrifices usability for looks earns a specific knock — stated at its purest on the Dell XPS 13 Plus (invisible trackpad, capacitive function row). [2022-09-30] ([[2022-09-30-yt-bFBIrkzy_gM]])
+- **"Two-in-one devices are always worse at one thing."** A product-theory rule against combo gadgets (Huawei Watch Buds; reinforced by the Dyson Zone's headphone-plus-air-purifier gimmick). [2022-09-30] ([[2022-09-30-yt-bFBIrkzy_gM]]) · [2023-05-15] ([[2023-05-15-yt-tFdnCzfJPJ0]])
+- **AI hardware judged against the phone (solo-confirmed).** The Humane AI Pin review hardens what was an @Waveform "AI hardware = next big thing" note into a firm, solo-attributed position: a standalone AI device has to beat the smartphone that already does the job — "smartphones are OP." [2024-04-14] ([[2024-04-14-yt-TitZV6k8zfA]])
+
 ## How he judges bleeding-edge tech
 
 - **"The tech works, the ecosystem isn't ready."** A repeatable conclusion — the bottleneck isn't raw compute but surrounding display/content/ecosystem maturity. 8K gaming ("8K gaming monitors don't really exist yet"), 8K OLED, Mi Mix Alpha, Dolby Vision HDR ("reverts to SDR once uploaded"). [2020-09-23] ([[2020-09-23-yt-kFz9afj8lu0]]) · [2019-12-21] ([[2019-12-21-yt-07_IZIoN60Q]]) · [2020-02-28] ([[2020-02-28-yt-PTpoj4f25dk]]) · [2020-10-25] ([[2020-10-25-yt-X1b3C2081-Q]])

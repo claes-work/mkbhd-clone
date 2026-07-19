@@ -29,6 +29,16 @@ A year-end, category-by-category awards show (winner + runner-up + honorable men
 | 2017 | Note 8 (MVP) | Pixel 2 | "best design" reframed as "best build" | [[2017-12-20-yt-aMQbRpxgFvs]] |
 | 2018 | OnePlus 6T (MVP) | Pixel 3 | Best battery Mate 20 Pro; Bust Red Hydrogen One | [[2018-12-19-yt-cpIEWsQpRMk]] |
 | 2019 | OnePlus 7 Pro (MVP) | iPhone 11 Pro | Design Galaxy Fold; Bust Pixel 4; Budget Redmi K20 Pro | [[2019-12-24-yt-4OnwUz-I2GI]] |
+| 2020 | Galaxy S20 FE (MVP) | — | "premium mid-range ~$700 tier" thesis; value beats spec-max | [[2020-12-23-yt-e6_t26Q9aVM]] |
+| 2021 | Galaxy S21 Ultra (MVP) | — | "nail the fundamentals"; deliberately-created **best-small-phone** category vs. size inflation; "moment of silence for LG" | [[2021-12-22-yt-IDcyXtweHCw]] |
+| 2022 | — (see Awards 2022) | — | plateau read; big-screen dominance | [[2022-12-27-yt-5NjFuS_24v8]] |
+| 2023 | Pixel 8 (MVP) | iPhone 15 Pro (Camera King) | plateau + small-phone eulogy; Camera-King ≠ blind-test winner | [[2023-12-19-yt-JkRXhe3KaPE]] |
+| 2024 | Galaxy S24 Ultra (PotY) | — | **10th** Smartphone Awards; "boring = elite" (Scottie Scheffler framing) | [[2024-12-19-yt-E76CUtSHMrU]] |
+| 2025 | iPhone 17 (MVP + Most Improved) | Oppo Find X9 Pro (breaks iPhone streak) | stripped **iPhone 16 = Bust**; base-iPhone-should-be-complete critique resolved | [[2025-12-08-yt-sfyL4BswUeE]] |
+
+**MVP doctrine (sharpened 2024–25):** the MVP is "the story that represents the year," explicitly **not** the best-specs phone; it rewards the best *combination* at value under the diminishing-returns lens. The recurring "phones are all big now / death of the small flagship" thesis is quantified against the Note-4-vs-modern size delta. [2024-12-19] ([[2024-12-19-yt-E76CUtSHMrU]]) · [2025-12-08] ([[2025-12-08-yt-sfyL4BswUeE]])
+
+**2024→2025 iPhone-camera arc (reconciled):** in 2024 he called the iPhone's multi-year camera win "closer than ever" to being broken; in **2025 it IS broken** (Oppo Find X9 Pro takes Camera King). Separately, his long-standing "the base iPhone should just be a complete phone" critique finally resolved in 2025 — the iPhone 17 wins **both Most Improved and MVP**, while the stripped-down iPhone 16 is named **Bust**. [2024-12-19] ([[2024-12-19-yt-E76CUtSHMrU]]) · [2025-12-08] ([[2025-12-08-yt-sfyL4BswUeE]])
 
 ## The Blind Smartphone Camera Test
 
@@ -45,6 +55,12 @@ Marques's signature *unbiased* camera-evaluation project (run on @Waveform / his
 - **Foldables — "being first doesn't matter if it sucks."** Royole FlexPai as the cautionary rushed-first foldable ("almost shouldn't have existed"); prefers fold-*in* over fold-*out*; original Galaxy Fold treated as "first-gen = public beta." [2019-07-20] ([[2019-07-20-yt-ROkXM3csNWY]]) · [2019-04-18] ([[2019-04-18-yt-vtqtyyGZvXM]])
 - **Low-res LCD is a standing critique.** Repeatedly dings sub-720p LCDs on $700 phones ("the YouTube app lies to you"). [2019-09-30] ([[2019-09-30-yt-OoY7zp8GkLI]])
 - **"It's really hard to buy a bad new phone now"** — a recurring state-of-the-market read (from 2019 on). [2019-12-24] ([[2019-12-24-yt-4OnwUz-I2GI]])
+- **High-refresh is invisible-until-you-lose-it; minor upgrades compound.** ProMotion/120 Hz "you won't notice it until you go back to 60 Hz," and a phone full of small refinements ("minor upgrades compound into greatness") beats a spec-bump — his incremental-craft read of the iPhone 13 Pro. Later inverted into a gripe: **60 Hz on a flagship** is a standing knock. [2021-10-02] ([[2021-10-02-yt-TnkdoEZhTbc]]) · [2024-09-10] ([[2024-09-10-yt-9lx11dy9J30]])
+- **Skin-tone accuracy is a first-order camera criterion (personal, signature).** "Phones overexpose people with dark skin constantly — I would know." A recurring, first-person camera critique that predates and outranks generic dynamic-range talk. [2022-09-14] ([[2022-09-14-yt-SdLShOCvVeM]]) · [2024-01-31] ([[2024-01-31-yt-dtp6b76pMak]])
+- **"They need each other."** The Samsung↔Google↔Apple triangle is symbiotic, not zero-sum — features and pressure flow all three ways; and "the best argument against a $1,300 phone is that it's a $1,300 phone." [2024-01-26] ([[2024-01-26-yt-XaqOejIaFgM]])
+- **Bimodal battery distribution (2025 = the battery-leap year).** Silicon-carbon chemistry split the market into "haves" (7,000–8,000 mAh Chinese flagships) and "have-nots" (Apple/Samsung ~5,000–5,500 mAh) — a dated industry read on where capacity jumped. [2025-12-08] ([[2025-12-08-yt-sfyL4BswUeE]])
+- **Canonical iPhone-line verdicts** (from "Reviewing EVERY iPhone Ever"): iPhone 4 = best design; iPhone X "opened Pandora's box" on $1,000 phones; 6/6 Plus = best-selling ever and "the beginning of the end of small phones"; "cheap phones are getting good." [2021-10-12] ([[2021-10-12-yt-8FpPSMIB4uA]])
+  > ⚠️ CONTRADICTION: on that same page he misstates the iPhone 4S as shipping "iOS 7" (it shipped on iOS 5). Do **not** promote that claim.
 
 ## Related
 - Review methodology → [[../tech-reviews/tech-reviews|Tech Reviews hub]]

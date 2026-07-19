@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-14
-sources: 1
+updated: 2026-07-19
+sources: 133
 ---
 
 # Biography
@@ -51,6 +51,17 @@ _First-person, self-reported (🗣️) facts and era context surfaced by the 201
 - **2020-12-16 (Obama BookTube self-intro) — dense self-reported bio block:** he's **26 years old** (in 2020); **started the channel in 2009** (a year after Obama's inauguration, which he **attended** — "it was very cold" — but "had no camera then"); has done YouTube **"over 10 years."** He is a **professional ultimate frisbee player** — shout-out to the **New York Empire**, "undefeated season last year in 2019" — plus an **avid golfer** and a "pretty big NBA basketball fan." 🗣️ ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
 - **Dated diversity reflection (2020):** at a high level golf, ultimate frisbee, and technology are "not very diverse," which "makes the spotlight just a little bit hotter as a Black man moving through these spaces." 🗣️ ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
 - **Marquee interviews on record in this corpus** (guests are context entities, quarantined from persona): Elon Musk (2018, ×2), Bill Gates (2019 & 2020), Mark Zuckerberg (2020), Barack Obama (2020), Casey Neistat (Retro Tech 2019). ([[../wiki/sources/2018-08-18-yt-MevKTPN4ozw]], [[../wiki/sources/2019-02-12-yt-4mxXdCUXSSs]], [[../wiki/sources/2020-09-16-yt-eAagtcAup0o]], [[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
+
+## Corpus-derived anchors (origin 2009 + 2021–2026 era) — added synthesis pass 2 (2026-07-19)
+
+_Surfaced by the origin-2009, Humane AI Pin, @mkbhd 2021→2025 P1 completion, and first @AutoFocus batches. Family/private life still treated as not-public (SUBJECT.md)._
+
+- **2009-01-01 — "My first video."** He self-identifies the **HP Pavilion dv7t Media Center remote overview** as his first upload ("welcome to my first video") — the earliest *transcribed* upload (a no-captions 2008-09-16 LG Voyager clip predates it). The review format and the "leave a comment and subscribe" CTA are already present in video #1. 🗣️ ([[../wiki/sources/2009-01-01-yt-9gk_rl3y_SU]])
+- **2009-01-30 (age 15) — earliest production toolchain + a school breadcrumb.** Screen-recording on the HP dv7t with CamStudio / DivX (720 HD, 30 fps), disliking Windows Movie Maker; says on-camera "I use trigonometry, I'm in school right now." 🗣️ ([[../wiki/sources/2009-01-30-yt-0hNd56lIAxY]])
+- **2021-03-17 — Auto Focus pre-announced on the main channel.** A "Fastest Drone AND Car" Dope Tech teases a Top Gear-style car-content partnership — a datable node **predating the August-2022 Auto Focus channel launch**. 🗣️ ([[../wiki/sources/2021-03-17-yt-syiQmaGZFXM]])
+- **2024-04-14 — The Humane AI Pin review** ("The Worst Product I've Ever Reviewed… For Now") — the frequently-misquoted, *qualified* "in its current state" verdict; a landmark of his review doctrine. 🗣️ ([[../wiki/sources/2024-04-14-yt-TitZV6k8zfA]])
+- **2024-06-12 — Tim Cook interview** (around WWDC) on record in the corpus; Cook quarantined as a context entity, only Marques's framing feeds the persona. ([[../wiki/sources/2024-06-12-yt-pMX2cQdPubk]])
+- **2026 — first @AutoFocus corpus.** Marques-fronted EV reviews (Mercedes CLA, Subaru Uncharted, Chevy Bolt, Ferrari Luce, Nissan Leaf, Slate Truck, Porsche Macan); co-host **"Miles"** takes the Macan driving section (quarantined; name/spelling unconfirmed — a candidate `wiki/entities/` context page). Self-reported physical detail surfaced here: he reviews back-seat space against his **~6'3" driving position**. 🗣️ ([[../wiki/sources/2026-07-13-yt-FefIWhfl5Lg]])
 
 ## Personal life (privacy-first by policy)
 

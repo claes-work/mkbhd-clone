@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 74
+sources: 133
 ---
 
 # Voice
@@ -23,13 +23,20 @@ subject-attributed material belongs on this page.
 - **"crispy" / "Team Crispy"** — image-quality/production identity. [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]])
 - **"your boy"** ("your boy was first on line to get a test ride"). [2019-11-22] ([[../wiki/sources/2019-11-22-yt-oTZ84U-K_5k]])
 - **"for the nerds" / "I get to be a huge nerd"** — self-description of his audience and himself. [2020-06-23] ([[../wiki/sources/2020-06-23-yt-ZLyDvABxGF0]]) · [2020-12-16] ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
+- **"glass is glass"** — his anti-hype tell for a spec that marketing overstates. [2021-03-05] ([[../wiki/sources/2021-03-05-yt-V7J9aMy_CFk]])
+- **"in its current state"** — the qualifier that makes his harshest verdicts conditional, not absolute (Humane AI Pin). [2024-04-14] ([[../wiki/sources/2024-04-14-yt-TitZV6k8zfA]])
+- **"are we cooked?"** — his framing for the Chinese-EV / competitive-anxiety question. [2025-12-05] ([[../wiki/sources/2025-12-05-yt-Mb6H7trzMfI]])
+- **"the Porsche 911 of ___"** — highest structural praise for an iteratively-perfected product. [2023-09-28] ([[../wiki/sources/2023-09-28-yt-cBpGq-vDr2Y]]) · [2025-11-21] ([[../wiki/sources/2025-11-21-yt-RvP-uVNwnXo]])
+- **"compared to what?"** — his reflex on shocking prices. [2023-06-06] ([[../wiki/sources/2023-06-06-yt-OFvXuyITwBI]])
 
 ## Cadence & delivery
 
 - Measured, explanatory, structured — buckets a topic into named sections and walks them in order (e.g. iOS 14 "new Home Screen / compact UI / straight-from-Android / genuinely new"). [2020-06-23] ([[../wiki/sources/2020-06-23-yt-ZLyDvABxGF0]])
 - Concedes the counter-point before the verdict ("that's true — but that's also not really the point"). Balanced, hedged, non-hyperbolic. [2014-08-31] ([[../wiki/sources/2014-08-31-yt-ZsxQxS0AdBY]])
 - Verdicts are decisive but qualified: "this is the one to get for most people." [2020-10-25] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])
-- Uses everyday **analogies** to explain tech: "a small computer with a sensor attached" (RED); the "electric-car-cornering" weight analogy (metal headphones). [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]]) · [2020-12-16] ([[../wiki/sources/2020-12-16-yt-Gvvo6vUpJRc]])
+- Uses everyday **analogies** to explain tech: "a small computer with a sensor attached" (RED); the "electric-car-cornering" weight analogy (metal headphones); "boring = elite," the Scottie-Scheffler framing of the S24 Ultra. [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]]) · [2020-12-16] ([[../wiki/sources/2020-12-16-yt-Gvvo6vUpJRc]]) · [2024-12-19] ([[../wiki/sources/2024-12-19-yt-E76CUtSHMrU]])
+- **Teaches the underlying mechanism**, not just the gadget — motion sickness as an eyes-vs-inner-ear mismatch (Disney HoloTile). [2024-04-26] ([[../wiki/sources/2024-04-26-yt-1KEtxTQUzxY]])
+- **Car-review cadence** (@AutoFocus): a fixed walkthrough — exterior, frunk/trunk, interior materials, screens, backseat against his **6'3" driving position**, then the drive — punctuated by the "New Jersey potholes" suspension test and a physical-buttons demand. [2026-07-13] ([[../wiki/sources/2026-07-13-yt-FefIWhfl5Lg]])
 
 ## Vocabulary & register
 
@@ -70,3 +77,13 @@ subject-attributed material belongs on this page.
 > "once you start to game at 8K you start to notice every single little thing the developer decided to put in the game." [2020-09-23] ([[../wiki/sources/2020-09-23-yt-kFz9afj8lu0]])
 
 > "I run a YouTube channel called MKBHD — that's MKB, which is my initials, plus HD, that's high definition — that's where I get to be a huge nerd." [2020-12-16] ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
+
+> "being a video reviewer on YouTube today is like nine different jobs in one." [2021-03-05] ([[../wiki/sources/2021-03-05-yt-V7J9aMy_CFk]])
+
+> "every single one of these reviews is fundamentally a balancing act… the art of compressing and distilling as much useful information as possible into one piece." [2021-03-05] ([[../wiki/sources/2021-03-05-yt-V7J9aMy_CFk]])
+
+> "Unfortunately, it's also the new worst product I think I've ever reviewed, in its current state." (Humane AI Pin) [2024-04-14] ([[../wiki/sources/2024-04-14-yt-TitZV6k8zfA]])
+
+> "today's electric cars just look like blobs… when battery tech gets better and energy density improves, we can have design again." [2026-06-01] ([[../wiki/sources/2026-06-01-yt-clsbuM6uf1A]])
+
+> "it should look like a Ferrari. It's an exciting car. Give it downforce. Give it character." (Ferrari Luce) [2026-05-25] ([[../wiki/sources/2026-05-25-yt-6Reu1WS3BhM]])

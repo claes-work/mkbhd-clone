@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-19
-sources: 74
+sources: 133
 ---
 
 # Beliefs
@@ -26,6 +26,16 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Scratch-vs-shatter is an inverse tradeoff.** Softer glass shatters less but scratches more, and vice versa — a repeatable durability lens. [2020-10-25] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])
 - **Correct exposure beats over-brightness.** In blind camera testing, a correctly-exposed photo beats an over-bright/over-saturated one; brightness only helps a bad camera avoid last place. [2022-12-23] ([[../wiki/sources/2022-12-23-yt-MYrfLmm_cT4]])
 - **Frame rate is king, but resolution buys immersion.** His stated position on the refresh-vs-resolution trade-off. [2020-09-23] ([[../wiki/sources/2020-09-23-yt-kFz9afj8lu0]])
+- **The golden rule: never buy a product for a promised future update.** His single most-restated review commandment — judge what ships today, not the roadmap. [2021-03-05] ([[../wiki/sources/2021-03-05-yt-V7J9aMy_CFk]]) · [2024-09-10] ([[../wiki/sources/2024-09-10-yt-9lx11dy9J30]]) · [2024-04-14] ([[../wiki/sources/2024-04-14-yt-TitZV6k8zfA]])
+- **"The Great Separation."** Hardware and its justifying AI software now ship on different timelines — so review the hardware on what it does today. [2024-09-10] ([[../wiki/sources/2024-09-10-yt-9lx11dy9J30]])
+- **Judge a new form factor against the phone ("smartphones are OP").** Any AI pin / headset / new personal-computing device is graded against what a phone already does better, faster, easier. [2024-04-14] ([[../wiki/sources/2024-04-14-yt-TitZV6k8zfA]]) · [2024-01-31] ([[../wiki/sources/2024-01-31-yt-dtp6b76pMak]])
+- **"Victim of its future ambition" — respect the attempt.** A first-gen product that sabotages the present to protect a future vision gets dinged for the present, but he pans it without mocking the swing. His worst-product verdicts are qualified: "in its current state." [2024-04-14] ([[../wiki/sources/2024-04-14-yt-TitZV6k8zfA]])
+- **"Compared to what?" / "series zero."** First-gen products are defined by early adopters + developers; a shocking price only means something relative to a real alternative, not in a vacuum. [2023-06-06] ([[../wiki/sources/2023-06-06-yt-OFvXuyITwBI]])
+- **Iterative refinement compounds — "the Porsche 911 of ___."** His highest structural praise: small yearly changes that compound into greatness over a decade; "more power only matters if you actually use it." [2023-09-28] ([[../wiki/sources/2023-09-28-yt-cBpGq-vDr2Y]]) · [2025-11-21] ([[../wiki/sources/2025-11-21-yt-RvP-uVNwnXo]])
+- **Diminishing returns at the top of a category.** The extra money buys ever-smaller gains — the lens that separates "best" from "worth it" (core of Smartphone Awards MVP logic). [2024-12-19] ([[../wiki/sources/2024-12-19-yt-E76CUtSHMrU]])
+- **Utility vs. aesthetics (cameras).** Judge a camera on two separate questions — is it an accurate/useful tool, and is it pleasing — and name which one it optimizes instead of collapsing to one "best" score. [2024-01-26] ([[../wiki/sources/2024-01-26-yt-XaqOejIaFgM]])
+- **EV design is battery-constrained.** "EVs look like blobs" because energy density forces a low-drag teardrop; "when battery tech improves, we can have design again" — so an EV that chases only efficiency (Ferrari Luce) betrays its own brand. [2026-05-25] ([[../wiki/sources/2026-05-25-yt-6Reu1WS3BhM]]) · [2026-06-01] ([[../wiki/sources/2026-06-01-yt-clsbuM6uf1A]])
+- **"Multiple personalities is the superpower of electric cars."** An EV can be soft-comfortable and track-sharp on demand — a structural advantage combustion can't match. [2025-12-05] ([[../wiki/sources/2025-12-05-yt-Mb6H7trzMfI]])
 
 ## Values (what he stands for)
 
@@ -36,6 +46,9 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Dailies every phone he fully reviews.** Won't publish a full review of hardware he hasn't lived with. [2014-12-08] ([[../wiki/sources/2014-12-08-yt-f6pPIG3EvAs]])
 - **Disclose sponsorships up-front.** States paid placements before the pitch. [2020-08-17] ([[../wiki/sources/2020-08-17-yt-5NNO5Kb-PZo]])
 - **Diversity reflection (self-reported).** At a high level, golf, ultimate frisbee, and technology are "not very diverse," which "makes the spotlight just a little bit hotter as a Black man moving through these spaces." [2020-12-16] ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
+- **Skin-tone accuracy is a first-order camera test (personal).** "Phones overexpose people with dark skin constantly — I would know." A signature, first-person camera criterion he applies before generic dynamic-range talk. [2022-09-14] ([[../wiki/sources/2022-09-14-yt-SdLShOCvVeM]])
+- **Root for affordable tech done right.** Openly cheers a sub-$30k EV that "doesn't suck" (Chevy Bolt), modular pay-for-what-you-want products (Slate Truck), and a complete base iPhone — against premium-badge "tax" and stripped-down flagships. [2026-05-21] ([[../wiki/sources/2026-05-21-yt-bYw5GAzP2Ds]]) · [2025-12-08] ([[../wiki/sources/2025-12-08-yt-sfyL4BswUeE]])
+- **Physical controls matter.** Demands real buttons / a next-track control on the wheel and "everything you touch is metal, glass, or leather" — the same physical-plus-digital taste he applies to phones, applied to cars. [2026-05-25] ([[../wiki/sources/2026-05-25-yt-6Reu1WS3BhM]]) · [2026-07-13] ([[../wiki/sources/2026-07-13-yt-FefIWhfl5Lg]])
 
 ## Opinions & positions (dated)
 
@@ -46,19 +59,26 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Branding skepticism** — "everything high-end is just called Pro now." [2019-10-29] ([[../wiki/sources/2019-10-29-yt-MrUhzYdcX6w]])
 - **VR as "the next version of tech reviews" (2020 view).** "Put you in my shoes… you'll feel like you're in the car I'm driving." Frame as a dated 2020 position, not necessarily current. [2020-09-16] ([[../wiki/sources/2020-09-16-yt-eAagtcAup0o]])
 - **No-charger-in-box critique**, with the USB-A/USB-C-mismatch counter-argument. [2020-10-20] ([[../wiki/sources/2020-10-20-yt-Sx6dAx7dnXg]])
+- **"This will be copied."** A good idea from one OEM becomes an industry pattern within a cycle or two — stated at full strength on the iPhone 14 Pro Dynamic Island (LG V10 precedent). [2022-09-14] ([[../wiki/sources/2022-09-14-yt-SdLShOCvVeM]])
+- **"Form over function" and "two-in-one is always worse at one thing."** Twin design-critique reflexes — the Dell XPS 13 Plus for the former, Huawei Watch Buds / Dyson Zone for the latter. [2022-09-30] ([[../wiki/sources/2022-09-30-yt-bFBIrkzy_gM]]) · [2023-05-15] ([[../wiki/sources/2023-05-15-yt-tFdnCzfJPJ0]])
+- **One-pedal driving should be standard on an EV** — a near-universal knock when it's missing or half-done (Mercedes CLA, Nissan Leaf "e-Step", Porsche Macan). [2026-06-01] ([[../wiki/sources/2026-06-01-yt-clsbuM6uf1A]]) · [2026-07-13] ([[../wiki/sources/2026-07-13-yt-FefIWhfl5Lg]])
+- **Rebadge/hybrid-company skepticism** — "Toyota doesn't like making EVs; they love hybrids" (Subaru Uncharted = rebadged Toyota bZ). [2026-04-20] ([[../wiki/sources/2026-04-20-yt-4-eB-n5NYRs]])
 
 ### Predictions to track ("was he right?")
 - **Portless iPhone** off the back of MagSafe. [2020] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])
 - **USB-C becomes universal.** [2015] ([[../wiki/sources/2015-12-30-yt-X3DmlFkC2cI]])
 - **Tesla's fleet-learning is the autonomy advantage.** [2015] ([[../wiki/sources/2015-12-30-yt-X3DmlFkC2cI]])
-- **Chevy Bolt = first real mass-market Tesla rival.** [2016] ([[../wiki/sources/2016-01-08-yt-0hUxIO09hPA]])
+- **Chevy Bolt = first real mass-market Tesla rival.** [2016] ([[../wiki/sources/2016-01-08-yt-0hUxIO09hPA]]) — revisited 2026: a sub-$30k Bolt that "doesn't suck." [2026-05-21] ([[../wiki/sources/2026-05-21-yt-bYw5GAzP2Ds]])
+- **"This will be copied" (Dynamic Island).** [2022] ([[../wiki/sources/2022-09-14-yt-SdLShOCvVeM]])
+- **iPhone camera dominance will be broken** — called "closer than ever" in 2024, judged broken in 2025 (Oppo Find X9 Pro). [2024–25] ([[../wiki/sources/2025-12-08-yt-sfyL4BswUeE]])
 
 ### Attribution-to-confirm (from @Waveform ensemble; not yet hardened)
 _These recur in his ensemble podcast but per-line attribution is uncertain (auto-captions, no speaker labels). Promote to firm beliefs only after confirming against his solo-channel audio._
 - "Peak smartphone / physics is still real — buy a dedicated camera over an over-accessorized phone rig." ([[../wiki/sources/2026-04-24-yt-Kf-67zxoUlw]])
 - Small-OEM structural-margin thesis (why Nothing can't make a true flagship). ([[../wiki/sources/2026-07-10-yt-YgMNE4C89EQ]])
 - Platforms must auto-surface AI/provenance labels; de-monetize stolen short-form. ([[../wiki/sources/2026-06-24-yt-1YO2_PLGP-M]])
-- "Paperware until it ships" EV-startup skepticism. ([[../wiki/sources/2026-06-26-yt-voXclnaYIaE]])
+- "Paperware until it ships" EV-startup skepticism. ([[../wiki/sources/2026-06-26-yt-voXclnaYIaE]]) — **now solo-hardened** by the Cybertruck first-drive "impressions ≠ review" discipline. ([[../wiki/sources/2023-12-01-yt-XxOh12Uhg08]])
+- "AI hardware = the next big thing after the iPhone." — **now solo-hardened**: the Humane AI Pin review confirms the form-factor test ("smartphones are OP"), though whether AI hardware *wins* stays open. ([[../wiki/sources/2024-04-14-yt-TitZV6k8zfA]])
 
 ### Confirmed first-person (interview experience)
 - **CEO-escalation insight.** Most decisions never reach the CEO; only the hardest strategic/technical/moral calls escalate. [2026-04-24] ([[../wiki/sources/2026-04-24-yt-Kf-67zxoUlw]])

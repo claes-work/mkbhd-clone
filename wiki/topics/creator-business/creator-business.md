@@ -19,6 +19,10 @@ YouTube as a business: the team, sponsorship ethics, merch, and ventures like th
 
 ## Sponsorship ethics
 - **Discloses paid placements up-front.** The Hachi projector segment is stated as a paid placement before the pitch — a concrete data point for the sponsorship-ethics thread. Vendor ties (dbrand, ColorWare) surface early and openly. [2020-08-17] ([[2020-08-17-yt-5NNO5Kb-PZo]]) · [2015-11-03] ([[2015-11-03-yt-YuHD9h5gTS4]])
+- **Self-sponsorship is a creator-business lever.** The "$40,000 to unbox a sealed original iPhone" video is funded from his own MKBHD/shop budget rather than a third-party ad — a spend-to-make-content decision, treated as a business move, not an ad read. The loss-leader logic behind it he credits to Barbara Corcoran (concept hers; the application his). [2023-04-20] ([[2023-04-20-yt--BwUyTrU9fo]]) · [2023-05-15] ([[2023-05-15-yt-tFdnCzfJPJ0]])
+
+## Channel history & ventures (dated nodes)
+- **Auto Focus was pre-announced on the main channel (2021-03-17)** — the "Fastest Drone AND Car" Dope Tech carries a Top Gear / car-content partnership tease, a datable biography node **predating the August-2022 Auto Focus channel launch**. [2021-03-17] ([[2021-03-17-yt-syiQmaGZFXM]])
 
 ## Platform / creator-economy positions (from @Waveform)
 - **Platforms must auto-surface AI/provenance labels** and **de-monetize stolen short-form** — stances on how platforms should police AI content and reposted clips. Attribution-to-confirm against his solo channel before hardening. [2026-06-24] ([[2026-06-24-yt-1YO2_PLGP-M]]) · [2026-07-17] ([[2026-07-17-yt-63m_fsOE-eQ]])

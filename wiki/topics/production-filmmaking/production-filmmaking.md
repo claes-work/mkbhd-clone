@@ -28,6 +28,11 @@ Cameras, color science, editing, and how MKBHD videos are actually made; the Kea
 
 ## Platform-craft observations
 - **Generational re-encode loss is real.** The "re-upload a YouTube video 1000 times" experiment demonstrates compounding compression artifacts — 720p lock-in, magenta drift, audio drift. A production-literacy demonstration. [2019-10-11] ([[2019-10-11-yt-JR4KHfqw-oE]])
+- **Three levels of production.** Covering the XR/virtual-stage setup behind the Nothing Phone 2 Dope Tech, he lays out a tiered model of how much production a shot needs — matching the tool to the creative idea, not maxing gear for its own sake. [2023-07-03] ([[2023-07-03-yt-RM7SobH8ZO0]])
+- **"The tool should enable the creative idea" (craft confession).** In Dope Tech Revisited he admits he shot manual-focus on the RED because its autofocus was weak — a candid "the gear serves the idea, not the reverse" statement, and the origin of his "Porsche 911 of ___" praise for iteratively-perfected tools. [2025-11-21] ([[2025-11-21-yt-RvP-uVNwnXo]])
+
+## Origin toolchain (2009, age 15)
+His earliest production stack, documented across the January-2009 tutorials: an **HP Pavilion dv7t** laptop (3 GB RAM, ExpressCard slot) screen-recorded with the **CamStudio** lossless codec, **RocketDock** launcher, on **Windows Vista**; later CamStudio + **DivX 6.8.7**, 30 fps, 720 HD @ ~3,000 kbps, 640×360 — with an early quality-obsession ("Windows Movie Maker is not good"). The review format and the "leave a comment and subscribe" CTA are already present in **video #1** (2009-01-01 HP dv7t remote overview, his self-described "first video"). [2009-01-01] ([[2009-01-01-yt-9gk_rl3y_SU]]) · [2009-01-30] ([[2009-01-30-yt-0hNd56lIAxY]])
 
 ## Creator-origin narrative
 - Marques locates his own filmmaking/camera obsession in the 1984 JVC GR-C1 camcorder — "even though I didn't start making my videos until 25 years after this camera came out, I still owe a lot of what I do now to this." → see [[../consumer-tech-culture/consumer-tech-culture|Consumer Tech Culture hub]] and [[../../../persona/biography|biography]]. [2019-12-02] ([[2019-12-02-yt-kMtN9KJHn5Y]])
