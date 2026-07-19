@@ -220,3 +220,46 @@ culprit); (4) **production-craft-as-core-value** (cinema camera robots, wants mo
 in his own studio); (5) an **interview posture** (enthusiast-owner who does the research;
 access-first, defer to the expert) visible across the Musk/Gates sit-downs. All persona-bound
 material is Marques-attributed and attribution-clean; ready for the next synthesis pass.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 8) — P1 solo 2019 reviews + Retro Tech Game Boy doc
+
+Sixth ingest batch. Drained 8 open P1 long-form rows from **@mkbhd**, oldest-first
+(2019-04-19 → 2019-10-29), all to L2. One subagent per video wrote its own
+`wiki/sources/` page; coordinator did ledger/index/log. **8 ingested, 0 skipped,
+0 no-captions, 0 dup.** Captions fetched clean (no yt-dlp failures / rate limits).
+
+Batch: Retro Tech: Game Boy (yt-Oy8zSYKkczI) · Dope Tech: The Probe Lens! (yt-jFZ0MFYup-o) ·
+The Last (and First) Folding Phone! (yt-ROkXM3csNWY) · 5G: Explained! (yt-_CTUs_2hq6Y) ·
+Dope Tech #20: Dual Screen Tech! (yt-XoH8no1MQWA) · iPhone 11 Review: Too Easy!
+(yt-OoY7zp8GkLI) · This Is What Happens When You Re-Upload a YouTube Video 1000 Times!
+(yt-JR4KHfqw-oE) · AirPods Pro Unboxing & Impressions! (yt-MrUhzYdcX6w).
+
+**Attribution — one collab episode handled per SUBJECT.md rules:** *Retro Tech: Game Boy*
+(yt-Oy8zSYKkczI) is not a solo piece but a mini-documentary — Marques narrates, but Casey
+Neistat and several tech historians plus blindfold-test participants appear on camera. Marked
+`attribution: interview`; every guest line quarantined to a non-persona "Unattributed /
+other-speaker material" section, only Marques's narration and reactions entered the voice
+bank. The other seven are solo, fully Marques-attributed. Caption-garble fixes logged per page
+(Royole FlexPai captioned "Royal flex pie"/"Flex PI"; Laowa probe lens "probe blends", "M&Ms",
+"B&H"; deployed Verizon mmWave really ~28/39 GHz vs. spoken 20–96 GHz range flagged; Dope Tech
+#20 product names — ASUS ZenBook Pro Duo, LG V50, Sony WF-1000XM3/RX100 VII, Logitech MX
+Master 3, Shure SM7B — normalized).
+
+Pipeline after: **@mkbhd P1 71** (was 79), P2 1551, P3 38. Other channels unchanged
+(@WaveformClips P1:2 held for dedup, @Waveform 292, @AutoFocus 120, @TheStudio 104).
+Ingested L2=48, L3=0. Shorts open 363. Synthesis debt **6/10** (no checkpoint due).
+Next iteration: continue Stage B on @mkbhd P1, oldest-first.
+
+Synthesis notes: 5 of 8 pages carry ★ L3-candidate material. Durable threads sharpened:
+(1) a **minimalism / "withered technology" lineage** (Game Boy's cheap-durable-simple design
+beating more powerful rivals → a straight line to Marques's later iPhone/"do less, better"
+doctrine); (2) the **"being first doesn't matter if it sucks"** thesis + a **fold-in-beats-fold-out**
+form-factor stance (Royole FlexPai as the cautionary first foldable); (3) an **early-adopter
+verdict template** on bleeding-edge tech ("glimpse of the future, not ready, don't pay extra
+yet" — 2019 5G, mmWave speed-vs-range brute-force node-density model); (4) **"a company can
+shoot itself in the foot on features"** framing (Canon vs. Sony) surfacing again in Dope Tech
+#20; (5) **branding skepticism** — "everything high-end is just called Pro now" (AirPods Pro).
+Also a reusable **price-to-value review lens** (iPhone 11 "easy to recommend, most people buy
+the base iPhone"; standing low-res-LCD critique) and a **production-craft demonstration**
+(1000x re-upload experiment: generational YouTube re-encode loss — 720p lock-in, magenta drift,
+audio drift). All persona-bound material is Marques-attributed and attribution-clean.

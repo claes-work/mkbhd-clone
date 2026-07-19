@@ -46,6 +46,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2019-02-12 — [[2019-02-12-yt-4mxXdCUXSSs|Talking Tech & Saving the World with Bill Gates!]] ★ · ev-cars, tech-industry-commentary, creator-business _(interview; Bill Gates guest — quarantined)_
 - 2019-02-20 — [[2019-02-20-yt-t9R7xx0joOU|Samsung Galaxy S10 Impressions!]] ★ · tech-reviews, smartphones
 - 2019-04-18 — [[2019-04-18-yt-vtqtyyGZvXM|The Broken Galaxy Folds: Explained!]] ★ · tech-reviews, smartphones, tech-industry-commentary
+- 2019-04-19 — [[2019-04-19-yt-Oy8zSYKkczI|Retro Tech: Game Boy]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(documentary; Casey Neistat + historians guests — quarantined)_
+- 2019-05-17 — [[2019-05-17-yt-jFZ0MFYup-o|Dope Tech: The Probe Lens!]] · production-filmmaking, consumer-tech-culture
+- 2019-07-20 — [[2019-07-20-yt-ROkXM3csNWY|The Last (and First) Folding Phone!]] ★ · smartphones, tech-reviews
+- 2019-08-19 — [[2019-08-19-yt-_CTUs_2hq6Y|5G: Explained!]] ★ · tech-industry-commentary, smartphones, consumer-tech-culture
+- 2019-09-06 — [[2019-09-06-yt-XoH8no1MQWA|Dope Tech #20: Dual Screen Tech!]] ★ · consumer-tech-culture, tech-reviews, smartphones, production-filmmaking
+- 2019-09-30 — [[2019-09-30-yt-OoY7zp8GkLI|iPhone 11 Review: Too Easy!]] · tech-reviews, smartphones
+- 2019-10-11 — [[2019-10-11-yt-JR4KHfqw-oE|This Is What Happens When You Re-Upload a YouTube Video 1000 Times!]] · production-filmmaking, consumer-tech-culture
+- 2019-10-29 — [[2019-10-29-yt-MrUhzYdcX6w|AirPods Pro Unboxing & Impressions!]] ★ · tech-reviews, consumer-tech-culture
 
 ## @Waveform
 
@@ -64,4 +72,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_40 videos ingested (L2) so far._
+_48 videos ingested (L2) so far._
