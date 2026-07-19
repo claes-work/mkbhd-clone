@@ -35,8 +35,17 @@ COLS = [
 # BOOTSTRAP HOOK: /clone-setup appends subject-specific markers here —
 #   P3_EXTRA: guest/Q&A formats named after the subject (e.g. "ask alex|asks alex")
 #   P1_EXTRA: landmark markers — book titles, signature courses, company origin stories
-P3_EXTRA: list[str] = []
-P1_EXTRA: list[str] = []
+P3_EXTRA: list[str] = [
+    # MKBHD ensemble / Q&A formats:
+    r"waveform", r"q ?& ?a", r"q and a", r"ask (marques|mkbhd)", r"mailbag", r"podcast",
+]
+P1_EXTRA: list[str] = [
+    # Landmarks: signature series, marquee interviews, channel origin.
+    r"retro tech", r"dope tech", r"smartphone awards",
+    r"blind (smartphone|camera) (test|comparison)",
+    r"obama|bill gates|elon|\bmusk\b|tim cook|sundar|pichai|jensen|zuckerberg",
+    r"first video", r"channel anniversary", r"state of (smartphones|reviews|youtube)",
+]
 
 P3_RE = re.compile(
     "|".join([
