@@ -1124,3 +1124,23 @@ videos" (ViStart) + "send me a message and i'll make it" (Volume Mixer) confirm 
 audience-request loop; (5) **gear-origin datapoint** — 2009 rig on record: 4 GB RAM, 7200
 RPM HDD. Both ★ items flagged as L3-candidates for the next synthesis pass; do not
 inline-promote.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: Camtasia/CamStudio production-tooling cluster (Sidebar Gadgets / RocketDock icons / CamStudio hotkeys / Thunderbird RSS / Camtasia PowerPoint / first HD Test / OS X cursors request / command-prompt customize)
+
+Stage B P2 on @mkbhd (Marques-solo, cleanest attribution). 8 videos ingested → L2, all
+`attribution: solo` (single-speaker origin screencasts, age 15; no co-hosts/guests — no
+quarantine needed). Domains: consumer-tech-culture across all; production-filmmaking on
+the three Camtasia/CamStudio tooling videos. 8 ok, 0 no-captions, 0 skipped, 0 dup, 0 429.
+
+Synthesis notes: two ★ L3-candidates worth the next pass — (1) **first-HD-test milestone**
+(`fa1Lr-W2aBU`, "HD Test 1"): earliest documented pursuit of upload/production quality —
+"i'll upload it and see if i get that watching hd link that we all dream of" — a genuine
+origin-of-the-craft moment for production-filmmaking/persona; (2) **earliest red-on-black
+aesthetic** (`E63fdjyck2k`, command-prompt): sets CMD + WebKit to red text on black for
+"very sharp contrast" — a *candidate* (not asserted) seed of the later crimson-red brand;
+flag the connection, do not claim causation. Minor recurring threads (not new): the
+audience-request content loop repeats (CamStudio-hotkeys editing-efficiency rationale;
+OS X cursors is a direct viewer-fix follow-up; "PM me for a tutorial" across the batch),
+and a self-description datapoint — Marques frames his early output as "i do a lot of
+software reviews" (Thunderbird RSS). Both ★ items flagged as L3-candidates for the next
+synthesis pass; do not inline-promote.

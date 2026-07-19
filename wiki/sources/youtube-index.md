@@ -55,6 +55,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-04 — [[2009-02-04-yt-NrOWLTqRLc8|HD Tutorial: Safari 4 Webkit]] ★ · consumer-tech-culture, tech-reviews
 - 2009-02-04 — [[2009-02-04-yt-ADK6fdkWiBY|HD Tutorial: Vistart]] · consumer-tech-culture
 - 2009-02-05 — [[2009-02-05-yt-SkXXq2cOAso|HD Tutorial: Volume App]] · consumer-tech-culture
+- 2009-02-05 — [[2009-02-05-yt-h-cjcw4nbmA|HD Tutorial: Sidebar Gadgets]] · consumer-tech-culture
+- 2009-02-06 — [[2009-02-06-yt-HSVtaA6U2Nk|HD Tutorial: Change Rocket Dock Icons]] · consumer-tech-culture
+- 2009-02-06 — [[2009-02-06-yt-kfcv0s8Qztg|HD Tutorial: Camstudio Hotkeys]] · consumer-tech-culture, production-filmmaking
+- 2009-02-07 — [[2009-02-07-yt-aVjWNyGp2l0|HD Tutorial: Mozilla Thunderbird RSS]] · consumer-tech-culture
+- 2009-02-07 — [[2009-02-07-yt-Z2mB1iMm15k|HD Tutorial: Camtasia Powerpoint Integration]] · consumer-tech-culture, production-filmmaking
+- 2009-02-07 — [[2009-02-07-yt-fa1Lr-W2aBU|HD Test 1: Camtasia Studio 6]] ★ · production-filmmaking, consumer-tech-culture
+- 2009-02-08 — [[2009-02-08-yt-DmqmZ_ORPbc|HD Tutorial: Get OS X Cursors in Windows (Request)]] · consumer-tech-culture
+- 2009-02-08 — [[2009-02-08-yt-E63fdjyck2k|HD Tutorial: Customize Command Prompt]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -202,4 +210,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_171 videos ingested (L2) so far._
+_179 videos ingested (L2) so far._
