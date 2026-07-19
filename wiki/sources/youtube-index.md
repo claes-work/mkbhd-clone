@@ -107,6 +107,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2023-07-29 — [[2023-07-29-yt-UJeSWbR6W04|Tesla Solar Roof Review: Was It Worth It?]] ★ · ev-cars, consumer-tech-culture, tech-industry-commentary, creator-business _(Eight Sleep segment sponsored)_
 - 2023-09-13 — [[2023-09-13-yt-enR58PYHaWw|iPhone 15/15 Pro Impressions: Not Just USB-C!]] · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary _(Anker sponsored)_
 - 2023-09-28 — [[2023-09-28-yt-cBpGq-vDr2Y|iPhone 15 Pro Review: The Good, The Bad, & The Ugly!]] ★ · smartphones, tech-reviews, production-filmmaking, consumer-tech-culture _(Eight Sleep sponsored)_
+- 2023-12-01 — [[2023-12-01-yt-XxOh12Uhg08|Driving Tesla Cybertruck: Everything You Need to Know!]] ★ · ev-cars, tech-reviews, tech-industry-commentary, consumer-tech-culture _(first drive / 2nd impressions, not a review; Ridge sponsored)_
+- 2023-12-19 — [[2023-12-19-yt-JkRXhe3KaPE|Smartphone Awards 2023!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(annual awards format)_
+- 2024-01-26 — [[2024-01-26-yt-XaqOejIaFgM|Samsung Galaxy S24 Ultra Review: Why Buy Anything Else?]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary _(Galaxy AI; Ridge sponsored)_
+- 2024-01-31 — [[2024-01-31-yt-dtp6b76pMak|Using Apple Vision Pro: What It's Actually Like!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary, production-filmmaking _(hands-on; part 1 of 2)_
+- 2024-04-26 — [[2024-04-26-yt-1KEtxTQUzxY|I Tried a Disney Secret Project!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(Dope Tech; Disney HoloTile exclusive; Lanny Smoot context)_
+- 2024-06-12 — [[2024-06-12-yt-pMX2cQdPubk|Talking Tech and AI with Tim Cook!]] ★ · tech-industry-commentary, consumer-tech-culture, creator-business _(interview; Tim Cook guest — quarantined)_
+- 2024-09-10 — [[2024-09-10-yt-9lx11dy9J30|iPhone 16/Pro Impressions: The Great Separation!]] ★ · smartphones, tech-reviews, tech-industry-commentary, consumer-tech-culture _(Anker sponsored)_
 
 ## @Waveform
 
@@ -125,4 +132,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_101 videos ingested (L2) so far._
+_108 videos ingested (L2) so far._

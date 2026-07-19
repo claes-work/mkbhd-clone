@@ -683,3 +683,60 @@ analysis lens — new features are either seen-elsewhere or ecosystem-locked (iP
 (6) the **"was it worth it?" long-term-review format** + EV/sustainability "bleeding edge =
 expensive & rapidly evolving" framing (Solar Roof) → ev-cars. Attribution reminder for the pass:
 keep Doctor Mike's medical reasoning out of persona data.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 7) — P1 solo 2023–24: Cybertruck / Smartphone Awards 2023 / S24 Ultra / Vision Pro / Disney HoloTile / iPhone 16 + Tim Cook interview
+
+Stage B ingest, @mkbhd P1 oldest-first, batch of 8 fetched → 7 ingested to L2, 1 left open (429).
+New source pages (all L2):
+- 2023-12-01 **Cybertruck** first-drive / 2nd impressions (ev-cars) — steer-by-wire + rear-wheel
+  steer standout; "best in-car software that's not CarPlay/Android Auto"; explicitly NOT a review;
+  Ridge sponsored; **solo**.
+- 2023-12-19 **Smartphone Awards 2023** (smartphones) — annual awards format; MVP Pixel 8, Camera
+  King iPhone 15 Pro; plateau + small-phone-eulogy theses; **solo**.
+- 2024-01-26 **Galaxy S24 Ultra review** (smartphones) — "why buy anything else"; utility-vs-
+  aesthetics camera framework; Galaxy AI / Circle to Search; "they need each other" (Samsung↔Google
+  ↔Apple); 7-yr updates; Ridge sponsored; **solo**.
+- 2024-01-31 **Using Apple Vision Pro** (tech-reviews) — part 1 of 2; "it's a VR headset, spatial
+  computing is semantics"; killer app = the ecosystem; Mac Virtual Display; Personas / uncanny
+  valley; first-person darker-skin-tone external-eyes observation; **solo**.
+- 2024-04-26 **Disney HoloTile** (consumer-tech-culture) — Dope Tech-style exclusive; VR
+  locomotion / motion-sickness (eyes-vs-inner-ear) explanation; **Lanny Smoot = context entity**;
+  **solo**.
+- 2024-06-12 **Talking Tech and AI with Tim Cook** (tech-industry-commentary) — **interview,
+  attribution-gated**: Tim Cook is the guest, all his statements **quarantined** and excluded from
+  persona; only Marques's framing/questions/self-reference (his prior "Apple never says AI" piece;
+  "phone vs eyes" attention theme; blind-ranking format) feed the persona.
+- 2024-09-10 **iPhone 16/Pro impressions** (smartphones) — "**The Great Separation**" thesis
+  (hardware bump vs AI-software shipping later); restates the **golden rule: never buy for a
+  promised future update**; 60 Hz-on-a-flagship gripe; AirPods Max "fake upgrade"; Anker sponsored;
+  **solo**.
+
+**Attribution note:** one **interview** in the batch (Tim Cook, WWDC 2024) handled per SUBJECT.md
+ensemble/guest rules — speaker labels are clear in the transcript, so attribution is
+high-confidence; Cook quarantined, only Marques trains the persona. Context entities newly
+referenced: **Tim Cook / Apple** (interview guest), **Lanny Smoot / Disney Imagineering**
+(HoloTile inventor), plus creator cameos **iJustine + Brian Tong** (Vision Pro FaceTime demo) —
+all context, none persona data. Ledger domains/notes set per video; youtube-index + index counts
+bumped 101 → 108.
+
+**Rate limits:** **1 × 429** this iteration (`yt-ehv3zQAa9zM` AirTags — 429'd again as flagged;
+left open with retry note, matching the iPhone SE 2020 precedent so it doesn't block auto-select).
+7/8 fetched OK; 3-consecutive safety rail not tripped. No yt-dlp errors.
+
+Synthesis notes: nothing landmark inline-promoted (debt now **5 batches** since synthesis pass 1;
+checkpoint at 10). Genuinely-new durable material flagged ★ for the next synthesis pass:
+(1) **"The Great Separation"** (hardware vs AI-software decoupling) + the restated **golden rule —
+never buy for a promised future software update** (iPhone 16) → beliefs/tech-reviews;
+(2) the **utility-vs-aesthetics camera-review framework** and **"they need each other"**
+(Samsung↔Google↔Apple) + **"best argument against a $1,300 phone is that it's a $1,300 phone"**
+(S24 Ultra) → smartphones/tech-reviews;
+(3) **"Vision Pro is a VR headset; spatial computing is semantics"**, **"killer app = the
+ecosystem"**, and the **first-person darker-skin-tone external-eyes** observation (Vision Pro) →
+tech-reviews/consumer-tech-culture;
+(4) the **plateau + small-phone eulogy + "hard to buy a bad phone now"** theses and the
+Camera-King-vs-blind-test divergence (Smartphone Awards 2023) → smartphones;
+(5) the **VR locomotion / motion-sickness** (eyes-vs-vestibular) teaching frame (Disney HoloTile) →
+consumer-tech-culture;
+(6) **Tesla has the best in-car software (non-CarPlay/Android Auto)** + the **"impressions ≠
+review"** discipline (Cybertruck) → ev-cars/tech-reviews.
+Attribution reminder for the pass: keep **Tim Cook's** answers out of persona data (interview guest).
