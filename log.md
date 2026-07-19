@@ -740,3 +740,33 @@ consumer-tech-culture;
 (6) **Tesla has the best in-car software (non-CarPlay/Android Auto)** + the **"impressions ≠
 review"** discipline (Cybertruck) → ev-cars/tech-reviews.
 Attribution reminder for the pass: keep **Tim Cook's** answers out of persona data (interview guest).
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 5) — P1 solo: Smartphone Awards 2024 & 2025 / iPhone 17-Air / Dope Tech Revisited / Xiaomi SU7
+Ingested 5 open P1 long-form @mkbhd rows to L2 (five `wiki/sources/` pages; index + youtube-index
+bumped 108→113). Written sequentially by the coordinator (no sub-agents this run). All five are
+**solo, Marques-fronted → persona/voice data**; no interview/collab/ensemble attribution needed.
+Selection also auto-marked two 2008 golf P2 rows `no-captions` (yt-fjhmnWFsr3s, yt-PD5igzFB8iY) and
+left one P1 open on a yt-dlp error (**yt-k_vD2S49INE "Retro Tech: Wearables"** — 1 error, not a rate-
+limit streak). The 2020 iPhone SE / AirTags P1 rows were already excluded (prior 429s), untouched.
+Pages: 2024-12-19 Smartphone Awards 2024 (10th; S24 Ultra PotY) · 2025-09-10 iPhone 17/Pro/Air
+impressions · 2025-11-21 Dope Tech Revisited · 2025-12-05 Xiaomi SU7 "are we cooked?" · 2025-12-08
+Smartphone Awards 2025 (iPhone 17 MVP + iPhone 16 Bust).
+Synthesis notes: rich, mostly-new — all five flagged ★ L3-candidates. (1) **Smartphone Awards
+philosophy**: MVP = "the story that represents the year," explicitly NOT the best-specs phone; the
+recurring "phones are all big now / death of the small flagship" thesis (Note-4-vs-modern stat);
+the **diminishing-returns value framework**; the "boring = elite" Scottie-Scheffler framing of the
+S24 Ultra → smartphones/tech-reviews. (2) **2024→2025 arc to reconcile**: iPhone camera streak he
+called "closer than ever" to being broken in 2024 IS broken in 2025 (Oppo Find X9 Pro); the base-
+iPhone-should-be-complete critique finally resolved (iPhone 17 = both Most Improved AND MVP, while
+stripped iPhone 16 = Bust). (3) **iPhone Air "red flags" + "subtract the emotions and it's the worst
+one"** + the **"texts from friends / compress to one sentence"** explainer method + the MacBook-Air
+first-gen-category-bet analogy → tech-reviews/voice. (4) **Production-craft confession**: MKBHD shot
+manual-focus on RED (weak AF) + "the tool should enable the creative idea" + "Porsche 911 of X"
+framework for iteratively-perfected products (Dope Tech) → production-filmmaking/beliefs. (5) **EV**:
+the "are we cooked?" Chinese-EV thesis + "normal parts, elite integration" + "competition rising
+raises the ceiling for all EVs" + "multiple personalities is the superpower of electric cars"
+(Xiaomi SU7) → ev-cars. (6) **Industry read**: silicon-carbon "bimodal battery distribution"
+(7,000-8,000 mAh haves vs Apple/Samsung 5,000-5,500 have-nots), 2025 as the battery-leap year.
+Debt now 6 batches since synthesis pass 1 (checkpoint at 10). Next iteration: 1 P1 left on @mkbhd
+(Retro Tech Wearables, retry the errored fetch); if it treats the main-channel P1 era as complete,
+move to @WaveformClips P1 (×2) or @AutoFocus/@Waveform P2, else Stage S at the 10-batch checkpoint.

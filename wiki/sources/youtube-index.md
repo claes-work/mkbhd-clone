@@ -114,6 +114,11 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2024-04-26 — [[2024-04-26-yt-1KEtxTQUzxY|I Tried a Disney Secret Project!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(Dope Tech; Disney HoloTile exclusive; Lanny Smoot context)_
 - 2024-06-12 — [[2024-06-12-yt-pMX2cQdPubk|Talking Tech and AI with Tim Cook!]] ★ · tech-industry-commentary, consumer-tech-culture, creator-business _(interview; Tim Cook guest — quarantined)_
 - 2024-09-10 — [[2024-09-10-yt-9lx11dy9J30|iPhone 16/Pro Impressions: The Great Separation!]] ★ · smartphones, tech-reviews, tech-industry-commentary, consumer-tech-culture _(Anker sponsored)_
+- 2024-12-19 — [[2024-12-19-yt-E76CUtSHMrU|Smartphone Awards 2024!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(10th annual; S24 Ultra Phone of the Year)_
+- 2025-09-10 — [[2025-09-10-yt-idEAABFzpfg|iPhone 17/Pro/Air Impressions: Spot the Red Flags!]] ★ · smartphones, tech-reviews, tech-industry-commentary _(Ridge sponsored)_
+- 2025-11-21 — [[2025-11-21-yt-RvP-uVNwnXo|Dope Tech: STILL so good!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews _(Dope Tech Revisited; Nikon ZR / RED; Google sponsored)_
+- 2025-12-05 — [[2025-12-05-yt-Mb6H7trzMfI|Driving Xiaomi's Electric Car: Are we Cooked?]] ★ · ev-cars, tech-industry-commentary, consumer-tech-culture _(Xiaomi SU7; Ridge sponsored)_
+- 2025-12-08 — [[2025-12-08-yt-sfyL4BswUeE|Smartphone Awards 2025!]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary _(iPhone 17 MVP; iPhone 16 Bust)_
 
 ## @Waveform
 
@@ -132,4 +137,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_108 videos ingested (L2) so far._
+_113 videos ingested (L2) so far._
