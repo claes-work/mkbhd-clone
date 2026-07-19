@@ -1,6 +1,6 @@
 ---
 type: source-subindex
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # YouTube Sources Sub-Index
@@ -24,6 +24,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-01-30 — [[2009-01-30-yt-h84bR62zg3E|HQ Tutorial: Rocket Dock Application]] · consumer-tech-culture
 - 2009-01-30 — [[2009-01-30-yt-hntI5lbDv9E|Camstudio Clarity]] · consumer-tech-culture, creator-business, production-filmmaking
 - 2009-01-30 — [[2009-01-30-yt-0hNd56lIAxY|Tutorial: Camstudio HQ]] · consumer-tech-culture, creator-business, production-filmmaking
+- 2009-01-30 — [[2009-01-30-yt-oP41yum-wFg|HQ Tutorial: CCleaner]] · consumer-tech-culture, tech-reviews
+- 2009-01-31 — [[2009-01-31-yt-4vwd_pQHUBE|How to Upload HD Youtube Videos]] ★ · production-filmmaking, creator-business, consumer-tech-culture
+- 2009-01-31 — [[2009-01-31-yt-reI8CsNd88Y|HD Tutorial: Aerosnap for Vista]] · consumer-tech-culture
+- 2009-01-31 — [[2009-01-31-yt-SWSqBFGT50A|Unboxed: NZXT Cryo LX [HD] (first hardware unboxing)]] ★ · consumer-tech-culture, tech-reviews
+- 2009-02-01 — [[2009-02-01-yt-J_RVM09Lefg|HD Tutorial: Add the 'New Tab' button to Firefox]] · consumer-tech-culture
+- 2009-02-01 — [[2009-02-01-yt-zArasubfsPI|HD Tutorial: Make your own Youtube Avatar]] · consumer-tech-culture, creator-business
+- 2009-02-01 — [[2009-02-01-yt-DMpoZNJmdpE|HD Tutorial: Change Your Login Screen]] · consumer-tech-culture
+- 2009-02-01 — [[2009-02-01-yt-RTxrS1lLwjY|HD Review: Microsoft Wireless 6000 Mouse]] ★ · tech-reviews, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -171,4 +179,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_140 videos ingested (L2) so far._
+_148 videos ingested (L2) so far._

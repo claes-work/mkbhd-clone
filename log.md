@@ -990,3 +990,28 @@ traction / no-warm-up upsides; home charging neutralizes daily loss) — strong 
 (Model S Plaid ↔ Corvette ZR1); (5) the signature **"what's stopping me from recommending it?"** review
 framework and the running **"best software that's not CarPlay"** ranking (Tesla/Rivian/Polestar);
 (6) **depreciation-aware buying logic** on expensive performance EVs (buy the better platform-twin / used).
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: CCleaner / HD-upload workflow / Aerosnap / first hardware unboxing (NZXT Cryo LX) / Firefox New-Tab / PowerPoint avatar / Vista logon / Microsoft Mouse 6000
+**Stage B, P2 — cleanest-attribution channel (@mkbhd, Marques-solo, no co-hosts to quarantine).**
+Ingested 8 origin-era @mkbhd videos (2009-01-30 → 2009-02-01), all solo screencasts/reviews by a
+15-year-old Marques → `attribution: solo`, all content is persona/voice data (no per-line quarantine).
+Videos: CCleaner software walkthrough (`oP41yum-wFg`); **How to Upload HD Youtube Videos** (`4vwd_pQHUBE`,
+★); Aerosnap-for-Vista tutorial (`reI8CsNd88Y`); **Unboxed: NZXT Cryo LX** — self-declared *first hardware
+unboxing* (`SWSqBFGT50A`, ★); Firefox New-Tab-button tutorial (`J_RVM09Lefg`); PowerPoint YouTube-avatar
+tutorial (`zArasubfsPI`); Vista logon-screen tutorial (`DMpoZNJmdpE`); **HD Review: Microsoft Wireless 6000
+Mouse** (`RTxrS1lLwjY`, ★, ~304K views).
+
+**Bookkeeping:** 8 ledger rows → L2; 8 rows inserted into `wiki/sources/youtube-index.md` @mkbhd section
+(date order, after 2009-01-30 block, ahead of 2013-10-12); footer 140 → 148; `index.md` count 140 → 148.
+No staging to delete. **Rate limits: 0 (8 ok, 0 retry/error — no 429s).** No fabrication, all English.
+
+Synthesis notes: debt counter now 2 batches (checkpoint at 10). Genuinely-new origin material worth
+promoting at next checkpoint — (1) **"How to Upload HD Youtube Videos" is the earliest explicit statement
+of the HD/production-quality obsession that names the channel** (CamStudio→Movie Maker→720p pipeline) —
+strong `production-filmmaking`/`creator-business` biography anchor; (2) the **NZXT Cryo LX = self-declared
+first hardware unboxing** and **Microsoft Mouse 6000 = early two-part hardware+software review structure**
+— origin markers for the unboxing and review-methodology formats (`tech-reviews`); (3) **branding/bio
+breadcrumbs**: the **"MKB" initials** (Marques Keith Brownlee) placed on his first PowerPoint avatar, and
+the self-reported detail that his prior avatar was "a picture of me playing golf"; (4) recurring early
+tells already present at age 15 — side-by-side comparison instinct, lived-with testing, and "download
+drivers from the manufacturer's website" practical-tip habit. All L2-only here; not inlined.
