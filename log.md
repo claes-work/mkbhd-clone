@@ -48,3 +48,46 @@ AI/provenance labels** and **de-monetize stolen short-form** stances; and the
 **"next big thing after the iPhone"** AI-hardware framing. Most are attribution-to-confirm
 against his solo-channel audio before promotion. Guest-led Retro Tech episode: no
 persona value.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 8) — P1 solo main-channel batch
+
+Stage B (P1-first) on **@mkbhd**, the main solo tech-review channel — the cleanest
+Marques-attributed persona corpus. Batch size 8: drained the 8 oldest open P1 rows
+(2013–2016 era). All 8 had English captions; **0 no-captions, 0 duplicates, 0 skipped,
+no yt-dlp rate-limiting**. Second real ingest batch of the clone (16 L2 total now).
+
+Videos (→ `wiki/sources/`): 2013-10-12 Apple iPhone 5s Review · 2014-08-31 The Truth
+About Beats by Dre · 2014-12-08 Smartphone Awards: 2014 · 2015-10-09 Dope Tech #1:
+Weapon · 2015-11-03 Dope Tech #2: Customs · 2015-12-19 Smartphone Awards: 2015 ·
+2015-12-30 Dope Tech: Best of 2015 · 2016-01-08 Dope Tech: CES 2016.
+
+**Attribution (solo channel).** Unlike the @Waveform ensemble batch, these are
+single-presenter @mkbhd videos: Marques narrates throughout, so every page is
+`attribution: solo` and the full transcript is Marques voice/persona data — no per-line
+quarantine needed. Watched for guests/collab: none. The CES 2016 show-floor episode was
+checked specifically for on-mic booth reps/demoers — there are none (Marques references
+other YouTubers but no one else is quoted), so it too stays solo. All 8 pages carry ★
+L3-candidate material.
+
+Ledger: 8 rows @mkbhd L0→L2. Open after: **P1 105** (@mkbhd 103 + @WaveformClips 2),
+P2 ~2667, shorts 363. @WaveformClips still holds its 2 fresh-upload P1 clips —
+intentionally left open (clips must be deduped against parent @Waveform episodes, not yet
+ingested). Ingest batches since last synthesis: 2 (checkpoint at 10 — no synthesis due).
+
+Synthesis notes: 8 of 8 pages carry ★ L3-candidate material (synthesis debt), all needing
+promotion into persona/topics at the next checkpoint. Durable persona signal captured:
+his **earliest solo review methodology** (iPhone 5s — Touch ID/M7/camera verdict framing,
+Android-vs-iPhone even-handedness); the **"you're mostly paying for brand/marketing, and
+that's not automatically wrong"** consumer-value framework (Beats by Dre, margins vs
+perceived value); the founding of the **annual Smartphone Awards** format plus 2014 and
+2015 category winners, and the award CRITERIA as durable review values (battery over
+thinness, no-compromise flagships, value/pricing as first-class, stock-Android preference);
+the launch of the **Dope Tech** gear-showcase series and his **red-and-black studio
+aesthetic** / "Team Crispy" image-quality identity + RED Weapon/Dragon and the Sigma
+18-35 f/1.8 as his signature lens (production-filmmaking) and early dbrand/ColorWare vendor
+ties; his dislike of **"year of the X"** framing and early conviction on **USB-C
+inevitability** and **Tesla fleet-learning Autopilot** (Best of 2015); and his **"CES = a
+glimpse of the future, not a shopping list" / hardware-ahead-of-its-content** trade-show
+philosophy plus an early **Chevy Bolt as first real Tesla rival** EV take (CES 2016).
+These are the first main-channel persona anchors and should corroborate/date-stamp the
+@Waveform debt at the next synthesis pass.

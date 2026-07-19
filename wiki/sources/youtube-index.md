@@ -9,6 +9,20 @@ All ingested YouTube video source pages, grouped by channel, in publication-date
 **★ = L3-candidate** (flagged for promotion into topics/persona during a synthesis
 pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
+## @mkbhd
+
+_Main solo tech-review channel — Marques-fronted. These are solo videos, so all content
+is Marques-attributed (persona/voice data); no per-line quarantine needed._
+
+- 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
+- 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
+- 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
+- 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
+- 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
+- 2015-12-19 — [[2015-12-19-yt-UBuVR8_Mybw|Smartphone Awards: 2015!]] ★ · smartphones, tech-reviews, consumer-tech-culture
+- 2015-12-30 — [[2015-12-30-yt-X3DmlFkC2cI|Dope Tech: Best of 2015!]] ★ · consumer-tech-culture, smartphones, tech-industry-commentary, ev-cars, creator-business
+- 2016-01-08 — [[2016-01-08-yt-0hUxIO09hPA|Dope Tech: CES 2016!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews, smartphones, ev-cars
+
 ## @Waveform
 
 _Ensemble podcast (Marques + co-hosts Andrew Manganelli, David Imel, Adam Molina, guests).
@@ -26,4 +40,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_8 videos ingested (L2) so far._
+_16 videos ingested (L2) so far._
