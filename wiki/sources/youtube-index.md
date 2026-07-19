@@ -22,6 +22,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2015-12-19 — [[2015-12-19-yt-UBuVR8_Mybw|Smartphone Awards: 2015!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-12-30 — [[2015-12-30-yt-X3DmlFkC2cI|Dope Tech: Best of 2015!]] ★ · consumer-tech-culture, smartphones, tech-industry-commentary, ev-cars, creator-business
 - 2016-01-08 — [[2016-01-08-yt-0hUxIO09hPA|Dope Tech: CES 2016!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews, smartphones, ev-cars
+- 2016-02-12 — [[2016-02-12-yt-dU1YfSZDClE|Dope Tech: Crazy Speakers!]] ★ · tech-reviews, consumer-tech-culture
+- 2016-07-14 — [[2016-07-14-yt-2b1VPqCrk2c|Dope Tech: Lightning Headphones!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary
+- 2016-08-30 — [[2016-08-30-yt-BUsL-IxPquA|Dope Tech: Boosted Board 2!]] ★ · tech-reviews, ev-cars, consumer-tech-culture
+- 2016-09-14 — [[2016-09-14-yt-J5HtSy5bATk|iPhone 7 Unboxing: Jet Black vs Matte Black!]] ★ · tech-reviews, smartphones, consumer-tech-culture
+- 2016-10-08 — [[2016-10-08-yt-xQLb_uwWzj8|Dope Tech: Self-Lacing Nike Mag!]] · tech-reviews, consumer-tech-culture
+- 2016-10-11 — [[2016-10-11-yt-J8esUVOF-G4|Dope Tech: 8K RED Epic-W Unboxing!]] ★ · production-filmmaking, tech-reviews, creator-business
+- 2016-12-01 — [[2016-12-01-yt-C9Plog9I1JY|Dope Tech: Self Lacing Nike HyperAdapt 1.0!]] ★ · tech-reviews, consumer-tech-culture
+- 2016-12-17 — [[2016-12-17-yt-H3ZDtArXS6I|Dope Tech: Custom LED Clock!]] ★ · tech-reviews, consumer-tech-culture, creator-business
 
 ## @Waveform
 
@@ -40,4 +48,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_16 videos ingested (L2) so far._
+_24 videos ingested (L2) so far._

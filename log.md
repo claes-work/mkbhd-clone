@@ -91,3 +91,45 @@ glimpse of the future, not a shopping list" / hardware-ahead-of-its-content** tr
 philosophy plus an early **Chevy Bolt as first real Tesla rival** EV take (CES 2016).
 These are the first main-channel persona anchors and should corroborate/date-stamp the
 @Waveform debt at the next synthesis pass.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 8) — P1 solo Dope Tech / iPhone 7 batch
+
+Stage B (P1-first) on **@mkbhd**, the main solo tech-review channel. Batch size 8:
+drained the next 8 oldest open P1 rows (all 2016) — seven **Dope Tech** episodes plus the
+**iPhone 7 unboxing**. All 8 had English captions; **0 no-captions, 0 duplicates, 0
+skipped, no yt-dlp rate-limiting**. Third real ingest batch of the clone (24 L2 total now).
+
+Videos (→ `wiki/sources/`): 2016-02-12 Dope Tech: Crazy Speakers · 2016-07-14 Dope Tech:
+Lightning Headphones · 2016-08-30 Dope Tech: Boosted Board 2 · 2016-09-14 iPhone 7
+Unboxing: Jet Black vs Matte Black · 2016-10-08 Dope Tech: Self-Lacing Nike Mag ·
+2016-10-11 Dope Tech: 8K RED Epic-W Unboxing · 2016-12-01 Dope Tech: Self Lacing Nike
+HyperAdapt 1.0 · 2016-12-17 Dope Tech: Custom LED Clock.
+
+**Attribution (solo channel).** All eight are single-presenter @mkbhd videos: Marques
+narrates throughout, so every page is `attribution: solo` and the full transcript is
+Marques voice/persona data — no per-line quarantine. Checked each for on-mic guests/
+collaborators: none. People merely *referenced* but never heard on-mic (John of the "TLD"
+channel re: the Orpheus and the HyperAdapt giveaway; the friend "Sam" who lent gear; the
+person who lent the Nike Mag) were correctly left un-quarantined. The "Custom LED Clock"
+turned out to be an off-the-shelf **LaMetric Time** he configures himself, not a
+maker-built commission — still solo. No interview/collab episodes in this batch.
+
+Ledger: 8 rows @mkbhd L0→L2. Open after: **P1 97** (@mkbhd 95 + @WaveformClips 2),
+P2 ~2667 long-form, shorts 363. @WaveformClips still holds its 2 fresh-upload P1 clips —
+intentionally left open (clips dedupe against parent @Waveform episodes, not yet
+ingested). Ingest batches since last synthesis: 3 (checkpoint at 10 — no synthesis due).
+
+Synthesis notes: 7 of 8 pages carry ★ L3-candidate material (synthesis debt); Nike Mag is
+straight product coverage (no ★). Durable persona signal captured: his measured
+**pre-iPhone-7 headphone-jack stance** (Lightning Headphones — concedes a matched Lightning
+DAC can sound audibly better; objects on practical grounds, not audio quality) and the
+**iPhone 7 headphone-jack-removal position** a month later (pragmatic/adapter-focused — the
+$9 dongle replacement cost is the real friction, Lightning EarPods ≠ AirPods); his
+**"shoot high-resolution now / cameras are computers attached to sensors"** production-craft
+philosophy justifying 8K cinema-gear investment (RED Epic-W); the recurring **Dope Tech
+format** as his vehicle for aspirational/novelty hardware (self-lacing Nike Mag & HyperAdapt
+1.0, Boosted Board 2 e-mobility, high-end speakers, LaMetric clock); and his **jet-black vs
+matte-black finish verdict** (special-edition jet black = scratch/fingerprint-prone; matte
+= the "safe route") as an early durable review heuristic on premium finishes. All
+attribution-clean (solo) and ready to corroborate/date-stamp the earlier @mkbhd + @Waveform
+debt at the next synthesis pass.
