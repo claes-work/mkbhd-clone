@@ -586,3 +586,47 @@ priority — skin tones + latitude** stated first-person in the Pichai interview
 datable review value). (5) The **"straight line" withered-tech-to-today** framing recurs in
 Smart Homes (Clapper/X-10/Butler-In-A-Box → modern assistant; "sweet spot between the
 Clapper and the Nest"), reinforcing the Game Boy minimalism doctrine.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 7) — P1 solo 2022–23: iOS 16 / iPhone 14 Pro / Smartphone Awards 2022 + Dope Tech ×3
+Stage B (P1, oldest-first, 2022+ era) on @mkbhd, batch size 8. Prepared 8; **7 ingested to
+L2**, **1 skipped** — `yt-ehv3zQAa9zM` Apple AirTags Unboxing (left open, unchanged).
+
+Pages written (all L2, all `attribution: solo`): 2022-07-11 iOS 16 Hands-On (`WfVF-Ec4naQ`) ·
+2022-08-15 Dope Tech: Most Extreme Gaming Monitor (`MEiq0oCUb_8`) · 2022-09-14 iPhone 14 Pro
+Review (`SdLShOCvVeM`) · 2022-09-30 Dope Tech: Hottest Laptop Design (`bFBIrkzy_gM`) ·
+2022-12-27 Smartphone Awards 2022 (`5NjFuS_24v8`) · 2023-03-27 Dope Tech: Better than Expected
+(`O-buiiyp_xU`) · 2023-04-01 Smartphone Awards Midseason 2023 (`17VcGk_-Ghc`). youtube-index
+footer 87→94; index.md 87→94.
+
+**Attribution:** all 7 are solo, Marques-fronted — no interview/collab episodes with other
+speakers in this batch, so nothing quarantined. Two carry **disclosed paid sponsor segments**
+(Samsung Odyssey Ark in the gaming-monitor Dope Tech; EcoFlow in the laptop Dope Tech) — those
+praises are marked sponsor-context on the pages, not clean persona rankings. The 2023-04-01
+Midseason Awards is an **April Fool's satire** video: ingested (not skipped) as a light L2
+because it carries genuine citable signal, but the "S23 Ultra wins every category" bit is
+quarantined as a joke; only the real early-2023 S23 Ultra praise, the real Space Zoom moon
+skepticism, and the anti-misinformation PSA are persona-eligible (flagged on the page).
+
+**Premise correction (AirTags):** the task flagged `yt-ehv3zQAa9zM` (AirTags) as a
+"repeated-429" row to skip. In fact only the **iPhone SE 2020** row (`yt-aXfiyuUziY0`) carries
+the `429 rate-limited (repeated)` ledger marker, and the driver correctly did NOT draw it
+(older, auto-excluded). AirTags 429'd **once** last iteration and was left open for retry; this
+iteration its captions **fetched OK** and it is now ingestable. Per the explicit skip directive
+I left it untouched (still open, no page) rather than silently overriding — green-light it and
+the next Stage B batch will pick it up cleanly.
+
+**Rate limits:** 0 × 429 this iteration (all 7 caption fetches succeeded; safety rail not
+tripped). No yt-dlp errors.
+
+Synthesis notes: nothing landmark inline-promoted (debt logged; checkpoint at 10, now 3 batches
+since synthesis pass 1). Genuinely-new durable material for the next synthesis pass: (1) the
+**"this will be copied" industry-prediction** stance, stated at full strength on the iPhone 14
+Pro's **Dynamic Island** (with the LG V10 precedent) — fits tech-industry-commentary. (2) The
+**camera skin-tone accuracy critique** — "overexpose people with dark skin constantly, I would
+know" — a signature, personal, recurring MKBHD position (→ smartphones/production-filmmaking +
+persona/beliefs). (3) The **"form over function"** design-critique lens, stated at its purest on
+the Dell XPS 13 Plus. (4) The **"two-in-one devices are always worse at one thing"** product
+theory (Huawei Watch Buds). (5) Recurring **awards-as-tradition** framing + the **blind
+smartphone camera test** method (photo-vote ≠ best-camera-system), and the iPhone's **4th-year**
+camera-system win. (6) The recurring **USB-C-over-Lightning / ProRes-offload** complaint and the
+**"iOS update matters as much as a new phone for iPhone 11+"** upgrade doctrine.

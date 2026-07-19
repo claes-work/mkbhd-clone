@@ -93,6 +93,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2021-10-12 — [[2021-10-12-yt-8FpPSMIB4uA|Reviewing EVERY iPhone Ever!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2021-12-22 — [[2021-12-22-yt-IDcyXtweHCw|Smartphone Awards 2021!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2022-03-02 — [[2022-03-02-yt--EZ_3Tq9a8c|Dope Tech: Weirdest Earbuds I've Ever Tried!]] · consumer-tech-culture, tech-reviews _(collab giveaway w/ Mr Who's The Boss + dbrand)_
+- 2022-07-11 — [[2022-07-11-yt-WfVF-Ec4naQ|iOS 16 Hands-On: Top 5 New Features!]] · smartphones, consumer-tech-culture, tech-reviews
+- 2022-08-15 — [[2022-08-15-yt-MEiq0oCUb_8|Dope Tech: The Most Extreme Gaming Monitor!]] · consumer-tech-culture, tech-reviews _(Samsung Odyssey Ark segment sponsored)_
+- 2022-09-14 — [[2022-09-14-yt-SdLShOCvVeM|iPhone 14 Pro Review: This Will Be Copied!]] ★ · smartphones, tech-reviews, production-filmmaking
+- 2022-09-30 — [[2022-09-30-yt-bFBIrkzy_gM|Dope Tech: The Hottest Laptop Design!]] ★ · consumer-tech-culture, tech-reviews, ev-cars _(EcoFlow segment sponsored)_
+- 2022-12-27 — [[2022-12-27-yt-5NjFuS_24v8|Smartphone Awards 2022!]] ★ · smartphones, tech-reviews, consumer-tech-culture
+- 2023-03-27 — [[2023-03-27-yt-O-buiiyp_xU|Dope Tech: Better than Expected!]] ★ · consumer-tech-culture, tech-reviews
+- 2023-04-01 — [[2023-04-01-yt-17VcGk_-Ghc|The Smartphone Awards Midseason 2023!]] · smartphones, tech-reviews, consumer-tech-culture _(April Fool's satire; genuine signal quarantined)_
 
 ## @Waveform
 
@@ -111,4 +118,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_87 videos ingested (L2) so far._
+_94 videos ingested (L2) so far._
