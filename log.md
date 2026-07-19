@@ -630,3 +630,56 @@ theory (Huawei Watch Buds). (5) Recurring **awards-as-tradition** framing + the 
 smartphone camera test** method (photo-vote ≠ best-camera-system), and the iPhone's **4th-year**
 camera-system win. (6) The recurring **USB-C-over-Lightning / ProRes-offload** complaint and the
 **"iOS update matters as much as a new phone for iPhone 11+"** upgrade doctrine.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 8) — P1 solo 2023: $40k iPhone / Dyson Zone / Vision Pro / Solar Roof + iPhone 15 Pro
+Stage B (P1, oldest-first) on @mkbhd, batch size 8. Prepared 8; **7 ingested to L2**,
+**1 left open (429)** — `yt-ehv3zQAa9zM` Apple AirTags rate-limited on caption fetch this
+run and was left open, unchanged (single 429, not the 3-consecutive safety rail).
+
+Pages written (all L2): 2023-04-20 I Spent $40,000 to Unbox a Sealed Original iPhone
+(`-BwUyTrU9fo`, solo) · 2023-05-15 This is the Dumbest Product I've Ever Reviewed / Dyson Zone
+(`tFdnCzfJPJ0`, solo-with-guest) · 2023-06-06 Apple Vision Pro Impressions (`OFvXuyITwBI`, solo) ·
+2023-07-03 Dope Tech: Nothing Phone 2 Redesign (`RM7SobH8ZO0`, solo) · 2023-07-29 Tesla Solar
+Roof Review: Was It Worth It? (`UJeSWbR6W04`, solo) · 2023-09-13 iPhone 15/15 Pro Impressions
+(`enR58PYHaWw`, solo) · 2023-09-28 iPhone 15 Pro Review (`cBpGq-vDr2Y`, solo). youtube-index
+footer 94→101; index.md 94→101.
+
+**Attribution:** six are clean solo Marques-fronted (all persona/voice data). The **Dyson Zone**
+video (`tFdnCzfJPJ0`) is the one collab/interview episode: **Doctor Mike (Mikhail Varshavski)**
+appears as a guest medical expert — his medical case (N95 vs no-seal, Brownian motion at
+0.3 vs 0.1 micron, mucous-membrane/vasoconstriction risk, CDC accident-vs-respiratory stats) is
+**guest-attributed and quarantined** (page `attribution: solo-with-guest`), NOT eligible for
+beliefs.md/voice.md. **Barbara Corcoran** is credited (context, not present) for the loss-leader
+concept — attribute the concept to her, its application to Marques. Other creators cited as
+context only (not co-hosts / not quarantined dialogue): Cleo Abram (XR-stage collab),
+JerryRigEverything, Dave2D, Mr. Mobile (the "camera differences are taste now" line is explicitly
+borrowed from Mr. Mobile → attribute to him, Marques's endorsement his).
+
+**Sponsorships (disclosed, marked sponsor-context on pages, not clean verdicts):** Eight Sleep
+segments in the Nothing Phone 2 Dope Tech, the Solar Roof review, and the iPhone 15 Pro review
+(recurring code MKBHD); Anker in the iPhone 15 impressions; and the $40k iPhone video is
+**self-sponsored** (own MKBHD wallet / shop.mkbhd.com) — a creator-business data point, not a
+third-party ad.
+
+**Caption-garble flags:** heavy numeric garbling in the collector-auction figures ($40k iPhone)
+and especially the **Solar Roof specs/costs** (array kW, Powerwall kWh, total system cost,
+payback years) — all flagged with `⚠️ CONTRADICTION`/approximation callouts on the pages;
+transcribe as approximate, cite the app/story not the spoken figure.
+
+**Rate limits:** **1 × 429** this iteration (`yt-ehv3zQAa9zM` AirTags — reverted to 429 despite
+the task noting it "now fetches fine"; left open for retry). Other 7 fetched OK; 3-consecutive
+safety rail not tripped. No yt-dlp errors.
+
+Synthesis notes: nothing landmark inline-promoted (debt now **4 batches** since synthesis pass 1;
+checkpoint at 10). Genuinely-new durable material flagged ★ for the next synthesis pass:
+(1) the **"branding explains it"** lens + **loss-leader / press-generation** frame for gimmick
+products (Dyson Zone) — reinforces the **two-in-one law** already logged; (2) the **Porsche 911
+"iterative refinement compounds over time"** review philosophy and the **"more power = more
+horsepower, only matters if you use it"** frame (iPhone 15 Pro) — signature tech-reviews persona
+material; (3) the **"series zero / first-gen defined by early adopters + developers"** lens and
+the **"compared to what?" Apple-pricing** frame (Vision Pro); (4) the **"two buckets"** Apple-
+analysis lens — new features are either seen-elsewhere or ecosystem-locked (iPhone 15);
+(5) the **three-levels-of-production** model (Dope Tech XR stage) → production-filmmaking;
+(6) the **"was it worth it?" long-term-review format** + EV/sustainability "bleeding edge =
+expensive & rapidly evolving" framing (Solar Roof) → ev-cars. Attribution reminder for the pass:
+keep Doctor Mike's medical reasoning out of persona data.

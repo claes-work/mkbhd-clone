@@ -100,6 +100,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2022-12-27 — [[2022-12-27-yt-5NjFuS_24v8|Smartphone Awards 2022!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2023-03-27 — [[2023-03-27-yt-O-buiiyp_xU|Dope Tech: Better than Expected!]] ★ · consumer-tech-culture, tech-reviews
 - 2023-04-01 — [[2023-04-01-yt-17VcGk_-Ghc|The Smartphone Awards Midseason 2023!]] · smartphones, tech-reviews, consumer-tech-culture _(April Fool's satire; genuine signal quarantined)_
+- 2023-04-20 — [[2023-04-20-yt--BwUyTrU9fo|I Spent $40,000 to Unbox a Sealed Original iPhone!]] · consumer-tech-culture, tech-industry-commentary, creator-business _(self-sponsored: own MKBHD wallet)_
+- 2023-05-15 — [[2023-05-15-yt-tFdnCzfJPJ0|This is the Dumbest Product I've Ever Reviewed]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(Dyson Zone; guest Doctor Mike medical — quarantined)_
+- 2023-06-06 — [[2023-06-06-yt-OFvXuyITwBI|Apple Vision Pro Impressions!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture, production-filmmaking
+- 2023-07-03 — [[2023-07-03-yt-RM7SobH8ZO0|Dope Tech: Nothing Phone 2 Redesign!]] ★ · production-filmmaking, consumer-tech-culture, tech-reviews _(Eight Sleep segment sponsored)_
+- 2023-07-29 — [[2023-07-29-yt-UJeSWbR6W04|Tesla Solar Roof Review: Was It Worth It?]] ★ · ev-cars, consumer-tech-culture, tech-industry-commentary, creator-business _(Eight Sleep segment sponsored)_
+- 2023-09-13 — [[2023-09-13-yt-enR58PYHaWw|iPhone 15/15 Pro Impressions: Not Just USB-C!]] · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary _(Anker sponsored)_
+- 2023-09-28 — [[2023-09-28-yt-cBpGq-vDr2Y|iPhone 15 Pro Review: The Good, The Bad, & The Ugly!]] ★ · smartphones, tech-reviews, production-filmmaking, consumer-tech-culture _(Eight Sleep sponsored)_
 
 ## @Waveform
 
@@ -118,4 +125,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_94 videos ingested (L2) so far._
+_101 videos ingested (L2) so far._
