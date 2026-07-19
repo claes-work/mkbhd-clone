@@ -87,6 +87,12 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2021-04-14 — [[2021-04-14-yt-tEmLMCPK8OE|Retro Tech: Teleportation]] ★ · consumer-tech-culture, tech-industry-commentary _(documentary; Vsauce2 + Game Ranks + Neil deGrasse Tyson — quarantined)_
 - 2021-04-15 — [[2021-04-15-yt-nLeScEdf550|Retro Tech: Robots]] · consumer-tech-culture, tech-industry-commentary _(documentary; UrAvgConsumer + Mark Parsons — quarantined)_
 - 2021-04-16 — [[2021-04-16-yt-MhKiMPiZOdE|Retro Tech: Hyperconnectivity]] · consumer-tech-culture, tech-industry-commentary, smartphones _(documentary; Chuck Nice + Sara Dietschy + NextMind — quarantined)_
+- 2021-04-17 — [[2021-04-17-yt-ccnlAVDXd7k|Retro Tech: Smart Homes]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(documentary; Bill Gates interview + Dulcé Sloan + Sam Sheffer — quarantined)_
+- 2021-05-21 — [[2021-05-21-yt-n2RNcPRtAiY|Talking Tech and AI with Google CEO Sundar Pichai]] ★ · tech-industry-commentary, smartphones, consumer-tech-culture _(interview; Pichai answers quarantined)_
+- 2021-10-02 — [[2021-10-02-yt-TnkdoEZhTbc|iPhone 13 Pro Review: Better Than You Think!]] ★ · smartphones, tech-reviews, production-filmmaking
+- 2021-10-12 — [[2021-10-12-yt-8FpPSMIB4uA|Reviewing EVERY iPhone Ever!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary, tech-reviews
+- 2021-12-22 — [[2021-12-22-yt-IDcyXtweHCw|Smartphone Awards 2021!]] ★ · smartphones, tech-reviews, consumer-tech-culture
+- 2022-03-02 — [[2022-03-02-yt--EZ_3Tq9a8c|Dope Tech: Weirdest Earbuds I've Ever Tried!]] · consumer-tech-culture, tech-reviews _(collab giveaway w/ Mr Who's The Boss + dbrand)_
 
 ## @Waveform
 
@@ -105,4 +111,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_81 videos ingested (L2) so far._
+_87 videos ingested (L2) so far._

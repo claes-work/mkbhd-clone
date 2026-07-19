@@ -546,3 +546,43 @@ first-person-POV production rationale. (4) Recurring **tech-optimist framing** a
 Retro Tech docs ("bring B to A instead of A to B"; "we already have our robot future — as
 the Roomba"; "communication is the one sci-fi category that came true"; recreational
 individual flight) — reusable beliefs/voice material.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 6) — P1 solo 2021 iPhone 13 Pro / EVERY iPhone / Smartphone Awards + Pichai & Gates interviews
+Stage B (P1, oldest-first, 2021+ era) on @mkbhd, batch size 8. Prepared 8; **6 ingested to
+L2**, **1 skipped (429 rate-limit)** — `yt-ehv3zQAa9zM` Apple AirTags Unboxing (left open for
+retry) — and **1 auto-marked L1 no-captions** — `yt-DyKQ7qtTJag` Tesla Model S PLAID
+Impressions (no subtitles; not Whispered). The known repeated-429 iPhone SE 2020 row was
+correctly NOT drawn (older, already excluded by the driver).
+
+Pages written (all L2): 2021-04-17 Retro Tech: Smart Homes (`ccnlAVDXd7k`) · 2021-05-21
+Talking Tech w/ Sundar Pichai (`n2RNcPRtAiY`) · 2021-10-02 iPhone 13 Pro Review
+(`TnkdoEZhTbc`) · 2021-10-12 Reviewing EVERY iPhone Ever (`8FpPSMIB4uA`) · 2021-12-22
+Smartphone Awards 2021 (`IDcyXtweHCw`) · 2022-03-02 Dope Tech: Weirdest Earbuds
+(`-EZ_3Tq9a8c`). youtube-index footer 81→87; index.md 81→87.
+
+**Attribution:** two non-solo items handled under the fidelity rules. (a) **Sundar Pichai**
+video is a full 1:1 **interview** (`attribution: interview`) — only Marques's questions/
+framing train the persona; all Pichai answers quarantined as CONTEXT for a future
+`wiki/entities/sundar-pichai` page. (b) **Retro Tech: Smart Homes** is a **documentary**
+(`attribution: mixed`) with an on-camera **Bill Gates** interview plus Dulcé Sloan (comedian)
+and Sam Sheffer (YouTuber) segments — all guest lines quarantined; this is the 2nd Bill Gates
+interview in the corpus. The Dope Tech end-card giveaway is a collab (Mr Who's The Boss +
+dbrand) but no guest speaks, so nothing to quarantine there.
+
+Synthesis notes: nothing landmark inline-promoted (debt logged for the next pass, checkpoint
+at 10 batches). Genuinely-new/reusable material flagged with ★: (1) the **ProMotion /
+high-refresh "you won't notice it until you go back to 60 Hz" thesis** + the **"minor
+upgrades compound into greatness"** incremental-craft philosophy (iPhone 13 Pro), both
+Marques-attributed and spanning smartphones + production-filmmaking. (2) A dense set of
+**canonical MKBHD iPhone-line verdicts** (iPhone 4 = best design; iPhone X "opened Pandora's
+box" on $1,000 phones; 6/6 Plus = best-selling ever; "the beginning of the end of small
+phones"; "cheap phones are getting good") plus his **price-inflation / market-saturation
+industry read** (Reviewing EVERY iPhone). ⚠️ Contradiction flagged on that page: he
+misstates the iPhone 4S as "iOS 7" (it shipped on iOS 5) — do NOT promote that. (3) The
+**Smartphone Awards 2021** canon — the deliberately-created "best small phone" category vs.
+screen-size inflation, the pro-competition ethos ("moment of silence for LG"), and the "nail
+the fundamentals" review value (MVP: Galaxy S21 Ultra). (4) Marques's **camera-evaluation
+priority — skin tones + latitude** stated first-person in the Pichai interview (small but
+datable review value). (5) The **"straight line" withered-tech-to-today** framing recurs in
+Smart Homes (Clapper/X-10/Butler-In-A-Box → modern assistant; "sweet spot between the
+Clapper and the Nest"), reinforcing the Game Boy minimalism doctrine.
