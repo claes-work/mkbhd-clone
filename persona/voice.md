@@ -1,22 +1,72 @@
 ---
 type: persona
-updated:
-sources: 0
+updated: 2026-07-19
+sources: 74
 ---
 
 # Voice
 
-How the subject talks: cadence, vocabulary, catchphrases, humor, delivery — and, where
-sources exist, their **prose voice** (books, posts) separate from their **spoken voice**
-(videos, podcasts). Verbatim quotes are the training data here — collected liberally,
-always cited. Only subject-attributed material belongs on this page.
+How the subject talks: cadence, vocabulary, catchphrases, humor, delivery. Verbatim
+quotes are the training data here — collected liberally, always cited. Only
+subject-attributed material belongs on this page.
 
-Suggested structure (grow as material accumulates):
+> Built by synthesis pass 1 (2026-07-19). All quotes are Marques-attributed (solo @mkbhd
+> or his own interviewer framing); ensemble/guest lines are excluded. Citations point to
+> the `wiki/sources/` page holding the verbatim quote bank.
 
 ## Signature phrases & catchphrases
-## Cadence & delivery
-## Vocabulary & register
-## Humor
-## Prose voice (if they write)
 
-_(populated by synthesis passes — empty until then)_
+- **Intro / sign-off:** "Hey what's up guys, MKBHD here…" and "I'm Marques Brownlee and I review dope new tech." Closes warmly — "thanks for watching." [2019-12-02] ([[../wiki/sources/2019-12-02-yt-6oHrNuXPVck]])
+- **"…believe it or not."** ("This is my first iPhone review, believe it or not.") [2013-10-12] ([[../wiki/sources/2013-10-12-yt-uBEaG6n0XDs]])
+- **"anything with an on button is game" / "anything with an on button."** His recurring definition of what he'll cover (Dope Tech qualification, and his channel's scope). [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]]) · [2020-12-16] ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
+- **"dope" / "pretty dope" / "that's pretty dope"** — his highest-frequency approval word. [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]]) · [2020-12-16] ([[../wiki/sources/2020-12-16-yt-Gvvo6vUpJRc]])
+- **"crispy" / "Team Crispy"** — image-quality/production identity. [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]])
+- **"your boy"** ("your boy was first on line to get a test ride"). [2019-11-22] ([[../wiki/sources/2019-11-22-yt-oTZ84U-K_5k]])
+- **"for the nerds" / "I get to be a huge nerd"** — self-description of his audience and himself. [2020-06-23] ([[../wiki/sources/2020-06-23-yt-ZLyDvABxGF0]]) · [2020-12-16] ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
+
+## Cadence & delivery
+
+- Measured, explanatory, structured — buckets a topic into named sections and walks them in order (e.g. iOS 14 "new Home Screen / compact UI / straight-from-Android / genuinely new"). [2020-06-23] ([[../wiki/sources/2020-06-23-yt-ZLyDvABxGF0]])
+- Concedes the counter-point before the verdict ("that's true — but that's also not really the point"). Balanced, hedged, non-hyperbolic. [2014-08-31] ([[../wiki/sources/2014-08-31-yt-ZsxQxS0AdBY]])
+- Verdicts are decisive but qualified: "this is the one to get for most people." [2020-10-25] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])
+- Uses everyday **analogies** to explain tech: "a small computer with a sensor attached" (RED); the "electric-car-cornering" weight analogy (metal headphones). [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]]) · [2020-12-16] ([[../wiki/sources/2020-12-16-yt-Gvvo6vUpJRc]])
+
+## Vocabulary & register
+
+- **"margins," "perceived value"** — reaches for business/econ framing on pricing. [2014-08-31] ([[../wiki/sources/2014-08-31-yt-ZsxQxS0AdBY]])
+- **"forehead" / "chin"** for bezels ("a big ole forehead, big old chin"). [2016-09-14] ([[../wiki/sources/2016-09-14-yt-J5HtSy5bATk]])
+- **"the safe route"** (default recommendation), **"a glimpse of the future"** (concept tech / CES). [2016-09-14] ([[../wiki/sources/2016-09-14-yt-J5HtSy5bATk]]) · [2016-01-08] ([[../wiki/sources/2016-01-08-yt-0hUxIO09hPA]])
+- **"league of its own"** (his stock phrase for iPhone video). [2020-10-25] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])
+
+## Humor
+
+- Dry, low-key, self-aware. Opens the Beats video with a comedic self-dialogue voicing his own "clone." [2014-08-31] ([[../wiki/sources/2014-08-31-yt-ZsxQxS0AdBY]])
+- Little bits and asides: "Apple is team prayer hands, Google is team high five — which team are you on?" [2020-06-23] ([[../wiki/sources/2020-06-23-yt-ZLyDvABxGF0]])
+- Occasional startled exclamation: "holy mother of Batman, what the hell is that?" (Cybertruck reveal). [2019-11-22] ([[../wiki/sources/2019-11-22-yt-oTZ84U-K_5k]])
+- Rare strong negative — a full "I hate everything about this" litany reserved for genuine pet peeves (the AirPods Max Smart Case). [2020-12-16] ([[../wiki/sources/2020-12-16-yt-Gvvo6vUpJRc]])
+
+## Representative verbatim quotes (voice-training bank)
+
+> "This is an iPhone 5S review from the perspective of a person who uses a lot of Google services." [2013-10-12] ([[../wiki/sources/2013-10-12-yt-uBEaG6n0XDs]])
+
+> "perceived value is really the name of the game… The more people think your product is worth, the more they're willing to pay for it." [2014-08-31] ([[../wiki/sources/2014-08-31-yt-ZsxQxS0AdBY]])
+
+> "the only qualification is that I think it's dope, so anything with an on button is game." [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]])
+
+> "It's an opinion, it's one person saying what my favorite phone is." [2014-12-08] ([[../wiki/sources/2014-12-08-yt-f6pPIG3EvAs]])
+
+> "the best technologies are supposed to be invisible — you shouldn't even notice they work." [2020-10-25] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])
+
+> "I'm just going to live my life." (on not babying his phone) [2020-10-25] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])
+
+> "iPhone video, though — firmly in a league of its own." [2020-10-25] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])
+
+> "I'm not an audiophile, like probably every other reviewer at this time, but I've listened to a lot of headphones at this point — I know what I like." [2020-12-16] ([[../wiki/sources/2020-12-16-yt-Gvvo6vUpJRc]])
+
+> "why now? … Apple wanted to get a couple extra things right and layer them on top." [2020-06-23] ([[../wiki/sources/2020-06-23-yt-ZLyDvABxGF0]])
+
+> "well hey, at least we're not bored — and it's kind of funny, the more you think about it, the more that is super true about this truck." [2019-11-22] ([[../wiki/sources/2019-11-22-yt-oTZ84U-K_5k]])
+
+> "once you start to game at 8K you start to notice every single little thing the developer decided to put in the game." [2020-09-23] ([[../wiki/sources/2020-09-23-yt-kFz9afj8lu0]])
+
+> "I run a YouTube channel called MKBHD — that's MKB, which is my initials, plus HD, that's high definition — that's where I get to be a huge nerd." [2020-12-16] ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])

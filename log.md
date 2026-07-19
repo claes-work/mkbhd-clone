@@ -442,3 +442,65 @@ weight analogy** and his **"I'm not an audiophile but I know what I like"** self
 Apple's ecosystem" = recommendation. (7) **iOS 14 "welcome to the party" stance** — even-
 handed Apple-catches-up-to-Android framing. (8) Biography/voice from the Obama page (see
 Attribution). Obama's own answers are guest-sourced and NOT persona-bound.
+
+## [2026-07-19] lint | synthesis pass 1 — @Waveform + @mkbhd 2013–2020 P1 corpus (74 L2)
+
+**First Stage S / first synthesis pass of the clone.** Drained the full accumulated
+synthesis debt — all **10 `Synthesis notes:` lines** (batches 1–10, 74 L2 sources: the
+@Waveform year-end/blind-test batch + the @mkbhd 2013–2020 P1 solo/interview corpus).
+Promoted the genuinely-new durable material into `wiki/topics/` L3 hubs and built the
+`persona/` product for the first time. No sub-agents (done in one agent context per the
+run constraint). One writer, one file at a time.
+
+**Topic hubs written (all 7 populated from stubs → dated, cited frameworks):**
+- tech-reviews — two-axis camera model, price-to-value curve, "bust = expectations minus
+  reality", "why now?", Apple-verdict shape, reference-vs-luxury audio taxonomy,
+  dailies-every-phone, defers durability/benchmarks to specialists.
+- smartphones — Smartphone Awards franchise (multi-year winner **table** 2014–2019),
+  Blind Camera Test methodology (ELO, correct-exposure-beats-over-brightness),
+  vertical-integration-beats-specs, finish heuristic, headphone-jack pragmatism, foldables.
+- production-filmmaking — "camera = computer with a sensor", RED/RAW for craft,
+  shoot-high-res-now, one-man-crew, photography fundamentals, re-encode-loss demo,
+  creator origin.
+- creator-business — margins + perceived value, Dope Tech thesis, novelty-axis, sponsorship
+  disclosure, platform/creator-economy positions (attribution-to-confirm), channel self-def.
+- ev-cars — Cybertruck "at least we're not bored" / source-critical demos, Chevy Bolt,
+  Tesla fleet-learning, "paperware until it ships", electric-car-cornering analogy.
+- tech-industry-commentary — "best technologies are invisible", scratch-vs-shatter,
+  "tech works / ecosystem isn't ready", "bleeding-edge statement piece", CES philosophy
+  (4 yrs), dated predictions (portless iPhone, USB-C), interviewer posture, CEO-escalation,
+  peak-smartphone/small-OEM (attribution-to-confirm).
+- consumer-tech-culture — Retro Tech "withered technology"/minimalism + creator origin,
+  Dope Tech "tech as moving art", subtractive design, design-risk, branding skepticism,
+  accessibility appreciation.
+
+**Persona built for the first time:**
+- `persona/beliefs.md` — created (was empty skeleton): Frameworks / Values / Opinions,
+  all dated + cited; an "attribution-to-confirm (@Waveform)" bucket kept separate from firm
+  beliefs; a "predictions to track" bucket.
+- `persona/voice.md` — created (was empty skeleton): catchphrases ("dope", "anything with
+  an on button", "forehead/chin", "your boy", "league of its own"), cadence, humor, and a
+  cited verbatim quote bank (Marques-attributed only).
+- `persona/biography.md` — extended with a "Corpus-derived anchors (2013–2020 era)" section:
+  first-iPhone-review POV, RED/Team-Crispy identity, JVC-camcorder creator origin, and the
+  dense Obama-BookTube self-reported block (age 26 in 2020, channel since 2009, NY Empire
+  ultimate, golfer, NBA) + the dated diversity reflection. Marquee interviews indexed.
+- `persona/appearance.md` — left empty (captions can't supply it; needs watched-video samples).
+
+**Attribution discipline:** interview guests (Musk, Gates, Zuckerberg, Obama, Neistat) were
+already quarantined at ingest and stayed OUT of persona — only Marques's own framing/voice
+promoted. Ensemble-@Waveform findings whose per-line speaker is uncertain were promoted only
+into the topic hubs and a clearly-labeled "attribution-to-confirm" bucket in beliefs, NOT the
+firm belief set or system-prompt claims.
+
+**Compiled:** `persona/system-prompt.md` **v1** (compiled_from_sources: 74) — first compile;
+Persona mode (`/mkbhd`) can now load a clone. Coverage flagged strong on 2013–2020, hedge on
+post-2021 (Auto Focus / Panels / Humane / Fisker / Tim Cook only lightly covered).
+
+**Bookkeeping:** advanced the high-water mark in `pipeline/synthesis-state.md` (checkpoint moved
+to Done, tagged v1); updated `index.md` (topics + persona sections). No ledger changes (synthesis
+doesn't move L2→L3 rows; it promotes content). No rate limits, no errors, no fabrication.
+
+Synthesis notes: none — synthesis debt fully drained (10/10 → 0). Next ingest batch starts a
+fresh counter toward the next checkpoint (~10 batches or next channel/era completion). Resume
+Stage B on @mkbhd P1 oldest-first next iteration (retry the iPhone SE 2020 yt-aXfiyuUziY0 429).

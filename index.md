@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (ingest: @mkbhd P1 batch, 7 L2 — 2020 iPhone 12 / AirPods Max / PS5 / Obama)_
+_Last updated: 2026-07-19 (synthesis pass 1 — first Stage S: 7 topic hubs built, persona beliefs/voice + biography anchors, system-prompt v1 compiled)_
 
 ## Sources
 
@@ -11,13 +11,14 @@ _Last updated: 2026-07-19 (ingest: @mkbhd P1 batch, 7 L2 — 2020 iPhone 12 / Ai
 
 ## Topics
 
-- [wiki/topics/tech-reviews/tech-reviews.md](wiki/topics/tech-reviews/tech-reviews.md) — review methodology, scoring, "is it worth it" (hub).
-- [wiki/topics/smartphones/smartphones.md](wiki/topics/smartphones/smartphones.md) — flagships, camera shootouts, Blind Test, Smartphone Awards (hub).
-- [wiki/topics/production-filmmaking/production-filmmaking.md](wiki/topics/production-filmmaking/production-filmmaking.md) — cameras, color, editing, the studio (hub).
-- [wiki/topics/creator-business/creator-business.md](wiki/topics/creator-business/creator-business.md) — YouTube-as-business, team, sponsorship ethics, Panels (hub).
-- [wiki/topics/ev-cars/ev-cars.md](wiki/topics/ev-cars/ev-cars.md) — EVs, Tesla/Rivian, autonomy, Auto Focus (hub).
-- [wiki/topics/tech-industry-commentary/tech-industry-commentary.md](wiki/topics/tech-industry-commentary/tech-industry-commentary.md) — launch reactions, AI hardware, industry takes (hub).
-- [wiki/topics/consumer-tech-culture/consumer-tech-culture.md](wiki/topics/consumer-tech-culture/consumer-tech-culture.md) — Retro Tech, Dope Tech, accessibility, setups (hub).
+_All 7 hubs populated with dated, cited frameworks by synthesis pass 1 (2026-07-19)._
+- [wiki/topics/tech-reviews/tech-reviews.md](wiki/topics/tech-reviews/tech-reviews.md) — review methodology & frameworks: two-axis camera model, price-to-value, "bust = expectations minus reality", verdict shapes (hub).
+- [wiki/topics/smartphones/smartphones.md](wiki/topics/smartphones/smartphones.md) — Smartphone Awards (multi-year winner table), Blind Camera Test methodology, correct-exposure principle, foldables (hub).
+- [wiki/topics/production-filmmaking/production-filmmaking.md](wiki/topics/production-filmmaking/production-filmmaking.md) — RED/RAW craft, "camera = computer with a sensor", photography fundamentals, creator origin (hub).
+- [wiki/topics/creator-business/creator-business.md](wiki/topics/creator-business/creator-business.md) — margins + perceived value, Dope Tech thesis, sponsorship disclosure (hub).
+- [wiki/topics/ev-cars/ev-cars.md](wiki/topics/ev-cars/ev-cars.md) — Cybertruck "at least we're not bored", Chevy Bolt, "paperware until it ships" (hub).
+- [wiki/topics/tech-industry-commentary/tech-industry-commentary.md](wiki/topics/tech-industry-commentary/tech-industry-commentary.md) — "best tech is invisible", "ecosystem isn't ready", CES philosophy, interviewer posture, CEO-escalation (hub).
+- [wiki/topics/consumer-tech-culture/consumer-tech-culture.md](wiki/topics/consumer-tech-culture/consumer-tech-culture.md) — Retro Tech "withered technology", Dope Tech novelty axis, subtractive design (hub).
 
 ## Entities
 
@@ -32,11 +33,11 @@ _Last updated: 2026-07-19 (ingest: @mkbhd P1 batch, 7 L2 — 2020 iPhone 12 / Ai
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline, v1 (bootstrap; cites the biography dossier).
-- [persona/voice.md](persona/voice.md) — how they talk (empty skeleton).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/opinions (empty skeleton).
-- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton).
-- [persona/system-prompt.md](persona/system-prompt.md) — compiled chat prompt (not compiled yet).
+- [persona/biography.md](persona/biography.md) — dated life timeline + 2013–2020 corpus-derived anchors (self-reported facts, creator origin).
+- [persona/voice.md](persona/voice.md) — catchphrases, cadence, humor + verbatim quote bank (built synthesis pass 1).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions (built synthesis pass 1).
+- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton — needs watched-video samples).
+- [persona/system-prompt.md](persona/system-prompt.md) — **compiled chat prompt v1** (74 sources; strong 2013–2020, hedge post-2021).
 
 ## Other
 

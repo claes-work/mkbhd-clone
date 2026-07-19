@@ -41,6 +41,17 @@ The subject's life as a dated timeline. Confidence markers: ✅ verified
 - **2025 — Wins Gold at The World Games (Chengdu)** in mixed ultimate frisbee. 📰 ([[2026-07-14-research-biography-dossier]])
 - **2026 — Net worth estimated ~$18–20M**; main channel ~20.9M+ subscribers, ~19–20M cited across channels. 📰 (aggregator estimates — not audited). ([[2026-07-14-research-biography-dossier]])
 
+## Corpus-derived anchors (2013–2020 era) — added synthesis pass 1 (2026-07-19)
+
+_First-person, self-reported (🗣️) facts and era context surfaced by the 2013–2020 @mkbhd ingest. Family/private life still treated as not-public (SUBJECT.md)._
+
+- **2013-10-12 — First-ever iPhone review** (iPhone 5s), from the POV of "a heavy Google-services user"; he says it "took me like seven iPhones" to review one. Daily driver at the time was a Galaxy Note 3 — an Android/Google power user reviewing iOS as an outsider. 🗣️ ([[../wiki/sources/2013-10-12-yt-uBEaG6n0XDs]])
+- **2015-10-09 — Shooting on a RED Weapon Dragon** (unit #41) as a one-man crew; earlier shot on a RED Epic Dragon. Establishes the crimson-and-black "Team Crispy" production identity. 🗣️ ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]])
+- **Creator origin (self-narrative):** locates his filmmaking/camera obsession in the 1984 JVC GR-C1 camcorder — "even though I didn't start making my videos until 25 years after this camera came out, I still owe a lot of what I do now to this." 🗣️ ([[../wiki/sources/2019-12-02-yt-kMtN9KJHn5Y]])
+- **2020-12-16 (Obama BookTube self-intro) — dense self-reported bio block:** he's **26 years old** (in 2020); **started the channel in 2009** (a year after Obama's inauguration, which he **attended** — "it was very cold" — but "had no camera then"); has done YouTube **"over 10 years."** He is a **professional ultimate frisbee player** — shout-out to the **New York Empire**, "undefeated season last year in 2019" — plus an **avid golfer** and a "pretty big NBA basketball fan." 🗣️ ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
+- **Dated diversity reflection (2020):** at a high level golf, ultimate frisbee, and technology are "not very diverse," which "makes the spotlight just a little bit hotter as a Black man moving through these spaces." 🗣️ ([[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
+- **Marquee interviews on record in this corpus** (guests are context entities, quarantined from persona): Elon Musk (2018, ×2), Bill Gates (2019 & 2020), Mark Zuckerberg (2020), Barack Obama (2020), Casey Neistat (Retro Tech 2019). ([[../wiki/sources/2018-08-18-yt-MevKTPN4ozw]], [[../wiki/sources/2019-02-12-yt-4mxXdCUXSSs]], [[../wiki/sources/2020-09-16-yt-eAagtcAup0o]], [[../wiki/sources/2020-12-16-yt-I49VNQ6lmKk]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])
