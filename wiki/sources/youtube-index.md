@@ -62,6 +62,12 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2019-12-02 — [[2019-12-02-yt-PRVr1heimY8|RETRO TECH: SEGA GENESIS]] · consumer-tech-culture, tech-industry-commentary _(mixed; guest-led)_
 - 2019-12-02 — [[2019-12-02-yt-VJI88QIW7H4|RETRO TECH: MACINTOSH]] · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(mixed; guest-led)_
 - 2019-12-02 — [[2019-12-02-yt-kMtN9KJHn5Y|RETRO TECH: CAMCORDER]] ★ · consumer-tech-culture, production-filmmaking, tech-industry-commentary _(mixed; guest-led)_
+- 2019-12-21 — [[2019-12-21-yt-07_IZIoN60Q|Dope Tech: The World's Largest 8K OLED!]] ★ · tech-reviews, consumer-tech-culture, smartphones
+- 2019-12-24 — [[2019-12-24-yt-4OnwUz-I2GI|Smartphone Awards 2019!]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary
+- 2020-01-09 — [[2020-01-09-yt-x1T-VTFiUwc|Dope Tech of CES 2020: Sony Made a Car?!]] · consumer-tech-culture, ev-cars, smartphones, tech-reviews
+- 2020-02-14 — [[2020-02-14-yt-FV2tMP37ygs|Talking Tech and 2020 with Bill Gates!]] ★ · tech-industry-commentary, consumer-tech-culture, ev-cars, creator-business _(interview; guest-led — Bill Gates quarantined)_
+- 2020-02-28 — [[2020-02-28-yt-PTpoj4f25dk|Xiaomi Mi Mix Alpha Impressions: The Wraparound Display!]] ★ · tech-reviews, smartphones, consumer-tech-culture
+- 2020-06-09 — [[2020-06-09-yt-0FC94Tgz2ho|Dope Tech: The $3500 Bluetooth Speaker!]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking
 
 ## @Waveform
 
@@ -80,4 +86,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_56 videos ingested (L2) so far._
+_62 videos ingested (L2) so far._

@@ -297,3 +297,46 @@ you can't change that later") reinforcing his photography-fundamentals stance. M
 substance is guest-sourced history (not persona-bound). Caption garbles flagged on pages:
 Cybertruck "2024 F150" (likely mis-year in a 2019 clip) and "64-bit Gravis consoles" in the
 Genesis episode — kept as spoken, flagged, no specs altered.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 6) — P1 solo Dope Tech + Smartphone Awards 2019 + Bill Gates interview
+
+Stage B (P1, @mkbhd, oldest-first). Batch of 8 selected; **6 ingested to L2**, 2 left
+open on **429 rate-limit** (yt-x_R-qzjZrKQ 2020 iPad Pro review, yt-aXfiyuUziY0 iPhone SE
+2020 review — retry next iteration). Not 3 consecutive failures, so the batch completed
+normally. Pages: Dope Tech 8K OLED year-end (2019-12-21), Smartphone Awards 2019
+(2019-12-24), Dope Tech of CES 2020 / Sony Vision-S (2020-01-09), Talking Tech with Bill
+Gates (2020-02-14), Xiaomi Mi Mix Alpha impressions (2020-02-28), Dope Tech $3500
+Devialet Phantom Reactor speaker (2020-06-09).
+
+Attribution: five are **solo** Marques videos (all persona/voice data). The **Bill Gates
+video is an interview** — Marques is the interviewer (persona data); Bill Gates is a guest
+(context entity), so his substantive answers on climate, EVs, misinformation, and email are
+**quarantined** under an `attribution: uncertain` / "NOT persona data" section and excluded
+from persona training (auto-captions have no speaker labels → Gates attributed by context).
+No non-Marques speech reached voice data. Flagged Bill Gates + Microsoft as candidate
+`wiki/entities/` context pages for a later entity pass (not created here). Caption garbles
+fixed across pages: "neil i patel"→Nilay Patel (The Verge), "porsche ti cam"→Porsche Taycan;
+"snapdragon 85"→Snapdragon 855, "royal flex pie"→Royole FlexPai (Awards); 7680×4320 8K
+pixel reconstruction (OLED); Devialet brand added in prose (never spoken in captions).
+
+Pipeline after: **@mkbhd P1 57** (was 63; 2 held on 429), P2 1551, P3 38. Other channels
+unchanged (@WaveformClips P1:2 held for dedup, @Waveform 292, @AutoFocus 120, @TheStudio
+104). Open P1 total 59. Ingested **L2=62**, L3=0. Shorts open 363. Rate limits: 2×429 this
+batch. Synthesis debt **8/10** (no checkpoint due). Next iteration: continue Stage B on
+@mkbhd P1, oldest-first (retry the two 429 rows first).
+
+Synthesis notes: 5 of 6 pages carry ★ L3-candidate material. New durable threads:
+(1) **"bleeding-edge statement piece" evaluation lens** (8K OLED / Mi Mix Alpha) — an
+impressive product nobody can fully exploit yet because the surrounding content/ecosystem
+doesn't exist; "costs as much as a car but tech people might want it more than a car" —
+a recurring MKBHD framing for early-adopter flagship/concept tech. (2) **Smartphone Awards
+2019** is a canonical recurring format: full winner slate (PotY OnePlus 7 Pro; Best Camera
+iPhone 11 Pro; Bust of the Year Pixel 4; Most Improved/Best Big ROG Phone 2; Best Compact
+S10e; Best Budget Redmi K20 Pro; Design Galaxy Fold) + his evaluation-criteria framing —
+worth an L3 topic note tracking year-over-year picks. (3) **Marques's interviewer posture**
+with Bill Gates — prepared, primary-source-grounded (reads Gates's own annual letter back to
+him), gently pointed ("what if you miss?", "as a youtuber I have to ask about youtube") —
+reinforces the same "enthusiast who does the homework" interview stance seen in the Elon
+Musk sit-down; an L3 persona thread. (4) **"tech as moving art" inclusion criterion** for
+Dope Tech (Sisyphus kinetic table, rehoused Helios lens) — what qualifies something as
+"dope" beyond specs. Most interview substance (Gates) is guest-sourced and NOT persona-bound.
