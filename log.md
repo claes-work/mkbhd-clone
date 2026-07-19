@@ -849,3 +849,46 @@ breadcrumb ("I use trigonometry, I'm in school right now"). Flag `yt-TitZV6k8zfA
 Debt now **8 batches** since synthesis pass 1 (checkpoint at 10). Next iteration: continue @mkbhd P2
 oldest-first (or @AutoFocus/@Waveform P2); **Stage S synthesis due after ~2 more batches** or at the
 next channel/era boundary.
+
+## [2026-07-19] ingest | yt batch (@AutoFocus, 8) — first @AutoFocus batch: 2026 EV reviews (Mercedes CLA, Subaru Uncharted, Chevy Bolt, Ferrari Luce, Nissan Leaf, Slate Truck, Porsche Macan) + April Fools Cozy Coupe
+
+Stage B (P2). First ingest from the **@AutoFocus** car channel — pivoted here after the @mkbhd
+main-channel P1 drained; @AutoFocus is Marques-fronted, so attribution is cleanest of the
+non-@mkbhd channels. 8 videos, all L2, captions clean (0 no-captions, 0 429s). New `## @AutoFocus`
+section added to youtube-index.md. Batch drained oldest-first from 2026-04-01 → 2026-07-13.
+
+Videos: Little Tikes Cozy Coupe (yt-Gs5r8iGPjSg, April Fools comedy — voice only); Mercedes CLA 350
+EV (yt-9s69aThM7rA); Subaru Uncharted (yt-4-eB-n5NYRs); Chevy Bolt (yt-bYw5GAzP2Ds, Chemical Guys
+sponsor read); Ferrari Luce world-exclusive walkaround (yt-6Reu1WS3BhM); Nissan Leaf facelift
+(yt-clsbuM6uf1A); Slate Truck first drive (yt-d0t7wpkFc6U); Porsche Macan Turbo EV (yt-FefIWhfl5Lg).
+
+Attribution: 7 of 8 are Marques-solo (clean persona/voice data). **Porsche Macan (yt-FefIWhfl5Lg)
+hands the entire driving section to co-host "Miles"** — quarantined on the page (`attribution:
+co-host`); only Marques's static-review lines are persona data. "Miles" is an Auto Focus contributor
+not yet in wiki/entities/ (flagged for synthesis: confirm name/spelling + consider a context page).
+The Little Tikes video is an April Fools joke (kept for voice; no factual car claims). The
+2026-06-26 @Waveform "Steam Machine" episode also mentions the Slate Truck but is not a duplicate of
+the AutoFocus first-drive.
+
+Synthesis notes: **Genuinely new (ev-cars is a newly-populated domain — first substantial EV-review
+corpus).** (1) ★ **EV design thesis** (Nissan Leaf 2026-06-01 + Ferrari Luce 2026-05-25) — "EVs look
+like blobs" because current battery energy density forces an obsessive low-drag/teardrop shape; when
+battery tech improves "we can have design again." He extends it into a **critical position on the
+Ferrari Luce**: a Ferrari shouldn't chase aero efficiency — "it should look like a Ferrari... now it
+just looks like a Nissan Leaf." High-confidence, repeated → ev-cars topic + persona/beliefs.md.
+(2) ★ **One-pedal-driving demand** — a recurring, near-universal review criterion: he dings Mercedes,
+Nissan (the "e-Step" that isn't true one-pedal), and Porsche ("please, please give us the option")
+for lacking/poor one-pedal driving. (3) ★ **"Affordable EV that doesn't suck" through-line** — Chevy
+Bolt ("is it possible in 2026 to make an EV under 30 grand that doesn't suck? ... the answer is yes"),
+Slate Truck modular "pay only for the bells and whistles you want" ("legitimately a brand new idea"),
+Leaf "glow-up" — he's openly rooting for cheap EVs done right, vs. skepticism of the premium-badge
+"tax" (Macan "worth 3 Model Ys?"). (4) **Rebadge/hybrid-company critique** — "Toyota doesn't like
+making EVs; they love hybrids," applied to the Subaru Uncharted = rebadged Toyota bZ. (5) **Car-review
+method** — consistent rubric (exterior → frunk/trunk → interior materials → screens/CarPlay → backseat
+vs. his "6'3 driving position" → drive: suspension/quietness/range/charging/regen), the recurring
+"real physical buttons / next-track on the wheel" demand, the "New Jersey potholes" soft-suspension
+frame, and Auto Focus's shot-on-phone/Osmo production gimmick. (6) ★ **UI taste applied to cars**
+(Ferrari Luce) — "everything you touch is metal, aluminum, glass, or leather," physical vent bezels +
+cutout displays over real gauges = his "physical + digital done right" lens. Debt now **9 batches**
+since synthesis pass 1 (checkpoint at 10). **Stage S synthesis is due next iteration** (10th batch, and
+this is a natural channel-boundary start for @AutoFocus/ev-cars).

@@ -148,5 +148,20 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-10 — [[2026-07-10-yt-YgMNE4C89EQ|Nothing Beats Phone 4b with Ear 3a]] ★ · smartphones, tech-reviews, tech-industry-commentary, consumer-tech-culture, creator-business
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
+## @AutoFocus
+
+_Marques's dedicated car channel — Marques-fronted, so content is Marques-attributed
+(persona/voice data) UNLESS a co-host takes a segment. The Porsche Macan page quarantines a
+driving section delivered by co-host "Miles" (`attribution: co-host`)._
+
+- 2026-04-01 — [[2026-04-01-yt-Gs5r8iGPjSg|Little Tikes Cozy Coupe Review]] · ev-cars, tech-reviews, consumer-tech-culture _(April Fools comedy)_
+- 2026-04-13 — [[2026-04-13-yt-9s69aThM7rA|Mercedes CLA EV is a Great Fighter in a Dying Sport]] ★ · ev-cars, tech-reviews, consumer-tech-culture
+- 2026-04-20 — [[2026-04-20-yt-4-eB-n5NYRs|Subaru Doesn't Want to Make EVs.]] ★ · ev-cars, tech-reviews, tech-industry-commentary
+- 2026-05-21 — [[2026-05-21-yt-bYw5GAzP2Ds|The Closest thing to a Tesla 'Model 2' - And it's Great.]] ★ · ev-cars, tech-reviews, creator-business
+- 2026-05-25 — [[2026-05-25-yt-6Reu1WS3BhM|Ferrari Luce is the Most Controversial Ferrari Ever]] ★ · ev-cars, tech-reviews, production-filmmaking, tech-industry-commentary
+- 2026-06-01 — [[2026-06-01-yt-clsbuM6uf1A|2026 Nissan Leaf Graduated from Glow-Up University]] ★ · ev-cars, tech-reviews, tech-industry-commentary
+- 2026-06-24 — [[2026-06-24-yt-d0t7wpkFc6U|Slate Truck First Look: The $25,000 Modular EV!]] ★ · ev-cars, tech-reviews, tech-industry-commentary
+- 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
+
 ---
-_125 videos ingested (L2) so far._
+_133 videos ingested (L2) so far._
