@@ -376,7 +376,7 @@ yt-ccnlAVDXd7k,video,Retro Tech: Smart Homes,@mkbhd,https://www.youtube.com/watc
 yt-MhKiMPiZOdE,video,Retro Tech: Hyperconnectivity,@mkbhd,https://www.youtube.com/watch?v=MhKiMPiZOdE,2021-04-16,2026-07-14,L2,1,consumer-tech-culture;tech-industry-commentary;smartphones,mixed; Retro Tech S2 Hyperconnectivity; guests Chuck Nice/Sara Dietschy/NextMind - quarantined
 yt-nLeScEdf550,video,Retro Tech: Robots,@mkbhd,https://www.youtube.com/watch?v=nLeScEdf550,2021-04-15,2026-07-14,L2,1,consumer-tech-culture;tech-industry-commentary,mixed; Retro Tech S2 Robots; guests UrAvgConsumer/Mark Parsons - quarantined
 yt-tEmLMCPK8OE,video,Retro Tech: Teleportation,@mkbhd,https://www.youtube.com/watch?v=tEmLMCPK8OE,2021-04-14,2026-07-14,L2,1,consumer-tech-culture;tech-industry-commentary,mixed; Retro Tech S2 Teleportation; guests Vsauce2/Game Ranks/Neil deGrasse Tyson - quarantined
-yt-k_vD2S49INE,video,Retro Tech: Wearables,@mkbhd,https://www.youtube.com/watch?v=k_vD2S49INE,NA,2026-07-14,L0-discovered,1,,views=0
+yt-k_vD2S49INE,video,Retro Tech: Wearables,@mkbhd,https://www.youtube.com/watch?v=k_vD2S49INE,NA,2026-07-14,L0-discovered,1,,fetch-error 2026-07-19 (yt-dlp; views=0 - possibly unavailable/private); inspect manually and retry later
 yt-ifI_fwg55k8,video,Retro Tech: Flying Cars,@mkbhd,https://www.youtube.com/watch?v=ifI_fwg55k8,2021-04-13,2026-07-14,L2,1,consumer-tech-culture;tech-industry-commentary;ev-cars,mixed; Retro Tech S2 Flying Cars; guests Gali Russell/Michael Ian Black/Omni Hoverboards - quarantined
 yt-R5_v0OdFD0A,video,The World's Largest Smartphone Camera!,@mkbhd,https://www.youtube.com/watch?v=R5_v0OdFD0A,2021-04-12,2026-07-14,L0-discovered,2,,views=3502460
 yt-wUqZQTp_gpI,video,Top 5 Mercedes EQS Features: Electric Luxury!,@mkbhd,https://www.youtube.com/watch?v=wUqZQTp_gpI,2021-04-11,2026-07-14,L0-discovered,2,,views=6086453
@@ -1691,9 +1691,9 @@ yt-QYRvQh043GQ,video,HD Tutorial: Thunderbird Addons,@mkbhd,https://www.youtube.
 yt-4vwd_pQHUBE,video,How to Upload HD Youtube Videos,@mkbhd,https://www.youtube.com/watch?v=4vwd_pQHUBE,2009-01-31,2026-07-14,L0-discovered,2,,views=29026
 yt-reI8CsNd88Y,video,HD Tutorial: Aerosnap for Vista,@mkbhd,https://www.youtube.com/watch?v=reI8CsNd88Y,2009-01-31,2026-07-14,L0-discovered,2,,views=8993
 yt-SWSqBFGT50A,video,Unboxed: NZXT Cryo LX [HD],@mkbhd,https://www.youtube.com/watch?v=SWSqBFGT50A,2009-01-31,2026-07-14,L0-discovered,2,,views=99537
-yt-Wi_RIX7r0mg,video,HQ Tutorial: Firefox Preloader,@mkbhd,https://www.youtube.com/watch?v=Wi_RIX7r0mg,2009-01-30,2026-07-14,L0-discovered,2,,views=10723
-yt-8iIOsv_RJBA,video,HQ Tutorial: Download Skype,@mkbhd,https://www.youtube.com/watch?v=8iIOsv_RJBA,2009-01-30,2026-07-14,L0-discovered,2,,views=15630
-yt-xsdcq4z10pc,video,MY Internet Speed!,@mkbhd,https://www.youtube.com/watch?v=xsdcq4z10pc,2009-01-30,2026-07-14,L0-discovered,2,,views=68697
+yt-Wi_RIX7r0mg,video,HQ Tutorial: Firefox Preloader,@mkbhd,https://www.youtube.com/watch?v=Wi_RIX7r0mg,2009-01-30,2026-07-14,L2,2,consumer-tech-culture,L2; HQ Tutorial Firefox Preloader; how-to; origin; solo
+yt-8iIOsv_RJBA,video,HQ Tutorial: Download Skype,@mkbhd,https://www.youtube.com/watch?v=8iIOsv_RJBA,2009-01-30,2026-07-14,L2,2,consumer-tech-culture,L2; HQ Tutorial Download Skype; how-to; origin; solo
+yt-xsdcq4z10pc,video,MY Internet Speed!,@mkbhd,https://www.youtube.com/watch?v=xsdcq4z10pc,2009-01-30,2026-07-14,L2,2,consumer-tech-culture,L2; internet speed brag 86Mbps; origin; solo
 yt-b491eWiGw0k,video,HQ Tutorial: Windows 7 Calculator,@mkbhd,https://www.youtube.com/watch?v=b491eWiGw0k,2009-01-30,2026-07-14,L0-discovered,2,,views=22646
 yt-29jHsM35yA8,video,HQ Tutorial: Safari for Windows,@mkbhd,https://www.youtube.com/watch?v=29jHsM35yA8,2009-01-30,2026-07-14,L0-discovered,2,,views=21149
 yt-bDYTAydFNXo,video,Quick Note on Speedfan,@mkbhd,https://www.youtube.com/watch?v=bDYTAydFNXo,2009-01-30,2026-07-14,L0-discovered,2,,views=15404
@@ -1701,10 +1701,10 @@ yt-h84bR62zg3E,video,HQ Tutorial: Rocket Dock Application,@mkbhd,https://www.you
 yt-hntI5lbDv9E,video,Camstudio Clarity,@mkbhd,https://www.youtube.com/watch?v=hntI5lbDv9E,2009-01-30,2026-07-14,L0-discovered,2,,views=13898
 yt-0hNd56lIAxY,video,Tutorial: Camstudio HQ,@mkbhd,https://www.youtube.com/watch?v=0hNd56lIAxY,2009-01-30,2026-07-14,L0-discovered,2,,views=28508
 yt-oP41yum-wFg,video,HQ Tutorial: Ccleaner,@mkbhd,https://www.youtube.com/watch?v=oP41yum-wFg,2009-01-30,2026-07-14,L0-discovered,2,,views=121071
-yt-buSchZss_Y0,video,15 Year old Golf Swing Analysis,@mkbhd,https://www.youtube.com/watch?v=buSchZss_Y0,2009-01-29,2026-07-14,L0-discovered,2,,views=84031
-yt-hCEBLSSU-2Y,video,Fraps HD Test in 1080p (18 WOS),@mkbhd,https://www.youtube.com/watch?v=hCEBLSSU-2Y,2009-01-01,2026-07-14,L0-discovered,2,,views=162227
-yt-9gk_rl3y_SU,video,HP Pavilion dv7t Media Center Remote Overview,@mkbhd,https://www.youtube.com/watch?v=9gk_rl3y_SU,2009-01-01,2026-07-14,L0-discovered,2,,views=5220487
-yt-f7mqssf66l4,video,High fps LG Voyager footage,@mkbhd,https://www.youtube.com/watch?v=f7mqssf66l4,2008-09-16,2026-07-14,L0-discovered,2,,views=229974
+yt-buSchZss_Y0,video,15 Year old Golf Swing Analysis,@mkbhd,https://www.youtube.com/watch?v=buSchZss_Y0,2009-01-29,2026-07-14,L1,2,,no-captions (no subtitles available)
+yt-hCEBLSSU-2Y,video,Fraps HD Test in 1080p (18 WOS),@mkbhd,https://www.youtube.com/watch?v=hCEBLSSU-2Y,2009-01-01,2026-07-14,L1,2,,no-captions (no subtitles available)
+yt-9gk_rl3y_SU,video,HP Pavilion dv7t Media Center Remote Overview,@mkbhd,https://www.youtube.com/watch?v=9gk_rl3y_SU,2009-01-01,2026-07-14,L2,2,tech-reviews;consumer-tech-culture;creator-business,L2; self-described first video; HP Pavilion dv7t Media Center remote overview; origin; solo
+yt-f7mqssf66l4,video,High fps LG Voyager footage,@mkbhd,https://www.youtube.com/watch?v=f7mqssf66l4,2008-09-16,2026-07-14,L1,2,,no-captions (no subtitles available)
 yt-PD5igzFB8iY,video,14 Year knock-down shot (11 Handicap),@mkbhd,https://www.youtube.com/watch?v=PD5igzFB8iY,2008-05-30,2026-07-14,L1,2,,no-captions (no subtitles available)
 yt-fjhmnWFsr3s,video,13-Year-Old Golf Swing Analysis,@mkbhd,https://www.youtube.com/watch?v=fjhmnWFsr3s,2008-03-29,2026-07-14,L1,2,,no-captions (no subtitles available)
 yt-oYAnEH0JoqI,short,Apple's Big Price Hike,@mkbhd,https://www.youtube.com/watch?v=oYAnEH0JoqI,NA,2026-07-14,L0-discovered,3,,views=1600000

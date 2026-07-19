@@ -770,3 +770,42 @@ raises the ceiling for all EVs" + "multiple personalities is the superpower of e
 Debt now 6 batches since synthesis pass 1 (checkpoint at 10). Next iteration: 1 P1 left on @mkbhd
 (Retro Tech Wearables, retry the errored fetch); if it treats the main-channel P1 era as complete,
 move to @WaveformClips P1 (×2) or @AutoFocus/@Waveform P2, else Stage S at the 10-batch checkpoint.
+
+## [2026-07-19] ingest | yt batch (@mkbhd, 8) — origin era: first video + earliest 2009 uploads
+
+Stage B (P1-first) on @mkbhd, batch size 8. The driver's selection (priority asc, oldest-first)
+pulled the 1 open P1 + the oldest P2 tail — i.e. the **origin era**: Marques's earliest transcribed
+uploads (Jan 2009, age 15). Outcome: **4 ingested L2, 3 no-captions (auto-marked L1), 1 fetch-error
+(left open)**. No rate-limiting (1 isolated yt-dlp error, not the 3-consecutive threshold; 0 HTTP 429s).
+
+Ingested (→ `wiki/sources/`): 2009-01-01 **HP Pavilion dv7t Media Center Remote Overview** (opens
+"welcome to my first video") · 2009-01-30 **HQ Tutorial: Firefox Preloader** · 2009-01-30 **HQ
+Tutorial: Download Skype** · 2009-01-30 **MY Internet Speed!** (86 Mbps brag). All solo, fully
+Marques-attributed (persona/voice data); no quarantine needed.
+
+No-captions → L1 (no page): 2008-09-16 High fps LG Voyager footage · 2009-01-01 Fraps HD Test in
+1080p · 2009-01-29 15 Year old Golf Swing Analysis. Fetch-error → left open: **Retro Tech: Wearables**
+(`yt-k_vD2S49INE`, views=0, undated — possibly unavailable/private; noted for manual inspection).
+
+**Attribution:** all 4 pages are solo MKBHD-fronted, no guests → clean persona/voice data.
+
+**⚠️ Driver bug surfaced (not fixed this batch):** the landmark P1 **"The Worst Product I've Ever
+Reviewed… For Now"** (Humane AI Pin, `yt-TitZV6k8zfA`, 2024-04-14) is silently excluded from every
+batch — `ingest_batch.py`'s `FLAG_RE = re.compile(r"429|…")` matches the substring "429" inside its
+notes field `views=9429879`, so a genuine landmark review is treated as rate-limited. It is the real
+reason "@mkbhd P1" reads as ~drained. Fix: word-boundary the 429 pattern (`(?<!\d)429(?!\d)`) or
+strip raw view counts from `notes`. Left for the user / next iteration to unstick.
+
+Synthesis notes: **Origin/biography material (genuinely new).** (1) Self-described **"my first video"**
+= the HP Pavilion dv7t Media Center remote overview (2009-01-01) — earliest *transcribed* upload (an
+earlier 2008-09-16 LG Voyager clip exists but is no-captions), and the **review format + "leave
+comments and subscribe" CTA are already present in video #1** → persona/biography.md + voice.md origin
+section. (2) Earliest gear on record: **HP Pavilion dv7t laptop (3 GB RAM, ExpressCard slot)**, screen-
+recorded with the **CamStudio lossless codec**, **RocketDock** launcher, **Windows Vista**, and an
+owned-but-untested **Mac Pro** (2009-01-30) → production-filmmaking origin context. (3) Early instincts
+visible young: a **head-to-head comparison** (Firefox-preloaded vs Safari) and **scope-splitting**
+(download-tutorial now, how-to-use later). Flag `yt-9gk_rl3y_SU` as ★ L3-candidate for the next
+synthesis (biography/voice). Also flagged above: the Humane AI Pin P1 is stuck behind a driver false-
+positive and should be ingested once unstuck. Debt now 7 batches since synthesis pass 1 (checkpoint
+at 10). Next iteration: continue @mkbhd P2 oldest-first (or @AutoFocus/@Waveform P2); unstick + ingest
+the Humane AI Pin P1; Stage S when the 10-batch checkpoint or a channel/era boundary hits.

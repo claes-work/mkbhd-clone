@@ -14,6 +14,10 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 _Main solo tech-review channel — Marques-fronted. These are solo videos, so all content
 is Marques-attributed (persona/voice data); no per-line quarantine needed._
 
+- 2009-01-01 — [[2009-01-01-yt-9gk_rl3y_SU|HP Pavilion dv7t Media Center Remote Overview]] ★ · tech-reviews, consumer-tech-culture, creator-business
+- 2009-01-30 — [[2009-01-30-yt-Wi_RIX7r0mg|HQ Tutorial: Firefox Preloader]] · consumer-tech-culture
+- 2009-01-30 — [[2009-01-30-yt-8iIOsv_RJBA|HQ Tutorial: Download Skype]] · consumer-tech-culture
+- 2009-01-30 — [[2009-01-30-yt-xsdcq4z10pc|MY Internet Speed!]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -137,4 +141,4 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
 
 ---
-_113 videos ingested (L2) so far._
+_117 videos ingested (L2) so far._
