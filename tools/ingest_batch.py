@@ -64,7 +64,7 @@ LEDGER = REPO / "pipeline" / "ledger.csv"
 INDEX = REPO / "wiki" / "sources" / "youtube-index.md"
 LOG = REPO / "log.md"
 SYNTH_CHECKPOINT = 10  # ingest batches since last synthesis -> a synthesis pass is due
-FLAG_RE = re.compile(r"429|no-captions|unavailable|dup-of", re.IGNORECASE)
+FLAG_RE = re.compile(r"(?<!\d)429(?!\d)|no-captions|unavailable|dup-of", re.IGNORECASE)
 OPEN_STATUSES = {"L0-discovered", "L1"}
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
