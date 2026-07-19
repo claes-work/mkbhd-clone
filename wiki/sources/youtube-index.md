@@ -71,6 +71,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-08 — [[2009-02-08-yt-MqudmZQVWyo|HD Tutorial: Installing Firefox Themes]] · consumer-tech-culture
 - 2009-02-08 — [[2009-02-08-yt-1VRajWZr-PE|HD Tutorial: Get OS X Cursors in Windows]] · consumer-tech-culture
 - 2009-02-09 — [[2009-02-09-yt-BAAC5c2uEP8|HD Tutorial: Measure your Download and Upload Speeds]] · consumer-tech-culture
+- 2009-02-09 — [[2009-02-09-yt-mL33rhqTbHg|HD Tutorial: Get Aero Shake For Vista or XP]] · consumer-tech-culture
+- 2009-02-09 — [[2009-02-09-yt-oNMFjL1M1rA|HD First Look: SRWare Iron]] ★ · tech-reviews, consumer-tech-culture
+- 2009-02-10 — [[2009-02-10-yt-PWNohJSS-Ms|HD Tutorial: Take Screenshots in Windows Vista]] · consumer-tech-culture
+- 2009-02-10 — [[2009-02-10-yt-lX9NdNvq78Y|HD Tutorial: Zoom in CamStudio]] · production-filmmaking, consumer-tech-culture
+- 2009-02-10 — [[2009-02-10-yt-Wr1zyTNTLtQ|HD Tutorial: Tweak Safari for Speed]] · consumer-tech-culture
+- 2009-02-10 — [[2009-02-10-yt-GnrOCFwBE8s|HD Tutorial: Revert to Classic Windows Start Menu]] · consumer-tech-culture
+- 2009-02-10 — [[2009-02-10-yt-UYbJTu9T2mc|HD Tutorial: Compatibility Mode]] · consumer-tech-culture
+- 2009-02-11 — [[2009-02-11-yt-tu6vXjxtfR8|HD Tutorial: The Sage's English Dictionary and Thesaurus]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -218,4 +226,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_187 videos ingested (L2) so far._
+_195 videos ingested (L2) so far._
