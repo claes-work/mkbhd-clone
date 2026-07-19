@@ -1051,3 +1051,36 @@ video references a prior "1080p test" upload — extends the HD-obsession thread
 Fraps game-capture use; (7) confirms the "Marques" Windows user account ("Marcus downloads")
 seen in the Thunderbird video. Marginal-value tutorials (Firefox theme, Thunderbird add-ons)
 carry little persona signal.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: browser-tuning cluster (Firefox/IE/Safari-WebKit) + wallpapers / DreamScene / webcam-mic boost / Start-menu shutdown / screencast-zoom
+
+Stage B (P2, @mkbhd solo — cleanest attribution; main P1 drained). Eight 2009-02-02→04
+origin-era **HD Tutorial** screencasts, all solo Marques (no co-hosts/guests). All 8 had
+captions; 0 yt-dlp failures / 0 429s. Wrote 8 `wiki/sources/` L2 pages.
+
+Videos: wallpapers via Firefox set-as-background (`ySgD6j5yj3w`); Make IE7 Faster —
+regedit/CCleaner (`wuYhGKkTTx8`); Make Firefox Faster — about:config pipelining
+(`V3MQgxfv0h0`); Non-Ultimate DreamScene on Vista (`q90rFEbiLI8`); Boost built-in webcam
+mic +10 dB (`sTt-9R6FQ6E`); Start-menu Shutdown button (`PssBv2rusgw`); Screencasting
+zoom/magnify (`8OUGVgQLxNU`); Safari & WebKit plugins on Windows (`7g2q___Kiag`).
+
+**Attribution:** all solo (`attribution: solo`) — MKBHD-fronted personal screencasts, all
+quotes are persona/voice data. No co-hosted material this round (the ensemble channels
+@Waveform/@TheStudio and dedup-tier @WaveformClips were not touched).
+
+**Bookkeeping:** 8 ledger rows → L2; 8 rows inserted into `wiki/sources/youtube-index.md`
+@mkbhd section (date order, after the 2009-02-02 Justhearit row); footer 156 → 164;
+`index.md` count 156 → 164. No staging to delete. No fabrication, all English.
+
+Synthesis notes: debt counter now 4 batches (checkpoint at 10). Genuinely-new, all L2-only
+(not inlined): (1) ★ **gear-origin evidence** — states on record he has **no external mic**
+and records with the **built-in webcam mic** (+10 dB boost); strongest primary source yet
+for the `production-filmmaking` "started with nothing" origin narrative; (2) ★ **early
+screencasting-craft** — deliberately zooms/magnifies so viewers can follow his clicks,
+early evidence of viewer-legibility thinking; (3) ⚠️ **dated 2009 browser preference** —
+was "using Safari primarily" and "slowly moving to Firefox" (Feb 2009); do not present as
+current; part of a three-browser Feb-2009 cluster (IE/Firefox/Safari+WebKit); (4) **early
+comparative-review instinct** — closes the IE tutorial by conceding IE "is not the fastest
+web browser" and demoing Safari faster (proto tech-review); (5) **audience-engagement tell
+repeats** — again invites viewers to send tutorial requests. Both ★ items flagged as
+L3-candidates for the next synthesis pass; do not inline-promote.

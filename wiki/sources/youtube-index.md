@@ -40,6 +40,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-01 — [[2009-02-01-yt-TVMu1S8jY2A|Tutorial: Firefox Addons (theme)]] · consumer-tech-culture
 - 2009-02-01 — [[2009-02-01-yt-QYRvQh043GQ|HD Tutorial: Thunderbird Addons]] · consumer-tech-culture
 - 2009-02-02 — [[2009-02-02-yt-Ec7_yCwXmWY|HD Tutorial: Justhearit!]] · consumer-tech-culture
+- 2009-02-02 — [[2009-02-02-yt-ySgD6j5yj3w|HD Tutorial: Get High-Resolution Wallpapers Quickly]] · consumer-tech-culture
+- 2009-02-02 — [[2009-02-02-yt-wuYhGKkTTx8|HD Tutorial: Make Internet Explorer Faster]] · consumer-tech-culture, tech-reviews
+- 2009-02-02 — [[2009-02-02-yt-V3MQgxfv0h0|HD Tutorial: Make Firefox Faster]] · consumer-tech-culture
+- 2009-02-02 — [[2009-02-02-yt-q90rFEbiLI8|HD Tutorial: Non-Ultimate Dreamscene]] · consumer-tech-culture
+- 2009-02-03 — [[2009-02-03-yt-sTt-9R6FQ6E|HD Tutorial: Boost your built-in microphone]] ★ · production-filmmaking, consumer-tech-culture
+- 2009-02-03 — [[2009-02-03-yt-PssBv2rusgw|HD Tutorial: Start Menu Shutdown Button]] · consumer-tech-culture
+- 2009-02-03 — [[2009-02-03-yt-8OUGVgQLxNU|HD Tutorial: Screencasting Zoom Function]] ★ · production-filmmaking, consumer-tech-culture
+- 2009-02-04 — [[2009-02-04-yt-7g2q___Kiag|HD Tutorial: Safari and Webkit Addons]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -187,4 +195,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_156 videos ingested (L2) so far._
+_164 videos ingested (L2) so far._
