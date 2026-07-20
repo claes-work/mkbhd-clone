@@ -1485,3 +1485,29 @@ a recurring format, and the **Camtasia audio/callouts production-tooling** clust
 were music-only montages (no voice data). Contradictions: none. Rate limits: **0 × 429** this
 iteration (both previously-429'd rows finally resolved: Welcome = music-only L2; Quality
 Wallpapers = garbled-captions skip).
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 7) — 2009 origin P2 (Mar 29 → Apr 3): CCleaner registry-cleaner / HP Media-Center-remote size-comparison ★ / Conficker-worm PC-security reaction / Google Translate + unit-converter / April FOO (YouTube upside-down prank + unflip tip) / noise-removal Audacity+Camtasia-6 ★ / Google Earth 5.0 Mars
+
+Stage B ingest of 7 solo @mkbhd origin-era tutorials/reactions (Marques age 15), continuing the
+2009-03 → 2009-04 P2 thread (cleanest attribution — all solo, no co-hosts, no quarantine). Prepared
+8 rows; 1 auto-marked no-captions (yt-yVPG-fkGfuE "My New Official Intro", → L1). Wrote 7
+`wiki/sources/` pages, set 7 ledger rows to L2, inserted 7 rows into youtube-index.md in date order
+(footer 267 → 274), bumped index.md count. **0 × 429** this iteration (no rate limiting).
+
+Two ★ L3/synthesis candidates flagged for the next pass — both production-methodology origin:
+(a) **HP Media-Center-remote size-comparison** explicitly states his origin **dual production
+method** ("I do hardware things with this camera, I do software things with my screen recording
+device") + the era gear constraint (**no tripod**); (b) **noise-removal tutorial** documents the
+origin **audio-post pipeline** (Audacity Get-Noise-Profile + Camtasia 6 Audio Enhancements) and the
+quality intent "focus exactly on my audio," applied to his own uploads.
+
+Synthesis notes: New — (1) ★ origin **dual-production-method** stated outright (camera for hardware,
+screen-recorder for software) + **no-tripod** gear constraint [production-filmmaking]; (2) ★ origin
+**audio-post pipeline** (Audacity noise-profile + Camtasia-6 Audio Enhancements, "focus on my audio")
+[production-filmmaking]; (3) **framy capture** because Camtasia 6 ran alongside the demoed app — an
+origin **machine/hardware constraint** [production-filmmaking]; (4) explicit **cross-platform** framing
+("this tip works for Mac and PC") this early [consumer-tech-culture]; (5) on-screen **self-ID as
+Marques** (caption garble "Marcus") [bio]; (6) minor community signal — subscribed-to/recommends peer
+creator **"tektopia"** (context entity, not subject). Secondary: reinforces the request-driven format,
+Conficker/April-Fools news-reaction cadence, and PC-era (pre-Apple-focus) security framing.
+Contradictions: none.

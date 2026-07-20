@@ -151,6 +151,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-03-28 — [[2009-03-28-yt-j2cYJDwSH0g|HD Tutorial: Youtube Playlists]] · consumer-tech-culture, creator-business
 - 2009-03-29 — [[2009-03-29-yt-oix079jUkVU|HD Tutorial: Create A Channel Icon Using Gimp]] ★ · production-filmmaking, creator-business
 - 2009-03-29 — [[2009-03-29-yt-lKXwNA92Z-I|Animoto Widescreen/HQ Test]] · production-filmmaking, creator-business _(music-only montage, no narration)_
+- 2009-03-29 — [[2009-03-29-yt-Qnjv3fmi-yg|HD Tutorial: Fix Registry Issues Quickly (CCleaner)]] · consumer-tech-culture
+- 2009-03-30 — [[2009-03-30-yt-WaqNXARd3Fo|HP Pavilion dv7t Media Center Remote Size Comparison]] ★ · consumer-tech-culture, production-filmmaking
+- 2009-03-31 — [[2009-03-31-yt-fqWlYJcaOmI|Protect Your PC - Conficker Worm!]] · consumer-tech-culture, tech-industry-commentary
+- 2009-03-31 — [[2009-03-31-yt-qFUKXIaip6k|HD Tutorial: Google Translations and Conversions]] · consumer-tech-culture
+- 2009-04-01 — [[2009-04-01-yt-Cs-lr686tcY|April FOO!!! (YouTube upside-down prank + unflip tip)]] · consumer-tech-culture
+- 2009-04-02 — [[2009-04-02-yt-CwapC2jZ_JI|HD Tutorial: Remove Background Noise (Audacity + Camtasia 6)]] ★ · production-filmmaking
+- 2009-04-03 — [[2009-04-03-yt-12VD3g_Ee80|HD Tutorial: Explore Mars in Google Earth 5.0]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -298,4 +305,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_267 videos ingested (L2) so far._
+_274 videos ingested (L2) so far._
