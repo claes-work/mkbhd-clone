@@ -1315,3 +1315,21 @@ direct-audience-access operating model + first stated intent to join Twitter** �
 creator-business + biography; (c) continued origin **production-toolchain** detail (DivX
 codec into CamStudio, recorded in Camtasia 6) reinforcing the existing CamStudio-vs-Camtasia
 thread. All flagged ★ on their pages for synthesis, not promoted.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: Vista-start-menu-logo / "What does YouTube Want?" (encoding specs) / watch-HQ-by-default (95 subs) / Shiny-Search-homepage / Camtwist-webcam-test / CamStudio-lossless-codec / Update-1.1 (Camtasia-6 upgrade) / CrystalXP-bricopacks
+
+8 open @mkbhd P2 long-form rows (2009-02-21 → 2009-02-23) → L2. All solo MKBHD
+screencasts (age 15); `attribution: solo`, no co-hosts — cleanest-attribution channel.
+Captions: 8/8 fetched, 0 failures, 0 rate-limits (429s). One low-signal test upload
+(Camtwist) kept L2 for completeness. Corpus: L2 224 → 232.
+
+Synthesis notes: two ★ L3-candidates for the next checkpoint. (a) **"What does YouTube
+Want?" (`ZPv25BKcQtU`)** — earliest dated MKBHD production/encoding standard: **1280×720
+target, h.264 preferred codec, 24–25 fps, two-channel/two-mic audio, and test-fully-before-
+publish** (no re-upload) — a documented root of his production-filmmaking rigor.
+(b) **Update 1.1 (`SsgBuvCKJE4`)** — earliest "redo it better" moment: upgrades Movie
+Maker + CamStudio → **Camtasia Studio 6** to fix audio, and announces a plan to
+**re-record older videos to be more professional** — origin of the quality-obsession ethos.
+Also a dated growth marker: **95 subscribers** (2009-02-22, `0M_K6f-7vWc`),
+consistent with the ~74-subs-at-video-100 datapoint days earlier. Flagged ★ on their pages,
+not promoted.

@@ -108,6 +108,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-20 — [[2009-02-20-yt-7cONAGNdPpI|HD Tutorial: Change or Create your Gmail Theme]] · consumer-tech-culture
 - 2009-02-21 — [[2009-02-21-yt-NBACYdNLfGA|HD Tutorial: DivX Codec For Camstudio (Request)]] · production-filmmaking, consumer-tech-culture
 - 2009-02-21 — [[2009-02-21-yt-p4jP-gyIPVg|HD Vista Lite?]] · consumer-tech-culture
+- 2009-02-21 — [[2009-02-21-yt-ecRmoIPTaTU|HD Tutorial: Change Vista Start Menu Logo]] · consumer-tech-culture
+- 2009-02-21 — [[2009-02-21-yt-ZPv25BKcQtU|What does Youtube Want?]] ★ · production-filmmaking, consumer-tech-culture
+- 2009-02-22 — [[2009-02-22-yt-0M_K6f-7vWc|HD Tutorial: Watch HQ Content By Default]] · consumer-tech-culture, creator-business
+- 2009-02-22 — [[2009-02-22-yt-S1iEDQ-wUhA|HD Tutorial: Shiny Search (Request)]] · consumer-tech-culture
+- 2009-02-22 — [[2009-02-22-yt-i4LeHr7RkL0|Camtwisting with Camtasia Studio 6 (Future Tutorial!)]] · production-filmmaking
+- 2009-02-22 — [[2009-02-22-yt-RCxYSQi9ZDs|HD Tutorial: Camstudio Lossless Codec v1.4]] · production-filmmaking, consumer-tech-culture
+- 2009-02-23 — [[2009-02-23-yt-SsgBuvCKJE4|Update 1.1]] ★ · production-filmmaking, creator-business
+- 2009-02-23 — [[2009-02-23-yt-fz3VwmPzi20|HD Tutorial: CrystalXP.net]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -255,4 +263,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_224 videos ingested (L2) so far._
+_232 videos ingested (L2) so far._
