@@ -1654,3 +1654,36 @@ production-filmmaking/). (4) **Creator-workflow origin** — Update 2.2 (`4RI1gW
 (feeds creator-business/). Minor aesthetic data point: black UI color-scheme preference stated as early as
 2009-04-13 (`pOJ0TdkLge4`), extends the red-on-black origin thread. Caption-garble corrections logged on
 `wTEAtmYrfM0`: "marcus brownlee" → Marques Brownlee, "campaign studio" → Camtasia Studio.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Apr 22 → May 1): Tech-Channel-of-the-Week-#1 (first-giveaway-won) / ExtremePDA-LG-Voyager-case-review ("one of my first hardware reviews") / HandStands-iDesk unbox+full-review two-parter (no-tripod-yet) / TweetDeck-tutorial (Twitter-as-audience) / Create-Your-Own-Cursor-IconArt (request-loop) / iFrogz-D33-earphones-unbox (one-video-per-product workflow) / Produce-any-Video-in-16:9-HD ★ (720p/H.264 encoding standard)
+
+**Batch:** `python tools/ingest_batch.py prepare --channel @mkbhd --priority 2 --n 8`. 8 rows selected
+oldest-first (Stage B, P2 — P1 long-form fully drained, synthesis debt 3/10 below the checkpoint, persona
+already refreshed to v4 since P1 completion). All 8 OK → L2, 0 no-captions, 0 duplicates, 0 skipped. All 8
+solo/MKBHD-fronted age-15 origin-era tutorials and unboxings/reviews — no ensemble attribution issues. The
+"Tech Channel of the Week #1" video is Marques' own unboxing/commentary (a giveaway he won + a shout-out
+series he launches), not other-people-only → kept. The two HandStands iDesk videos are a deliberate
+unbox→full-review two-parter, not a duplicate. No yt-dlp rate limits.
+
+**Bookkeeping:** 8 new `wiki/sources/` pages; 8 rows inserted into `wiki/sources/youtube-index.md` in date
+order; footer 293 → 301; `index.md` count 293 → 301 + batch note + Last-updated line. Ledger: 8 rows L2
+(domains/notes set). No fabrication, all English. Debt counter 3 → 4 (checkpoint at 10).
+
+Synthesis notes: One ★ L3-candidate + several genuinely-new origin nodes, all SOLO-attributed and safe to
+promote at the next synthesis: (1) **Encoding-standard extension ★** — "Produce any Video in 16:9 HD"
+(`6vzrFrHaQE0`) extends the origin "get to 720p HD" doctrine to CAMERA footage via **MPEG Streamclip →
+MPEG-4/H.264, de-interlaced, 30 fps, 1280×720, quality ~80**, with a dated **quality-vs-file-size/upload
+tradeoff** (a prior upload was 985 MB / ~1.5 hr) — pairs with the earlier "What does YouTube Want?" +
+Camtasia-6 720p-preset pages (feeds production-filmmaking/). (2) **Explicit review workflow** — the iFrogz
+D33 unboxing (`uHaTlGE-UH0`) states he **"dedicate[s] a video, one for the unboxing and first impressions,
+for every product that I get"** — a dated articulation of the one-product/one-unboxing-then-full-review
+cadence (feeds tech-reviews/ methodology). (3) **"One of my first hardware review videos"** — the ExtremePDA
+LG-Voyager case review (`sDBks7DBSvw`) self-marks the review format taking shape, names a concrete con
+(charging requires removing the hard-to-detach back) and flags an honest unknown (four unexplained holes)
+(feeds tech-reviews/). (4) **"Tech Channel of the Week" series + first giveaway won** (`0gfxIDmiud8`) — early
+creator-community cross-promotion; corroborates the origin non-Apple-owner thread ("I do not have an iPod
+touch") (feeds creator-business/). (5) **Twitter-as-audience-channel** — the TweetDeck tutorial
+(`vVYo5LhBTYw`) shows early social-media audience-notification behavior (feeds creator-business/).
+(6) **Dated gear gap** — "no tripod yet" stated 2009-04-28 (`mfEN8MrXCiU`), anchoring the origin
+production-kit timeline; plus a dated **deep-bass audio preference** (`uHaTlGE-UH0`). Caption-garble
+corrections logged: "Marcus Brownley" → Marques Brownlee on `EeAITctSbDg`/`mfEN8MrXCiU`/`6vzrFrHaQE0`.

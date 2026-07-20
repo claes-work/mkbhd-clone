@@ -173,6 +173,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-04-19 — [[2009-04-19-yt-XGz2zi8K_RA|HD Tutorial: Royalty Free Music (incompetech) — credit-in-description ethics]] ★ · production-filmmaking
 - 2009-04-21 — [[2009-04-21-yt-wTEAtmYrfM0|HD Tutorial: iTunes Visualizer — spoken 'from MKBHD' intro + redo-in-Camtasia]] ★ · consumer-tech-culture
 - 2009-04-21 — [[2009-04-21-yt-lf_72T3nSA4|Unboxed: Alto-Edge GN3 Desktop Microphone — audio-gear upgrade]] · production-filmmaking, consumer-tech-culture
+- 2009-04-22 — [[2009-04-22-yt-0gfxIDmiud8|Tech Channel of The Week #1 — first YouTube giveaway won (iPod Touch music skins)]] · creator-business, consumer-tech-culture
+- 2009-04-23 — [[2009-04-23-yt-sDBks7DBSvw|Reviewed: ExtremePDA Case for LG Voyager — one of his first hardware reviews]] · tech-reviews, consumer-tech-culture
+- 2009-04-25 — [[2009-04-25-yt-TTGaZC1zHVI|Unboxed: HandStands iDesk Laptop Stand — detachable USB hub]] · tech-reviews, consumer-tech-culture
+- 2009-04-26 — [[2009-04-26-yt-vVYo5LhBTYw|HD Tutorial: TweetDeck — Twitter as audience channel]] · creator-business, consumer-tech-culture
+- 2009-04-27 — [[2009-04-27-yt-EeAITctSbDg|HD Tutorial: Create Your Own Cursor (IconArt) — audience-request loop]] · consumer-tech-culture
+- 2009-04-28 — [[2009-04-28-yt-mfEN8MrXCiU|Reviewed: HandStands iDesk Laptop Stand — no tripod yet]] · tech-reviews, consumer-tech-culture, production-filmmaking
+- 2009-04-30 — [[2009-04-30-yt-uHaTlGE-UH0|Unboxed: iFrogz Earpollution D33 — one-video-per-product review workflow]] · tech-reviews, consumer-tech-culture
+- 2009-05-01 — [[2009-05-01-yt-6vzrFrHaQE0|HD Tutorial: Produce any Video in 16:9 HD — 720p/H.264 encoding standard]] ★ · production-filmmaking, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -334,4 +342,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_293 videos ingested (L2) so far._
+_301 videos ingested (L2) so far._
