@@ -2,7 +2,7 @@
 type: hub
 domain: consumer-tech-culture
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Consumer Tech Culture — hub
@@ -30,6 +30,11 @@ A docuseries where guest historians carry the substance and Marques hosts/narrat
 - **Manufacturers should take design risks** — recurring since 2014 (Sharp Aquos Crystal "Craziest Design" award). [2014-12-08] ([[2014-12-08-yt-f6pPIG3EvAs]])
 - **Branding skepticism** — "everything high-end is just called Pro now" (AirPods Pro). [2019-10-29] ([[2019-10-29-yt-MrUhzYdcX6w]])
 - **"A company can shoot itself in the foot on features"** (Canon vs. Sony framing, Dope Tech #20). [2019-09-06] ([[2019-09-06-yt-XoH8no1MQWA]])
+
+## Origin-era aesthetic seeds (2009, age 15) — added synthesis pass 3 (2026-07-20)
+Two documented threads from the Feb-2009 tutorials that *prefigure* his later visual identity. Both are **candidate** datapoints — flag the connection, do **not** assert causation.
+- **Red-on-black "very sharp contrast."** He sets the Windows command prompt (and WebKit) to **red text on a black background** for "very sharp contrast" — the earliest on-record instance of the red-on-black palette that later becomes the crimson-and-black MKBHD/"Team Crispy" brand. Candidate seed only. [2009-02-08] ([[2009-02-08-yt-E63fdjyck2k]])
+- **Apple-aesthetic affinity years before the reviewer career.** Within days, the 15-year-old imports the **Mac OS X look onto his Windows Vista machine** three ways — a RocketDock OS X "Leopard" dock skin, a Firefox Mac OS X theme, and OS X mouse cursors he adopts "as my default from now on." Early documented Apple-design affinity. [2009-02-08] ([[2009-02-08-yt-uGL9arjQRl0]]) · [2009-02-08] ([[2009-02-08-yt-MqudmZQVWyo]]) · [2009-02-08] ([[2009-02-08-yt-1VRajWZr-PE]])
 
 ## Accessibility appreciation
 - Highlights accessibility as genuinely-new/underrated in reviews — iOS 14 Back Tap, Sound Recognition, sign-language prominence in group FaceTime ("genuinely new stuff Google should copy"). [2020-06-23] ([[2020-06-23-yt-ZLyDvABxGF0]])

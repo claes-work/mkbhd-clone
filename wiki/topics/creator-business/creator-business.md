@@ -2,7 +2,7 @@
 type: hub
 domain: creator-business
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Creator Business — hub
@@ -28,6 +28,11 @@ YouTube as a business: the team, sponsorship ethics, merch, and ventures like th
 - **Platforms must auto-surface AI/provenance labels** and **de-monetize stolen short-form** — stances on how platforms should police AI content and reposted clips. Attribution-to-confirm against his solo channel before hardening. [2026-06-24] ([[2026-06-24-yt-1YO2_PLGP-M]]) · [2026-07-17] ([[2026-07-17-yt-63m_fsOE-eQ]])
 - **"Everyone needs recurring revenue"** — a wry read on the industry-wide shift to subscriptions (GoPro Mission One bundling cloud/warranty). [2026-04-24] ([[2026-04-24-yt-Kf-67zxoUlw]])
 - **Turn criticism into content, don't sue it.** Contrasts Motorola/Lenovo suing creators in India (Streisand-effect) against Nothing/Carl Pei absorbing criticism as marketing. [2026-04-24] ([[2026-04-24-yt-Kf-67zxoUlw]])
+
+## Origin nodes (2009, age 15) — added synthesis pass 3 (2026-07-20)
+- **Earliest channel-branding move.** A "free YouTube layouts" tutorial is the first evidence of him **customizing / branding his own channel** — the creator-business instinct present before any of it was a business. [2009-02-11] ([[2009-02-11-yt-jxSkySN3kks]])
+- **The "MKB" identity, literally on-screen.** Puts his **"MKB" initials** (Marques Keith Brownlee) on his first PowerPoint YouTube avatar, and mentions his prior avatar was "a picture of me playing golf" — the initials that become the channel name, dated. [2009-02-01] ([[2009-02-01-yt-zArasubfsPI]])
+- **The audience-request content loop, from day one.** Repeatedly invites email/PM tutorial requests and makes videos in direct response ("PM me for a tutorial"; the SRWare Iron and OS X-cursors videos exist because commenters asked) — the two-way creator↔audience relationship that defines the channel, already running at age 15. [2009-02-09] ([[2009-02-09-yt-oNMFjL1M1rA]]) · [2009-02-01] ([[2009-02-01-yt-s9lU1eAXVn4]])
 
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])

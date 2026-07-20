@@ -6,17 +6,36 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **the first 19 ingest batches (133 L2 sources)** — synthesis pass 1's 74-source
-2013–2020 corpus PLUS pass 2's 9 batches: the @mkbhd 2021→2025 P1 completion, the origin-2009 era,
-the Humane AI Pin landmark, and the first @AutoFocus (2026 EV) batch. Covers every `wiki/sources/`
-page that was L2 as of 2026-07-19 (`## [2026-07-19] ingest` batches 1–19 in `log.md`).
+Synthesized through: **the first 28 ingest batches (202 L2 sources)** — synthesis passes 1–2 (133 L2)
+PLUS pass 3's 9 batches: the @AutoFocus 2026 Q1 EV batch and the eight @mkbhd Feb-2009 origin P2
+batches (the deep origin / production-methodology thread). Covers every `wiki/sources/` page that was
+L2 as of 2026-07-20 (`## [2026-07-19] ingest` batches 1–19 + `## [2026-07-20] ingest` batches 20–28 in
+`log.md`).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_None — synthesis is caught up with ingest (L2=133). Next checkpoint at the next channel/era
+_None — synthesis is caught up with ingest (L2=202). Next checkpoint at the next channel/era
 boundary or ~10 more batches._
 
 ## Done checkpoints
+- [x] **Era: @AutoFocus 2026 Q1 EV batch + @mkbhd Feb-2009 origin P2 (69 new L2, batches 20–28)** —
+  third synthesis pass. Drained the 9 accumulated `Synthesis notes:` lines. **Origin / production-
+  methodology thread:** deepened `production-filmmaking` (the CamStudio + DivX 6.8.5 720p stack, the
+  first "HD Test" milestone, the no-external-mic "started with nothing" gear origin, viewer-legibility
+  zoom craft), added a "review methodology origin" section to `tech-reviews` (SRWare Iron benchmark +
+  Task-Manager comparison, Safari-4 Acid3, earliest explicit "review" framings, first NZXT hardware
+  unboxing, Microsoft Mouse 6000 two-part review, experience-over-benchmark GUI-boot choice), added
+  origin nodes to `creator-business` (first channel branding, "MKB"-initials avatar, day-one
+  audience-request loop), and added candidate aesthetic seeds to `consumer-tech-culture` (red-on-black
+  contrast, macOS-in-Windows Apple affinity — flagged, not asserted causal). **EV thread:** extended
+  `ev-cars` with the 2026 Q1 positions ("what's stopping me from recommending it?", winter-EV ownership
+  framework, "specialty EVs" maturation, NACS-not-always-faster, democratized-performance, "simplify by
+  fewer parts", depreciation-aware buying). Persona: added dated/cited entries to `beliefs.md` (origin
+  values + EV frameworks), `voice.md` (origin + EV catchphrases and verbatim), `biography.md` (origin-
+  2009 deepening + 2026 Q1 anchors), `appearance.md` (candidate brand-aesthetic origins); recompiled
+  `persona/system-prompt.md` **v3** (compiled_from_sources: 202). Done 2026-07-20 (synthesis pass 3).
+  Attribution: co-host "Miles" @AutoFocus driving segments stayed quarantined; only Marques-attributed
+  material trained the persona.
 - [x] **Era: @mkbhd 2021→2025 P1 completion + origin-2009 + Humane AI Pin + @AutoFocus 2026 EV batch
   (59 new L2, batches 11–19)** — second synthesis pass. Drained the 9 accumulated `Synthesis notes:`
   lines: extended all 7 topic hubs (Smartphone Awards 2020–25 slate; golden rule / "Great Separation" /

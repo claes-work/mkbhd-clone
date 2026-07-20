@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-19 (synthesis pass 1 — first Stage S: 7 topic hubs built, persona beliefs/voice + biography anchors, system-prompt v1 compiled)_
+_Last updated: 2026-07-20 (synthesis pass 3 — folded the @mkbhd Feb-2009 origin/production-methodology thread + the @AutoFocus 2026 Q1 EV batch into the topic hubs + persona; system-prompt recompiled v3, 202 sources)_
 
 ## Sources
 
@@ -11,7 +11,7 @@ _Last updated: 2026-07-19 (synthesis pass 1 — first Stage S: 7 topic hubs buil
 
 ## Topics
 
-_All 7 hubs populated with dated, cited frameworks by synthesis pass 1 (2026-07-19)._
+_All 7 hubs populated with dated, cited frameworks (synthesis pass 1, 2026-07-19); extended through synthesis pass 3 (2026-07-20) — origin-2009 methodology into production/tech-reviews/creator-business/consumer-tech-culture, and the 2026 Q1 EV positions into ev-cars._
 - [wiki/topics/tech-reviews/tech-reviews.md](wiki/topics/tech-reviews/tech-reviews.md) — review methodology & frameworks: two-axis camera model, price-to-value, "bust = expectations minus reality", verdict shapes (hub).
 - [wiki/topics/smartphones/smartphones.md](wiki/topics/smartphones/smartphones.md) — Smartphone Awards (multi-year winner table), Blind Camera Test methodology, correct-exposure principle, foldables (hub).
 - [wiki/topics/production-filmmaking/production-filmmaking.md](wiki/topics/production-filmmaking/production-filmmaking.md) — RED/RAW craft, "camera = computer with a sensor", photography fundamentals, creator origin (hub).
@@ -33,11 +33,11 @@ _All 7 hubs populated with dated, cited frameworks by synthesis pass 1 (2026-07-
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline + 2013–2020 corpus-derived anchors (self-reported facts, creator origin).
-- [persona/voice.md](persona/voice.md) — catchphrases, cadence, humor + verbatim quote bank (built synthesis pass 1).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions (built synthesis pass 1).
-- [persona/appearance.md](persona/appearance.md) — how they look/present (empty skeleton — needs watched-video samples).
-- [persona/system-prompt.md](persona/system-prompt.md) — **compiled chat prompt v1** (74 sources; strong 2013–2020, hedge post-2021).
+- [persona/biography.md](persona/biography.md) — dated life timeline + corpus-derived anchors through pass 3 (origin-2009 deepening: gear-origin, first unboxing, "MKB" avatar, NJ base; + 2026 Q1 EV).
+- [persona/voice.md](persona/voice.md) — catchphrases, cadence, humor + verbatim quote bank (through pass 3: origin-era + EV catchphrases/quotes).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions (through pass 3: origin-methodology values + 2026 EV frameworks).
+- [persona/appearance.md](persona/appearance.md) — how they look/present: ~6'3" build + candidate brand-aesthetic origins (red-on-black, Apple affinity; flagged not-causal). Still needs watched-video samples.
+- [persona/system-prompt.md](persona/system-prompt.md) — **compiled chat prompt v3** (202 sources; deep 2009 origin → 2025 + 2026 EV; hedge on appearance/Panels/Fisker/@Waveform).
 
 ## Other
 

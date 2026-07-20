@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-19
-sources: 133
+updated: 2026-07-20
+sources: 202
 ---
 
 # Beliefs
@@ -36,6 +36,10 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Utility vs. aesthetics (cameras).** Judge a camera on two separate questions — is it an accurate/useful tool, and is it pleasing — and name which one it optimizes instead of collapsing to one "best" score. [2024-01-26] ([[../wiki/sources/2024-01-26-yt-XaqOejIaFgM]])
 - **EV design is battery-constrained.** "EVs look like blobs" because energy density forces a low-drag teardrop; "when battery tech improves, we can have design again" — so an EV that chases only efficiency (Ferrari Luce) betrays its own brand. [2026-05-25] ([[../wiki/sources/2026-05-25-yt-6Reu1WS3BhM]]) · [2026-06-01] ([[../wiki/sources/2026-06-01-yt-clsbuM6uf1A]])
 - **"Multiple personalities is the superpower of electric cars."** An EV can be soft-comfortable and track-sharp on demand — a structural advantage combustion can't match. [2025-12-05] ([[../wiki/sources/2025-12-05-yt-Mb6H7trzMfI]])
+- **"What's stopping me from recommending it?"** His signature car-verdict move: frame the recommendation around the single disqualifier (Polestar 4: no rear window + sub-200-mi winter range), paired with a running **"best software that's not CarPlay"** ranking (Tesla/Rivian/Polestar). [2026-03-03] ([[../wiki/sources/2026-03-03-yt-i4eCZ6dLVrg]])
+- **Winter-EV ownership framework.** Contrarian: he **prefers an EV in winter** — one downside (road trips / cold-sapped range) against preheat-from-anywhere, superior traction, and no warm-up idling; **home charging neutralizes the daily range hit.** An ownership-experience lens, not a spec claim. [2026-02-13] ([[../wiki/sources/2026-02-13-yt-cAmEAgNc0eY]])
+- **Depreciation-aware buying (expensive performance EVs).** Reason from depreciation — buy the better platform-twin, or buy used — rather than pay full launch price for a fast-depreciating premium EV (Audi RS e-tron GT). [2026-03-09] ([[../wiki/sources/2026-03-09-yt-fOwC95ZXh08]])
+- **Real-world charging ≠ the spec.** "NACS isn't always faster" — a Supercharger session on the Ioniq 5 ran slower than expected (~50–60 kW); the plug standard doesn't guarantee the speed. [2026-01-29] ([[../wiki/sources/2026-01-29-yt-46tvrNZFxjQ]])
 
 ## Values (what he stands for)
 
@@ -49,6 +53,10 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Skin-tone accuracy is a first-order camera test (personal).** "Phones overexpose people with dark skin constantly — I would know." A signature, first-person camera criterion he applies before generic dynamic-range talk. [2022-09-14] ([[../wiki/sources/2022-09-14-yt-SdLShOCvVeM]])
 - **Root for affordable tech done right.** Openly cheers a sub-$30k EV that "doesn't suck" (Chevy Bolt), modular pay-for-what-you-want products (Slate Truck), and a complete base iPhone — against premium-badge "tax" and stripped-down flagships. [2026-05-21] ([[../wiki/sources/2026-05-21-yt-bYw5GAzP2Ds]]) · [2025-12-08] ([[../wiki/sources/2025-12-08-yt-sfyL4BswUeE]])
 - **Physical controls matter.** Demands real buttons / a next-track control on the wheel and "everything you touch is metal, glass, or leather" — the same physical-plus-digital taste he applies to phones, applied to cars. [2026-05-25] ([[../wiki/sources/2026-05-25-yt-6Reu1WS3BhM]]) · [2026-07-13] ([[../wiki/sources/2026-07-13-yt-FefIWhfl5Lg]])
+- **Experience over the raw number (origin value).** Present since age 15: he keeps the **slower GUI boot** because he "actually like[s]" it, choosing the nicer experience over the faster benchmark — the earliest seed of his later experience-first, spec-second stance. [2009-02-04] ([[../wiki/sources/2009-02-04-yt-OBNkCLRGx2k]])
+- **Benchmark-led comparison as the way to judge (origin value).** The reviewing method is native, not learned late: at 15 he already runs standardized tests (Acid3) + side-by-side resource/RAM comparisons + a hedged verdict (SRWare Iron, Safari 4 WebKit). [2009-02-09] ([[../wiki/sources/2009-02-09-yt-oNMFjL1M1rA]]) · [2009-02-04] ([[../wiki/sources/2009-02-04-yt-NrOWLTqRLc8]])
+- **Get it right — reshoot until it is (origin value).** The Firefox add-ons "redo" opens by scrapping a bad take; a do-it-until-it's-right perfectionism on record from the start. [2009-02-01] ([[../wiki/sources/2009-02-01-yt-NuxUMQ5CrX0]])
+- **Duty-of-care advice.** Measured, caveated guidance rather than reckless tweaks — an "advanced users only" warning on disabling UAC, "set it low but not to zero" on virtual memory — prefiguring his later responsible-reviewer tone. [2009-02-04] ([[../wiki/sources/2009-02-04-yt-1g1aQTEocX0]]) · ([[../wiki/sources/2009-02-04-yt-q0aKUO9xmds]])
 
 ## Opinions & positions (dated)
 
@@ -63,6 +71,8 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **"Form over function" and "two-in-one is always worse at one thing."** Twin design-critique reflexes — the Dell XPS 13 Plus for the former, Huawei Watch Buds / Dyson Zone for the latter. [2022-09-30] ([[../wiki/sources/2022-09-30-yt-bFBIrkzy_gM]]) · [2023-05-15] ([[../wiki/sources/2023-05-15-yt-tFdnCzfJPJ0]])
 - **One-pedal driving should be standard on an EV** — a near-universal knock when it's missing or half-done (Mercedes CLA, Nissan Leaf "e-Step", Porsche Macan). [2026-06-01] ([[../wiki/sources/2026-06-01-yt-clsbuM6uf1A]]) · [2026-07-13] ([[../wiki/sources/2026-07-13-yt-FefIWhfl5Lg]])
 - **Rebadge/hybrid-company skepticism** — "Toyota doesn't like making EVs; they love hybrids" (Subaru Uncharted = rebadged Toyota bZ). [2026-04-20] ([[../wiki/sources/2026-04-20-yt-4-eB-n5NYRs]])
+- **Democratized performance / "performance bargain."** Daily-usable **1,000-hp** is no longer exotic — the Corvette ZR1 draws the Model S Plaid comparison; elite performance is increasingly accessible. [2026-02-19] ([[../wiki/sources/2026-02-19-yt-1q-hpaepgk0]])
+- **"Simplify by fewer parts."** Praises deliberate parts-reduction as the path to a cheaper, better product — the Rivian R2 at ~half the R1S price, "their Model Y." [2026-02-10] ([[../wiki/sources/2026-02-10-yt-EfReqcUJfBU]])
 
 ### Predictions to track ("was he right?")
 - **Portless iPhone** off the back of MagSafe. [2020] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])

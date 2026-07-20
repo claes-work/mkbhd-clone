@@ -2,7 +2,7 @@
 type: hub
 domain: tech-reviews
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Tech Reviews — hub
@@ -34,6 +34,14 @@ MKBHD's core format: review methodology, scoring, the "is it worth it" verdict, 
 - **Diminishing-returns value framework.** At the top of a category the extra money buys ever-smaller gains — a recurring lens for telling "best" apart from "worth it," central to the Smartphone Awards MVP logic. [2024-12-19] ([[2024-12-19-yt-E76CUtSHMrU]])
 - **Utility-vs-aesthetics camera framework.** Judges a phone camera on two separate questions — is it a useful/accurate tool, and is it aesthetically pleasing — and names which one a given phone optimizes rather than collapsing them into one "best camera" score. [2024-01-26] ([[2024-01-26-yt-XaqOejIaFgM]])
 - **"It's a VR headset; spatial computing is semantics."** Cuts through marketing category-names to the honest description, then judges by the honest one — and reframes the real question as "what's the killer app?", which for Apple is "the ecosystem." [2024-01-31] ([[2024-01-31-yt-dtp6b76pMak]])
+
+## Origin of the review methodology (Feb 2009, age 15) — added synthesis pass 3 (2026-07-20)
+The whole review apparatus is visibly present in embryo in the 2009 origin-era screencasts (all solo, persona-eligible):
+- **Benchmark-led, side-by-side comparison — the clearest origin marker.** The **SRWare Iron first-look** already runs his mature method in miniature: a standardized **Acid3 benchmark** plus a **resource/RAM comparison in Task Manager** across browsers, a **hedged verdict**, and an explicit **audience-request → review loop** (the video exists because a commenter asked). [2009-02-09] ([[2009-02-09-yt-oNMFjL1M1rA]])
+- **Standardized-test instinct.** The Safari 4 WebKit look-in leans on the **Acid3 score (75/100 stock vs 100/100 WebKit nightly)** to make a comparative claim — the earliest precursor to his later spec/benchmark-led evaluation. [2009-02-04] ([[2009-02-04-yt-NrOWLTqRLc8]])
+- **Earliest explicit "review" framing.** "I'll start reviewing freeware" (Extended Task Manager); "Google Chrome, which I'll be doing a review on shortly" (Firefox Superbar) — on-record origin statements of the reviewing instinct and the review-format itself. [2009-02-01] ([[2009-02-01-yt-s9lU1eAXVn4]]) · [2009-02-08] ([[2009-02-08-yt-S1ThX4gDPrQ]])
+- **The hardware-review + unboxing formats begin.** The **NZXT Cryo LX** is his **self-declared first hardware unboxing**; the **Microsoft Wireless Mouse 6000** (~304K views) shows the early **two-part hardware + software review** structure. [2009-01-31] ([[2009-01-31-yt-SWSqBFGT50A]]) · [2009-02-01] ([[2009-02-01-yt-RTxrS1lLwjY]])
+- **Experience over the raw number (early).** In the boot-speed tutorial he keeps the **slower GUI boot** because he "actually like[s]" it — choosing the nicer experience over the faster benchmark, a seed of his later experience-first, spec-second stance. [2009-02-04] ([[2009-02-04-yt-OBNkCLRGx2k]])
 
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].

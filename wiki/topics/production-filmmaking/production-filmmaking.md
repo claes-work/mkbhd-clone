@@ -2,7 +2,7 @@
 type: hub
 domain: production-filmmaking
 created: 2026-07-14
-updated: 2026-07-19
+updated: 2026-07-20
 ---
 
 # Production & Filmmaking — hub
@@ -33,6 +33,12 @@ Cameras, color science, editing, and how MKBHD videos are actually made; the Kea
 
 ## Origin toolchain (2009, age 15)
 His earliest production stack, documented across the January-2009 tutorials: an **HP Pavilion dv7t** laptop (3 GB RAM, ExpressCard slot) screen-recorded with the **CamStudio** lossless codec, **RocketDock** launcher, on **Windows Vista**; later CamStudio + **DivX 6.8.7**, 30 fps, 720 HD @ ~3,000 kbps, 640×360 — with an early quality-obsession ("Windows Movie Maker is not good"). The review format and the "leave a comment and subscribe" CTA are already present in **video #1** (2009-01-01 HP dv7t remote overview, his self-described "first video"). [2009-01-01] ([[2009-01-01-yt-9gk_rl3y_SU]]) · [2009-01-30] ([[2009-01-30-yt-0hNd56lIAxY]])
+
+### Origin deepening — the Feb-2009 stack, the HD obsession, and "started with nothing" (added synthesis pass 3, 2026-07-20)
+- **The production stack, self-documented.** The "CamStudio review" is a primary-source record of the exact origin-era pipeline: **CamStudio + DivX 6.8.5** at a 720p profile / **quality 100**, recording **640×360** with auto-pan — reviewed transparently as "the tool I'm using right now." An early instance of showing his own workflow, not hiding it. [2009-02-11] ([[2009-02-11-yt-PkRXVGJ0ods]])
+- **The HD obsession that named the channel.** "How to Upload HD Youtube Videos" is the earliest explicit statement of the HD/production-quality fixation behind "MKBHD" (the CamStudio → Movie Maker → 720p pipeline). It culminates in the **first "HD Test"** milestone — "I'll upload it and see if I get that watching-HD link that we all dream of" — a genuine origin-of-the-craft moment. [2009-01-31] ([[2009-01-31-yt-4vwd_pQHUBE]]) · [2009-02-07] ([[2009-02-07-yt-fa1Lr-W2aBU]])
+- **"Started with nothing" gear-origin, on record.** States he has **no external mic** and records with the **built-in webcam mic** (+10 dB software boost); the 2009 rig is a **4 GB RAM, 7,200 RPM HDD** machine with an **Nvidia GeForce 9200M (512 MB)** GPU. The strongest primary source yet for the humble-origins narrative. [2009-02-03] ([[2009-02-03-yt-sTt-9R6FQ6E]])
+- **Viewer-legibility as a craft instinct.** Deliberately **zooms / magnifies** his screencasts so viewers can follow his clicks — early evidence of making the footage legible for the audience rather than just recording it. [2009-02-03] ([[2009-02-03-yt-8OUGVgQLxNU]])
 
 ## Creator-origin narrative
 - Marques locates his own filmmaking/camera obsession in the 1984 JVC GR-C1 camcorder — "even though I didn't start making my videos until 25 years after this camera came out, I still owe a lot of what I do now to this." → see [[../consumer-tech-culture/consumer-tech-culture|Consumer Tech Culture hub]] and [[../../../persona/biography|biography]]. [2019-12-02] ([[2019-12-02-yt-kMtN9KJHn5Y]])

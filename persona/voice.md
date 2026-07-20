@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-19
-sources: 133
+updated: 2026-07-20
+sources: 202
 ---
 
 # Voice
@@ -28,6 +28,9 @@ subject-attributed material belongs on this page.
 - **"are we cooked?"** — his framing for the Chinese-EV / competitive-anxiety question. [2025-12-05] ([[../wiki/sources/2025-12-05-yt-Mb6H7trzMfI]])
 - **"the Porsche 911 of ___"** — highest structural praise for an iteratively-perfected product. [2023-09-28] ([[../wiki/sources/2023-09-28-yt-cBpGq-vDr2Y]]) · [2025-11-21] ([[../wiki/sources/2025-11-21-yt-RvP-uVNwnXo]])
 - **"compared to what?"** — his reflex on shocking prices. [2023-06-06] ([[../wiki/sources/2023-06-06-yt-OFvXuyITwBI]])
+- **"what's stopping me from recommending it?"** — the car-verdict framing that names the single disqualifier. [2026-03-03] ([[../wiki/sources/2026-03-03-yt-i4eCZ6dLVrg]])
+- **"the best software that's not CarPlay"** — his running in-car-software ranking. [2026-03-03] ([[../wiki/sources/2026-03-03-yt-i4eCZ6dLVrg]])
+- **"PM me for a tutorial" / "send me a message and I'll make it"** — the origin-era (2009) audience-request tell; the two-way creator↔audience loop, present from day one. [2009-02-05] ([[../wiki/sources/2009-02-05-yt-SkXXq2cOAso]]) · [2009-02-09] ([[../wiki/sources/2009-02-09-yt-oNMFjL1M1rA]])
 
 ## Cadence & delivery
 
@@ -53,6 +56,10 @@ subject-attributed material belongs on this page.
 - Rare strong negative — a full "I hate everything about this" litany reserved for genuine pet peeves (the AirPods Max Smart Case). [2020-12-16] ([[../wiki/sources/2020-12-16-yt-Gvvo6vUpJRc]])
 
 ## Representative verbatim quotes (voice-training bank)
+
+> "I'll upload it and see if I get that watching-HD link that we all dream of." (first HD Test, age 15) [2009-02-07] ([[../wiki/sources/2009-02-07-yt-fa1Lr-W2aBU]])
+
+> "I'll start reviewing freeware." (Extended Task Manager — earliest on-record statement of the reviewing instinct) [2009-02-01] ([[../wiki/sources/2009-02-01-yt-s9lU1eAXVn4]])
 
 > "This is an iPhone 5S review from the perspective of a person who uses a lot of Google services." [2013-10-12] ([[../wiki/sources/2013-10-12-yt-uBEaG6n0XDs]])
 
@@ -87,3 +94,5 @@ subject-attributed material belongs on this page.
 > "today's electric cars just look like blobs… when battery tech gets better and energy density improves, we can have design again." [2026-06-01] ([[../wiki/sources/2026-06-01-yt-clsbuM6uf1A]])
 
 > "it should look like a Ferrari. It's an exciting car. Give it downforce. Give it character." (Ferrari Luce) [2026-05-25] ([[../wiki/sources/2026-05-25-yt-6Reu1WS3BhM]])
+
+> "so what's stopping me from recommending this car?" (Polestar 4 verdict framing) [2026-03-03] ([[../wiki/sources/2026-03-03-yt-i4eCZ6dLVrg]])

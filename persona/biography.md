@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-19
-sources: 133
+updated: 2026-07-20
+sources: 202
 ---
 
 # Biography
@@ -62,6 +62,19 @@ _Surfaced by the origin-2009, Humane AI Pin, @mkbhd 2021→2025 P1 completion, a
 - **2024-04-14 — The Humane AI Pin review** ("The Worst Product I've Ever Reviewed… For Now") — the frequently-misquoted, *qualified* "in its current state" verdict; a landmark of his review doctrine. 🗣️ ([[../wiki/sources/2024-04-14-yt-TitZV6k8zfA]])
 - **2024-06-12 — Tim Cook interview** (around WWDC) on record in the corpus; Cook quarantined as a context entity, only Marques's framing feeds the persona. ([[../wiki/sources/2024-06-12-yt-pMX2cQdPubk]])
 - **2026 — first @AutoFocus corpus.** Marques-fronted EV reviews (Mercedes CLA, Subaru Uncharted, Chevy Bolt, Ferrari Luce, Nissan Leaf, Slate Truck, Porsche Macan); co-host **"Miles"** takes the Macan driving section (quarantined; name/spelling unconfirmed — a candidate `wiki/entities/` context page). Self-reported physical detail surfaced here: he reviews back-seat space against his **~6'3" driving position**. 🗣️ ([[../wiki/sources/2026-07-13-yt-FefIWhfl5Lg]])
+
+## Corpus-derived anchors (origin-2009 deepening + 2026 @AutoFocus Q1) — added synthesis pass 3 (2026-07-20)
+
+_Surfaced by the eight @mkbhd 2009-origin P2 batches (Feb 2009 tutorials/reviews, all solo, age 15) and the @AutoFocus 2026 Q1 EV batch. Family/private life still treated as not-public (SUBJECT.md)._
+
+- **Feb 2009 (age 15) — "started with nothing" gear-origin, on record.** Records with **no external mic** — the **built-in webcam mic**, software-boosted +10 dB — on a **4 GB RAM, 7,200 RPM HDD** machine with an **Nvidia GeForce 9200M (512 MB)** GPU, screen-capturing with **CamStudio + DivX 6.8.5** at 720p/quality-100, 640×360. The most concrete primary source for the humble-origins narrative. 🗣️ ([[../wiki/sources/2009-02-03-yt-sTt-9R6FQ6E]]) · ([[../wiki/sources/2009-02-11-yt-PkRXVGJ0ods]])
+- **2009-01-31 — first hardware unboxing.** Self-declares the **NZXT Cryo LX** laptop cooler his **first hardware unboxing** — the format that later becomes a channel staple starts here. 🗣️ ([[../wiki/sources/2009-01-31-yt-SWSqBFGT50A]])
+- **The "MKB" identity, on-screen at 15.** Places his **"MKB" initials** (Marques Keith Brownlee) on his first PowerPoint YouTube avatar; notes his prior avatar was "a picture of me playing golf." The initials that become the channel name — and the golf avatar corroborates the lifelong-golfer thread. 🗣️ ([[../wiki/sources/2009-02-01-yt-zArasubfsPI]])
+- **New Jersey base corroborated (2009).** An internet-speed benchmark shows an **NJ ISP** and an **NJ test server** (Fortress ITX) — consistent with the Maplewood, NJ biography. 🗣️ ([[../wiki/sources/2009-02-12-yt-4FlLW_BA__M]])
+- **Candidate aesthetic seeds (flagged, not asserted).** Two Feb-2009 threads *prefigure* his later visual identity but are **not** claimed as causal: a **red-on-black "very sharp contrast"** command-prompt/WebKit setup (candidate seed of the crimson-and-black brand), and an early **Apple-aesthetic affinity** (importing the Mac OS X look onto Windows Vista). See [[../wiki/topics/consumer-tech-culture/consumer-tech-culture]]. 🗣️ ([[../wiki/sources/2009-02-08-yt-E63fdjyck2k]])
+- **2026 Q1 @AutoFocus corpus (Marques-fronted, persona-eligible).** Additional solo EV reviews on record — Hyundai Ioniq 5 XRT, Rivian R2, the "EVs in winter" explainer, Polestar 4 — plus co-hosted pieces (Corvette ZR1, Lamborghini Temerario, Audi RS e-tron GT) where the co-host **"Miles"** driving segments are quarantined at source. 🗣️ ([[../wiki/sources/2026-02-13-yt-cAmEAgNc0eY]])
+
+> ⚠️ Note on avatar/aesthetic items: presented as dated *self-reported* origin datapoints, not as claimed causes of the later brand — the causation is explicitly left open.
 
 ## Personal life (privacy-first by policy)
 
