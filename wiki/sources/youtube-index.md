@@ -165,6 +165,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-04-08 — [[2009-04-08-yt-idEJ8jM4D-k|HD Tutorial: Get a Character Map]] · consumer-tech-culture
 - 2009-04-10 — [[2009-04-10-yt-uJM_vj9RW7E|LG Voyager Hardware Overview [HD] — earliest phone review + PO-box methodology]] ★ · smartphones, tech-reviews
 - 2009-04-12 — [[2009-04-12-yt-CW_ZoXXSkso|3800+ Spam Messages in 30 Days (Thunderbird)]] · consumer-tech-culture
+- 2009-04-12 — [[2009-04-12-yt-R5JmgowA3xk|HD Tutorial: PIP Effect in Camtasia Studio 6 — webcam PIP + 720p preset]] · production-filmmaking
+- 2009-04-13 — [[2009-04-13-yt-pOJ0TdkLge4|HD Tutorial: Customize Office Word '07 — black-theme aesthetic note]] · consumer-tech-culture
+- 2009-04-16 — [[2009-04-16-yt-4RI1gWhkgFI|Update 2.2 — notepad idea-backlog + camera-for-unboxings push]] ★ · creator-business
+- 2009-04-18 — [[2009-04-18-yt-SGZx5lrcOU0|HD Tutorial: Google Chrome Addons — new-mic test + Twitter release channel]] · consumer-tech-culture
+- 2009-04-18 — [[2009-04-18-yt-BM7dj68sXLk|Unboxed: LG Voyager Hard Shell Case (ExtremePDA) — first hardware unboxing]] ★ · consumer-tech-culture, smartphones
+- 2009-04-19 — [[2009-04-19-yt-XGz2zi8K_RA|HD Tutorial: Royalty Free Music (incompetech) — credit-in-description ethics]] ★ · production-filmmaking
+- 2009-04-21 — [[2009-04-21-yt-wTEAtmYrfM0|HD Tutorial: iTunes Visualizer — spoken 'from MKBHD' intro + redo-in-Camtasia]] ★ · consumer-tech-culture
+- 2009-04-21 — [[2009-04-21-yt-lf_72T3nSA4|Unboxed: Alto-Edge GN3 Desktop Microphone — audio-gear upgrade]] · production-filmmaking, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -326,4 +334,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_285 videos ingested (L2) so far._
+_293 videos ingested (L2) so far._

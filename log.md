@@ -1629,3 +1629,28 @@ runs a structured multi-part (hardware → software → cases → unboxings) rev
 tech-reviews/ + creator-business/ + biography). Minor bio marker: he was a high-schooler in Spanish class
 (`idEJ8jM4D-k`). Minor contradiction flagged on the spam video (`CW_ZoXXSkso`): title "30 Days" vs spoken
 "two months" — spoken figure kept.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Apr 12 → Apr 21): Camtasia-6-PIP-webcam-effect / Word-2007-customize (black-theme) / Update-2.2 (idea-backlog ★) / Google-Chrome-addons (mic-test) / first-hardware-unboxing LG-Voyager-case ★ / royalty-free-music incompetech ★ / iTunes-visualizer ('from MKBHD' intro ★) / Alto-Edge-GN3-mic-unboxing
+
+**Batch:** `python tools/ingest_batch.py prepare --channel @mkbhd --n 8`. 8 rows selected oldest-first; all 8
+OK → L2, 0 no-captions, 0 duplicates, 0 skipped. All 8 solo/MKBHD-fronted age-15 origin-era screencasts,
+tutorials, and unboxings — no ensemble attribution issues. No yt-dlp rate limits.
+
+**Bookkeeping:** 8 new `wiki/sources/` pages; 8 rows inserted into `wiki/sources/youtube-index.md` in date
+order; footer 285 → 293; `index.md` count 285 → 293 + batch note + Last-updated line. Ledger: 8 rows L2
+(domains/notes set). No fabrication, all English. Debt counter 2 → 3 (checkpoint at 10).
+
+Synthesis notes: Four ★ L3-candidates, all SOLO-attributed and safe to promote at the next synthesis:
+(1) **Attribution-ethics origin** — the royalty-free-music tutorial (`XGz2zi8K_RA`, incompetech.com) explicitly
+tells viewers to **credit the music in the video description**, an early "give credit / cite your source"
+value that prefigures his sourcing + sponsorship-transparency reputation (feeds creator-business/ +
+tech-reviews/ ethics thread). (2) **First hardware unboxing** — the LG-Voyager ExtremePDA case
+(`BM7dj68sXLk`) is self-described as "the first hardware unboxing," establishing the unbox→review format and
+continuing the sent-for-review (PO-box) workflow (feeds tech-reviews/ + creator-business/). (3) **Voice/intro
+data** — the iTunes-visualizer tutorial (`wTEAtmYrfM0`) has a clean spoken **"it's Marques Brownlee from
+MKBHD"** open + reinforces the redo-old-videos-in-Camtasia-6-for-quality pattern (feeds voice.md +
+production-filmmaking/). (4) **Creator-workflow origin** — Update 2.2 (`4RI1gWhkgFI`) documents a running
+**notepad "idea backlog"** of future videos and a deliberate move to a better camera for unboxing quality
+(feeds creator-business/). Minor aesthetic data point: black UI color-scheme preference stated as early as
+2009-04-13 (`pOJ0TdkLge4`), extends the red-on-black origin thread. Caption-garble corrections logged on
+`wTEAtmYrfM0`: "marcus brownlee" → Marques Brownlee, "campaign studio" → Camtasia Studio.
