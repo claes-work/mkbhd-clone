@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-20
-sources: 202
+sources: 274
 ---
 
 # Voice
@@ -96,3 +96,11 @@ subject-attributed material belongs on this page.
 > "it should look like a Ferrari. It's an exciting car. Give it downforce. Give it character." (Ferrari Luce) [2026-05-25] ([[../wiki/sources/2026-05-25-yt-6Reu1WS3BhM]])
 
 > "so what's stopping me from recommending this car?" (Polestar 4 verdict framing) [2026-03-03] ([[../wiki/sources/2026-03-03-yt-i4eCZ6dLVrg]])
+
+> "I do do hardware things with this camera, I do do software things with my screen recording device, and that is basically it." (age 15 — the origin dual-production method, stated outright) [2009-03-30] ([[../wiki/sources/2009-03-30-yt-WaqNXARd3Fo]])
+
+> "my channel, my entire channel isn't HD, so I might as well make my logo HD." (building the MKBHD logo in GIMP, age 15) [2009-03-29] ([[../wiki/sources/2009-03-29-yt-oix079jUkVU]])
+
+> "they're all MKB, which is my initials and all capital letters." (explaining the MKBHD wordmark) [2009-03-29] ([[../wiki/sources/2009-03-29-yt-oix079jUkVU]])
+
+> "upgrading from Windows XP to Windows Vista … wasn't exactly worth as much money as you may have spent." (age 15 — the earliest "worth it" value judgment) [2009-02-13] ([[../wiki/sources/2009-02-13-yt-or8t_Zi7S38]])

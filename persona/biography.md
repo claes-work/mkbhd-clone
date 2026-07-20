@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-20
-sources: 202
+sources: 274
 ---
 
 # Biography
@@ -75,6 +75,15 @@ _Surfaced by the eight @mkbhd 2009-origin P2 batches (Feb 2009 tutorials/reviews
 - **2026 Q1 @AutoFocus corpus (Marques-fronted, persona-eligible).** Additional solo EV reviews on record — Hyundai Ioniq 5 XRT, Rivian R2, the "EVs in winter" explainer, Polestar 4 — plus co-hosted pieces (Corvette ZR1, Lamborghini Temerario, Audi RS e-tron GT) where the co-host **"Miles"** driving segments are quarantined at source. 🗣️ ([[../wiki/sources/2026-02-13-yt-cAmEAgNc0eY]])
 
 > ⚠️ Note on avatar/aesthetic items: presented as dated *self-reported* origin datapoints, not as claimed causes of the later brand — the causation is explicitly left open.
+
+## Corpus-derived anchors (origin-2009 Feb–Apr deepening) — added synthesis pass 4 (2026-07-20)
+
+_Surfaced by the ten @mkbhd 2009-origin P2 batches (Feb–Apr 2009 tutorials/reviews, all solo, age 15). Family/private life still treated as not-public (SUBJECT.md)._
+
+- **Dated first-months subscriber timeline (2009).** The recurring "Update" videos give a rare hard growth curve: ~**74 subscribers at video #100** (~2 months in, daily-upload cadence) → **95 subs** days later → **260+ subs** (Update 2.0, founds the recurring **Inbox** Q&A) → **450 subs / 100k video views** (Update 2.1) — a slow, publicly-tracked grind. 🗣️ ([[../wiki/sources/2009-02-19-yt-FcugVUydSBY]]) · ([[../wiki/sources/2009-03-08-yt-Vi6_MQ-2FMc]]) · ([[../wiki/sources/2009-03-21-yt-49DVDqDm_tI]])
+- **2009-03-29 — the MKBHD logo, hand-built in GIMP.** He constructs the original **MKBHD wordmark** — "MKB" initials (his own) + "HD," a black-to-red gradient — on camera, redoing it larger "because my entire channel isn't HD so I might as well make my logo HD." The earliest concrete red-on-black MKBHD branding artifact (causal link to the later crimson studio brand left open). 🗣️ ([[../wiki/sources/2009-03-29-yt-oix079jUkVU]])
+- **Early-2009 smartphone context: a non-iPhone owner.** He was a **Verizon LG Voyager** user, **not an iPhone owner**, in early 2009 — yet already critiquing iPhone software (OS 3.0 wishlist/overview) from the outside. Corroborates the outsider-reviewing-iOS stance and the LG-Voyager thread from the media dossier. 🗣️ ([[../wiki/sources/2009-03-14-yt-l2rnlsReYUA]]) · ([[../wiki/sources/2009-03-18-yt-o8YoCuJFePc]])
+- **Origin gear/workflow detail.** Ran a **second Windows XP machine** alongside the Vista gaming laptop, kept a **"video ideas" Notepad backlog**, self-reports **owning a Mac Pro** (though still screencasting from the PC), and demoed hardware **without a tripod** (handheld camera) — the origin dual method: "hardware things with this camera, software things with my screen recording device." 🗣️ ([[../wiki/sources/2009-03-30-yt-WaqNXARd3Fo]])
 
 ## Personal life (privacy-first by policy)
 

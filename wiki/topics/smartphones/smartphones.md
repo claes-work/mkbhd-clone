@@ -62,6 +62,11 @@ Marques's signature *unbiased* camera-evaluation project (run on @Waveform / his
 - **Canonical iPhone-line verdicts** (from "Reviewing EVERY iPhone Ever"): iPhone 4 = best design; iPhone X "opened Pandora's box" on $1,000 phones; 6/6 Plus = best-selling ever and "the beginning of the end of small phones"; "cheap phones are getting good." [2021-10-12] ([[2021-10-12-yt-8FpPSMIB4uA]])
   > ⚠️ CONTRADICTION: on that same page he misstates the iPhone 4S as shipping "iOS 7" (it shipped on iOS 5). Do **not** promote that claim.
 
+## Origin of the smartphone thread (Mar 2009, age 15) — added synthesis pass 4 (2026-07-20)
+His signature domain has a clear, and slightly surprising, origin point: in early 2009 he was **not an iPhone owner** — a **Verizon LG Voyager** user — yet was already dissecting iPhone software from the outside.
+- **Earliest sustained iPhone-software critique.** The "Abbreviated iPhone 3.0 Wishlist" is the first extended smartphone-software analysis in the corpus — a feature wishlist for iPhone OS 3.0, delivered by a **non-iPhone owner on a Verizon LG Voyager**. The outsider-reviewing-iOS stance that defines his later iPhone reviews is present from the very start. [2009-03-14] ([[2009-03-14-yt-l2rnlsReYUA]])
+- **Spec-literacy / expectation-correcting instinct.** His iPhone OS 3.0 software overview (copy-paste, Spotlight, MMS, landscape keyboard) actively **corrects a common misconception** — that push notifications equal background multitasking (they don't) — the earliest instance of the "get the spec right, don't repeat the marketing" reflex. Title-vs-content flagged on the page (it covers OS 3.0 *software*, not 3GS hardware); he again confirms he's a non-iPhone LG-Voyager user. [2009-03-18] ([[2009-03-18-yt-o8YoCuJFePc]])
+
 ## Related
 - Review methodology → [[../tech-reviews/tech-reviews|Tech Reviews hub]]
 - Smartphone-camera *production* craft → [[../production-filmmaking/production-filmmaking|Production & Filmmaking hub]]

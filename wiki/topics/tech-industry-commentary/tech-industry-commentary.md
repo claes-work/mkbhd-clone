@@ -46,6 +46,9 @@ Launch-event reactions, AI hardware, platform decisions, and the "most influenti
 
 > Interview guests (Musk, Gates, Zuckerberg, Obama, Neistat) are **context entities**, not the subject — their statements are quarantined at the source pages and excluded from persona training (SUBJECT.md rule).
 
+## Origin of the commentary format (Feb 2009, age 15) — added synthesis pass 4 (2026-07-20)
+- **"New Ideas" — the earliest tech-commentary seed.** Two months into the channel, "New Ideas" announces a planned **tech-talk / tech-news commentary** format distinct from his how-to tutorials — the earliest on-record intent to *talk about* the industry rather than only demonstrate software. The launch-reaction / industry-read side of the channel starts here. [2009-02-17] ([[2009-02-17-yt-L8JTCiWXu2A]]) → see also [[../creator-business/creator-business|Creator Business hub]]
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

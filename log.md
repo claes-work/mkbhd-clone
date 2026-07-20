@@ -1511,3 +1511,52 @@ Marques** (caption garble "Marcus") [bio]; (6) minor community signal — subscr
 creator **"tektopia"** (context entity, not subject). Secondary: reinforces the request-driven format,
 Conficker/April-Fools news-reaction cadence, and PC-era (pre-Apple-focus) security framing.
 Contradictions: none.
+
+## [2026-07-20] lint | synthesis pass 4 — @mkbhd Feb–Apr 2009 origin P2 long tail (batches 29–38, 72 new L2)
+
+Stage S (4th synthesis checkpoint; the ingest driver flagged **10 batches since pass 3 = checkpoint due**,
+L2 202 → 274). Drained the **ten accumulated `Synthesis notes:` lines** since pass 3. All ten batches are
+@mkbhd solo, age 15 (Feb–Apr 2009) — cleanest attribution, no co-hosts, no quarantine. One writer, one
+file at a time; every promotion dated + cited to its `wiki/sources/` page; verbatim kept as quotes; pure
+long-tail repeats of the pass-3 origin thread dropped (they stay L2). Quality over volume — promoted the
+genuinely-new anchors, not restated basics.
+
+**Topic hubs promoted (L3):**
+- **production-filmmaking** — new "Origin encoding standards & the 'redo it better' ethos" section: the
+  first *self-imposed* production spec ("What does YouTube Want?" — 1280×720, h.264, 24–25fps, two-mic
+  audio, **test-fully-before-publish / no re-upload**; `ZPv25BKcQtU`), the most detailed origin export
+  preset (Camtasia-6 720p: .mov/H.264 30fps multipass / 48kHz-16bit-stereo / 1280×720; `8imsZ-ADhMM`),
+  the dated "redo it better" pipeline upgrade to Camtasia Studio 6 + re-record plan (Update 1.1;
+  `SsgBuvCKJE4`), the zoom/tilt push-in editing-move origin (`1E_1KfMIexQ`), the dual-production method
+  stated outright + no-tripod (`WaqNXARd3Fo`), and the origin audio-post pipeline (Audacity noise-profile +
+  Camtasia-6 Audio Enhancements; `CwapC2jZ_JI`).
+- **creator-business** — new "Origin growth timeline, formats & branding" section: the dated first-months
+  subscriber curve (~74 subs @ video 100 → 95 → 260+ → 450 by Mar 2009; `FcugVUydSBY`/`0M_K6f-7vWc`/
+  `Vi6_MQ-2FMc`/`49DVDqDm_tI`), the "New Ideas" commentary-format + Update/Inbox recurring-format origins,
+  the hand-built **MKBHD wordmark in GIMP** (MKB initials + HD, black-to-red gradient; `oix079jUkVU` —
+  upgrades the pass-3 "candidate red-on-black seed" to a concrete branding artifact, causation still open),
+  the Chris-Pirillo influence + YouTube-Partner ambition (`qtk1maA23k8`/`EEldRjkhZ8o`), and deliberate
+  playlist/series curation (`j2cYJDwSH0g`).
+- **smartphones** — new "Origin of the smartphone thread" section: at 15 a **Verizon LG Voyager owner,
+  NOT an iPhone owner**, already critiquing iPhone OS 3.0 software from the outside + the push≠multitasking
+  spec-literacy reflex (`l2rnlsReYUA`/`o8YoCuJFePc`).
+- **tech-reviews** — origin-deepening: the earliest "is it worth it?" value judgment + cite-CNET source
+  discipline (Windows 7 "$50 upgrade"; `or8t_Zi7S38`) and the earliest structured component-by-component
+  buying guide (`yDie-JzVlKM`).
+- **tech-industry-commentary** — the "New Ideas" tech-commentary-format origin (`L8JTCiWXu2A`).
+
+**Persona:** `beliefs.md` (+"is-it-worth-it? + cite your source" and "correct the spec, don't repeat the
+marketing" origin values), `voice.md` (+4 origin verbatim quotes: the dual-production-method line, the two
+MKBHD-logo lines, the Windows-7 "worth it" line), `biography.md` (new pass-4 anchors: dated subscriber
+timeline, GIMP-built MKBHD logo, non-iPhone/LG-Voyager 2009 fact, origin gear/workflow), `appearance.md`
+(red-on-black now concretely dated to the GIMP wordmark build). Recompiled **`persona/system-prompt.md`
+v3 → v4** (compiled_from_sources 202 → 274; bumped persona frontmatter counts to 274).
+
+**Bookkeeping:** advanced the high-water mark in `pipeline/synthesis-state.md` (through batches 1–38 /
+L2=274) and logged the pass-4 Done checkpoint; refreshed `index.md` (persona lines + system-prompt v4 +
+pass-4 note). No new pages created (all promotions extended existing hubs/persona). No rate limits, no
+fabrication, all English. Debt counter resets to 0 (next checkpoint at the next channel/era boundary or
+~10 more batches).
+
+Synthesis notes: none — debt fully drained (10/10 → 0). Resume Stage B next iteration (@mkbhd 2009→2010
+origin P2 long tail, or @AutoFocus/@Waveform P2 — attribution-gated on the ensemble channels).

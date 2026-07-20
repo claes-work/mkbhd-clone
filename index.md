@@ -1,7 +1,7 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-20 (ingest — @mkbhd 2009-03→04 origin P2 batch: CCleaner registry / Media-Center-remote size-comparison / Conficker-worm reaction / Google-Translate+converter / April-FOO YouTube-prank / noise-removal (Audacity+Camtasia) / Google-Earth-5.0-Mars — 7 L2 → 274 total. Last synthesis: pass 3, system-prompt v3, 202 sources.)_
+_Last updated: 2026-07-20 (synthesis — pass 4 over batches 29–38, the @mkbhd Feb–Apr 2009 origin P2 long tail: encoding standards / growth timeline / smartphone origin / MKBHD-logo branding promoted into topics + persona; system-prompt recompiled v3 → v4, 274 sources. Last ingest: @mkbhd 2009-03→04 origin P2 batch → 274 L2 total.)_
 
 ## Sources
 
@@ -11,7 +11,7 @@ _Last updated: 2026-07-20 (ingest — @mkbhd 2009-03→04 origin P2 batch: CClea
 
 ## Topics
 
-_All 7 hubs populated with dated, cited frameworks (synthesis pass 1, 2026-07-19); extended through synthesis pass 3 (2026-07-20) — origin-2009 methodology into production/tech-reviews/creator-business/consumer-tech-culture, and the 2026 Q1 EV positions into ev-cars._
+_All 7 hubs populated with dated, cited frameworks (synthesis pass 1, 2026-07-19); extended through synthesis pass 4 (2026-07-20) — origin-2009 methodology/encoding-standards/growth-timeline/smartphone-origin/branding into production/tech-reviews/creator-business/smartphones/tech-industry-commentary/consumer-tech-culture, and the 2026 Q1 EV positions into ev-cars._
 - [wiki/topics/tech-reviews/tech-reviews.md](wiki/topics/tech-reviews/tech-reviews.md) — review methodology & frameworks: two-axis camera model, price-to-value, "bust = expectations minus reality", verdict shapes (hub).
 - [wiki/topics/smartphones/smartphones.md](wiki/topics/smartphones/smartphones.md) — Smartphone Awards (multi-year winner table), Blind Camera Test methodology, correct-exposure principle, foldables (hub).
 - [wiki/topics/production-filmmaking/production-filmmaking.md](wiki/topics/production-filmmaking/production-filmmaking.md) — RED/RAW craft, "camera = computer with a sensor", photography fundamentals, creator origin (hub).
@@ -33,11 +33,11 @@ _All 7 hubs populated with dated, cited frameworks (synthesis pass 1, 2026-07-19
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline + corpus-derived anchors through pass 3 (origin-2009 deepening: gear-origin, first unboxing, "MKB" avatar, NJ base; + 2026 Q1 EV).
-- [persona/voice.md](persona/voice.md) — catchphrases, cadence, humor + verbatim quote bank (through pass 3: origin-era + EV catchphrases/quotes).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions (through pass 3: origin-methodology values + 2026 EV frameworks).
-- [persona/appearance.md](persona/appearance.md) — how they look/present: ~6'3" build + candidate brand-aesthetic origins (red-on-black, Apple affinity; flagged not-causal). Still needs watched-video samples.
-- [persona/system-prompt.md](persona/system-prompt.md) — **compiled chat prompt v3** (202 sources; deep 2009 origin → 2025 + 2026 EV; hedge on appearance/Panels/Fisker/@Waveform).
+- [persona/biography.md](persona/biography.md) — dated life timeline + corpus-derived anchors through pass 4 (origin-2009 deepening: gear-origin, first unboxing, "MKB" avatar/GIMP-logo, subscriber timeline, non-iPhone/LG-Voyager, NJ base; + 2026 Q1 EV).
+- [persona/voice.md](persona/voice.md) — catchphrases, cadence, humor + verbatim quote bank (through pass 4: origin-era dual-method/logo/worth-it quotes + EV catchphrases/quotes).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions (through pass 4: origin-methodology + worth-it/cite-source/correct-the-spec values + 2026 EV frameworks).
+- [persona/appearance.md](persona/appearance.md) — how they look/present: ~6'3" build + brand-aesthetic origins (red-on-black now concretely dated to the GIMP MKBHD-logo build, Apple affinity; causation flagged open). Still needs watched-video samples.
+- [persona/system-prompt.md](persona/system-prompt.md) — **compiled chat prompt v4** (274 sources; deep 2009 origin → 2025 + 2026 EV; hedge on appearance/Panels/Fisker/@Waveform).
 
 ## Other
 

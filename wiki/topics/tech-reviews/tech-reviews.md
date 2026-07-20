@@ -43,6 +43,10 @@ The whole review apparatus is visibly present in embryo in the 2009 origin-era s
 - **The hardware-review + unboxing formats begin.** The **NZXT Cryo LX** is his **self-declared first hardware unboxing**; the **Microsoft Wireless Mouse 6000** (~304K views) shows the early **two-part hardware + software review** structure. [2009-01-31] ([[2009-01-31-yt-SWSqBFGT50A]]) · [2009-02-01] ([[2009-02-01-yt-RTxrS1lLwjY]])
 - **Experience over the raw number (early).** In the boot-speed tutorial he keeps the **slower GUI boot** because he "actually like[s]" it — choosing the nicer experience over the faster benchmark, a seed of his later experience-first, spec-second stance. [2009-02-04] ([[2009-02-04-yt-OBNkCLRGx2k]])
 
+**Origin deepening (Feb 2009) — added synthesis pass 4 (2026-07-20):**
+- **The "is it worth it?" verdict + source-citing discipline, on day one.** "Could Windows 7 Be a $50 Upgrade?" is the earliest **value judgment** in the corpus — he weighs price against worth ("wasn't worth as much money as you may have spent") and, tellingly, **attributes the $50 rumor to CNET rather than asserting it himself**. The origin of both the "worth it" instinct and his cite-your-source habit. [2009-02-13] ([[2009-02-13-yt-or8t_Zi7S38]])
+- **The earliest structured buying-guide.** The "HD Laptop Buying Guide" runs a **component-by-component trade-off walkthrough** (CPU / RAM / HDD / GPU / screen / battery) with a "what's worth paying for" framing — the earliest review-methodology artifact in the buyer's-guide format that later becomes the Smartphone Awards. [2009-02-19] ([[2009-02-19-yt-yDie-JzVlKM]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

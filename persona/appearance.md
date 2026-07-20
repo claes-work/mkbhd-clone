@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-20
-sources: 4
+sources: 5
 ---
 
 # Appearance
@@ -18,5 +18,6 @@ mark every entry's evidence type.
 > ⚠️ **Candidate, not asserted.** These 2009 datapoints *prefigure* the later crimson-and-black "Team Crispy" identity but are **not** claimed to have caused it. Flag the connection; do not state causation.
 - **Red-on-black "very sharp contrast."** At 15 he sets the Windows command prompt and WebKit to **red text on a black background** for "very sharp contrast" — the earliest on-record instance of the red-on-black palette. 🗣️ caption-sourced. [2009-02-08] ([[../wiki/sources/2009-02-08-yt-E63fdjyck2k]])
 - **Early Apple-design affinity.** Imports the **Mac OS X look onto his Windows Vista machine** (RocketDock "Leopard" dock, Firefox Mac theme, OS X cursors "as my default from now on") — documented aesthetic taste years before the reviewer career. 🗣️ caption-sourced. [2009-02-08] ([[../wiki/sources/2009-02-08-yt-uGL9arjQRl0]])
+- **Red-on-black, now concrete: the hand-built MKBHD wordmark.** The red-on-black datapoint is no longer just a terminal color choice — on 2009-03-29 he **builds the MKBHD logo in GIMP** with a **black-to-red gradient** ("MKB" initials + "HD"). A concrete dated branding artifact of the red-on-black identity; a *causal* line to the later crimson studio brand is still deliberately left open. 🗣️ caption-sourced. [2009-03-29] ([[../wiki/sources/2009-03-29-yt-oix079jUkVU]])
 
 _(the rest — grooming, wardrobe, on-camera setting over time — needs watched-video samples; still empty)_

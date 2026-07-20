@@ -6,18 +6,39 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **the first 28 ingest batches (202 L2 sources)** — synthesis passes 1–2 (133 L2)
-PLUS pass 3's 9 batches: the @AutoFocus 2026 Q1 EV batch and the eight @mkbhd Feb-2009 origin P2
-batches (the deep origin / production-methodology thread). Covers every `wiki/sources/` page that was
-L2 as of 2026-07-20 (`## [2026-07-19] ingest` batches 1–19 + `## [2026-07-20] ingest` batches 20–28 in
-`log.md`).
+Synthesized through: **the first 38 ingest batches (274 L2 sources)** — synthesis passes 1–2 (133 L2),
+pass 3's 9 batches (@AutoFocus 2026 Q1 EV + @mkbhd Feb-2009 origin P2, through L2=202), PLUS pass 4's
+10 batches: the @mkbhd Feb–Apr 2009 origin P2 long tail (encoding standards / growth timeline /
+smartphone origin / branding, through L2=274). Covers every `wiki/sources/` page that was L2 as of
+2026-07-20 (`## [2026-07-19] ingest` batches 1–19 + `## [2026-07-20] ingest` batches 20–38 in `log.md`).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_None — synthesis is caught up with ingest (L2=202). Next checkpoint at the next channel/era
+_None — synthesis is caught up with ingest (L2=274). Next checkpoint at the next channel/era
 boundary or ~10 more batches._
 
 ## Done checkpoints
+- [x] **Era: @mkbhd Feb–Apr 2009 origin P2 long tail (72 new L2, batches 29–38)** — fourth synthesis
+  pass. Drained the ten accumulated `Synthesis notes:` lines since pass 3 (all @mkbhd solo, age 15,
+  cleanest attribution — no quarantine). Promoted the genuinely-new material only; long-tail repeats of
+  the pass-3 origin thread dropped (stay L2). **Topic hubs (L3):** `production-filmmaking` — origin
+  encoding STANDARDS + the "redo it better" ethos (the "What does YouTube Want?" 720p/h.264/two-mic/
+  test-before-publish spec `ZPv25BKcQtU`; the Camtasia-6 720p export preset `8imsZ-ADhMM`; Update-1.1
+  Camtasia-6 upgrade + re-record plan `SsgBuvCKJE4`; the zoom/tilt push-in origin `1E_1KfMIexQ`; the
+  dual-production method + no-tripod `WaqNXARd3Fo`; the Audacity+Camtasia audio-post pipeline
+  `CwapC2jZ_JI`); `creator-business` — the dated first-months subscriber timeline (74→95→260→450 subs),
+  the "New Ideas" commentary-format + Update/Inbox format origins, the GIMP-built MKBHD wordmark
+  `oix079jUkVU`, Chris-Pirillo influence + YouTube-Partner ambition, deliberate playlist/series curation;
+  `smartphones` — the iPhone-software origin (non-iPhone/Verizon-LG-Voyager owner critiquing iPhone OS 3.0,
+  push≠multitasking spec-literacy); `tech-reviews` — the "is-it-worth-it?" + cite-CNET origin
+  `or8t_Zi7S38` and the earliest structured buying-guide `yDie-JzVlKM`; `tech-industry-commentary` — the
+  "New Ideas" commentary-format seed. **Persona:** `beliefs.md` (+worth-it/cite-your-source + correct-the-
+  spec origin values), `voice.md` (+4 origin verbatim quotes: dual-method, MKBHD-logo, initials, worth-it),
+  `biography.md` (new pass-4 anchors: subscriber timeline, GIMP logo, non-iPhone/LG-Voyager, origin gear),
+  `appearance.md` (red-on-black now concretely dated to the GIMP wordmark build). Recompiled
+  `persona/system-prompt.md` **v3 → v4** (compiled_from_sources 202 → 274). No new pages created (all
+  promotions extended existing hubs/persona). No rate limits, no fabrication, all English. Branding
+  causation to the later crimson studio brand left explicitly open. Done 2026-07-20 (synthesis pass 4).
 - [x] **Era: @AutoFocus 2026 Q1 EV batch + @mkbhd Feb-2009 origin P2 (69 new L2, batches 20–28)** —
   third synthesis pass. Drained the 9 accumulated `Synthesis notes:` lines. **Origin / production-
   methodology thread:** deepened `production-filmmaking` (the CamStudio + DivX 6.8.5 720p stack, the

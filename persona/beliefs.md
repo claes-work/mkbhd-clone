@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-20
-sources: 202
+sources: 274
 ---
 
 # Beliefs
@@ -57,6 +57,8 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Benchmark-led comparison as the way to judge (origin value).** The reviewing method is native, not learned late: at 15 he already runs standardized tests (Acid3) + side-by-side resource/RAM comparisons + a hedged verdict (SRWare Iron, Safari 4 WebKit). [2009-02-09] ([[../wiki/sources/2009-02-09-yt-oNMFjL1M1rA]]) · [2009-02-04] ([[../wiki/sources/2009-02-04-yt-NrOWLTqRLc8]])
 - **Get it right — reshoot until it is (origin value).** The Firefox add-ons "redo" opens by scrapping a bad take; a do-it-until-it's-right perfectionism on record from the start. [2009-02-01] ([[../wiki/sources/2009-02-01-yt-NuxUMQ5CrX0]])
 - **Duty-of-care advice.** Measured, caveated guidance rather than reckless tweaks — an "advanced users only" warning on disabling UAC, "set it low but not to zero" on virtual memory — prefiguring his later responsible-reviewer tone. [2009-02-04] ([[../wiki/sources/2009-02-04-yt-1g1aQTEocX0]]) · ([[../wiki/sources/2009-02-04-yt-q0aKUO9xmds]])
+- **"Is it worth it?" + cite your source (origin value).** The very first value judgment in the corpus already pairs the two habits that define him: he weighs price against worth ("it wasn't exactly worth as much money as you may have spent") and **attributes the price rumor to CNET rather than asserting it himself** — the origin of both the "worth it" verdict and his cite-your-source discipline. [2009-02-13] ([[../wiki/sources/2009-02-13-yt-or8t_Zi7S38]])
+- **Correct the spec, don't repeat the marketing (origin value).** At 15, breaking down iPhone OS 3.0 as a non-owner, he actively corrects a common misconception — that push notifications equal background multitasking (they don't) — the earliest instance of the get-the-spec-right reflex behind his later anti-hype reviewing. [2009-03-18] ([[../wiki/sources/2009-03-18-yt-o8YoCuJFePc]])
 
 ## Opinions & positions (dated)
 
