@@ -158,6 +158,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-04-01 — [[2009-04-01-yt-Cs-lr686tcY|April FOO!!! (YouTube upside-down prank + unflip tip)]] · consumer-tech-culture
 - 2009-04-02 — [[2009-04-02-yt-CwapC2jZ_JI|HD Tutorial: Remove Background Noise (Audacity + Camtasia 6)]] ★ · production-filmmaking
 - 2009-04-03 — [[2009-04-03-yt-12VD3g_Ee80|HD Tutorial: Explore Mars in Google Earth 5.0]] · consumer-tech-culture
+- 2009-04-04 — [[2009-04-04-yt-G-vetBSNfYA|HD Tutorial: Download and Install Internet Explorer 8]] · consumer-tech-culture
+- 2009-04-04 — [[2009-04-04-yt-9eNtuv_okzk|Youtube Fail (comedy filler)]] · consumer-tech-culture
+- 2009-04-07 — [[2009-04-07-yt-p8laU6iY3iI|HD Tutorial: Remove Camtasia's Green Zoom Rectangle (Request)]] · production-filmmaking
+- 2009-04-07 — [[2009-04-07-yt-W2VulP7_4xo|Hd Look at Micro SD Adapter (Unedited) — review-business origin]] ★ · consumer-tech-culture, creator-business
+- 2009-04-08 — [[2009-04-08-yt-idEJ8jM4D-k|HD Tutorial: Get a Character Map]] · consumer-tech-culture
+- 2009-04-10 — [[2009-04-10-yt-uJM_vj9RW7E|LG Voyager Hardware Overview [HD] — earliest phone review + PO-box methodology]] ★ · smartphones, tech-reviews
+- 2009-04-12 — [[2009-04-12-yt-CW_ZoXXSkso|3800+ Spam Messages in 30 Days (Thunderbird)]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -319,4 +326,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_278 videos ingested (L2) so far._
+_285 videos ingested (L2) so far._

@@ -1605,3 +1605,27 @@ Spectacles, `EJRCoU6ZWno`) — characteristic tech-reviews framing; (2) the "are
 anymore?" computational-photography-authenticity theme (`0sfTzOm2cSY`) — on-brand for production-filmmaking /
 consumer-tech-culture but this instance is unattributed. Everything else this batch was dup or unattributed
 features-rundown (no persona signal).
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Apr 4 → Apr 12): IE8-install (out-of-beta, Vista, response-to-Safari4) / YouTube-Fail (comedy filler, origin voice) / Camtasia-6-remove-green-zoom-hint (request) / microSD-adapter ★ / charmap-Character-Map-tip (Spanish-class) / LG-Voyager-hardware-overview ★ / 3800+-spam-Thunderbird-response
+
+**Batch:** `python tools/ingest_batch.py prepare --channel @mkbhd --n 8`. 8 rows selected oldest-first; 7 OK →
+L2, 1 no-captions (`yt-MDUSgsYrzH8` "Call of Duty Modern Warfare 2 Gameplay Footage!") auto-marked L1 by the
+driver. All 7 solo/MKBHD-fronted age-15 origin-era screencasts/reviews — no ensemble attribution issues. No
+yt-dlp rate limits.
+
+**Bookkeeping:** 7 new `wiki/sources/` pages; 7 rows inserted into `wiki/sources/youtube-index.md` in date
+order; footer 278 → 285; `index.md` count 278 → 285 + batch note + Last-updated line. Ledger: 7 rows L2
+(domains/notes set). No fabrication, all English. Debt counter 1 → 2 (checkpoint at 10).
+
+Synthesis notes: Two ★ L3-candidates, both SOLO-attributed and safe to promote at the next synthesis:
+(1) **Review-business origin** — in the microSD-adapter video (`W2VulP7_4xo`) Marques states he has "begun
+emailing a few companies asking them if they would like me to do reviews of their products," and that he is
+NOT yet a YouTube Partner, so the ~10-minute non-partner cap is forcing him to split content into series —
+concrete earliest seed of MKBHD-the-review-channel + a formatting-constraint bio detail (feeds
+creator-business/ + biography). (2) **Review-methodology origin** — the LG Voyager hardware overview
+(`uJM_vj9RW7E`), one of his earliest phone hardware reviews, opens with companies/viewers mailing him
+cases/accessories "to the PO box ... to review," the first recorded "products sent for review" workflow, and
+runs a structured multi-part (hardware → software → cases → unboxings) review series (feeds smartphones/ +
+tech-reviews/ + creator-business/ + biography). Minor bio marker: he was a high-schooler in Spanish class
+(`idEJ8jM4D-k`). Minor contradiction flagged on the spam video (`CW_ZoXXSkso`): title "30 Days" vs spoken
+"two months" — spoken figure kept.
