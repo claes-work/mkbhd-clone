@@ -1333,3 +1333,29 @@ Maker + CamStudio → **Camtasia Studio 6** to fix audio, and announces a plan t
 Also a dated growth marker: **95 subscribers** (2009-02-22, `0M_K6f-7vWc`),
 consistent with the ~74-subs-at-video-100 datapoint days earlier. Flagged ★ on their pages,
 not promoted.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: Camtasia-6-tilt-test / RocketDock-walkthrough / install-Win7-theme-on-Vista / Visual-ToolTip-XP / Safari-4-beta / Firefox-3.1-beta-2 / Camtasia-6-720p-export-preset / iMac+Mac-mini-2009-refresh
+
+Stage B (P2) on **@mkbhd**, the cleanest-attribution solo channel — continuing the
+2009 origin/tutorial era (2009-02-23 → 2009-03-03). All 8 fetched with English captions;
+0 no-captions, 0 duplicates, 0 skipped, **0 yt-dlp 429s / no rate-limiting**. All 8 are
+Marques solo (no co-hosts/guests) → **attribution: solo** on every page; no quarantine
+needed. Corpus 232 → **240 L2**.
+
+Videos: HD Camtasia Studio 6 Tilt Test (`Vp9s5eftaxE`) · Complete Rocketdock Walkthrough
+(`RVx0BoomLTU`) · Install Windows Themes/Vista (`uYuREzf3444`) · Visual ToolTip for XP
+(`mrMhA5K4wFg`) · Safari 4.0 beta (`sPkG8tW38jI`) · Firefox 3.1 Beta 2 (`JUsA_Qy8fXE`) ·
+Camtasia Studio 6 720p Settings (`8imsZ-ADhMM`) ★ · iMac and Mac Mini Refresh (`WHsfat8OkO8`).
+
+Synthesis notes: One ★ L3-candidate this batch — **Camtasia-6 720p export preset**
+(`8imsZ-ADhMM`): the most detailed origin-era **production-methodology** artifact yet, a
+fully-documented encoding pipeline (container .mov/QuickTime, **H.264 @ 30fps, Best-Quality
+multi-pass**, audio **MPEG-4 48kHz/16-bit/stereo recorded with two mics**, output
+**1280x720** = the max YouTube played back then). Feeds the production-filmmaking synthesis;
+pairs with the Update-1.1 workflow-upgrade and "What does YouTube Want?" encoding-standard
+pages. Minor signals (flagged ★/noted on pages, not promoted): earliest **head-to-head
+benchmark** in the corpus (Acid3: Safari 4 beta 100/100 vs Firefox 3.1 beta 93); earliest
+**product-launch news-reaction** format (2009 iMac/Mac-mini refresh); origin-era gear/bio
+details — runs a **second (Windows XP) machine** besides the Vista gaming laptop, keeps a
+**"video ideas" Notepad backlog**, and **owns a Mac Pro** (self-reported); the **icon-free
+clean-desktop** aesthetic. Contradictions: none.

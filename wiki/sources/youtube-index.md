@@ -116,6 +116,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-22 — [[2009-02-22-yt-RCxYSQi9ZDs|HD Tutorial: Camstudio Lossless Codec v1.4]] · production-filmmaking, consumer-tech-culture
 - 2009-02-23 — [[2009-02-23-yt-SsgBuvCKJE4|Update 1.1]] ★ · production-filmmaking, creator-business
 - 2009-02-23 — [[2009-02-23-yt-fz3VwmPzi20|HD Tutorial: CrystalXP.net]] · consumer-tech-culture
+- 2009-02-23 — [[2009-02-23-yt-Vp9s5eftaxE|HD Camtasia Studio 6 Tilt Test]] · production-filmmaking
+- 2009-02-23 — [[2009-02-23-yt-RVx0BoomLTU|HD Tutorial: Complete Rocketdock Walkthrough]] · consumer-tech-culture, production-filmmaking
+- 2009-02-24 — [[2009-02-24-yt-uYuREzf3444|HD Tutorial: Install Windows Themes (Request)]] · consumer-tech-culture
+- 2009-02-25 — [[2009-02-25-yt-mrMhA5K4wFg|HD Tutorial: Visual ToolTip for XP]] · consumer-tech-culture
+- 2009-02-25 — [[2009-02-25-yt-sPkG8tW38jI|HD Tutorial: Safari 4.0]] · consumer-tech-culture, tech-reviews
+- 2009-02-27 — [[2009-02-27-yt-JUsA_Qy8fXE|HD Tutorial: Firefox 3.1 Beta 2]] · consumer-tech-culture, tech-reviews
+- 2009-02-28 — [[2009-02-28-yt-8imsZ-ADhMM|Youtube Mega-Widescreen Camtasia Studio 6 Settings]] ★ · production-filmmaking, creator-business
+- 2009-03-03 — [[2009-03-03-yt-WHsfat8OkO8|iMac and Mac Mini Refresh!]] · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -263,4 +271,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_232 videos ingested (L2) so far._
+_240 videos ingested (L2) so far._
