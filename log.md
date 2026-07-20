@@ -1560,3 +1560,48 @@ fabrication, all English. Debt counter resets to 0 (next checkpoint at the next 
 
 Synthesis notes: none — debt fully drained (10/10 → 0). Resume Stage B next iteration (@mkbhd 2009→2010
 origin P2 long tail, or @AutoFocus/@Waveform P2 — attribution-gated on the ensemble channels).
+
+## [2026-07-20] ingest | yt batch (@WaveformClips, 8) — first @WaveformClips dedup batch (P1 first): 4 L2, 4 dup-of
+
+Stage B, P1 first. The two open P1 rows both sit on @WaveformClips (view-based/fresh-upload promotion), so
+`ingest_batch.py prepare --channel @WaveformClips --n 8` pulled the 2 P1 + 6 P2 oldest-first. All 8 captions
+fetched cleanly (8 ok / 0 no-captions / 0 error — **no rate limiting**). @WaveformClips is the dedup tier
+(SUBJECT.md): every clip is an excerpt of a full @Waveform episode, so each was compared against the ingested
+@Waveform source pages before writing anything.
+
+**Dedup outcome — 4 clips are excerpts of already-ingested @Waveform episodes → marked `status=L1`,
+`notes=dup-of:<episode-id>`, NO page (the full episode is canonical):**
+- `yt-SyR7RrXkqSs` "RAM-ageddon Finally Comes for Apple!" (P1, 2026-07-15) → **dup-of `MwllurO2M-Y`**
+  (the Apple across-the-board-price-hike segment of [[2026-07-03-yt-MwllurO2M-Y]]; identical beats incl. the
+  Marques "reverse inflation / $40k Intel Mac Pro → sub-$8k MacBook Pro" line already banked on that page).
+- `yt-rUcF4DZuKso` "PlayStation Kills the Disc!" (P2, 2026-07-14) → **dup-of `MwllurO2M-Y`** (the Sony-
+  ends-physical-discs / Mariah-rant / Video-Game-History-Foundation segment of the same 07-03 episode).
+- `yt-U-g0QXcCPvk` "New Pixel Leaks and Samsung Rumors!" (P2, 2026-07-13) → **dup-of `YgMNE4C89EQ`** (the
+  Samsung-Unpacked-"new shape"/Pixel-11-event/Pixel-Glow/Pixel-Watch-pyrite segment of [[2026-07-10-yt-YgMNE4C89EQ]]).
+- `yt-CPhiTbHJLco` "The Slate EV is Actually 'Shipping'" (P2, 2026-06-30) → **dup-of `voXclnaYIaE`** (the
+  Slate-Truck segment of [[2026-06-26-yt-voXclnaYIaE]]; same specs/module-pricing and the Marques "I got to
+  drive it" quote already banked there).
+
+**L2'd — 4 clips whose parent full episode is NOT in the ledger (best-available source), written under the
+ensemble attribution gate (auto-captions, no speaker labels → only unambiguously-Marques lines train voice):**
+- [[2022-11-03-yt-tL27EgTaCjE]] "The Most 'Tim Cook' iPad Ever?" (P1) — 2022 10th-gen-iPad product-ladder
+  critique; ensemble, **0 confident-Marques quotes** (all quarantined).
+- [[2026-06-17-yt-0sfTzOm2cSY]] "Are iPhone Photos Even Real Anymore?" (P2) — iOS 27 AI photo tools
+  (Clean Up / Extend / Spatial Reframe via Gaussian splatting); ensemble, attribution uncertain. ★ flagged.
+- [[2026-06-18-yt-idsSpvYCi8A]] "Apple Taught an Old Siri New Tricks" (P2) — iOS 27 iPhone features
+  walkthrough (agentic Passwords, Sherlock counter); ensemble, 0 confident-Marques quotes.
+- [[2026-06-25-yt-EJRCoU6ZWno]] "Specs on Specs, Oh Snap!" (P2) — Snap Spectacles AR review + XREAL
+  Android XR; **2 confident-Marques quotes** (self-refs to his Dope Tech episode + his own tweet). ★ flagged.
+
+**Bookkeeping:** added a new `## @WaveformClips` section to `wiki/sources/youtube-index.md` (4 rows, date
+order, with the dedup-tier note), footer 274 → 278; `index.md` count 274 → 278 + batch note. Ledger: 4 rows
+L2 (domains/notes set), 4 rows L1 with `dup-of` notes. No rate limits, no fabrication, all English. This is the
+**first batch since synthesis pass 4**, so the debt counter goes 0 → 1.
+
+Synthesis notes: Two ★ L3-candidates for the next synthesis pass, both to be confirmed against a solo MKBHD
+source before promoting (ensemble attribution): (1) Marques's explicit two-axis review test for face-worn
+hardware — "you have to overcome the price and how dorky they look," utility must justify both (Snap
+Spectacles, `EJRCoU6ZWno`) — characteristic tech-reviews framing; (2) the "are phone photos even real
+anymore?" computational-photography-authenticity theme (`0sfTzOm2cSY`) — on-brand for production-filmmaking /
+consumer-tech-culture but this instance is unattributed. Everything else this batch was dup or unattributed
+features-rundown (no persona signal).

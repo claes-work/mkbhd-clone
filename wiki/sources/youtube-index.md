@@ -304,5 +304,19 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-06-24 — [[2026-06-24-yt-d0t7wpkFc6U|Slate Truck First Look: The $25,000 Modular EV!]] ★ · ev-cars, tech-reviews, tech-industry-commentary
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
+## @WaveformClips
+
+_Podcast clips channel — each clip is an excerpt of a full @Waveform episode, so the
+dedup rule applies: clips whose parent episode is already ingested stay L1 in the ledger
+with a `dup-of:<episode-id>` note and get NO page (the full episode is canonical). Only
+clips whose parent episode is NOT ingested are L2'd here. Ensemble/multi-host, auto-
+captions with no speaker labels → attribution uncertain; only unambiguously-Marques
+lines enter the persona/voice banks._
+
+- 2022-11-03 — [[2022-11-03-yt-tL27EgTaCjE|The Most 'Tim Cook' iPad Ever?]] · tech-reviews, tech-industry-commentary, consumer-tech-culture _(ensemble; 0 confident-Marques quotes)_
+- 2026-06-17 — [[2026-06-17-yt-0sfTzOm2cSY|Are iPhone Photos Even Real Anymore?]] ★ · smartphones, production-filmmaking, tech-industry-commentary, consumer-tech-culture _(ensemble; attribution uncertain)_
+- 2026-06-18 — [[2026-06-18-yt-idsSpvYCi8A|Apple Taught an Old Siri New Tricks]] · smartphones, tech-industry-commentary, consumer-tech-culture _(ensemble; 0 confident-Marques quotes)_
+- 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
+
 ---
-_274 videos ingested (L2) so far._
+_278 videos ingested (L2) so far._
