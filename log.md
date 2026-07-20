@@ -1359,3 +1359,29 @@ benchmark** in the corpus (Acid3: Safari 4 beta 100/100 vs Firefox 3.1 beta 93);
 details — runs a **second (Windows XP) machine** besides the Vista gaming laptop, keeps a
 **"video ideas" Notepad backlog**, and **owns a Mac Pro** (self-reported); the **icon-free
 clean-desktop** aesthetic. Contradictions: none.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: Camtasia-tilt-tutorial ★ / Mac-mini + iMac refresh walkthroughs (series) / Diskeeper-defrag / Safari-3.2.2-downgrade (request) / advanced-disk-write-caching / Update-2.0+Inbox-Q&A ★ / Audacity-install
+
+Stage B (P2) on @mkbhd, batch size 8, continuing the March-2009 origin era. All 8 had
+English captions; **0 no-captions, 0 duplicates, 0 429s / rate limits**; all **solo
+Marques** (clean attribution — no co-hosts in the origin corpus). Corpus 240 → **248 L2**.
+Ledger rows set to L2 with domains + notes; youtube-index.md updated in date order
+(footer 240 → 248); index.md count + batch descriptor updated.
+
+Batch: (1) Camtasia Studio 6 **tilt/zoom-n-pan tutorial** — earliest dated origin of the
+zoom/tilt push-in editing move (★ L3-cand, production-filmmaking); (2)+(5) two-part **2009
+Apple desktop-refresh series** (Mac mini + iMac spec/price/verdict walkthroughs; iMac is
+his "favorite Mac," still screencasting from a PC not the Mac Pro, planning ScreenFlow);
+(3) **Diskeeper 2008** defrag utility (mock-teacher "class" bit; 128 MB-RAM old desktop);
+(4) **Safari 3.2.2 downgrade** — request-driven follow-up to his ~20k-view Safari 4 video
+(feedback→content loop); (6) **advanced disk write-caching** how-to (with data-loss
+caveat); (7) **Update 2.0 & Inbox** — ★ L3-cand (creator-business): 260+ subscribers, founds
+the recurring Inbox Q&A format, states audience-building intent; (8) **Audacity** install
+(expands from video into audio tooling).
+
+Synthesis notes: two ★ L3-candidates for the next synthesis pass — (a) **production origin
+of the zoom/tilt push-in** editing move (2009-03-03), and (b) **earliest explicit
+audience-building intent + 260-sub milestone + Inbox/Update recurring formats**
+(2009-03-08), anchoring the creator-business origin timeline. Otherwise reinforces the
+established origin-era themes (freeware/PC-tweak tutorials, planned multi-part series,
+request-driven content, self-reported gear: Mac Pro / 7200-RPM drive). Contradictions: none.
