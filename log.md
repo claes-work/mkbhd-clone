@@ -1229,3 +1229,42 @@ deliberately) and request-driven content model. (3) Self-flagged in-video contra
 (VX10000); origin rig = 17" laptop, Nvidia GeForce, 512MB dedicated VRAM. (5) Caption garble noted: Animoto
 title-card "Marquez Brownley" = misspelling of Marques Brownlee, not an alt spelling. Promote at next
 synthesis checkpoint (creator-business + tech-reviews origin history).
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: Battery-Saver-#4 power-options / iTunes visualizer / upgrade-Safari / CamStudio auto-pan + A/V-sync / HD-encode-for-YouTube-720p / Skype review + "New Ideas" tech-talk announcement
+
+Stage B (P2, @mkbhd solo — cleanest attribution; main P1 drained). Eight 2009-02-16→18
+origin-era screencasts, all solo Marques (age 15), no co-hosts/guests. All 8 had captions;
+0 yt-dlp failures / 0 429s. Wrote 8 `wiki/sources/` L2 pages.
+
+Videos: HD Battery Saver #4 — Windows Vista/XP power options, HP Pavilion 8-cell
+(`ApLsitHmAC0`); iTunes visualizer how-to (`y108lR0aGeU`); Upgrade Safari 3.2.1→3.2.2 +
+Acid3/WebKit-is-faster (`uT9_7Yiu39Y`); CamStudio Auto Pan — fixed 640×360 region follows
+cursor (`1pHoMyA2YkA`); **New Ideas** — announces a tech-talk/tech-news commentary format +
+explicit channel-growth goal (`L8JTCiWXu2A`); Encode HD for YouTube via Windows Movie Maker
+at 720p — his 2009 upload pipeline (`jfQPNOw8mMo`); CamStudio A/V-sync bug fix, delay video
+1.58s, contrasts Camtasia 6 (`SaGAGrT9nP4`); Skype 3.8 review/walkthrough, request
+(`mhhgh84ZDmE`).
+
+**Attribution:** all solo (`attribution: solo`) — MKBHD-fronted personal screencasts, all
+quotes are persona/voice data. No co-hosted material this round (the ensemble channels
+@Waveform/@TheStudio and dedup-tier @WaveformClips were not touched).
+
+**Contradictions flagged:** (1) `y108lR0aGeU` title says "iTunes 9" but Marques narrates
+"iTunes 8" — flagged on the page. (2) `jfQPNOw8mMo` claim "720p is the highest quality
+YouTube plays back" is true only for 2009 (superseded by 1080p Nov-2009 / 4K later) —
+date-stamped as time-bound. Caption garbles caught: "Marcus brownley"→Marques Brownlee,
+"auto pen"→Auto Pan, "8 Cale"→8-cell.
+
+**Bookkeeping:** 8 ledger rows → L2; 8 rows inserted into `wiki/sources/youtube-index.md`
+@mkbhd 2009 section (date order, after 2009-02-15); footer 209 → 217; `index.md` count
+209 → 217. No staging to delete. No fabrication, all English.
+
+Synthesis notes: debt counter now 2 batches since synthesis pass 3 (checkpoint at 10),
+still L2-only, no promotion this batch. Genuinely-new material for the NEXT synthesis pass:
+(a) **"New Ideas" (`L8JTCiWXu2A`) — origin of the tech-talk/tech-news commentary format and
+an explicit early channel-growth strategy at age 15** ★ — seeds creator-business +
+tech-industry-commentary origin history; (b) origin-era **production toolchain** detail:
+CamStudio fixed 640×360 auto-pan capture region + CamStudio-vs-Camtasia-6 A/V-sync, and the
+**Windows Movie Maker → 720p** HD-for-YouTube export pipeline ★ (production-filmmaking);
+(c) early **benchmark-led "which is actually better" instinct** (Acid3 → recommends WebKit),
+an antecedent of the review persona. All flagged ★ on their pages for synthesis, not promoted.

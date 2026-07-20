@@ -93,6 +93,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-13 — [[2009-02-13-yt-EwJ5L5Bf6WU|HD Battery Saver #3 - External Devices]] · consumer-tech-culture
 - 2009-02-15 — [[2009-02-15-yt-reTPuZBO_Ek|HD Tutorial: Create A YouTube Intro Video (Request)]] · creator-business, production-filmmaking
 - 2009-02-15 — [[2009-02-15-yt-i0T1_s4VCvo|HD Tutorial: Eliminate Background Tasks (Request)]] · consumer-tech-culture
+- 2009-02-16 — [[2009-02-16-yt-ApLsitHmAC0|HD Battery Saver #4 - Power Options]] · consumer-tech-culture, production-filmmaking
+- 2009-02-16 — [[2009-02-16-yt-y108lR0aGeU|HD Tutorial: iTunes 9 Visualizer (Request)]] · consumer-tech-culture
+- 2009-02-16 — [[2009-02-16-yt-uT9_7Yiu39Y|HD Tutorial: Upgrade Safari]] · consumer-tech-culture, tech-industry-commentary
+- 2009-02-16 — [[2009-02-16-yt-1pHoMyA2YkA|HD Tutorial: Enable Autopan in Camstudio (Request)]] · production-filmmaking
+- 2009-02-17 — [[2009-02-17-yt-L8JTCiWXu2A|New Ideas]] ★ · creator-business, tech-industry-commentary
+- 2009-02-18 — [[2009-02-18-yt-jfQPNOw8mMo|HD Tutorial: Encode any Video in HD for Youtube]] ★ · production-filmmaking, creator-business
+- 2009-02-18 — [[2009-02-18-yt-SaGAGrT9nP4|HD Tutorial: Camstudio Audio and Video Synchronization]] · production-filmmaking
+- 2009-02-18 — [[2009-02-18-yt-mhhgh84ZDmE|HD Skype Review (Request)]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -240,4 +248,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_209 videos ingested (L2) so far._
+_217 videos ingested (L2) so far._
