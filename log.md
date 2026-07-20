@@ -1385,3 +1385,31 @@ audience-building intent + 260-sub milestone + Inbox/Update recurring formats**
 (2009-03-08), anchoring the creator-business origin timeline. Otherwise reinforces the
 established origin-era themes (freeware/PC-tweak tutorials, planned multi-part series,
 request-driven content, self-reported gear: Mac Pro / 7200-RPM drive). Contradictions: none.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 7) — 2009 origin P2: iPod Shuffle 3G reaction / Are You A Geek? (Chris Pirillo) / Dafont font-install / HD Test 2 + HD Camera Fail (AVI) / iPhone 3.0 wishlist / Opera speed-dial (request)
+
+Stage B (P2), @mkbhd solo origin era (2009-03-11 → 2009-03-15). Batch of 8 prepared; **7
+ingested to L2, 1 left open on a 429** (yt-k64UPKi1fGg "Welcome to My Youtube Channel! 720p
+Introduction" — caption fetch rate-limited, retry next iteration). Not 3 consecutive failures,
+so the iteration proceeded. All 7 ingested are **solo Marques** screencasts/opinion videos —
+clean attribution, no co-hosts or guests, no quarantine needed. 0 no-captions, 0 duplicates,
+0 skipped.
+
+Videos (→ `wiki/sources/`): (1) **2009 iPod Shuffle 3G** — same-day product-reaction (not
+hands-on) to the buttonless VoiceOver/playlist Shuffle, 4GB/$79; (2) **Are You A Geek?** —
+★ L3-cand (creator-business): plugs Chris Pirillo (early influence) + geeks.pirillo.com,
+frames the channel's geek identity; (3) **Dafont** — free-font install tutorial, states the
+**YouTube Partner** goal; (4) **Digital Camera Direct Upload HD/HQ Test 2** + (5) **HD Camera
+Fail (AVI Format)** — same-day quest-for-HD test uploads, resolves to buy a camcorder;
+(6) **Abbreviated iPhone 3.0 Wishlist** — ★ L3-cand (smartphones): earliest sustained iPhone
+software critique, reveals he was a **Verizon LG Voyager user, not an iPhone owner** in 2009;
+(7) **Opera speed-dial** — request-driven config-edit tutorial.
+
+Synthesis notes: two ★ L3-candidates for the next synthesis pass — (a) **earliest iPhone-
+software analysis + the origin fact that Marques was a Verizon LG-Voyager user (not an iPhone
+owner) in early 2009** (2009-03-14), anchoring the smartphones origin; and (b) **early
+influence (Chris Pirillo) + explicit geek-identity framing + stated YouTube-Partner ambition**
+(2009-03-12/13), for the creator-business origin/influences timeline. Also a small
+production-craft beat: the **quest-for-HD / move to a camcorder** (2009-03-14). Otherwise
+reinforces established origin themes (freeware/PC-tweak tutorials, request-driven content,
+Apple-launch reactions). Contradictions: none.

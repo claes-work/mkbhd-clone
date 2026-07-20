@@ -132,6 +132,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-03-07 — [[2009-03-07-yt-fZLrEO9tQDc|HD Tutorial: Enable Advanced Disk Performance]] · consumer-tech-culture
 - 2009-03-08 — [[2009-03-08-yt-Vi6_MQ-2FMc|Update 2.0 & Inbox v1]] ★ · creator-business, consumer-tech-culture, production-filmmaking
 - 2009-03-10 — [[2009-03-10-yt-MlZYD977iZE|HD Tutorial: Audacity]] · consumer-tech-culture, production-filmmaking
+- 2009-03-11 — [[2009-03-11-yt--cuB6e6-XeM|2009 iPod Shuffle 3G]] · consumer-tech-culture, tech-reviews, tech-industry-commentary
+- 2009-03-12 — [[2009-03-12-yt-qtk1maA23k8|Are You A Geek?]] ★ · consumer-tech-culture, creator-business
+- 2009-03-13 — [[2009-03-13-yt-EEldRjkhZ8o|HD Tutorial: Dafont - Free Fonts Online]] · consumer-tech-culture, production-filmmaking
+- 2009-03-14 — [[2009-03-14-yt-R3KjJyYexdE|Digital Camera Direct Upload HD/HQ Test 2]] · production-filmmaking, consumer-tech-culture
+- 2009-03-14 — [[2009-03-14-yt-LTXVswkL18E|HD Camera Fail (AVI Format)]] · production-filmmaking, consumer-tech-culture
+- 2009-03-14 — [[2009-03-14-yt-l2rnlsReYUA|Abbreviated iPhone 3.0 Wishlist]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture
+- 2009-03-15 — [[2009-03-15-yt-UzrdyO2j2F0|HD Tutorial: Change # Of Speed Dials in Opera (Request)]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -279,4 +286,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_248 videos ingested (L2) so far._
+_255 videos ingested (L2) so far._
