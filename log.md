@@ -1202,3 +1202,30 @@ Debt counter resets to 0 (next checkpoint at the next channel/era boundary or ~1
 
 Synthesis notes: none — debt fully drained (9/9 → 0). Resume Stage B next iteration (@mkbhd 2009→2010 origin
 P2 long tail, or @AutoFocus P2 remainder / @Waveform attribution-gated).
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: Windows-7 first-look/$50-upgrade opinion + WMP-11-in-XP / Vista AutoPlay / battery-saver #2-#3 (Aero, external-devices) / Animoto YouTube-intro pipeline / eliminate-background-tasks
+
+Stage B (P2) on @mkbhd — cleanest-attribution channel (Marques solo, age 15, Feb 2009; no co-hosts in
+this era, so no quarantine needed). Batch of 8 selected oldest-first from the 2009 origin era.
+7 → L2, 1 skipped. 0 no-captions, 0 duplicates, no yt-dlp rate-limiting (0×429).
+
+L2 pages (→ `wiki/sources/`): 2009-02-13 Could Windows 7 Be a $50 Upgrade? (first Windows 7 video —
+opinion, CNET-sourced rumor) · 2009-02-13 WMP 11 in Windows XP · 2009-02-13 Customizing Vista AutoPlay ·
+2009-02-13 Battery Saver #2 Disable Aero · 2009-02-13 Battery Saver #3 External Devices · 2009-02-15
+Create A YouTube Intro Video (Animoto→Movie Maker) · 2009-02-15 Eliminate Background Tasks.
+Skipped: 2009-02-14 "My new Official Intro Video" (yt-f4B3FMSFqpE) — music-only intro animation, no
+spoken content; its creation is documented in the 2009-02-15 Animoto intro tutorial.
+
+Attribution: all 7 L2 pages `attribution: solo` — MKBHD-fronted, every quote is persona/voice data.
+Battery-saver #2/#3 join the series (part #1 = 2009-02-12 Defragmenting).
+
+Synthesis notes: (1) ★ First "is it worth it?" value judgment in the corpus — the Windows 7 video weighs
+price vs. worth ("wasn't worth as much money as you may have spent") and cites CNET for a rumor rather
+than asserting it: origin seed of the review/"worth it" instinct + source-citing discipline. (2) ★ Documented
+origin-era production pipeline: Animoto slideshow → export to YouTube → re-download → trim Animoto end-card
+in Windows Movie Maker → prepend as HD intro; plus early copyright caution (used royalty-free music
+deliberately) and request-driven content model. (3) Self-flagged in-video contradiction in Battery Saver #3
+(future USB-cooler rec) — reconcile when that video is ingested. (4) Bio/rig datapoints: owned an LG Voyager
+(VX10000); origin rig = 17" laptop, Nvidia GeForce, 512MB dedicated VRAM. (5) Caption garble noted: Animoto
+title-card "Marquez Brownley" = misspelling of Marques Brownlee, not an alt spelling. Promote at next
+synthesis checkpoint (creator-business + tech-reviews origin history).

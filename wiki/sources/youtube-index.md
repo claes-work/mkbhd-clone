@@ -86,6 +86,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-12 — [[2009-02-12-yt-k0U3AqL4sds|HD Tutorial: Customize Autofill in Safari]] · consumer-tech-culture
 - 2009-02-12 — [[2009-02-12-yt-4FlLW_BA__M|HD Benchmarking: My Internet Speed]] · consumer-tech-culture, tech-reviews
 - 2009-02-12 — [[2009-02-12-yt-wK8VrCmRnaQ|HD Tutorial: Google Earth 5.0]] · consumer-tech-culture
+- 2009-02-13 — [[2009-02-13-yt-or8t_Zi7S38|Could Windows 7 Be a $50 Upgrade?]] · tech-industry-commentary, consumer-tech-culture
+- 2009-02-13 — [[2009-02-13-yt-LCbiIbZ9QOM|HD Tutorial: Get Windows Media Player 11 in Windows XP]] · consumer-tech-culture
+- 2009-02-13 — [[2009-02-13-yt-QpycIicBEEM|HD Tutorial: Customizing Autoplay]] · consumer-tech-culture
+- 2009-02-13 — [[2009-02-13-yt-GMfvCpxWsmA|HD Battery Saver #2 - Disable Visual Effects (Aero!)]] · consumer-tech-culture
+- 2009-02-13 — [[2009-02-13-yt-EwJ5L5Bf6WU|HD Battery Saver #3 - External Devices]] · consumer-tech-culture
+- 2009-02-15 — [[2009-02-15-yt-reTPuZBO_Ek|HD Tutorial: Create A YouTube Intro Video (Request)]] · creator-business, production-filmmaking
+- 2009-02-15 — [[2009-02-15-yt-i0T1_s4VCvo|HD Tutorial: Eliminate Background Tasks (Request)]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -233,4 +240,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_202 videos ingested (L2) so far._
+_209 videos ingested (L2) so far._
