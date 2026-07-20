@@ -101,6 +101,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-02-18 — [[2009-02-18-yt-jfQPNOw8mMo|HD Tutorial: Encode any Video in HD for Youtube]] ★ · production-filmmaking, creator-business
 - 2009-02-18 — [[2009-02-18-yt-SaGAGrT9nP4|HD Tutorial: Camstudio Audio and Video Synchronization]] · production-filmmaking
 - 2009-02-18 — [[2009-02-18-yt-mhhgh84ZDmE|HD Skype Review (Request)]] · consumer-tech-culture
+- 2009-02-19 — [[2009-02-19-yt-5yO_MqVLrJM|HD Tutorial: Upgrade to Skype 4 Beta]] · consumer-tech-culture
+- 2009-02-19 — [[2009-02-19-yt-tm_ZnqJblko|HD Battery Saver #5 - Hibernate]] · consumer-tech-culture
+- 2009-02-19 — [[2009-02-19-yt-yDie-JzVlKM|HD Laptop Buying Guide]] ★ · tech-reviews, consumer-tech-culture
+- 2009-02-19 — [[2009-02-19-yt-FcugVUydSBY|Update 1.0 = Video 100!]] ★ · creator-business, consumer-tech-culture
+- 2009-02-20 — [[2009-02-20-yt-7cONAGNdPpI|HD Tutorial: Change or Create your Gmail Theme]] · consumer-tech-culture
+- 2009-02-21 — [[2009-02-21-yt-NBACYdNLfGA|HD Tutorial: DivX Codec For Camstudio (Request)]] · production-filmmaking, consumer-tech-culture
+- 2009-02-21 — [[2009-02-21-yt-p4jP-gyIPVg|HD Vista Lite?]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -248,4 +255,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_217 videos ingested (L2) so far._
+_224 videos ingested (L2) so far._

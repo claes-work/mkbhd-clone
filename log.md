@@ -1268,3 +1268,50 @@ CamStudio fixed 640×360 auto-pan capture region + CamStudio-vs-Camtasia-6 A/V-s
 **Windows Movie Maker → 720p** HD-for-YouTube export pipeline ★ (production-filmmaking);
 (c) early **benchmark-led "which is actually better" instinct** (Acid3 → recommends WebKit),
 an antecedent of the review persona. All flagged ★ on their pages for synthesis, not promoted.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 8) — 2009 origin P2: Skype-4-beta / battery-saver-#5-hibernate / laptop-buying-guide / Update-1.0-video-100-milestone / Gmail-themes / DivX-codec-for-CamStudio / Vista-Lite-idle-RAM-response
+
+Stage B (P2, @mkbhd solo — cleanest attribution; main P1 already drained). Eight
+2009-02-19→21 origin-era videos, all solo Marques (age 15), no co-hosts/guests. 7 had
+captions and were ingested to L2; 1 had no captions (marked L1). 0 yt-dlp failures / 0 429s.
+Wrote 7 `wiki/sources/` L2 pages.
+
+Videos (L2): Upgrade to Skype 4.0 beta — 22 MB installer, three-way calling, invites Skype
+calls (`5yO_MqVLrJM`); Battery Saver #5 — Vista hibernate + remap power button
+(`tm_ZnqJblko`); **HD Laptop Buying Guide** ★ — component-by-component (CPU/RAM/HDD/GPU/
+screen/battery) trade-off walkthrough on his HP Pavilion DV7, earliest review-methodology
+artifact (`yDie-JzVlKM`); **Update 1.0 = Video 100!** ★ — origin milestone, ~74 subscribers
+~2 months in, daily-upload cadence, giveaway idea, announces he'll make a Twitter, Win7
+"hopefully by December" (`FcugVUydSBY`); Gmail themes how-to, done in Firefox vs his usual
+Safari, notes he uses Thunderbird (`7cONAGNdPpI`); DivX codec for CamStudio, request,
+recorded in Camtasia 6 (`NBACYdNLfGA`); Vista Lite? — response video, Vista idle RAM ~1.4 GB
+on a 3 GB/15" laptop, crowd-comparison prompt (`p4jP-gyIPVg`).
+
+**No captions (L1, not ingested):** `xY-UY8g9GGY` "My Official Youtube Outro!" — auto-marked
+by the driver (no subtitles available); left L1 for a future pass.
+
+**Attribution:** all solo (`attribution: solo`) — MKBHD-fronted personal screencasts/updates,
+all quotes are persona/voice data. No co-hosted material this round (ensemble channels
+@Waveform/@TheStudio and dedup-tier @WaveformClips untouched).
+
+**Fidelity notes / caption garbles caught:** "Marcus brownley"→Marques Brownlee; "newag.com"/
+"scystar.com"→Newegg/etc. (retailer names garbled, flagged not asserted); Aero RAM-savings
+figure (~200 MB, not "2 gigs") flagged inline; GPU model (GeForce 9700M) self-flagged as
+unsure by Marques and noted as such; "solid stay drive"→SSD, "disc keeper"→Diskeeper. Win7
+"by December" prediction date-stamped (Win7 in fact shipped 2009-10-22). No contradictions
+between sources this batch.
+
+**Bookkeeping:** 7 ledger rows → L2 (+ 1 pre-marked L1 no-captions); 7 rows inserted into
+`wiki/sources/youtube-index.md` @mkbhd 2009 section (date order, after 2009-02-18); footer
+217 → 224; `index.md` count 217 → 224. No staging to delete. No fabrication, all English.
+
+Synthesis notes: debt counter now 3 batches since synthesis pass 3 (checkpoint at 10),
+still L2-only, no promotion this batch. Genuinely-new material for the NEXT synthesis pass:
+(a) **Laptop Buying Guide (`yDie-JzVlKM`) — earliest structured buying-guide / review-
+methodology artifact: component trade-off reasoning + "worth it" framing at age 15** ★ —
+seeds tech-reviews origin history; (b) **Update 1.0 = Video 100 (`FcugVUydSBY`) — hard
+origin-timeline datapoint (100 videos ≈ 74 subs, ~2 months in) + the daily-upload /
+direct-audience-access operating model + first stated intent to join Twitter** ★ — seeds
+creator-business + biography; (c) continued origin **production-toolchain** detail (DivX
+codec into CamStudio, recorded in Camtasia 6) reinforcing the existing CamStudio-vs-Camtasia
+thread. All flagged ★ on their pages for synthesis, not promoted.
