@@ -133,6 +133,7 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-03-08 — [[2009-03-08-yt-Vi6_MQ-2FMc|Update 2.0 & Inbox v1]] ★ · creator-business, consumer-tech-culture, production-filmmaking
 - 2009-03-10 — [[2009-03-10-yt-MlZYD977iZE|HD Tutorial: Audacity]] · consumer-tech-culture, production-filmmaking
 - 2009-03-11 — [[2009-03-11-yt--cuB6e6-XeM|2009 iPod Shuffle 3G]] · consumer-tech-culture, tech-reviews, tech-industry-commentary
+- 2009-03-11 — [[2009-03-11-yt-k64UPKi1fGg|Welcome to My Youtube Channel! 720p Introduction]] · creator-business, production-filmmaking _(music-only intro, no narration)_
 - 2009-03-12 — [[2009-03-12-yt-qtk1maA23k8|Are You A Geek?]] ★ · consumer-tech-culture, creator-business
 - 2009-03-13 — [[2009-03-13-yt-EEldRjkhZ8o|HD Tutorial: Dafont - Free Fonts Online]] · consumer-tech-culture, production-filmmaking
 - 2009-03-14 — [[2009-03-14-yt-R3KjJyYexdE|Digital Camera Direct Upload HD/HQ Test 2]] · production-filmmaking, consumer-tech-culture
@@ -144,6 +145,12 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-03-19 — [[2009-03-19-yt-6nk-E4Ra9HM|HD Tutorial: Change Video Speed in Camtasia Studio]] · production-filmmaking
 - 2009-03-19 — [[2009-03-19-yt-I1-NrJ-9zkw|Media Center Remote Part 2]] · consumer-tech-culture, production-filmmaking
 - 2009-03-21 — [[2009-03-21-yt-49DVDqDm_tI|Update 2.1]] ★ · creator-business, consumer-tech-culture
+- 2009-03-25 — [[2009-03-25-yt-R92tDmqFT18|HD Tutorial: Callouts in Camtasia Studio 6]] · production-filmmaking
+- 2009-03-25 — [[2009-03-25-yt-CZAkGWvujPM|Natural Audio Enhancement?]] · production-filmmaking
+- 2009-03-26 — [[2009-03-26-yt-FAo05eSPOYU|Gaaah! NEW Youtube Layout!]] · consumer-tech-culture, creator-business
+- 2009-03-28 — [[2009-03-28-yt-j2cYJDwSH0g|HD Tutorial: Youtube Playlists]] · consumer-tech-culture, creator-business
+- 2009-03-29 — [[2009-03-29-yt-oix079jUkVU|HD Tutorial: Create A Channel Icon Using Gimp]] ★ · production-filmmaking, creator-business
+- 2009-03-29 — [[2009-03-29-yt-lKXwNA92Z-I|Animoto Widescreen/HQ Test]] · production-filmmaking, creator-business _(music-only montage, no narration)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -291,4 +298,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_260 videos ingested (L2) so far._
+_267 videos ingested (L2) so far._

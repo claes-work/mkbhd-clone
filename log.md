@@ -1445,3 +1445,43 @@ production pivot** (2009-03-19/21). Otherwise reinforces established origin them
 (desktop-customization, Camtasia production-tooling, request-driven tutorials). Contradictions:
 none. Rate limits: 2 rows 429'd (yt-k64UPKi1fGg "Welcome to My Youtube Channel!" — retried
 again, still 429; yt-T4OBgmeJokQ "HD Tutorial: Quality Wallpapers") — left open.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 7) — 2009 origin P2: welcome/720p-intro (music-only) / Camtasia-6 callouts / natural-audio-enhancement teaser / new-YouTube-layout reaction / YouTube-playlists (early series structure) / GIMP-channel-icon = MKBHD-logo-origin ★ / Animoto-widescreen-HQ-test (music-only)
+
+Stage B, P2, **@mkbhd solo** (cleanest attribution; main-channel P1 drained — only @WaveformClips
+P1:2 remain on the attribution-gated dedup channel). Batch requested 8; the driver fetched all 8
+captions **with zero 429s** — including the two rows that repeatedly 429'd in prior iterations
+(yt-k64UPKi1fGg "Welcome", yt-T4OBgmeJokQ "Quality Wallpapers"). Net **7 ingested L2, 1 skipped
+(garbled captions)**. All solo MKBHD-fronted origin videos — no co-hosts, no guests, no
+attribution quarantine.
+
+(1) **Welcome to My Youtube Channel! 720p Introduction** (2009-03-11) — **music-only montage, no
+narration** → L2 marker only, no voice data. Documents the early **HD/720p** channel branding.
+(2) **HD Tutorial: Callouts in Camtasia Studio 6** (2009-03-25) — annotation vocabulary (text/
+blur/spotlight/highlighter/custom callouts); signature tilt-clip + offset-callout composition;
+Calibri as favorite font; production-tooling cluster.
+(3) **Natural Audio Enhancement?** (2009-03-25) — teaser for a Camtasia-6 noise-reduction
+technique (clean/quiet audio); pairs with the Audacity audio thread.
+(4) **Gaaah! NEW Youtube Layout!** (2009-03-26) — reaction to a YouTube watch-page redesign;
+tested across ~6 browsers to rule out a browser bug; earliest-era platform commentary.
+(5) **HD Tutorial: Youtube Playlists** (2009-03-28) — reveals **early series structure** (Laptop
+Battery Savings / 2009 Apple Releases / Free Software / Updates-Inbox); creator-business signal.
+(6) **HD Tutorial: Create A Channel Icon Using Gimp** (2009-03-29) — ★ L3-cand: literal
+construction of the **MKBHD logo** in GIMP — **MKB initials + HD, three text layers incl. a giant
+low-opacity X, black-to-red gradient**; the earliest **red-on-black** MKBHD identity; "my entire
+channel isn't HD so I might as well make my logo HD."
+(7) **Animoto Widescreen/HQ Test** (2009-03-29) — **music-only Animoto montage, no usable
+narration** → L2 marker; production-tooling experiment.
+Skipped: **HD Tutorial: Quality Wallpapers (Request)** (2009-03-23, yt-T4OBgmeJokQ) — captions
+fetched but are **garbled non-English auto-translation** (unusable); status=skipped, not
+fabricated.
+
+Synthesis notes: one ★ L3-candidate for the next pass — a **branding origin beat**: the MKBHD
+**wordmark (MKB initials + HD)** and the **red-on-black** color identity were hand-built in GIMP
+on 2009-03-29, predating the later crimson-red studio aesthetic; feed into a creator-business/
+branding topic page (2009-03-29). Secondary threads reinforce established origin themes — early
+**series/playlist structure** as deliberate channel curation, **YouTube-platform commentary** as
+a recurring format, and the **Camtasia audio/callouts production-tooling** cluster. Two uploads
+were music-only montages (no voice data). Contradictions: none. Rate limits: **0 × 429** this
+iteration (both previously-429'd rows finally resolved: Welcome = music-only L2; Quality
+Wallpapers = garbled-captions skip).
