@@ -139,6 +139,11 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-03-14 — [[2009-03-14-yt-LTXVswkL18E|HD Camera Fail (AVI Format)]] · production-filmmaking, consumer-tech-culture
 - 2009-03-14 — [[2009-03-14-yt-l2rnlsReYUA|Abbreviated iPhone 3.0 Wishlist]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture
 - 2009-03-15 — [[2009-03-15-yt-UzrdyO2j2F0|HD Tutorial: Change # Of Speed Dials in Opera (Request)]] · consumer-tech-culture
+- 2009-03-17 — [[2009-03-17-yt-6isEBEv-rbg|HD Tutorial: Dual Docks (Request)]] · consumer-tech-culture
+- 2009-03-18 — [[2009-03-18-yt-o8YoCuJFePc|iPhone 3Gs Software Overview]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture
+- 2009-03-19 — [[2009-03-19-yt-6nk-E4Ra9HM|HD Tutorial: Change Video Speed in Camtasia Studio]] · production-filmmaking
+- 2009-03-19 — [[2009-03-19-yt-I1-NrJ-9zkw|Media Center Remote Part 2]] · consumer-tech-culture, production-filmmaking
+- 2009-03-21 — [[2009-03-21-yt-49DVDqDm_tI|Update 2.1]] ★ · creator-business, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -286,4 +291,4 @@ driving section delivered by co-host "Miles" (`attribution: co-host`)._
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
 ---
-_255 videos ingested (L2) so far._
+_260 videos ingested (L2) so far._

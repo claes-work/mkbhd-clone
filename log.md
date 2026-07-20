@@ -1413,3 +1413,35 @@ influence (Chris Pirillo) + explicit geek-identity framing + stated YouTube-Part
 production-craft beat: the **quest-for-HD / move to a camcorder** (2009-03-14). Otherwise
 reinforces established origin themes (freeware/PC-tweak tutorials, request-driven content,
 Apple-launch reactions). Contradictions: none.
+
+## [2026-07-20] ingest | yt batch (@mkbhd, 5) — 2009 origin P2: Dual-Docks (ObjectDock) / iPhone-OS-3.0 software overview ★ / Camtasia clip-speed-reverse / Media-Center-Remote-Pt2 (camera-filmed) / Update-2.1 milestone ★
+
+Stage B, P2, **@mkbhd solo** (cleanest attribution; main-channel P1 already drained). Batch
+requested 8; the driver fetched captions for 6, of which one was music-only. Net **5 ingested
+L2, 1 skipped (no-captions), 2 rows 429'd** (left open for retry). All 5 are solo
+MKBHD-fronted origin videos — no co-hosts, no attribution quarantine.
+
+(1) **HD Tutorial: Dual Docks (Request)** (2009-03-17) — run RocketDock + ObjectDock together;
+freeware/$20-Plus; reserve-screen-edge "like Mac OS 10" (desktop-customization cluster).
+(2) **iPhone 3Gs Software Overview** (2009-03-18) — ★ L3-cand: actually an **iPhone OS 3.0
+software** breakdown (copy/paste, push-not-multitasking, Spotlight, MMS, landscape keyboard);
+he corrects push≠background, and again confirms he's a **non-iPhone owner on an LG Voyager**.
+Title-vs-content flagged (3.0 software, not 3GS hardware). Caption garble "LG Warrior"=Voyager.
+(3) **Camtasia clip-speed** (2009-03-19) — reverse/speed clips in Camtasia 6; notes no
+speed-preview (unlike Sony Vegas); production-tooling cluster.
+(4) **Media Center Remote Part 2** (2009-03-19) — Windows Media Center on HP Pavilion dv7t via
+IR remote; **filmed on a camera, not a screencast** (no tripod yet) — the screencast→hardware
+production pivot.
+(5) **Update 2.1** (2009-03-21) — ★ L3-cand: **450 subs / 100k video + 10k channel views**
+milestone; announces **re-recording early CamStudio+Movie-Maker tutorials for quality** (keeps
+originals for the view counts); plans more camera-filmed hardware.
+
+Synthesis notes: two ★ L3-candidates for the next pass — (a) **earliest structured iPhone-
+*software* feature breakdown + the spec-literacy/expectation-correcting instinct (push≠
+multitasking)**, reinforcing the smartphones origin and the LG-Voyager/non-owner fact
+(2009-03-18); and (b) a **creator-business origin beat: subscriber-milestone tracking + an
+explicit re-record-for-higher-quality philosophy + the screencast→camera-filmed-hardware
+production pivot** (2009-03-19/21). Otherwise reinforces established origin themes
+(desktop-customization, Camtasia production-tooling, request-driven tutorials). Contradictions:
+none. Rate limits: 2 rows 429'd (yt-k64UPKi1fGg "Welcome to My Youtube Channel!" — retried
+again, still 429; yt-T4OBgmeJokQ "HD Tutorial: Quality Wallpapers") — left open.
