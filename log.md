@@ -1814,3 +1814,41 @@ Insight 2.0 tour (`kCIao8GQ5kg`) supplies a stronger, more concrete dated citati
 analytics-as-sponsor-pitch finding already logged from the 2009-06-20 Insight tour — worth
 swapping in as the primary citation rather than a new standalone point. Synthesis debt now 1
 batch since pass 5 (checkpoint at 10) — next iteration continues Stage B ingest.
+
+
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Aug 9 → Aug 24): Thunderbird themes / iSkin Cerulean unbox / Windows 7 calculator / USBFever mini speaker unbox / YouTube group logo + 2,300-sub milestone / "SEXIEST" Firefox Glass add-on / YouTube-Twitter auto-share / Blu Twitter client first-look
+
+Continued the @mkbhd 2009 origin P2 long tail chronologically (Aug 9 -> Aug 24), 8/8 open rows
+selected (oldest-first), all with English captions -- 0 no-captions, 0 duplicates, 0 skipped, no
+yt-dlp rate-limiting (3-consecutive-failure safety rail not triggered).
+
+Videos (-> `wiki/sources/`): 2009-08-09 HD Tutorial: Thunderbird Themes . 2009-08-12 Unboxed:
+iSkin Cerulean F1 + TX [HD] . 2009-08-14 HD Tutorial: Windows 7 Calculator . 2009-08-16 Unboxed:
+SMALLEST Speaker ... Ever? . 2009-08-18 How To Change Youtube Group Picture . 2009-08-20 SEXIEST
+Firefox Glass! . 2009-08-22 Tweet Your Youtube Videos [HD Tutorial] . 2009-08-24 Blu - Twitter
+Client for Windows [HD Installation].
+
+**Attribution.** Solo @mkbhd channel throughout (age 15) -- no quarantine needed, all quote banks
+are directly Marques-attributed.
+
+**Bookkeeping:** 8 new `wiki/sources/` pages; 8 rows inserted into `wiki/sources/youtube-index.md`
+in date order; footer 356 -> 364; `index.md` count 356 -> 364 + batch note. Ledger: 8 rows set to
+L2 (domains/notes set via `ledger_set.py`). No fabrication, all English. Debt counter 1 -> 2
+(checkpoint at 10).
+
+Synthesis notes: One star L3-candidate. (1) star **How To Change Youtube Group Picture**
+(`HhhycJL_muM`, 2009-08-18) -- dates a **2,300-subscriber milestone** (extending the origin
+subscriber timeline: 74->95->260->450->...->1,570->2,000->now 2,300) and a **300-member
+YouTube-group** data point (up from the previously logged 104 members) -- feeds
+`persona/biography.md` + `creator-business` timeline, pure timeline extension not a new
+framework. Minor, non-star notes: (a) **Unboxed: iSkin Cerulean F1 + TX** (`FXL-01p4c1E`,
+2009-08-12) is a second explicitly *applied-for* PR review unit (2-day UPS turnaround praised) --
+reinforces rather than adds to the existing review-unit-sourcing thread; (b) **Unboxed: SMALLEST
+Speaker** (`T8Pg0MKZCJ8`, 2009-08-16) introduces a previously-unlogged vendor, USBFever.com --
+noted for future cross-reference if the relationship recurs, not itself framework-level;
+(c) **Blu - Twitter Client** (`bYNiRzN6d1Y`, 2009-08-24) shows peer-to-peer content discovery
+running in the *reverse* direction (TheCompuGeeks introduced Blu to him) plus a live on-camera
+shoutout to named viewers -- a minor engagement-habit variant of the existing Tech-Channel-of-
+the-Week reciprocal-growth thread, not a new mechanism. Synthesis debt now 2 batches since pass 5
+(checkpoint at 10) -- next iteration continues Stage B ingest (@mkbhd P2, next oldest-first slice
+from 2009-08-25 onward).
