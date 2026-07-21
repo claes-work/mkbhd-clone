@@ -229,6 +229,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-07-09 — [[2009-07-09-yt-hdZzl-7Z2Dg|Youtube CENSORS Comments — early platform-commentary screencast]] · tech-industry-commentary, consumer-tech-culture
 - 2009-07-12 — [[2009-07-12-yt-mnI-6YtQhmk|Tech Channel of the Week #10: BoykoBrand — explicit self-origin comparison]] · creator-business, consumer-tech-culture
 - 2009-07-15 — [[2009-07-15-yt-c927MPDH8ew|HD Tutorial: Audio Converter [Why YOU need one] — Audacity-over-Camtasia audio opinion]] · production-filmmaking, consumer-tech-culture, creator-business
+- 2009-07-19 — [[2009-07-19-yt-ex8GNwrmrI4|Reviewed: iFrogz Custom Fallouts [HD] — logo-matched red/black customization]] ★ · tech-reviews, consumer-tech-culture
+- 2009-07-20 — [[2009-07-20-yt-uKE2ad-JgF4|Tech Channel of the Week #11: iMaCarly]] · creator-business, consumer-tech-culture
+- 2009-07-23 — [[2009-07-23-yt-kCIao8GQ5kg|Youtube Insight 2.0 [2009] — dated Safari-4 analytics breakdown]] ★ · creator-business, consumer-tech-culture
+- 2009-07-23 — [[2009-07-23-yt-swY03zRPcuo|HD Tutorial: Youtube Groups — MKBHD group]] · creator-business, consumer-tech-culture
+- 2009-07-27 — [[2009-07-27-yt-rvvTJEWHOTM|mkbHD Update 3.1 — 2,000-subscriber milestone + upload-cadence rule]] ★ · creator-business, consumer-tech-culture
+- 2009-08-02 — [[2009-08-02-yt-O1fpWnXv2eg|YT Messaging Glitch FIX [HD]]] · consumer-tech-culture, creator-business
+- 2009-08-04 — [[2009-08-04-yt-AMLzrGSdCtQ|Wrapsol Protection System Review [HD] — 9.5/10, highest rating ever + comparative method]] ★ · tech-reviews, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -390,4 +397,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_349 videos ingested (L2) so far._
+_356 videos ingested (L2) so far._

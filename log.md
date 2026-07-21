@@ -1776,3 +1776,41 @@ Updated `index.md` (Topics/Persona sections + Last-updated line). No rate limits
 
 Synthesis notes: none — debt fully drained (10/10 → 0). Resume Stage B next iteration (@mkbhd P2/P3
 long tail continues 2009→2010, or @AutoFocus/@Waveform P2 — attribution-gated on the ensemble channels).
+
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Jul 19 → Aug 4): Reviewed: iFrogz Custom Fallouts ★ (logo-matched red/black customization, editing-headphones quality proof-point) / Tech Channel of the Week #11: iMaCarly (hardware/software mix praised, reciprocal-growth engine) / Youtube Insight 2.0 ★ (dated Safari-4 analytics: 274 comments, 4.4 avg rating, 1,182 embed views, 4,400 search views, age/country demographics) / HD Tutorial: Youtube Groups (MKBHD group, 104 members, moderator-recruitment mechanic) / mkbHD Update 3.1 ★ (2,000-subscriber milestone dated 2009-07-27, explicit upload-cadence rule: every 2-3 days) / YT Messaging Glitch FIX (platform-bug workaround as a viewer-service) / Wrapsol Protection System Review ★ (9.5/10, explicit "highest rating I have ever given" + side-by-side comparative-review method); 1 no-captions (mkbHD Outro Draft, music-only test clip, no speech content — auto-captions were "[Music]"/"he" only, judged non-substantive and skipped)
+
+Batch: 8 selected, 8 captions OK (no 429s), 7 L2'd, 1 judged no-usable-content (music-only outro
+test clip — left L1 with a descriptive note rather than force-ingesting non-speech captions), 0
+dup, 0 rate-limit. All @mkbhd solo (age 15), clean attribution (no quarantine). Dispatched
+sub-agent mode (roster autopilot): source pages written directly, sequentially by the
+coordinator — no per-video subagents spawned. Origin rating superlative: Wrapsol's 9.5/10 is
+explicitly self-described as the highest rating given to date, extending the origin scoring
+ladder (9/10 → 8.5/10 → 8/10 → 8/10 → 9.5/10). Subscriber timeline extended: 1,570 (2009-07-02)
+→ 2,000 (2009-07-27). No contradictions flagged. Caption garbles: none requiring correction beyond
+standard "Marcus Brownley"/"Marcus browny"/"Marcus brownlee" → Marques Brownlee normalization.
+
+**Bookkeeping:** 7 new `wiki/sources/` pages; 7 rows inserted into `wiki/sources/youtube-index.md`
+in date order; footer 349 → 356; `index.md` count 349 → 356 + batch note + Last-updated line.
+Ledger: 7 rows set to L2 (domains/notes set via `ledger_set.py`), 1 row (mkbHD Outro Draft) left
+L1 with a `no-captions (music-only outro draft test clip, no speech content)` note. No
+fabrication, all English. Debt counter 0 → 1 (checkpoint at 10).
+
+Synthesis notes: Three ★ L3-candidates, all SOLO-attributed and safe to promote at the next
+synthesis pass. (1) ★ **iFrogz Custom Fallouts** (`ex8GNwrmrI4`, 2009-07-19) — the clearest
+first-person statement yet that his product-customization choices are deliberately matched to
+the red-and-black MKBHD brand color ("I went with a very simple red and black — like you can see
+uh that my logo is red and black"), upgrading the `consumer-tech-culture` brand-aesthetic thread
+from candidate-seed to a directly self-reported causal statement. (2) ★ **mkbHD Update 3.1**
+(`rvvTJEWHOTM`, 2009-07-27) — dates the 2,000-subscriber milestone (extending the origin
+subscriber timeline) and states an explicit, self-imposed upload-cadence policy ("once every two
+days, and sometimes once every three days") — the first concrete posting-frequency rule found in
+the corpus, feeds `persona/biography.md` + `creator-business`. (3) ★ **Wrapsol Protection System
+Review** (`AMLzrGSdCtQ`, 2009-08-04) — explicit "highest rating I have ever given a hardware
+review" (9.5/10) plus a side-by-side visual comparison against an unnamed competitor (air bubbles
+vs. clean matte finish), an early instance of comparative review methodology and an ancestor of
+the later "compared to what?" framing — feeds `tech-reviews`. Minor, non-★ note: the Youtube
+Insight 2.0 tour (`kCIao8GQ5kg`) supplies a stronger, more concrete dated citation (274 comments,
+4.4 avg rating, 1,182/4,400 referral-view breakdown, age/country demographics) for the existing
+analytics-as-sponsor-pitch finding already logged from the 2009-06-20 Insight tour — worth
+swapping in as the primary citation rather than a new standalone point. Synthesis debt now 1
+batch since pass 5 (checkpoint at 10) — next iteration continues Stage B ingest.
