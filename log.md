@@ -2440,3 +2440,57 @@ immediately prior to this pass) before spending a batch against it; if still blo
 open P2 channel other than @mkbhd (@AutoFocus was also confirmed blocked; @Waveform/@WaveformClips/
 @TheStudio not yet re-probed this run) or escalate the infra finding rather than repeating the same
 diagnostic a seventh time.
+
+## [2026-07-21] ingest | stage-orientation only (@TheStudio + @Waveform P2 probed), PO-token block re-confirmed a seventh time on two new channels, 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents). Orientation
+(`python tools/ingest_batch.py status`): 0 open P1 anywhere (fresh-upload P1 backlog is
+empty), debt at **0/10 batches since synthesis pass 6** (just drained), persona files
+recompiled 2026-07-21 (pass 6, v6, compiled_from_sources: 386, confirmed via
+`persona/system-prompt.md` frontmatter) — no channel has zero ledger rows. Stage machine
+selected **Stage B** (open P2 rows exist on every channel; no S/P/A checkpoint due).
+
+**Before spending a batch, re-probed the yt-dlp PO-token caption-fetch block per pass 6's
+standing recommendation** — this time against the two channels the prior run flagged as
+not-yet-re-probed (`@TheStudio`, `@Waveform`), rather than repeating the @mkbhd/@AutoFocus
+probe a further time. `tools/ingest_batch.py prepare --channel @TheStudio --n 8 --dry-run`
+and `... --channel @Waveform --n 8 --dry-run` selected 8 open P2 rows each (no fetch, no
+ledger writes — dry-run only). Manual `yt-dlp --skip-download --write-auto-sub --sub-lang en`
+probes against one row from each (`yt-Puny-2wkMZA`, "4 Principles For Starting A Successful
+YouTube Channel"; `yt-GRH-Z7onr8k`, "This is the Best Android Update Ever") both returned
+the identical `WARNING: ... There are missing subtitles languages because a PO token was
+not provided` → `There are no subtitles for the requested languages`. **The block is now
+confirmed across 4 of the 5 TARGET channels (@mkbhd, @AutoFocus, @TheStudio, @Waveform)** —
+this rules out any remaining per-channel-captioning-gap explanation entirely; it is a
+single environment-wide yt-dlp/PO-token issue, not tied to a specific channel's caption
+availability. `@WaveformClips` was not separately probed this run (same environment, no
+reason to expect a different result). Re-checked the infra blockers noted previously:
+`pip`/`pip3` still not on PATH, `yt-dlp -U` still reports `stable@2026.07.04` (current),
+no PO-token provider installed — no change since the last check.
+
+**Safety rail invoked.** This is the seventh consecutive iteration to hit the same
+unresolved PO-token gate with 0 ingested (now spanning two more channels than previously
+tested). Per the ingest loop's safety rail (repeated systemic fetch failure, not isolated
+429s), this iteration stops here rather than burning a batch against a confirmed-still-
+broken fetch path. No `tools/ingest_batch.py prepare` was run without `--dry-run` — no
+ledger writes, no ledger regression, no `wiki/sources/` pages, no youtube-index/index.md
+changes (0 ok, 0 skipped, 0 no-captions marked, 0 dup — nothing attempted beyond the two
+diagnostic dry-run + manual probes). Dispatched as a downstream subagent, this run does not
+schedule wakeups, start loops, or touch the roster repo, per its own operating constraints.
+
+**Standing recommendation (unchanged, now confirmed on all 4 tested channels).** The real
+fix is infra, not curatorial: install a PO-token provider (e.g.
+`bgutil-ytdlp-pot-provider`, needs `pip`/`node` present in this environment first — neither
+is currently available) or wait for a yt-dlp release that handles this gate natively. Until
+resolved, every `prepare` call across every channel will return `no-captions` for rows that
+may well have real captions; ledger rows marked `no-captions` since this block first
+appeared should be treated as `caption-fetch blocked`, not confirmed absent, and re-probed
+once the environment is fixed. Given 4/5 channels are now confirmed blocked with an
+identical failure signature, further per-channel re-probing has diminishing diagnostic
+value — the next iteration should treat this as settled and either wait for the
+environment fix or escalate it as its own workstream rather than re-running the same probe
+an eighth time.
+
+Synthesis notes: none (0 new material; this is a pipeline/infra finding, not persona
+content). Debt unchanged at 0 ingest batches since synthesis pass 6 (checkpoint at 10).
