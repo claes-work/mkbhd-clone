@@ -4,6 +4,25 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2010 P2 (Jan 6 → Feb 16), zero-yield no-captions batch, closes 2009 origin era
+
+Stage B (P2, oldest-first) continuation of @mkbhd, dispatched as a subagent under the
+roster autopilot's session-wide spawn budget — pages would have been written directly
+(no per-video subagent) had any come back `ok`. All 8 selected rows (HD Tutorial:
+Matrix Screensaver / Gateway HX2000 Unboxing [HD] / Unboxed: 7-Port USB Hub [HD] /
+Windows 7 Contest [Why I Love Windows 7] / The iPad Rant / Reviewed: uStream Producer /
+DealExtreme Unboxing! [HD] / Unboxed: Epson NX415 [HD]) came back `no-captions` from
+`tools/ingest_batch.py prepare`. This confirms the 2009 origin-era pattern (low-view,
+caption-less early uploads) continues unbroken into the first weeks of 2010 — not
+rate-limiting (no 429s, distinct failure class). This batch's ledger date range
+(2010-01-06 → 2010-02-16) marks the first fully post-2009 batch: the @mkbhd 2009
+origin-era long tail (Feb 2009 → Dec 2009) is now completely drained to L1/L2. All 8
+auto-marked `L1` `no-captions` in the ledger by the driver; no wiki/sources pages, no
+youtube-index/index.md changes (0 ok). Per AGENTS.md: no captions → no ingest, never
+Whisper without user approval.
+
+Synthesis notes: none (zero-yield batch, no new material).
+
 ## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Nov 10 → Dec 2), zero-yield no-captions batch
 
 Stage B (P2) continuation of the @mkbhd 2009 origin long tail. All 8 selected rows
