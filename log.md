@@ -4,6 +4,55 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — re-confirmed PO-token caption-fetch block still active, 0 ingested, iteration stopped
+
+Stage B (P2, oldest-first) continuation of @mkbhd, dispatched as a subagent under the
+roster autopilot's session-wide spawn budget (single coordinator, no per-video
+subagents). Orientation (`tools/ingest_batch.py status`) showed 0 open P1 anywhere and
+debt at 7/10 batches since synthesis pass 5, so the stage machine selected Stage B
+(open P2 rows, no synthesis/persona checkpoint due yet).
+
+**Before spending a real batch, re-verified the prior iteration's PO-token diagnosis
+(`## [2026-07-21] ingest | yt batch (@AutoFocus, 8)`, first entry above at the time),
+since running `prepare` blind risks mis-marking genuinely-fetchable rows
+`no-captions` again.** Manual probe against the same control video used last time
+(`yt-sfyL4BswUeE`, an already-L2-ingested source whose captions fetched successfully
+earlier in this project): `yt-dlp --skip-download --write-auto-sub --sub-lang en`
+still returns `WARNING: ... There are missing subtitles languages because a PO token
+was not provided` → `There are no subtitles for the requested languages`, identical to
+the prior finding. Tried `--extractor-args "youtube:player_client=ios/android/tv_embedded/web_embedded/mweb"`
+as further workarounds beyond the prior iteration's `web,web_safari,tv` attempt — `ios`,
+`android`, `web_embedded`, and `mweb` all fail earlier with `Sign in to confirm you're
+not a bot` (need cookies, out of scope), and `tv_embedded` hits the identical PO-token
+gate. No PO-token provider is installed in this environment (`pip` itself is not on
+PATH here) and yt-dlp is already at the latest available version (2026.07.04) — this
+is confirmed still a systemic, unresolved environment block, not a per-video or
+per-channel condition.
+
+Then ran the real next @mkbhd P2 slice (8 rows, 2010-04-28 → 2010-06-08: Samson MD5
+mic-stand unbox / HTC Droid Incredible unbox / YouTube Groups tutorial update /
+Motorola Droid desktop-stand unbox / Intel X25-V SSD unbox / Google Moderator Module /
+BlueLounge CableBox unbox / Safari 5 tutorial) through `tools/ingest_batch.py prepare
+--no-mark` (the `--no-mark` flag deliberately used so a still-broken fetch path cannot
+corrupt the ledger the way the pre-diagnosis batches risked) — all 8 came back
+`no-captions` from the same classifier path, 0 ok. Ledger verified unchanged
+afterward (all 8 rows still `L0-discovered`, untouched) — nothing to revert.
+
+**No wiki/sources pages written (0 ok — nothing to ingest). No ledger changes (used
+`--no-mark`; verified all 8 rows still `L0-discovered` post-run).** Per the safety
+rail (systemic fetch failure across every client/video tried, not isolated 429s),
+this iteration stops here rather than burning further batches or risking ledger
+corruption against a confirmed-still-broken fetch path. The infra fix flagged last
+iteration (`fetch_captions()` should classify a PO-token warning as retryable, not
+permanent `no-captions`) remains open and out of scope for this iteration — no code
+changed. Recommend the next iteration either re-check whether the PO-token block has
+cleared before attempting `prepare` without `--no-mark`, or pursue the infra fix
+(PO-token provider / yt-dlp upgrade) as its own workstream.
+
+Synthesis notes: none (0 new material this iteration; re-confirms a pipeline/infra
+issue, not persona content). Debt unchanged at 7 ingest batches since synthesis pass 5
+(checkpoint at 10).
+
 ## [2026-07-21] ingest | yt batch (@AutoFocus, 8) — diagnosed a PO-token caption-fetch block, 0 ingested, iteration stopped
 
 Stage B (P2, oldest-first) on @AutoFocus, dispatched as a subagent under the roster
