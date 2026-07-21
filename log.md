@@ -4,6 +4,72 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-21] ingest | yt batch (@AutoFocus, 8) — diagnosed a PO-token caption-fetch block, 0 ingested, iteration stopped
+
+Stage B (P2, oldest-first) on @AutoFocus, dispatched as a subagent under the roster
+autopilot's session-wide spawn budget (single coordinator, no per-video subagents) —
+pivoted here per the prior batch's curatorial recommendation, away from the thin
+@mkbhd 2009→2010 caption desert to a channel with denser recent captioning. All 8
+selected P2 rows (2026 Tesla Model Y Performance / 2026 Toyota RAV4 GR / Our Favorite
+Cars of 2025! Auto Focus Awards / Living with Xiaomi's Electric Car / Cadillac Vistiq
+EV / Porsche Cayenne EV / Jeep Wagoneer S EV / 992.2 Porsche 911 Turbo S) came back
+`no-captions` from `tools/ingest_batch.py prepare`.
+
+**Diagnosis.** Unlike the @mkbhd 2009-2010 batches (very-low-view decade-old uploads,
+where genuine caption absence is plausible), these are 2025-2026 mainstream car-review
+uploads on an active ~1.26M-subscriber channel — genuine caption absence is
+implausible. Manual probe (`yt-dlp --skip-download --write-auto-sub --sub-lang en`
+on `yt-MnjNgtPr3v0`) surfaced `WARNING: ... There are missing subtitles languages
+because a PO token was not provided`, then falls through to yt-dlp's generic
+`There are no subtitles for the requested languages` line — exactly the string
+`tools/ingest_batch.py`'s classifier (`fetch_captions()`, "no subtitles" pattern)
+matches to mark a row `no-captions`. **Confirmed this is a new, systemic environment
+issue, not per-video:** re-ran the identical probe against `yt-sfyL4BswUeE`, a video
+already ingested to L2 earlier in this project (captions fetched successfully then) —
+it now fails with the same PO-token warning. Tried
+`--extractor-args "youtube:player_client=web,web_safari,tv"` as a workaround; same
+PO-token gate on every client tried. This is YouTube's PO-token requirement for
+auto-caption downloads (yt-dlp 2026.07.04) with no PO-token provider configured in
+this environment — it currently blocks essentially all auto-caption fetching, not
+just these 8 videos.
+
+**Corrective action.** Reverted the 8 ledger rows the failed `prepare` call had
+auto-marked `L1 no-captions (no subtitles available)` back to `L0-discovered` with an
+accurate note (`caption-fetch blocked 2026-07-21: yt-dlp PO-token gate, not confirmed
+absent ... retry once resolved`) so they are **not** permanently excluded by
+`FLAG_RE` and stay selectable once the environment issue is fixed — the same
+open/retryable treatment the driver already gives classic `429` rows. No
+`wiki/sources/` pages written (0 ok — nothing to ingest); no net ledger regression
+(@AutoFocus open-P2 count unchanged at 104 before/after the revert).
+
+**Curatorial flag (P1, unresolved — needs follow-up, not fixed here).** The two
+immediately preceding `@mkbhd` batches (`2009 origin P2 Nov 10→Dec 2` and `2010
+origin P2 Feb 23→Apr 25`, 16 rows, both logged "zero-yield no-captions" and "verified
+not rate-limiting") ran before this PO-token gate was diagnosed, using the same
+classifier now confirmed to conflate "PO-token blocked" with "no subtitles
+available." Those rows are very-low-view 2009-2010 uploads, so genuine caption
+absence remains plausible — but it can no longer be treated as verified given the
+classifier's blind spot. Recommend a future iteration re-probe a sample of those 16
+with the method above (or wait for the PO-token issue to be fixed) before treating
+that "caption desert" conclusion as settled. Not reverted here — that needs per-row
+re-verification, out of scope for this iteration; flagged instead of guessed at.
+
+**Infra fix needed (out of scope here).** `tools/ingest_batch.py`'s
+`fetch_captions()` classifier has no PO-token pattern; it should classify a PO-token
+warning as `429`-like/transient (left open, retryable) rather than `no-captions`
+(permanently flagged via `FLAG_RE`). Longer-term: install a PO-token provider (e.g.
+`bgutil-ytdlp-pot-provider`) or upgrade yt-dlp once a release handles this natively.
+
+**Safety rail invoked.** This counts as a systemic fetch failure — not 3 isolated
+429s, but total failure across every video tried this iteration, including a
+previously-working control video — so this iteration stops here per AGENTS.md rather
+than burning further batches against a confirmed-broken fetch path. No classic 429s
+were observed (the driver's `retry` list stayed empty both here and in the two prior
+batches); the failure mode is the PO-token gate, not throttling.
+
+Synthesis notes: none (0 new material this iteration; the finding above is a
+pipeline/infra issue, not persona content).
+
 ## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2010 origin P2 (Feb 23 → Apr 25), second consecutive zero-yield no-captions batch
 
 Stage B (P2) continuation of the @mkbhd 2009→2010 origin long tail (dispatched sub-agent
