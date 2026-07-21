@@ -2228,3 +2228,50 @@ youtube-index/index.md changes (0 ok). Per AGENTS.md: no captions → no ingest,
 Whisper without user approval.
 
 Synthesis notes: none (zero-yield batch, no new material).
+
+## [2026-07-21] ingest | stage-orientation only (@mkbhd P2 selected), PO-token block re-confirmed a fourth time, 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere, all 5
+TARGET channels already enumerated (@mkbhd 1295 open P2/P3, @Waveform 292, @WaveformClips
+622, @AutoFocus 104, @TheStudio 104), debt at 7/10 batches since synthesis pass 5 (no
+`>>> CHECKPOINT` banner, no channel/era boundary newly crossed), persona files recompiled
+2026-07-21 (pass 5, v5, compiled_from_sources: 349, confirmed via `persona/system-prompt.md`
+frontmatter) — stage machine selected **Stage B** (open P2 rows exist on every channel; no
+S/P/A checkpoint due).
+
+**Before spending a batch, re-checked whether the PO-token caption-fetch block (diagnosed
+in the three immediately preceding log entries) had cleared**, per the standing
+recommendation. Environment re-check: `pip`/`pip3` still not on PATH and no `node`/`npm`
+available (ruled out installing a PO-token provider such as `bgutil-ytdlp-pot-provider`
+in this environment — network reachability to PyPI confirmed fine via a plain HTTPS probe,
+so the blocker is the missing package manager, not connectivity). `yt-dlp -U` reports
+already up to date (`stable@2026.07.04`) — no newer release to pick up native handling.
+Manual probe against the same control video (`yt-sfyL4BswUeE`): `yt-dlp --skip-download
+--write-auto-sub --sub-lang en` still returns `WARNING: ... There are missing subtitles
+languages because a PO token was not provided` → `There are no subtitles for the requested
+languages`. Identical failure mode, fourth consecutive confirmation, still systemic and
+environment-wide, not per-video/per-channel. No new workaround surfaced beyond the
+exhaustive client sweep already logged two entries prior.
+
+**Safety rail invoked again.** Four consecutive iterations have now hit the same
+unresolved PO-token gate with 0 ingested each time. Per the ingest loop's safety rail
+(repeated systemic fetch failure, not isolated 429s), this iteration stops here rather
+than burning a batch against a confirmed-still-broken fetch path. No `tools/ingest_batch.py
+prepare` was run this iteration — no ledger writes, no ledger regression, no wiki/sources
+pages, no youtube-index/index.md changes (0 ok, 0 skipped, 0 dup — nothing attempted beyond
+the diagnostic probe). Dispatched as a downstream subagent this run does not spawn wakeups
+or touch the roster repo per its own operating constraints.
+
+**Standing recommendation (unchanged, now four-times confirmed):** the real fix is infra,
+not curatorial — either (a) install a PO-token provider (e.g.
+`bgutil-ytdlp-pot-provider`, needs `pip`/`node` present in this environment first), or
+(b) wait for a yt-dlp release that handles this gate natively. Until then, every `prepare`
+call across every channel will likely return `no-captions` for rows that may well have
+real captions, so ledger rows marked `no-captions` since this block first appeared should
+be treated as `caption-fetch blocked`, not confirmed absent, and re-probed once the
+environment is fixed.
+
+Synthesis notes: none (0 new material; this is a pipeline/infra finding, not persona
+content). Debt unchanged at 7 ingest batches since synthesis pass 5 (checkpoint at 10).
