@@ -258,6 +258,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-10-11 — [[2009-10-11-yt-3opi-G31s_0|Unboxed: HP Pavilion dv6t [16" Laptop]]] · consumer-tech-culture
 - 2009-10-12 — [[2009-10-12-yt-jQXHz0HP8ks|HD Tutorial: Edit Youtube Groups [YT 2.0]]] · creator-business, consumer-tech-culture
 - 2009-10-15 — [[2009-10-15-yt-33cOm8jDCFQ|MKBHD Update 4.0]] ★★ · creator-business, consumer-tech-culture
+- 2009-10-19 — [[2009-10-19-yt-lhjT0K36cFU|MacBook Pro vs Alienware M17x? [Pricing]]] ★ · tech-reviews, consumer-tech-culture
+- 2009-10-22 — [[2009-10-22-yt-uzOCg72esb4|HD Tutorial: Desktube]] ★ · tech-reviews, consumer-tech-culture
+- 2009-10-23 — [[2009-10-23-yt-O9lS8ta3Ri0|Creating a Professional Email Address]] ★ · creator-business
+- 2009-10-25 — [[2009-10-25-yt-5mgne8q5Dws|Unboxed: Zune HD [Black 16GB]]] ★ · tech-reviews, consumer-tech-culture
+- 2009-10-28 — [[2009-10-28-yt-Tel3ytzWyYs|IE8 Replacement: SlimBrowser Se7en]] · tech-reviews, consumer-tech-culture
+- 2009-11-02 — [[2009-11-02-yt-XsXsG80Ff0A|iGIVEAWAY! [Take 2]]] ★ · creator-business, consumer-tech-culture
+- 2009-11-06 — [[2009-11-06-yt-0FxhiUp2Drs|gScreen Spacebook: Dualscreen Laptop!]] ★ · consumer-tech-culture, tech-reviews
+- 2009-11-07 — [[2009-11-07-yt-pO-q89n_coc|Update Zune HD to New Firmware [4.3] For free 3D Games!]] · tech-reviews
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -419,4 +427,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_378 videos ingested (L2) so far._
+_386 videos ingested (L2) so far._

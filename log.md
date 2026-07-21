@@ -1934,3 +1934,54 @@ are routine extensions of already-logged tutorial/unboxing/platform-mechanics th
 HP-Pavilion video is a one-off family-purchase disclosure, not a recurring pattern). Synthesis
 debt now 4 batches since pass 5 (checkpoint at 10) -- next iteration continues Stage B ingest
 (@mkbhd P2, next oldest-first slice from 2009-10-17 onward, or another open P2 channel).
+
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Oct 19 → Nov 7)
+
+Stage B (P2, oldest-first) on @mkbhd, batch size 8, continuing the 2009 origin long tail
+from 2009-10-17 onward. Dispatched as a subagent under the roster autopilot's session-wide
+spawn budget -- all 8 source pages written directly, one transcript after another, no
+per-video subagents. 8 OK (English captions), 0 no-captions, 0 duplicates, 0 skipped,
+no yt-dlp rate-limiting.
+
+Videos (→ `wiki/sources/`): 2009-10-19 MacBook Pro vs Alienware M17x? [Pricing] ★ ·
+2009-10-22 HD Tutorial: Desktube ★ · 2009-10-23 Creating a Professional Email Address ★ ·
+2009-10-25 Unboxed: Zune HD [Black 16GB] ★ · 2009-10-28 IE8 Replacement: SlimBrowser Se7en ·
+2009-11-02 iGIVEAWAY! [Take 2] ★ · 2009-11-06 gScreen Spacebook: Dualscreen Laptop! ★ ·
+2009-11-07 Update Zune HD to New Firmware [4.3] For free 3D Games!.
+
+**Attribution.** Solo @mkbhd channel throughout (age 15) -- no quarantine needed, all quote banks
+are directly Marques-attributed.
+
+**Bookkeeping:** 8 new `wiki/sources/` pages; 8 rows inserted into `wiki/sources/youtube-index.md`
+in date order; footer 378 -> 386; `index.md` count 378 -> 386 + batch note (both the "Last
+updated" chain and the youtube-index Sources bullet). Ledger: 8 rows set to L2 via
+`ledger_set.py` (domains + `notes=L2 ingested 2026-07-21`). No fabrication, all English. Debt
+counter 4 -> 5 (checkpoint at 10).
+
+Synthesis notes: six star-flagged L3-candidates, no two-star items. (1) **MacBook Pro vs
+Alienware M17x? [Pricing]** (`lhjT0K36cFU`, 2009-10-19) -- a **video-response** redoing another
+creator's spec-for-spec pricing comparison transparently on-screen, closing with an explicit
+price-vs-value verdict ("not going to pay $1,000 for an aluminum casing and an operating
+system") -- an early precursor to the price-to-value lens already tracked in
+`wiki/topics/tech-reviews/tech-reviews.md`. (2) **HD Tutorial: Desktube** (`uzOCg72esb4`,
+2009-10-22) -- explicitly frames numeric scoring ("8 out of 10... I'd give it a B") as a
+**hardware-review convention** he doesn't normally apply to software -- direct primary-source
+evidence for the hub's existing "scoring not yet a fixed rule" note. (3) **Creating a
+Professional Email Address** (`O9lS8ta3Ri0`, 2009-10-23) -- sets up `MKBHD@mail.com` explicitly
+for review-outreach/media inquiries, a concrete continuation of the April-2009 "review-business
+origin" thread (emailing companies for review units) already in `creator-business`. (4)
+**Unboxed: Zune HD [Black 16GB]** (`5mgne8q5Dws`, 2009-10-25) -- invites video-response debate
+about the purchase, pairing with (1) as a second same-week instance of the video-response
+engagement format (making *and* soliciting responses) -- worth a joint note rather than two
+separate ones. (5) **iGIVEAWAY! [Take 2]** (`XsXsG80Ff0A`, 2009-11-02) -- a subscribe+comment
+giveaway mechanic with **daily Twitter hints for extra entries**, the first dated instance of
+using a giveaway to cross-promote a second platform, not just grow subscribers; the referenced
+"[Take 1]" giveaway has not yet been located in the ingested corpus. (6) **gScreen Spacebook:
+Dualscreen Laptop!** (`0FxhiUp2Drs`, 2009-11-06) -- a specs-only preview with **no review unit**,
+covering a product purely for its novelty/hype value -- a genuine precursor to the "Dope Tech"
+aspirational-gear format (est. Dec 2019, already tracked in `consumer-tech-culture`), a decade
+before that franchise existed under that name. Minor, non-star notes: **IE8 Replacement:
+SlimBrowser Se7en** and **Update Zune HD to New Firmware [4.3]** are routine extensions of
+already-logged browser-tutorial and same-week firmware-update-coverage threads. Synthesis debt
+now 5 batches since pass 5 (checkpoint at 10) -- next iteration continues Stage B ingest
+(@mkbhd P2, next oldest-first slice from 2009-11-08 onward, or another open P2 channel).
