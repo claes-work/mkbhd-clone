@@ -2329,3 +2329,54 @@ Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchan
 8 ingest-batch log entries since synthesis pass 5 (checkpoint at 10). Dispatched as a
 downstream subagent this run does not schedule wakeups, start loops, or touch the
 roster repo, per its own operating constraints.
+
+## [2026-07-21] ingest | stage-orientation only (@mkbhd P2 selected), PO-token block re-confirmed a sixth time, 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere, all 5
+TARGET channels already enumerated (@mkbhd 1295 open, P2:1257/P3:38; @Waveform 292,
+P2:275/P3:17; @WaveformClips 622, P2:617/P3:5; @AutoFocus 104, P2:104; @TheStudio 104,
+P2:98/P3:6; 364 open shorts), ingested L2=386/L3=0, debt at 9/10 batches since synthesis
+pass 5 (no `>>> CHECKPOINT` banner, no channel/era boundary newly crossed), persona files
+confirmed still at pass 5 (`persona/system-prompt.md` frontmatter: `version: v5`,
+`compiled_from_sources: 349`, `updated: 2026-07-21`) — stage machine selected **Stage B**
+(open P2 rows exist on every channel; no S/P/A checkpoint due).
+
+**Before spending a batch, re-checked whether the PO-token caption-fetch block (five
+consecutive prior confirmations) had cleared.** Environment re-check: `which pip pip3
+node npm python3 yt-dlp deno` → only `python3`, `yt-dlp`, and `deno` resolve; `python3 -m
+ensurepip` → `No module named ensurepip`; `python3 -m pip` → `No module named pip` (no
+path left to bootstrap pip without a package manager). `yt-dlp --version` still
+`2026.07.04` (unchanged). Manual probe against the same control video
+(`sfyL4BswUeE`, an @mkbhd upload): `yt-dlp --skip-download --write-auto-sub --sub-lang
+en` → deno solves the JS signature challenge as before, then `WARNING: ... There are
+missing subtitles languages because a PO token was not provided` → `There are no
+subtitles for the requested languages` — byte-for-byte the same failure mode as the five
+prior confirmations. No new workaround surfaced; the exhaustive client sweep and
+pip/node absence were already established in the two entries immediately prior and were
+not worth re-running in full.
+
+**Safety rail invoked again.** Six consecutive iterations have now hit the identical
+unresolved PO-token gate with 0 ingested each time — well past the 3-consecutive-failure
+threshold. Per the ingest loop's safety rail (repeated systemic fetch failure, not
+isolated 429s), this iteration stops here rather than burning a batch against a
+confirmed-still-broken fetch path; running `tools/ingest_batch.py prepare` would only
+relabel more real ledger rows `no-captions` under the same false-negative mechanism
+already flagged. No `prepare` call was made — no ledger writes, no wiki/sources pages, no
+youtube-index/index.md changes this iteration (0 ok, 0 skipped, 0 dup — nothing attempted
+beyond the diagnostic probe).
+
+**Standing recommendation (unchanged, now six-times confirmed):** the fix is infra, not
+curatorial — (a) install a PO-token provider (needs `pip`/`node`/`npm` present in this
+environment first — both still absent, and `ensurepip` is not bundled with this
+`python3`, so pip cannot self-bootstrap), or (b) supply authenticated cookies for a
+non-`web` client, or (c) wait for a yt-dlp release that handles this gate natively.
+Every ledger row marked `no-captions` since this block first appeared should keep being
+treated as `caption-fetch blocked`, not confirmed absent, until the environment is fixed
+and a re-probe pass is run.
+
+Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchanged at
+9 ingest-batch log entries since synthesis pass 5 (checkpoint at 10). Dispatched as a
+downstream subagent, this run does not schedule wakeups, start loops, or touch the
+roster repo, per its own operating constraints.
