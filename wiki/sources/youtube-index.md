@@ -1,6 +1,6 @@
 ---
 type: source-subindex
-updated: 2026-07-20
+updated: 2026-07-21
 ---
 
 # YouTube Sources Sub-Index
@@ -189,6 +189,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-05-09 — [[2009-05-09-yt-gRzaNjetlIg|Unboxed: Matias USB 2.0 Keyboard]] · tech-reviews, consumer-tech-culture
 - 2009-05-10 — [[2009-05-10-yt-AwILQwPecUI|Tech Channel of the Week #2 — TheCompuGeeks (subscribe-to-qualify discovery)]] · creator-business, consumer-tech-culture
 - 2009-05-12 — [[2009-05-12-yt-J6EgW9iaFM8|Unboxed: DS International Wireless PC Keyboard]] · tech-reviews, consumer-tech-culture
+- 2009-05-14 — [[2009-05-14-yt-5PbShASzrbs|mkbHD Update 2.3 — ~900 subs, 1,000-by-summer YouTube-Partner promise, companies via Twitter]] ★ · creator-business, production-filmmaking
+- 2009-05-14 — [[2009-05-14-yt-QEUQdVwOUtA|HD Tutorial: Custom Desktop Icons (Request) — aggregated-demand "request", Mac OS X icon pack on Vista]] · consumer-tech-culture, creator-business
+- 2009-05-18 — [[2009-05-18-yt-qW-iruJbmOA|HD Tutorial: Shrink + Convert Large Files — pre-Partner 10min/1GB cap, 0.98GB → 68.7MB FLV at 720p30]] ★ · production-filmmaking, creator-business, consumer-tech-culture
+- 2009-05-20 — [[2009-05-20-yt-PXCPXQrK01Q|Reviewed: iFrogz EarPollution D33 Earbuds — 8.5/10 "worth every cent", price-tier grading]] ★ · tech-reviews, consumer-tech-culture
+- 2009-05-21 — [[2009-05-21-yt-jV9Yvnk2kSg|Unboxed: Unibrain Fire-i FireWire Camera — "down the line" camera-angle experiment + audio-sync problem]] ★ · tech-reviews, production-filmmaking, consumer-tech-culture
+- 2009-05-23 — [[2009-05-23-yt-oqoHe7xw8uE|Tech Channel of the Week #3: Gigafide/Tinkernut — visit-comment-subscribe-back routine]] · creator-business, consumer-tech-culture
+- 2009-05-25 — [[2009-05-25-yt-lfHNGn9dDJg|ThinkGeek Unboxing — multi-product review samples, proportional review length]] · tech-reviews, creator-business, consumer-tech-culture
+- 2009-05-27 — [[2009-05-27-yt-b7Nc78QqDs0|Reviewed: Matias USB 2.0 Keyboard — first key-travel critique, video-response chaining, 1,000-sub giveaway announced]] ★ · tech-reviews, creator-business, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -350,4 +358,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_309 videos ingested (L2) so far._
+_317 videos ingested (L2) so far._
