@@ -1889,3 +1889,48 @@ Minor, non-star notes: **HD Tutorial: Custom Dock Icons**, **Google Chrome 3.0/4
 browser-tutorial threads. Synthesis debt now 3 batches since pass 5 (checkpoint at 10) -- next
 iteration continues Stage B ingest (@mkbhd P2, next oldest-first slice from 2009-09-14 onward,
 or another open P2 channel).
+
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Oct 4 → Oct 16)
+
+Stage B (P2, oldest-first) on @mkbhd, batch size 8, continuing the 2009 origin long tail
+from 2009-09-13 onward. 7 OK (English captions), 1 no-captions, 0 duplicates, 0 skipped,
+no yt-dlp rate-limiting.
+
+Videos (→ `wiki/sources/`): 2009-10-04 HD Tutorial: iTunes 9 Account - NO CREDIT CARD ·
+2009-10-06 Youtube Mega-Widescreen: 1920x960 [2:1 Aspect Ratio] · 2009-10-07 iSkin
+Surprise Unboxing ★ · 2009-10-09 HD Tutorial: Taskbar Shuffle · 2009-10-11 Unboxed: HP
+Pavilion dv6t [16" Laptop] · 2009-10-12 HD Tutorial: Edit Youtube Groups [YT 2.0] ·
+2009-10-15 MKBHD Update 4.0 ★★.
+
+1 no-captions: 2009-10-16 "Adobe Flash CS4 Demo" (no subtitles available; ledger notes
+set to no-captions, left at L1).
+
+**Attribution.** Solo @mkbhd channel throughout (age 15) -- no quarantine needed, all quote banks
+are directly Marques-attributed.
+
+**Bookkeeping:** 7 new `wiki/sources/` pages; 7 rows inserted into `wiki/sources/youtube-index.md`
+in date order; footer 371 -> 378; `index.md` count 371 -> 378 + batch note. Ledger: 7 rows set to
+L2 (domains/notes set via `ledger_set.py`); 1 row notes set to no-captions. No fabrication, all
+English. Debt counter 3 -> 4 (checkpoint at 10).
+
+Synthesis notes: One two-star and one star L3-candidate. (1) star-star **MKBHD Update 4.0**
+(`33cOm8jDCFQ`, 2009-10-15) -- discloses a **two-week wrongful YouTube channel suspension**
+(first mention in the corpus, no cause given, resolved by contacting YouTube directly with
+all videos/subscribers restored) -- a genuine dated biography-timeline event that should be
+folded into `persona/biography.md` at the next synthesis pass. The same video also **restates
+and extends the YouTube Partnership threshold to ~10,000 subscribers** (up from the
+~2,000-sub framing in Update 3.1, [[wiki/sources/2009-07-27-yt-33cOm8jDCFQ]] era) -- an evolving
+position, not a contradiction, to be dated and reconciled in the creator-business topic page;
+puts the new mega-widescreen (2:1) production format to an audience vote (echoes the earlier
+HQ-by-default and upload-cadence votes -- the recurring "crowdsource production-standard
+changes" pattern); and discloses a varsity sport + AP classes as the school-year time
+constraint behind the resulting 3-5-video/week cadence. (2) star **iSkin Surprise Unboxing**
+(`I_AxSjqWsLY`, 2009-10-07) -- names iSkin.com's outreach asking him to be their "first
+YouTube featured reviewer," another dated data point in the emerging sponsorship/PR-outreach
+timeline (Audéo PFE -> iSkin) worth folding into the creator-business synthesis on how brand
+relationships developed pre-monetization. Minor, non-star notes: the iTunes-9-account,
+mega-widescreen-dimensions, Taskbar-Shuffle, HP-Pavilion-dv6t, and Edit-Youtube-Groups videos
+are routine extensions of already-logged tutorial/unboxing/platform-mechanics threads (the
+HP-Pavilion video is a one-off family-purchase disclosure, not a recurring pattern). Synthesis
+debt now 4 batches since pass 5 (checkpoint at 10) -- next iteration continues Stage B ingest
+(@mkbhd P2, next oldest-first slice from 2009-10-17 onward, or another open P2 channel).

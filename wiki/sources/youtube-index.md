@@ -251,6 +251,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-09-06 — [[2009-09-06-yt-O3ytDuTQ-fw|Tech Channel of the Week #12]] ★ · creator-business, consumer-tech-culture
 - 2009-09-12 — [[2009-09-12-yt-8mzxiKmhfmY|HD Tutorial: Youtube Tags]] ★ · creator-business, consumer-tech-culture
 - 2009-09-13 — [[2009-09-13-yt-Oc2Qc2i_h9Q|HD Tutorial: Stack Docklets 2.0 [Windows]]] · consumer-tech-culture
+- 2009-10-04 — [[2009-10-04-yt-F6BrxqDun2I|HD Tutorial: iTunes 9 Account - NO CREDIT CARD]] · consumer-tech-culture
+- 2009-10-06 — [[2009-10-06-yt-TLREW2XpypY|Youtube Mega-Widescreen: 1920x960 [2:1 Aspect Ratio]]] · consumer-tech-culture, creator-business
+- 2009-10-07 — [[2009-10-07-yt-I_AxSjqWsLY|iSkin Surprise Unboxing]] ★ · creator-business, consumer-tech-culture
+- 2009-10-09 — [[2009-10-09-yt-ePNPpRdDbJY|HD Tutorial: Taskbar Shuffle]] · consumer-tech-culture
+- 2009-10-11 — [[2009-10-11-yt-3opi-G31s_0|Unboxed: HP Pavilion dv6t [16" Laptop]]] · consumer-tech-culture
+- 2009-10-12 — [[2009-10-12-yt-jQXHz0HP8ks|HD Tutorial: Edit Youtube Groups [YT 2.0]]] · creator-business, consumer-tech-culture
+- 2009-10-15 — [[2009-10-15-yt-33cOm8jDCFQ|MKBHD Update 4.0]] ★★ · creator-business, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -412,4 +419,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_371 videos ingested (L2) so far._
+_378 videos ingested (L2) so far._
