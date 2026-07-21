@@ -36,6 +36,20 @@ Two documented threads from the Feb-2009 tutorials that *prefigure* his later vi
 - **Red-on-black "very sharp contrast."** He sets the Windows command prompt (and WebKit) to **red text on a black background** for "very sharp contrast" — the earliest on-record instance of the red-on-black palette that later becomes the crimson-and-black MKBHD/"Team Crispy" brand. Candidate seed only. [2009-02-08] ([[2009-02-08-yt-E63fdjyck2k]])
 - **Apple-aesthetic affinity years before the reviewer career.** Within days, the 15-year-old imports the **Mac OS X look onto his Windows Vista machine** three ways — a RocketDock OS X "Leopard" dock skin, a Firefox Mac OS X theme, and OS X mouse cursors he adopts "as my default from now on." Early documented Apple-design affinity. [2009-02-08] ([[2009-02-08-yt-uGL9arjQRl0]]) · [2009-02-08] ([[2009-02-08-yt-MqudmZQVWyo]]) · [2009-02-08] ([[2009-02-08-yt-1VRajWZr-PE]])
 
+### Red-and-black hardens from candidate seed to a stated personal preference — added synthesis pass 5 (2026-07-21)
+- **"Which happen to be my favorite colors."** Asked by iFrogz to pick colours for a customizable product,
+  he chooses **red and black** and says so on camera — the earliest dated, first-person statement of
+  red-and-black as a **personal colour preference**, not yet a branding decision. This is firmer evidence
+  than the pass-3 candidate seeds (terminal colors, the GIMP wordmark); the causal line to the later
+  crimson-studio/"Team Crispy" brand stays explicitly **open** — dated preference, not asserted cause.
+  Also feeds [[../../../persona/appearance|appearance]]. [2009-06-03] ([[2009-06-03-yt-rgeo4FAnpu8]])
+- **Earliest dated pro-restraint branding judgment.** Unboxing a Griffin Elevator laptop stand: "I like the
+  fact that [there's] not a whole kind of branding when you look at it, just the Griffin logo up front...
+  very very clean... I do like the simplicity of it" — the earliest on-record instance of the
+  minimal-branding design taste that recurs later ("everything high-end is just called Pro now" runs the
+  opposite direction on branding-as-marketing, but the taste for restraint itself starts here). [2009-05-30]
+  ([[2009-05-30-yt-3qbUOlftiX8]])
+
 ## Accessibility appreciation
 - Highlights accessibility as genuinely-new/underrated in reviews — iOS 14 Back Tap, Sound Recognition, sign-language prominence in group FaceTime ("genuinely new stuff Google should copy"). [2020-06-23] ([[2020-06-23-yt-ZLyDvABxGF0]])
 

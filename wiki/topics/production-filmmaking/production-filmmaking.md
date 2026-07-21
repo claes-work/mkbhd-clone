@@ -49,6 +49,39 @@ The Feb–Apr 2009 tutorials pin down not just the *toolchain* (pass 3) but Marq
 - **The dual-production method, stated outright.** Filming his HP Media-Center remote on a camera, he articulates the **two-track origin workflow** he still runs — "I do hardware things with this camera, I do software things with my screen recording device" — under the era's hard constraint of **no tripod**. The documented screencast→camera-filmed-hardware pivot. [2009-03-30] ([[2009-03-30-yt-WaqNXARd3Fo]])
 - **Origin audio-post pipeline.** His "Remove Background Noise" tutorial documents the origin audio-cleanup chain — **Audacity Get-Noise-Profile → Camtasia 6 Audio Enhancements** — applied to his *own* uploads, with the intent to "focus exactly on my audio." Audio quality treated as a first-order concern from the start. [2009-04-02] ([[2009-04-02-yt-CwapC2jZ_JI]])
 
+### Origin production evolution, Apr–Jul 2009 (age 15) — added synthesis pass 5 (2026-07-21)
+Continues the pass-3/4 origin toolchain thread into spring/summer 2009: the encoding standard now covers
+camera footage too, the unbox→review two-step gets an explicit audio-pipeline application, and two
+distinct instances of "update the metadata instead of reshooting" show the redo-ethos maturing into
+platform-awareness.
+- **Encoding standard extended to camera footage.** "Produce any Video in 16:9 HD" pipes camera-shot
+  footage through **MPEG Streamclip → MPEG-4/H.264, de-interlaced, 30 fps, 1280×720, quality ~80**,
+  explicitly weighing a **quality-vs-file-size tradeoff** (a prior upload ran 985 MB / ~1.5 hr) — extends
+  the "What does YouTube Want?" + Camtasia-6-preset encoding thread from screencasts to hardware-review
+  footage. [2009-04-30] ([[2009-04-30-yt-6vzrFrHaQE0]])
+- **Audio-pipeline unbox→review two-step, applied to his own gear.** The Alto Edge GN3 desktop mic
+  REVIEW — posted as an explicit **"video response"** to his own 2009-04-21 unboxing — runs a live
+  A/B audio demo (switches recording source mid-video) and lands a **"generous nine out of ten"**,
+  his highest hardware rating on record to this point. First documented case of the review methodology
+  turned on his own production-audio chain. [2009-05-08] ([[2009-05-08-yt-Lm17JIzMTls]])
+- **Live, deliberately unretakeable demo — honesty over polish.** Installing a GelaSkins laptop skin on
+  camera, he **fails the alignment on the first try, leaves it in, and reports the off-camera fix
+  honestly** ("two or three tries later I got it on perfectly lined") rather than cutting to a clean
+  take — an early, concrete instance of the production ethic that later becomes "get it right in-camera."
+  [2009-06-13] ([[2009-06-13-yt-ClRH1aQuP_Q]])
+- **"Redo when the platform changes," a second instance.** Two independent 2009-06 cases show he updates
+  a video's *metadata* rather than reshooting when the underlying platform changes: (1) when YouTube ships
+  an official MP4-download button, he lays his own superior JavaScript method alongside it rather than
+  picking a winner — the earliest **two-methods-with-a-tradeoff verdict** in the corpus, at ~74k views his
+  most-viewed origin video by far; (2) his own YouTube Insight tour shows his highest-viewed video to date
+  (a Safari 4 beta-install tutorial, ~16–17k views / "25% of my total video views in the last six months")
+  stayed alive by **updating the title and annotation when the final release shipped**, not a reshoot —
+  the same redo-ethos applied to platform news instead of production quality. [2009-06-17]
+  ([[2009-06-17-yt-tgTjDmLiDrg]]) · [2009-06-20] ([[2009-06-20-yt-a03YqmbxE7Y]])
+- **Origin audio-quality preference, on record.** States a dated preference for Audacity over Camtasia for
+  audio work — a small but citable production-audio opinion from the same origin era. [2009-07-15]
+  ([[2009-07-15-yt-c927MPDH8ew]])
+
 ## Creator-origin narrative
 - Marques locates his own filmmaking/camera obsession in the 1984 JVC GR-C1 camcorder — "even though I didn't start making my videos until 25 years after this camera came out, I still owe a lot of what I do now to this." → see [[../consumer-tech-culture/consumer-tech-culture|Consumer Tech Culture hub]] and [[../../../persona/biography|biography]]. [2019-12-02] ([[2019-12-02-yt-kMtN9KJHn5Y]])
 

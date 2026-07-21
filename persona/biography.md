@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-20
-sources: 274
+updated: 2026-07-21
+sources: 349
 ---
 
 # Biography
@@ -84,6 +84,32 @@ _Surfaced by the ten @mkbhd 2009-origin P2 batches (Feb–Apr 2009 tutorials/rev
 - **2009-03-29 — the MKBHD logo, hand-built in GIMP.** He constructs the original **MKBHD wordmark** — "MKB" initials (his own) + "HD," a black-to-red gradient — on camera, redoing it larger "because my entire channel isn't HD so I might as well make my logo HD." The earliest concrete red-on-black MKBHD branding artifact (causal link to the later crimson studio brand left open). 🗣️ ([[../wiki/sources/2009-03-29-yt-oix079jUkVU]])
 - **Early-2009 smartphone context: a non-iPhone owner.** He was a **Verizon LG Voyager** user, **not an iPhone owner**, in early 2009 — yet already critiquing iPhone software (OS 3.0 wishlist/overview) from the outside. Corroborates the outsider-reviewing-iOS stance and the LG-Voyager thread from the media dossier. 🗣️ ([[../wiki/sources/2009-03-14-yt-l2rnlsReYUA]]) · ([[../wiki/sources/2009-03-18-yt-o8YoCuJFePc]])
 - **Origin gear/workflow detail.** Ran a **second Windows XP machine** alongside the Vista gaming laptop, kept a **"video ideas" Notepad backlog**, self-reports **owning a Mac Pro** (though still screencasting from the PC), and demoed hardware **without a tripod** (handheld camera) — the origin dual method: "hardware things with this camera, software things with my screen recording device." 🗣️ ([[../wiki/sources/2009-03-30-yt-WaqNXARd3Fo]])
+
+## Corpus-derived anchors (origin-2009 Apr–Jul deepening) — added synthesis pass 5 (2026-07-21)
+
+_Surfaced by ten @mkbhd 2009-origin P2 batches (Apr–Jul 2009, all solo, age 15) plus the first
+@WaveformClips dedup batch. Family/private life still treated as not-public (SUBJECT.md)._
+
+- **Dated subscriber/catalog growth continues.** ~900 subs (2009-05-14) → **1,000 subscribers**
+  self-reported 2009-05-31, independently corroborated by an on-screen counter 2009-06-05 →
+  **1,500 subscribers** dated ~2009-06-21 → **1,570 subscribers / 230 videos / 202K video views / 40K
+  channel views** dated 2009-07-02. A separate hard catalog count of **216 videos** is quoted on
+  2009-06-11. 🗣️ ([[../wiki/sources/2009-05-31-yt-u_Rp0GS2duE]]) · ([[../wiki/sources/2009-06-24-yt-T2SF1XmhsGM]]) · ([[../wiki/sources/2009-07-02-yt-_2Jn8uu27jU]])
+- **End of sophomore year of high school, dated ~2009-06-21** (age 15), alongside the 1,500-subscriber
+  milestone. 🗣️ ([[../wiki/sources/2009-06-24-yt-T2SF1XmhsGM]])
+- **The YouTube Partnership arc.** Plans an application (2009-06-24) tied to a 2,000-subscriber milestone
+  or the application itself, applies 2009-07-02, and is **denied a third time** 2009-07-08 — which also
+  discloses **three prior Partnership rejections across two accounts**, each for "not enough original
+  content" or "not enough viewership." The real origin story is persistence through repeated rejection,
+  not a smooth path. 🗣️ ([[../wiki/sources/2009-06-24-yt-T2SF1XmhsGM]]) · ([[../wiki/sources/2009-07-02-yt-_2Jn8uu27jU]]) · ([[../wiki/sources/2009-07-08-yt-DksEwjFH-o4]])
+- **First PR-agency-seeded review unit** (Fleishman-Hillard Communications, mid-June 2009) — the earliest
+  sign of professional industry infrastructure noticing the channel, five weeks before his third Partner
+  denial. 🗣️ ([[../wiki/sources/2009-06-16-yt-KQ259xF2alo]])
+
+> ⚠️ **Unconfirmed lead (not promoted to the timeline):** two independent 2009 mentions ("the website I'm
+> writing for," 2009-06-05 and 2009-07-08) suggest possible freelance writing for an outside tech-freeware
+> site at 15 (caption garble points to TechSupportAlert.com). Self-reported, site-name-uncertain — tracked
+> in [[../wiki/gaps|wiki/gaps.md]], not asserted as biographical fact.
 
 ## Personal life (privacy-first by policy)
 

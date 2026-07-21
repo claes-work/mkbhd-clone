@@ -47,6 +47,63 @@ The whole review apparatus is visibly present in embryo in the 2009 origin-era s
 - **The "is it worth it?" verdict + source-citing discipline, on day one.** "Could Windows 7 Be a $50 Upgrade?" is the earliest **value judgment** in the corpus — he weighs price against worth ("wasn't worth as much money as you may have spent") and, tellingly, **attributes the $50 rumor to CNET rather than asserting it himself**. The origin of both the "worth it" instinct and his cite-your-source habit. [2009-02-13] ([[2009-02-13-yt-or8t_Zi7S38]])
 - **The earliest structured buying-guide.** The "HD Laptop Buying Guide" runs a **component-by-component trade-off walkthrough** (CPU / RAM / HDD / GPU / screen / battery) with a "what's worth paying for" framing — the earliest review-methodology artifact in the buyer's-guide format that later becomes the Smartphone Awards. [2009-02-19] ([[2009-02-19-yt-yDie-JzVlKM]])
 
+## Review methodology hardens into explicit rules (Apr–Jul 2009, age 15) — added synthesis pass 5 (2026-07-21)
+The Feb-2009 origin-of-the-method thread (pass 3/4) continues through spring/summer 2009: several review
+*rules* that stay with him for life are stated outright, on camera, for the first time.
+- **Review-business origin.** States he has "begun emailing a few companies asking them if they would like
+  me to do reviews of their products" — the earliest on-record outreach-for-review-units moment — and notes
+  he is not yet a YouTube Partner, so the ~10-minute cap is forcing him to split content into series.
+  [2009-04-10] ([[2009-04-10-yt-W2VulP7_4xo]])
+- **"Products sent for review" workflow begins.** The LG Voyager hardware overview opens with
+  companies/viewers mailing him cases and accessories "to the PO box... to review" — the first documented
+  sent-for-review pipeline, run as a structured multi-part series (hardware → software → cases → unboxings).
+  [2009-04-12] ([[2009-04-12-yt-uJM_vj9RW7E]])
+- **"First hardware unboxing" + the unbox→review split, named.** The LG-Voyager ExtremePDA case unboxing is
+  self-described as **"the first hardware unboxing,"** establishing the unbox-then-review two-step; the
+  iFrogz D33 unboxing states the rule outright — **"I dedicate a video, one for the unboxing and first
+  impressions, for every product that I get."** [2009-04-16] ([[2009-04-16-yt-BM7dj68sXLk]]) ·
+  [2009-04-27] ([[2009-04-27-yt-uHaTlGE-UH0]])
+- **"An unboxing needs a reason to exist."** The Wrapsol shield unbox states the rule directly — he does
+  the unboxing *because* the package contains more than a single shield, not by default — and, separately,
+  **corrects the manufacturer's own packaging and website** (the model is the VX10000, not "VX1000"),
+  hardening the correct-the-spec origin value already on record from the iPhone-OS-3.0 page. [2009-06-09]
+  ([[2009-06-09-yt-ap9rbdCKnm8]])
+- **The unbox/review firewall, stated as an explicit rule.** "I don't want to get too far into a review or
+  impressions here in the unboxing video, because I save that for the full 100% review video" — the
+  clearest origin statement of the format discipline, with the 1–2-week delay explicitly framed as *use*
+  time, not production time. In practice the delay routinely runs 3–5+ weeks across four straight
+  unbox→review pairs this era — a real pattern worth noting, not a broken promise. [2009-06-14]
+  ([[2009-06-14-yt-6gJMCu0YpSk]])
+- **Origin scoring ladder + price-tier grading.** Four back-to-back numeric verdicts extend the "grade on
+  the right curve" value to its origin: Alto Edge GN3 mic **9/10** ("generous," his highest yet) →
+  iFrogz D33 earbuds **8.5/10** (explicit price-tier reasoning — "these again granted are not $200
+  noise-cancelling over-ear headphones," recommended as a **"$20-or-less"** band) → GelaSkins **8/10**
+  (flaw named inside a positive verdict) → Griffin Elevator **8/10**. ⚠️ Scoring was **not yet a fixed
+  rule** in this era — the Matias keyboard review a week after the iFrogz D33 carries **no score at all**;
+  don't present origin-era numeric rating as a rubric already in place. [2009-05-08]
+  ([[2009-05-08-yt-Lm17JIzMTls]]) · [2009-05-20] ([[2009-05-20-yt-PXCPXQrK01Q]]) · [2009-06-13]
+  ([[2009-06-13-yt-ClRH1aQuP_Q]])
+- **Con-vs-con-for-me + the lived-with-it standard.** The Matias keyboard review draws a **con-vs-con-for-me
+  distinction** (two USB cables, discounted because he already runs hubs) and grounds a key-feel critique in
+  real use ("I was actually typing one of my essays with this"); the Solo messenger-bag review is the
+  earliest clean **lived-with-it standard** — justified by two real trips, criticism bounded by what he
+  actually tested ("I didn't have a long enough trip [to use those pockets]") — the direct ancestor of his
+  later "I've been using this for X weeks" review opening. [2009-05-27] ([[2009-05-27-yt-b7Nc78QqDs0]]) ·
+  [2009-06-01] ([[2009-06-01-yt-XV_WP85r4MY]])
+- **First in-review comparison to his own prior review.** Reviewing the DS-International wireless keyboard,
+  he explicitly returns to a keyboard he reviewed "not too long ago" to compare the numpad/numlock layout —
+  the earliest instance of a review citing his *own* review history rather than only the competition.
+  [2009-06-05] ([[2009-06-05-yt-CNcVkVJ2bTA]])
+- **Two-methods-with-a-tradeoff verdict — ancestor of "compared to what?"** Reviewing YouTube's new built-in
+  MP4-download button against his own JavaScript method, he lays out the tradeoff (official = easier +
+  keeps metadata; his method = full quality, no metadata) and **lets it stand rather than picking a
+  winner** — the structural ancestor of his mature refuse-to-collapse-a-tradeoff verdicts. [2009-06-17]
+  ([[2009-06-17-yt-tgTjDmLiDrg]])
+- **Hardware/software alternation, stated as a programming rule.** "I do alternate back and forth between
+  software and hardware videos" — said explicitly while reviewing the DS-International keyboard, and
+  corroborated four times across two weeks in this era; a conscious content-mix policy, not a coincidence.
+  [2009-06-05] ([[2009-06-05-yt-CNcVkVJ2bTA]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

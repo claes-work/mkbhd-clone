@@ -1727,3 +1727,52 @@ Batch: 8 selected, 8 captions OK (no 429s, no no-captions), 8 L2'd, 0 skipped, 0
 **Bookkeeping:** 8 new `wiki/sources/` pages; 8 rows inserted into `wiki/sources/youtube-index.md` in date order; footer 341 → 349; `index.md` count 341 → 349 + batch note + Last-updated line. Ledger: 8 rows set to L2 (domains/notes set via `ledger_set.py`). No fabrication, all English. Debt counter 9 → 10 (checkpoint reached — next iteration must run Stage S synthesis before further ingest).
 
 Synthesis notes: Two ★ L3-candidates, both SOLO-attributed. (1) ★ **YouTube Partnership arc** (`_2Jn8uu27jU` 2009-07-02 + `DksEwjFH-o4` 2009-07-08) — together these two videos supply a dated, three-beat biography/creator-business timeline: the 2009-06-24 plan, the 2009-07-02 application (with a precise stats snapshot — 230 videos/202K video views/40K channel views/1,570 subscribers — and a previously-undocumented history of **three prior Partnership rejections across two accounts**, all for "not enough original content" or "not enough viewership"), and the 2009-07-08 third denial on this attempt. Promote as a single consolidated `persona/biography.md` entry (not three separate ones) plus a `creator-business` note on rejection-tolerance/persistence. (2) ★ **Second corroborating mention of outside freelance writing** (`DksEwjFH-o4`, 2009-07-08) — "one of my websites, uh, the website I'm writing for" echoes the same unnamed site from the 2009-06-05 JavaScript video ([[2009-06-05-yt-HzEA_Qozc7g]]); two independent mentions now, still self-reported and site-name-uncertain (likely TechSupportAlert.com per caption garble in the earlier video) — flag in `wiki/gaps.md` as a corroborated-but-unconfirmed biography lead rather than promoting to `persona/biography.md` outright. Minor, non-★ notes for the pass: the Audacity-over-Camtasia audio-quality opinion (`c927MPDH8ew`) is a small, citable `production-filmmaking` preference; the Youtube-CENSORS-Comments screencast (`hdZzl-7Z2Dg`) is the first non-product platform-commentary video in the corpus, an early seed of the `tech-industry-commentary` format. **Synthesis debt now 10 batches since pass 4 (checkpoint reached) — Stage S is due next iteration**, before any further Stage B ingest.
+
+## [2026-07-21] lint | synthesis pass 5 — @WaveformClips first dedup batch + @mkbhd Apr–Jul 2009 origin P2 long tail (batches 39–48, 75 new L2)
+
+Stage S (checkpoint reached: 10 ingest batches since pass 4). Dispatched sub-agent mode (roster
+autopilot): drained the ten accumulated `Synthesis notes:` lines from `log.md` directly, sequentially —
+no per-file/per-video subagents spawned.
+
+**Promoted (dated, cited, one file at a time):**
+- `wiki/topics/tech-reviews/tech-reviews.md` — review-business origin (emailing companies for units), the
+  sent-for-review/PO-box workflow, "first hardware unboxing" + the unbox→review split named outright, "an
+  unboxing needs a reason to exist" (+ corrects the manufacturer's own spec), the unbox/review firewall
+  stated as an explicit rule, the origin scoring ladder (9/10→8.5/10→8/10→8/10, with a flagged no-score
+  contrast the same week — origin scoring was not yet a fixed rule), con-vs-con-for-me + the lived-with-it
+  standard, first in-review comparison to his own prior review, the two-methods-with-a-tradeoff verdict
+  (ancestor of "compared to what?"), hardware/software alternation stated as policy.
+- `wiki/topics/creator-business/creator-business.md` — dated subscriber/catalog timeline to 1,570 subs /
+  230 videos / 202K views, the YouTube Partnership rejection arc (3 denials disclosed), pre-Partner
+  constraint economics (FLV delivery-encode workaround), "Use that Search Box!" audience-management
+  system, the first PR-agency-seeded review unit (Fleishman-Hillard), the reciprocal-subscription TCOTW
+  growth engine + explicit growth thesis, analytics-as-sponsor-pitch framing, attribution-ethics origin,
+  channel-layout branding step. Flagged (not promoted to biography): the "outside freelance writing"
+  lead → `wiki/gaps.md`.
+- `wiki/topics/production-filmmaking/production-filmmaking.md` — encoding standard extended to camera
+  footage (MPEG Streamclip), the audio-pipeline unbox→review two-step applied to his own gear, a live
+  unretakeable demo (honesty over polish), a second "redo when the platform changes" instance (metadata
+  update vs. reshoot, both the MP4-download-button and the Insight-tour pages), an audio-tool preference.
+- `wiki/topics/consumer-tech-culture/consumer-tech-culture.md` — red-and-black hardens from candidate seed
+  to a first-person "favorite colors" statement (2009-06-03); the earliest pro-restraint branding judgment
+  (Griffin Elevator).
+- `persona/beliefs.md` — 7 new dated origin values (unbox-needs-a-reason, unbox/review firewall,
+  hardware/software alternation, price-tier grading, lived-with-it standard, growth thesis).
+- `persona/voice.md` — 6 new verbatim quotes ("generous nine out of ten," "favorite colors," the
+  alternation-rule line, the firewall-rule line, the Griffin-restraint quote).
+- `persona/biography.md` — subscriber/catalog timeline, Partnership rejection arc, PR-agency milestone;
+  the freelance-writing lead flagged to `wiki/gaps.md`, not asserted as fact.
+- `persona/appearance.md` — red-and-black as a stated personal colour preference (causal link to the
+  crimson studio brand still explicitly open).
+- `wiki/gaps.md` — opened with 2 entries: the unconfirmed freelance-writing lead, and 2 @WaveformClips
+  ensemble ★ findings (Snap Spectacles price/dorky-look test, "are phone photos even real anymore?")
+  gated pending confirmation on a solo @mkbhd source.
+
+No new topic pages created (all promotions extended existing hubs). No fabrication; ensemble
+(@WaveformClips) attribution gate held — 0 confident-Marques quotes promoted from those 4 L2 pages.
+Recompiled `persona/system-prompt.md` **v4 → v5** (compiled_from_sources 274 → 349). Advanced the
+high-water mark in `pipeline/synthesis-state.md` to batch 48 / L2=349; moved the checkpoint to Done.
+Updated `index.md` (Topics/Persona sections + Last-updated line). No rate limits.
+
+Synthesis notes: none — debt fully drained (10/10 → 0). Resume Stage B next iteration (@mkbhd P2/P3
+long tail continues 2009→2010, or @AutoFocus/@Waveform P2 — attribution-gated on the ensemble channels).

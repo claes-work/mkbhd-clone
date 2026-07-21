@@ -6,18 +6,51 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **the first 38 ingest batches (274 L2 sources)** — synthesis passes 1–2 (133 L2),
-pass 3's 9 batches (@AutoFocus 2026 Q1 EV + @mkbhd Feb-2009 origin P2, through L2=202), PLUS pass 4's
-10 batches: the @mkbhd Feb–Apr 2009 origin P2 long tail (encoding standards / growth timeline /
-smartphone origin / branding, through L2=274). Covers every `wiki/sources/` page that was L2 as of
-2026-07-20 (`## [2026-07-19] ingest` batches 1–19 + `## [2026-07-20] ingest` batches 20–38 in `log.md`).
+Synthesized through: **the first 48 ingest batches (349 L2 sources)** — synthesis passes 1–2 (133 L2),
+pass 3's 9 batches (@AutoFocus 2026 Q1 EV + @mkbhd Feb-2009 origin P2, through L2=202), pass 4's
+10 batches (@mkbhd Feb–Apr 2009 origin P2 long tail, through L2=274), PLUS pass 5's 10 batches: the
+first @WaveformClips dedup batch + the @mkbhd Apr–Jul 2009 origin P2 long tail (through L2=349).
+Covers every `wiki/sources/` page that was L2 as of 2026-07-21 (`## [2026-07-19] ingest` batches
+1–19 (passes 1–2) + `## [2026-07-20] ingest` batches 20–38 (passes 3–4) + batch 39, the
+@WaveformClips dedup batch (pass 5 start) + `## [2026-07-21] ingest` batches 40–48, nine @mkbhd
+batches (pass 5) in `log.md`).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_None — synthesis is caught up with ingest (L2=274). Next checkpoint at the next channel/era
+_None — synthesis is caught up with ingest (L2=349). Next checkpoint at the next channel/era
 boundary or ~10 more batches._
 
 ## Done checkpoints
+- [x] **Era: @WaveformClips first dedup batch + @mkbhd Apr–Jul 2009 origin P2 long tail (75 new L2,
+  batches 39–48)** — fifth synthesis pass. Drained the ten accumulated `Synthesis notes:` lines since
+  pass 4 (all @mkbhd solo except 4 @WaveformClips L2's, ensemble-gated — 0 confident-Marques quotes
+  promoted from those). **Topic hubs (L3):** `tech-reviews` — review-business origin (emailing companies
+  for units), the sent-for-review/PO-box workflow, "first hardware unboxing" + the unbox→review split
+  named outright, "an unboxing needs a reason to exist" (Wrapsol, + corrects the manufacturer's own spec),
+  the unbox/review firewall stated as an explicit rule (Sena), the origin scoring ladder (9/10 → 8.5/10 →
+  8/10 → 8/10, with a flagged no-score contrast the same week), con-vs-con-for-me + the lived-with-it
+  standard, first in-review comparison to his own prior review, the two-methods-with-a-tradeoff verdict
+  (ancestor of "compared to what?"), hardware/software alternation stated as policy; `creator-business` —
+  the dated subscriber/catalog timeline to 1,570 subs/230 videos/202K views, the YouTube Partnership
+  rejection arc (3 denials disclosed), pre-Partner constraint economics (FLV delivery-encode workaround),
+  "Use that Search Box!" audience-management system, the first PR-agency-seeded review unit
+  (Fleishman-Hillard), the reciprocal-subscription TCOTW growth engine + explicit growth thesis, analytics-
+  as-sponsor-pitch framing, attribution-ethics origin (credit the music), channel-layout branding step;
+  `production-filmmaking` — the encoding standard extended to camera footage (MPEG Streamclip), the
+  audio-pipeline unbox→review two-step applied to his own gear, a live unretakeable demo (honesty over
+  polish), a second "redo when the platform changes" instance (metadata update vs. reshoot), an audio-tool
+  preference; `consumer-tech-culture` — red-and-black hardens from candidate seed to a first-person
+  "favorite colors" statement, the earliest pro-restraint branding judgment (Griffin Elevator). **Persona:**
+  `beliefs.md` (+7 origin values: unbox-needs-a-reason, unbox/review firewall, hardware/software
+  alternation, price-tier grading, lived-with-it standard, growth thesis), `voice.md` (+6 verbatim quotes:
+  "generous nine out of ten," "favorite colors," alternation rule, the firewall rule, the Griffin
+  restraint quote), `biography.md` (subscriber/catalog timeline, Partnership rejection arc, PR-agency
+  milestone; the "outside freelance writing" lead flagged to `wiki/gaps.md`, not asserted), `appearance.md`
+  (red-and-black as a stated personal colour preference, causation still open). Recompiled
+  `persona/system-prompt.md` **v4 → v5** (compiled_from_sources 274 → 349). No new topic pages created
+  (all promotions extended existing hubs/persona). `wiki/gaps.md` opened with 2 entries (an unconfirmed
+  biography lead + 2 ensemble ★ findings gated on solo-source confirmation). No rate limits, no
+  fabrication, all English. Done 2026-07-21 (synthesis pass 5).
 - [x] **Era: @mkbhd Feb–Apr 2009 origin P2 long tail (72 new L2, batches 29–38)** — fourth synthesis
   pass. Drained the ten accumulated `Synthesis notes:` lines since pass 3 (all @mkbhd solo, age 15,
   cleanest attribution — no quarantine). Promoted the genuinely-new material only; long-tail repeats of

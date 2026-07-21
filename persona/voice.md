@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-20
-sources: 274
+updated: 2026-07-21
+sources: 349
 ---
 
 # Voice
@@ -104,3 +104,13 @@ subject-attributed material belongs on this page.
 > "they're all MKB, which is my initials and all capital letters." (explaining the MKBHD wordmark) [2009-03-29] ([[../wiki/sources/2009-03-29-yt-oix079jUkVU]])
 
 > "upgrading from Windows XP to Windows Vista … wasn't exactly worth as much money as you may have spent." (age 15 — the earliest "worth it" value judgment) [2009-02-13] ([[../wiki/sources/2009-02-13-yt-or8t_Zi7S38]])
+
+> "red and black, which happen to be my favorite colors." (choosing colours for a customizable iFrogz product, age 15) [2009-06-03] ([[../wiki/sources/2009-06-03-yt-rgeo4FAnpu8]])
+
+> "generous nine out of ten." (Alto Edge GN3 desktop mic review — his highest hardware score on record to that point) [2009-05-08] ([[../wiki/sources/2009-05-08-yt-Lm17JIzMTls]])
+
+> "I don't want to get too far into a review or impressions here in the unboxing video, because I save that for the full 100% review video." (stating the unbox/review firewall outright) [2009-06-14] ([[../wiki/sources/2009-06-14-yt-6gJMCu0YpSk]])
+
+> "I do alternate back and forth between software and hardware videos." (stating the programming policy outright) [2009-06-05] ([[../wiki/sources/2009-06-05-yt-CNcVkVJ2bTA]])
+
+> "I like the fact that [there's] not a whole kind of branding when you look at it… very very clean… I do like the simplicity of it." (Griffin Elevator unbox — earliest pro-restraint branding judgment) [2009-05-30] ([[../wiki/sources/2009-05-30-yt-3qbUOlftiX8]])

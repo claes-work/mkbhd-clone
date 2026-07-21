@@ -44,6 +44,66 @@ The recurring **"Update" milestone videos** give a rare dated subscriber timelin
 - **Early influence + monetization ambition.** "Are You A Geek?" plugs **Chris Pirillo** (an early influence) and frames the channel's geek identity; the Dafont tutorial states an explicit **YouTube Partner** goal — the first on-record intent to monetize. [2009-03-12] ([[2009-03-12-yt-qtk1maA23k8]]) · [2009-03-13] ([[2009-03-13-yt-EEldRjkhZ8o]])
 - **Deliberate series/curation from the start.** The "YouTube Playlists" tutorial reveals early, intentional **series structure** (Laptop Battery Savings / 2009 Apple Releases / Free Software / Updates-Inbox) — channel curation treated as a craft at 15. [2009-03-28] ([[2009-03-28-yt-j2cYJDwSH0g]])
 
+### Growth timeline, the YouTube Partnership arc, and PR seeding (Apr–Jul 2009) — added synthesis pass 5 (2026-07-21)
+Continues the pass-4 subscriber timeline and adds the channel's first brush with formal industry
+infrastructure — a PR agency and the YouTube Partner Program itself.
+- **Dated subscriber/catalog timeline continues.** ~900 subs (2009-05-14, with a public **"1,000 by
+  summer"** goal) → **1,000 subscribers** self-reported 2009-05-31 and independently corroborated by an
+  on-screen counter 2009-06-05 → **1,500 subscribers** dated ~2009-06-21 → **1,570 subscribers / 230
+  videos / 202K video views / 40K channel views** dated 2009-07-02 (from the Partnership-application
+  video). A separate, hard **216-video catalog count** is quoted from a viewer complaint on 2009-06-11.
+  [2009-05-14] ([[2009-05-14-yt-5PbShASzrbs]]) · [2009-05-31] ([[2009-05-31-yt-u_Rp0GS2duE]]) ·
+  [2009-06-11] ([[2009-06-11-yt-rgbTIXqFo8o]]) · [2009-06-24] ([[2009-06-24-yt-T2SF1XmhsGM]]) ·
+  [2009-07-02] ([[2009-07-02-yt-_2Jn8uu27jU]])
+- **The YouTube Partnership arc, dated.** A three-beat sequence: the **plan** announced 2009-06-24 (tied
+  to a 2,000-subscriber milestone or the application, whichever came first), the **application** itself
+  2009-07-02 (with the stats snapshot above), and a **third denial** 2009-07-08 — which also discloses,
+  for the first time, **three prior Partnership rejections across two accounts**, each for "not enough
+  original content" or "not enough viewership." Persistence through repeated rejection, not a smooth path,
+  is the actual origin story. [2009-06-24] ([[2009-06-24-yt-T2SF1XmhsGM]]) · [2009-07-02]
+  ([[2009-07-02-yt-_2Jn8uu27jU]]) · [2009-07-08] ([[2009-07-08-yt-DksEwjFH-o4]])
+- **Pre-Partner constraint economics.** The non-Partner cap (10-minute length / 1 GB file size) is stated
+  as a hard, real constraint forcing production choices — solved with a dedicated **FLV delivery encode**
+  (ultra-high preset, forced back to 1280×720/30fps) that took a 1.37 GB source down to **68.7 MB "and
+  it's still HD quality."** [2009-05-20] ([[2009-05-20-yt-qW-iruJbmOA]])
+- **"Use that Search Box!" — the first audience-management system.** As duplicate requests pile up, he
+  builds a three-part discipline on camera: teach viewers the channel-scoped search box → answer every
+  repeat request with the exact keyword IN ALL CAPS so it can be pasted in → **pre-empt** the single most
+  common question (a wallpaper link) by linking it in every description from then on. Direct ancestor of
+  the mature "everything's linked in the description" discipline. [2009-06-11]
+  ([[2009-06-11-yt-rgbTIXqFo8o]])
+- **First PR-agency-seeded review unit.** The Audéo PFE earphones arrive via **Fleishman-Hillard
+  Communications**, a professional PR agency, overnight from another state — the first agency-seeded
+  (not manufacturer-direct) review unit on record; he doesn't yet know who the agency is, dating the
+  transition precisely to mid-June 2009. [2009-06-16] ([[2009-06-16-yt-KQ259xF2alo]])
+- **Reciprocal-subscription growth engine + an explicit growth thesis.** "Tech Channel of the Week" evolves
+  a **subscribe-to-qualify mechanic** (he visits and often subscribes back to each new subscriber's
+  channel, hunting for fellow tech reviewers) and, describing another creator, states his own strategy
+  outright: **volume + answering requests = subscribers.** Also: **giveaways function as a subscriber
+  engine** (stated about a peer, then run himself days later), and **owning new hardware unlocks new review
+  formats** (an iPod Touch owner "can do application reviews"). [2009-05-12] ([[2009-05-12-yt-AwILQwPecUI]])
+  · [2009-05-31] ([[2009-05-31-yt-u_Rp0GS2duE]]) · [2009-06-15] ([[2009-06-15-yt-FDASvkMxraA]])
+- **Analytics framed explicitly as a sponsor pitch.** Touring his own YouTube Insight dashboard (~1,500
+  views/day, US > Canada > UK, 13–24 male-skewing), he says viewers "thinking about emailing a company"
+  should study this section — the earliest explicit analytics-as-sponsor-pitch framing on record.
+  [2009-06-20] ([[2009-06-20-yt-a03YqmbxE7Y]])
+- **Attribution-ethics origin.** A royalty-free-music tutorial (incompetech.com) explicitly instructs
+  viewers to **credit the music in the video description** — an early "give credit" value that prefigures
+  his later sourcing and sponsorship-transparency discipline. [2009-04-18] ([[2009-04-18-yt-XGz2zi8K_RA]])
+- **Hardware/software content alternation, stated as policy.** "I do alternate back and forth between
+  software and hardware videos" — an explicit programming rule, corroborated four times across two weeks
+  in this era (also feeds [[../tech-reviews/tech-reviews|Tech Reviews hub]]). [2009-06-05]
+  ([[2009-06-05-yt-CNcVkVJ2bTA]])
+- **Channel-layout branding, one step earlier than the GIMP logo.** His channel layout began life as a
+  **YT Layouts template he customized** — "I used to use this layout... before I took a different one and
+  edited it to be my own" — a branding step that predates and extends the visual-identity timeline. [2009-06-15]
+  ([[2009-06-15-yt-FDASvkMxraA]])
+
+> ⚠️ Flagged, not promoted to biography: two independent 2009 mentions of "the website I'm writing for" /
+> "one of my websites... the website I'm writing for" (2009-06-05, 2009-07-08) suggest Marques may have
+> freelanced for an outside tech-freeware site (caption garble points to TechSupportAlert.com) at 15 —
+> self-reported and site-name-uncertain. Tracked in [[../../gaps|wiki/gaps.md]], not asserted as fact.
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 

@@ -1,6 +1,6 @@
 ---
 type: meta
-updated:
+updated: 2026-07-21
 ---
 
 # Gaps
@@ -11,6 +11,17 @@ that was missing) and by lint passes. Each entry: date noticed, what was missing
 
 ## Open
 
-_(none yet)_
+- **2026-07-21 (synthesis pass 5) — possible teenage freelance-writing gig, unconfirmed.** Two independent
+  2009 videos ("the website I'm writing for," 2009-06-05 and 2009-07-08) suggest Marques may have
+  freelanced for an outside tech-freeware site at 15, alongside his own channel. Self-reported and the
+  site name is caption-garbled (best guess: TechSupportAlert.com) — needs a second, independent source
+  before it can be promoted to `persona/biography.md`. ([[../wiki/sources/2009-06-05-yt-HzEA_Qozc7g]]) ·
+  ([[../wiki/sources/2009-07-08-yt-DksEwjFH-o4]])
+- **2026-07-21 (synthesis pass 5) — two @WaveformClips ensemble ★ findings gated on attribution.** (1) a
+  two-axis review test for face-worn hardware ("you have to overcome the price and how dorky they look" —
+  Snap Spectacles) and (2) an "are phone photos even real anymore?" computational-photography-authenticity
+  theme — both on-brand but currently unattributed (ensemble, auto-captions, no speaker labels). Promote
+  once corroborated on a solo @mkbhd source. ([[../wiki/sources/2026-06-25-yt-EJRCoU6ZWno]]) ·
+  ([[../wiki/sources/2026-06-17-yt-0sfTzOm2cSY]])
 
 ## Resolved

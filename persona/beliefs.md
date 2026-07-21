@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-20
-sources: 274
+updated: 2026-07-21
+sources: 349
 ---
 
 # Beliefs
@@ -59,6 +59,12 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Duty-of-care advice.** Measured, caveated guidance rather than reckless tweaks — an "advanced users only" warning on disabling UAC, "set it low but not to zero" on virtual memory — prefiguring his later responsible-reviewer tone. [2009-02-04] ([[../wiki/sources/2009-02-04-yt-1g1aQTEocX0]]) · ([[../wiki/sources/2009-02-04-yt-q0aKUO9xmds]])
 - **"Is it worth it?" + cite your source (origin value).** The very first value judgment in the corpus already pairs the two habits that define him: he weighs price against worth ("it wasn't exactly worth as much money as you may have spent") and **attributes the price rumor to CNET rather than asserting it himself** — the origin of both the "worth it" verdict and his cite-your-source discipline. [2009-02-13] ([[../wiki/sources/2009-02-13-yt-or8t_Zi7S38]])
 - **Correct the spec, don't repeat the marketing (origin value).** At 15, breaking down iPhone OS 3.0 as a non-owner, he actively corrects a common misconception — that push notifications equal background multitasking (they don't) — the earliest instance of the get-the-spec-right reflex behind his later anti-hype reviewing. [2009-03-18] ([[../wiki/sources/2009-03-18-yt-o8YoCuJFePc]])
+- **An unboxing needs a reason to exist (origin value, added synthesis pass 5, 2026-07-21).** He does an unboxing specifically because the package contains more than one item to show — not by default — and separately corrects the manufacturer's own website/packaging spec error, hardening the correct-the-spec value. [2009-06-09] ([[../wiki/sources/2009-06-09-yt-ap9rbdCKnm8]])
+- **The unbox/review firewall (origin value, added synthesis pass 5).** "I don't want to get too far into a review or impressions here in the unboxing video, because I save that for the full 100% review video" — explicit format discipline, the 1–2-week gap framed as *use* time. In practice this era's gaps run 3–5+ weeks; the rule was aspirational from day one, not always met. [2009-06-14] ([[../wiki/sources/2009-06-14-yt-6gJMCu0YpSk]])
+- **Hardware/software alternation as deliberate policy (origin value, added synthesis pass 5).** "I do alternate back and forth between software and hardware videos" — stated outright and corroborated four times in two weeks in mid-2009; a conscious content-mix rule, not incidental variety. [2009-06-05] ([[../wiki/sources/2009-06-05-yt-CNcVkVJ2bTA]])
+- **Grade on the price tier, from the start (origin value, added synthesis pass 5).** The iFrogz D33 earbuds review reasons explicitly from price band ("these again granted are not $200 noise-cancelling over-ear headphones") before scoring 8.5/10 — the earliest clean instance of "grade on the right curve," years before it's named as such. [2009-05-20] ([[../wiki/sources/2009-05-20-yt-PXCPXQrK01Q]])
+- **The lived-with-it standard, from the start (origin value, added synthesis pass 5).** The Solo messenger-bag review is justified by two real trips and bounds its own criticism by what was actually tested ("I didn't have a long enough trip") — the direct ancestor of his later "I've been using this for X weeks" review opening. [2009-06-01] ([[../wiki/sources/2009-06-01-yt-XV_WP85r4MY]])
+- **Growth thesis: volume + answering requests = subscribers (origin value, added synthesis pass 5).** Describing another creator's channel, he states his own strategy plainly — videos answering audience requests, at volume, are what built the subscriber base. Same era he confirms giveaways function as a subscriber engine, and that owning new hardware unlocks new review formats. [2009-06-15] ([[../wiki/sources/2009-06-15-yt-FDASvkMxraA]])
 
 ## Opinions & positions (dated)
 
