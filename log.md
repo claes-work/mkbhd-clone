@@ -2275,3 +2275,57 @@ environment is fixed.
 
 Synthesis notes: none (0 new material; this is a pipeline/infra finding, not persona
 content). Debt unchanged at 7 ingest batches since synthesis pass 5 (checkpoint at 10).
+
+## [2026-07-21] ingest | stage-orientation only (@mkbhd P2 selected), PO-token block re-confirmed a fifth time, 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents). Orientation
+(`python tools/ingest_batch.py status`): 0 open P1 anywhere, all 5 TARGET channels still
+enumerated (@mkbhd 1295 open P2/P3, @Waveform 292, @WaveformClips 622, @AutoFocus 104,
+@TheStudio 104), debt at 8/10 ingest-batch log entries since synthesis pass 5 (no
+`>>> CHECKPOINT` banner, no channel/era boundary newly crossed, persona files recompiled
+2026-07-21 pass 5/v5, compiled_from_sources: 349) — stage machine selected **Stage B**
+(open P2 rows exist on every channel; no S/P/A checkpoint due).
+
+**Before spending a batch, re-checked whether the PO-token caption-fetch block (five
+consecutive iterations now) had cleared.** Environment re-check: `pip`/`pip3` still not
+on PATH (`which pip pip3 node npm` → only `python3` and `yt-dlp` resolve); `yt-dlp
+--version` still `2026.07.04` (no newer release). Manual probe against the same control
+video (`yt-sfyL4BswUeE`, an @mkbhd upload): `yt-dlp --skip-download --write-auto-sub
+--sub-lang en` (default `web` client) → `WARNING: ... There are missing subtitles
+languages because a PO token was not provided` → `There are no subtitles for the
+requested languages`. Notably `deno` is now present on PATH and yt-dlp uses it
+(`[jsc:deno] Solving JS challenges using deno`) — this resolves the JS-signature
+challenge but is a **separate mechanism from the subtitle PO token**, which is still
+withheld: forcing `--extractor-args "youtube:player_client=web,default"` reproduces the
+identical warning almost verbatim. Swept every alternative client yt-dlp exposes
+(`tv`, `mweb`, `ios`, `android`, `web_embedded`, `tv_simply`): all six fail immediately
+with `Sign in to confirm you're not a bot` (cookie-gated), so they are not a viable
+substitute path either. This reconfirms the block is systemic and environment-wide (no
+pip/node to install a PO-token provider such as `bgutil-ytdlp-pot-provider`, no cookie
+source available), not per-video or per-channel — fifth consecutive confirmation,
+consistent with all four prior diagnostics.
+
+**Safety rail invoked again.** Five consecutive iterations have now hit the identical
+unresolved PO-token gate. Per this loop's safety rail (repeated systemic fetch failure,
+not isolated 429s — and per this run's explicit instruction that >3 consecutive yt-dlp
+failures means stop rather than keep spending batches), this iteration stops here without
+running `tools/ingest_batch.py prepare` — running it would only relabel more ledger rows
+`no-captions` under the same false-negative mechanism already flagged (the driver's
+classifier matches yt-dlp's "There are no subtitles for the requested languages" text
+regardless of whether the cause is a genuinely caption-less video or a withheld PO
+token). No ledger writes, no wiki/sources pages, no youtube-index/index.md changes this
+iteration (0 ok, 0 skipped, 0 dup).
+
+**Standing recommendation (unchanged, now five-times confirmed):** the fix is infra, not
+curatorial — (a) install a PO-token provider (needs `pip`/`node`/`npm` present in this
+environment first — still absent), or (b) supply authenticated cookies for a
+non-`web` client, or (c) wait for a yt-dlp release that handles this gate natively.
+Every ledger row marked `no-captions` since this block first appeared should keep being
+treated as `caption-fetch blocked`, not confirmed absent, until the environment is fixed
+and a re-probe pass is run.
+
+Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchanged at
+8 ingest-batch log entries since synthesis pass 5 (checkpoint at 10). Dispatched as a
+downstream subagent this run does not schedule wakeups, start loops, or touch the
+roster repo, per its own operating constraints.
