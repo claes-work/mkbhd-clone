@@ -2494,3 +2494,60 @@ an eighth time.
 
 Synthesis notes: none (0 new material; this is a pipeline/infra finding, not persona
 content). Debt unchanged at 0 ingest batches since synthesis pass 6 (checkpoint at 10).
+
+## [2026-07-21] ingest | stage-orientation only (@mkbhd + @WaveformClips control-probed), PO-token block confirmed environment-wide on all 5/5 TARGET channels, 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule for dispatched runs). Orientation (`python tools/ingest_batch.py status`): 0 open P1
+anywhere; open P2/P3 long-form on every channel (@AutoFocus 104, @TheStudio 104, @Waveform
+292, @WaveformClips 622, @mkbhd 1295); open shorts 364; ingested L2=386/L3=0; synthesis
+debt 1/10 (just drained by pass 6, well under the checkpoint) — no S/P/A rule matched.
+Stage machine selected **Stage B** (open P2 rows exist).
+
+**Before spending a full batch, re-checked the standing PO-token infra blocker** per pass
+6/7's recommendation, but scoped this run to the cheapest possible verification rather than
+an eighth full per-channel diagnostic: (1) confirmed the environment itself is unchanged —
+`pip`/`pip3`/`node`/`npm` still absent from PATH, `yt-dlp --version` still
+`2026.07.04` (identical to every prior check); (2) ran exactly two manual single-video
+control probes (`yt-dlp --skip-download --write-auto-sub --sub-lang en`) rather than a full
+8-video batch: one against the next @mkbhd P2 candidate (`yt-m89I065ngos`, "Samson MD5
+Desktop Microphone Stand [HD]") — the channel already confirmed blocked six times before —
+purely as an environment-freshness check, and one against `yt-vcaZFDsBBYk` ("Nvidia Has
+Entered the Chat") on **@WaveformClips, the one TARGET channel never yet probed**. Both
+returned the identical `WARNING: ... There are missing subtitles languages because a PO
+token was not provided` → `There are no subtitles for the requested languages`.
+
+**All 5 of 5 TARGET channels (@mkbhd, @AutoFocus, @TheStudio, @Waveform, @WaveformClips) are
+now confirmed hit by the same PO-token gate**, with zero change in the underlying
+environment across every check performed today. This closes the per-channel diagnostic
+question for good — it was never a caption-availability gap on any channel, it is a single
+yt-dlp/PO-token capability missing from this environment. Updated
+`pipeline/synthesis-state.md`'s pending-checkpoints note to record full 5/5 coverage and to
+tell future iterations to stop re-probing every wakeup: do one cheap environment check
+(PATH + yt-dlp version) and only re-run a caption probe if that check shows something
+actually changed.
+
+**Safety rail invoked** (ninth consecutive hit on an unresolved systemic fetch failure, not
+isolated 429s). No `tools/ingest_batch.py prepare` was run without `--dry-run`; the two
+manual probes above were the only fetch attempts. 0 ingested, 0 skipped, 0 no-captions
+marked, 0 dup. No ledger rows touched (consistent with prior stage-orientation-only entries:
+diagnostic dry-run/manual probes don't write ledger rows). No `wiki/sources/`,
+`youtube-index.md`, or `index.md` changes beyond this log entry and the
+`synthesis-state.md` note. Persona/system-prompt untouched (not stale; pass 6 was same-day).
+Dispatched as a downstream subagent, this run does not schedule wakeups, start loops, or
+touch the roster repo, per its own operating constraints.
+
+**Standing recommendation (superseded from pass 7's 4/5 note, now 5/5 and final).** The fix
+is infra, not curatorial: install a PO-token provider (e.g. `bgutil-ytdlp-pot-provider`,
+needs `pip`/`node`, neither present) or wait for a yt-dlp release/update path that resolves
+the gate. Every ledger row marked `no-captions` since 2026-07-21 should be treated as
+`caption-fetch blocked`, not confirmed absent, and re-probed once the environment changes.
+Recommend escalating this as its own workstream outside the ingest loop rather than
+continuing to spend iterations re-confirming an already-fully-confirmed blocker; the next
+iteration should do the one cheap environment check above and, finding nothing changed,
+should not repeat full or partial caption probes again.
+
+Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchanged at
+1 ingest batch since synthesis pass 6 (checkpoint at 10; this stage-orientation-only entry
+does not count as a real ingest batch for debt purposes, consistent with prior such entries).

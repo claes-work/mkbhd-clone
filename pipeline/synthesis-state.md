@@ -23,10 +23,17 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 _(oldest first; the synthesis loop drains these top-down)_
 _None — synthesis is caught up with ingest (L2=386). Next checkpoint at the next channel/era
 boundary or ~10 more batches. Note: the ingest→captions path (yt-dlp PO-token gate) is currently
-blocked environment-wide (seven consecutive confirmations as of 2026-07-21, now spanning 4 of 5
-TARGET channels — @mkbhd, @AutoFocus, @TheStudio, @Waveform) — treat as a settled infra blocker;
-the next iteration should wait for the environment fix (PO-token provider / yt-dlp release) or
-escalate rather than re-probe an eighth time._
+blocked environment-wide (nine consecutive confirmations as of 2026-07-21, now confirmed on
+**all 5 of 5 TARGET channels** — @mkbhd, @AutoFocus, @TheStudio, @Waveform, @WaveformClips) —
+fully settled as an infra blocker, not a per-channel caption gap. pip/pip3/node/npm remain
+absent from PATH and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all checks
+to date), so no PO-token provider can be installed and no newer yt-dlp release has been picked
+up. Future iterations should stop re-probing on every wakeup: do ONE cheap environment check
+(pip/node on PATH? yt-dlp version changed?) and only re-run a full caption probe if that check
+shows something changed; otherwise log the unchanged-environment finding and stop the
+iteration — Stage C (shorts dedup) also depends on caption fetch, so no caption-dependent
+stage is currently workable. Escalate as its own workstream (infra: install a PO-token
+provider or await a yt-dlp release) rather than repeatedly re-diagnosing._
 
 ## Done checkpoints
 - [x] **Era: @mkbhd Jul–Nov 2009 origin P2 long tail (37 new L2, batches 49–53) + the debt-counter
