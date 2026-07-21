@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2010 origin P2 (Feb 23 → Apr 25), second consecutive zero-yield no-captions batch
+
+Stage B (P2) continuation of the @mkbhd 2009→2010 origin long tail (dispatched sub-agent
+mode: roster autopilot, single coordinator, no per-video subagents). All 8 oldest-first
+open rows (Unboxed: Cyber Acoustics 2.1 Speakers / Sound Check: Editors Keys SL150
+Microphone / Need for Speed Most Wanted Gameplay / Tweetdeck Notifications! / The NEW
+YouTube [Overview] / Ultimate Frisbee Promo / MKBHD Search Story / Freeware EVERY Geek
+Should Use!) came back `no-captions` from `tools/ingest_batch.py prepare`. Not
+rate-limiting — the driver's `retry` list is empty, no 429s/errors reported, consistent
+with the immediately preceding batch's manual `yt-dlp` verification that these
+low-view early-2010 uploads simply have no subtitle track. All 8 auto-marked `L1
+no-captions (no subtitles available)` in the ledger by the driver. No wiki/sources
+pages written, no youtube-index.md/index.md changes (0 ok). Per AGENTS.md: no
+captions → no ingest, never Whisper without user approval.
+
+**Curatorial note:** this is the second consecutive zero-yield @mkbhd batch (after the
+Nov 10 → Dec 2 2009 batch logged above) and the ledger row immediately below this
+slice (2010-02-16, `yt-DNXVSPL1hvc`) was already `L1 no-captions` from an earlier pass
+— so the caption desert spans at least Feb–Apr 2010 (and likely further into 2009
+Nov–Dec, per the prior entry). The next three oldest-first @mkbhd P2 rows
+(2010-04-28 Samson MD5 mic stand, 2010-04-30 HTC Droid Incredible unboxing [30.8K
+views], 2010-05-07 YouTube Groups tutorial) are still `L0-discovered`/untried and may
+resolve differently since HTC Droid Incredible is a higher-view hardware unboxing.
+Recommend the next iteration either continues one more @mkbhd P2 probe to confirm
+whether the desert extends past late April 2010, or pivots a batch to a channel with
+denser recent captioning (@AutoFocus P2 2026 EV content, or @Waveform/@WaveformClips
+P2 with the attribution gate) to keep throughput up while this era is thin.
+
+Synthesis notes: none (zero-yield batch, no new material).
+
 ## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Nov 10 → Dec 2), zero-yield no-captions batch
 
 Stage B (P2) continuation of the @mkbhd 2009 origin long tail. All 8 selected rows
