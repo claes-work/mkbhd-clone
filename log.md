@@ -4,6 +4,22 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Nov 10 → Dec 2), zero-yield no-captions batch
+
+Stage B (P2) continuation of the @mkbhd 2009 origin long tail. All 8 selected rows
+(Time Lapse Video Editing / 1080p HD Now on Youtube!! / Unboxed: DS International Power
+Saver Strip / Lockergnome Demo Screencast / Wrapsol for the Zune HD / The NEW Google
+[How to Use It] / Unboxed: HP W1707 17" Monitor / Unboxed: Sanyo Xacti CG10) came back
+`no-captions` from `tools/ingest_batch.py prepare` — verified manually with a direct
+`yt-dlp --write-auto-sub` probe on one row (EO8mcXpx7tY): the fetch succeeds, YouTube
+just has no subtitle track for these low-view Nov–Dec 2009 uploads. Not rate-limiting
+(no 429s/errors — the driver's `retry` list is empty). All 8 auto-marked `L1`
+`no-captions` in the ledger by the driver; no wiki/sources pages, no youtube-index/
+index.md changes (0 ok). Per AGENTS.md: no captions → no ingest, never Whisper without
+user approval.
+
+Synthesis notes: none (zero-yield batch, no new material).
+
 ## [2026-07-19] ingest | yt batch (@Waveform, 8) — first real ingest batch
 
 First L2 ingest of the clone (corpus was 0 L2 before this). Stage B (P1-first) on
