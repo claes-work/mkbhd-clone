@@ -205,6 +205,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-06-03 — [[2009-06-03-yt-rgeo4FAnpu8|Unboxed: iFrogz Custom Fallouts — red-and-black stated as his favorite colors (earliest dated), first comparison-review proposal]] ★ · tech-reviews, consumer-tech-culture, creator-business
 - 2009-06-05 — [[2009-06-05-yt-HzEA_Qozc7g|HD Tutorial: Edit Web Pages with JavaScript — writes for an outside freeware site (caption-uncertain), 1,000 subs on screen]] ★ · consumer-tech-culture, creator-business, tech-industry-commentary
 - 2009-06-05 — [[2009-06-05-yt-CNcVkVJ2bTA|Reviewed: DS International Wireless Keyboard — first in-review comparison to his own prior review, 3–4-day break-in, software/hardware alternation]] ★ · tech-reviews, consumer-tech-culture, creator-business
+- 2009-06-08 — [[2009-06-08-yt-oVf0uw3vJFA|Tech Channel of the Week #5: mtpflyers — loose series cadence admitted, upcoming-video schedule posted on the channel page (borrowed from a peer)]] ★ · creator-business, consumer-tech-culture
+- 2009-06-09 — [[2009-06-09-yt-ap9rbdCKnm8|Unboxed: Wrapsol Shield for LG Voyager — "an unboxing needs a reason", corrects the manufacturer's own spec (VX1000 → VX10000)]] ★ · tech-reviews, smartphones, consumer-tech-culture
+- 2009-06-11 — [[2009-06-11-yt-rgbTIXqFo8o|Use that Search Box! — 216-video catalog dated, the repeat-question system (ALL-CAPS keyword replies + wallpaper link in every description)]] ★ · creator-business, consumer-tech-culture
+- 2009-06-13 — [[2009-06-13-yt-ClRH1aQuP_Q|17" Laptop GelaSkin Installation and Review — 8/10, live unretakeable demo with his own botched install left in, "tutorial or review, whatever you want to call it"]] ★ · tech-reviews, production-filmmaking, consumer-tech-culture
+- 2009-06-14 — [[2009-06-14-yt-6gJMCu0YpSk|Unboxed: Sena UltraSlim Leather Pouch — the unbox/review firewall stated as a rule, first audience-judgment prompt]] ★ · tech-reviews, smartphones, consumer-tech-culture
+- 2009-06-15 — [[2009-06-15-yt-FDASvkMxraA|Tech Channel of the Week #6 — volume + request-answering = subscribers thesis, Windows-7 future-audience timing bet, Flickr photostream]] ★ · creator-business, consumer-tech-culture, tech-industry-commentary
+- 2009-06-16 — [[2009-06-16-yt-KQ259xF2alo|Unboxed: Audéo PFE Headphones — first PR-agency-seeded review unit (Fleishman-Hillard), shipping/service read as a product signal]] ★ · tech-reviews, consumer-tech-culture, creator-business
+- 2009-06-17 — [[2009-06-17-yt-tgTjDmLiDrg|YouTube Update: Download your Own .mp4 Videos — earliest two-methods-with-a-tradeoff verdict (metadata vs. 720p), most-viewed origin video (~74k)]] ★ · production-filmmaking, creator-business, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -366,4 +374,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_325 videos ingested (L2) so far._
+_333 videos ingested (L2) so far._
