@@ -213,6 +213,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-06-15 — [[2009-06-15-yt-FDASvkMxraA|Tech Channel of the Week #6 — volume + request-answering = subscribers thesis, Windows-7 future-audience timing bet, Flickr photostream]] ★ · creator-business, consumer-tech-culture, tech-industry-commentary
 - 2009-06-16 — [[2009-06-16-yt-KQ259xF2alo|Unboxed: Audéo PFE Headphones — first PR-agency-seeded review unit (Fleishman-Hillard), shipping/service read as a product signal]] ★ · tech-reviews, consumer-tech-culture, creator-business
 - 2009-06-17 — [[2009-06-17-yt-tgTjDmLiDrg|YouTube Update: Download your Own .mp4 Videos — earliest two-methods-with-a-tradeoff verdict (metadata vs. 720p), most-viewed origin video (~74k)]] ★ · production-filmmaking, creator-business, consumer-tech-culture
+- 2009-06-18 — [[2009-06-18-yt-8k5bdedDPPs|Reviewed: UniBrain Fire-i Webcam]] · tech-reviews, consumer-tech-culture
+- 2009-06-20 — [[2009-06-20-yt-Mi22vI0lPhY|Tech Channel of the Week #7: TechTonicc]] · creator-business, consumer-tech-culture
+- 2009-06-20 — [[2009-06-20-yt-a03YqmbxE7Y|Tour of mkbHD Youtube Insight — dated analytics snapshot (views/day, top video, demographics, avg rating)]] ★ · creator-business, consumer-tech-culture
+- 2009-06-22 — [[2009-06-22-yt-36gL4dDHwBM|HD Tutorial: Video to iPod / PSP Converter]] · consumer-tech-culture
+- 2009-06-23 — [[2009-06-23-yt-cIfFKPh6Arg|HD Tutorial: Fastest Youtube Uploader — audience-composition claim (other reviewers/software posters)]] · creator-business, consumer-tech-culture
+- 2009-06-24 — [[2009-06-24-yt-T2SF1XmhsGM|mkbHD Update 3.0 — sophomore year ends, YouTube Partnership pursuit begins, audience cadence vote, 1,500-subscriber milestone]] ★ · creator-business, consumer-tech-culture
+- 2009-06-26 — [[2009-06-26-yt-veP36cBNerI|Reviewed: Griffin Elevator [HD] — 8/10, closes the unbox→review pair]] · tech-reviews, consumer-tech-culture
+- 2009-06-28 — [[2009-06-28-yt-6V803kUCxXg|Tech Channel of the Week #8: MacintoshTipz — mutual-subscriber discovery story]] · creator-business, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -374,4 +382,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_333 videos ingested (L2) so far._
+_341 videos ingested (L2) so far._
