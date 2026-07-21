@@ -221,6 +221,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-06-24 — [[2009-06-24-yt-T2SF1XmhsGM|mkbHD Update 3.0 — sophomore year ends, YouTube Partnership pursuit begins, audience cadence vote, 1,500-subscriber milestone]] ★ · creator-business, consumer-tech-culture
 - 2009-06-26 — [[2009-06-26-yt-veP36cBNerI|Reviewed: Griffin Elevator [HD] — 8/10, closes the unbox→review pair]] · tech-reviews, consumer-tech-culture
 - 2009-06-28 — [[2009-06-28-yt-6V803kUCxXg|Tech Channel of the Week #8: MacintoshTipz — mutual-subscriber discovery story]] · creator-business, consumer-tech-culture
+- 2009-06-30 — [[2009-06-30-yt-t7zDDvbZDOQ|Unboxed: DS International Flexible Keyboard [HD] — repeat vendor]] · tech-reviews, consumer-tech-culture, creator-business
+- 2009-07-02 — [[2009-07-02-yt-_2Jn8uu27jU|HD Tutorial: Apply for a YouTube Partnership — dated stats + rejection history]] ★ · creator-business, consumer-tech-culture
+- 2009-07-04 — [[2009-07-04-yt-ACNf0yl6p28|RichardSolo Unboxing [HD] — new vendor, giveaway pipeline]] · tech-reviews, consumer-tech-culture, creator-business
+- 2009-07-06 — [[2009-07-06-yt-DSZXgoyH0Xw|Tech Channel of the Week #9: JailbrokeTouch95]] · creator-business, consumer-tech-culture
+- 2009-07-08 — [[2009-07-08-yt-DksEwjFH-o4|HD Tutorial: Fission — 3rd YouTube Partnership denial + writing-gig corroboration]] ★ · consumer-tech-culture, creator-business, production-filmmaking
+- 2009-07-09 — [[2009-07-09-yt-hdZzl-7Z2Dg|Youtube CENSORS Comments — early platform-commentary screencast]] · tech-industry-commentary, consumer-tech-culture
+- 2009-07-12 — [[2009-07-12-yt-mnI-6YtQhmk|Tech Channel of the Week #10: BoykoBrand — explicit self-origin comparison]] · creator-business, consumer-tech-culture
+- 2009-07-15 — [[2009-07-15-yt-c927MPDH8ew|HD Tutorial: Audio Converter [Why YOU need one] — Audacity-over-Camtasia audio opinion]] · production-filmmaking, consumer-tech-culture, creator-business
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -382,4 +390,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_341 videos ingested (L2) so far._
+_349 videos ingested (L2) so far._
