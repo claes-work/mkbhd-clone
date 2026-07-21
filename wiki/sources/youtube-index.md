@@ -197,6 +197,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-05-23 — [[2009-05-23-yt-oqoHe7xw8uE|Tech Channel of the Week #3: Gigafide/Tinkernut — visit-comment-subscribe-back routine]] · creator-business, consumer-tech-culture
 - 2009-05-25 — [[2009-05-25-yt-lfHNGn9dDJg|ThinkGeek Unboxing — multi-product review samples, proportional review length]] · tech-reviews, creator-business, consumer-tech-culture
 - 2009-05-27 — [[2009-05-27-yt-b7Nc78QqDs0|Reviewed: Matias USB 2.0 Keyboard — first key-travel critique, video-response chaining, 1,000-sub giveaway announced]] ★ · tech-reviews, creator-business, consumer-tech-culture
+- 2009-05-29 — [[2009-05-29-yt-nH6Aix5dAdw|HD Tutorial: Google Chrome (out of beta) — out-of-beta as the adoption threshold, Safari-4-beta inconsistency self-noted]] ★ · consumer-tech-culture, creator-business, tech-industry-commentary
+- 2009-05-30 — [[2009-05-30-yt-3qbUOlftiX8|Unboxed: Griffin Elevator Laptop Stand — earliest minimal-branding aesthetic preference, sample disclosed]] ★ · tech-reviews, consumer-tech-culture, creator-business
+- 2009-05-31 — [[2009-05-31-yt-u_Rp0GS2duE|Tech Channel of the Week #4: TechTechMan — 1,000-subscriber milestone reached, partner-by-quality + giveaway-as-growth model]] ★ · creator-business, consumer-tech-culture
+- 2009-06-01 — [[2009-06-01-yt-XV_WP85r4MY|Reviewed: Solo 17" Laptop Messenger Bag — lived-with-it standard (two real trips), annotations as unbox→review glue]] ★ · tech-reviews, creator-business, consumer-tech-culture
+- 2009-06-02 — [[2009-06-02-yt-s1l-49rrTYc|HD Tutorial: Skype 4.1 Beta — Skype calls/chats with subscribers, summer Ustream/BlogTV plan put to a Twitter vote]] ★ · consumer-tech-culture, creator-business, production-filmmaking
+- 2009-06-03 — [[2009-06-03-yt-rgeo4FAnpu8|Unboxed: iFrogz Custom Fallouts — red-and-black stated as his favorite colors (earliest dated), first comparison-review proposal]] ★ · tech-reviews, consumer-tech-culture, creator-business
+- 2009-06-05 — [[2009-06-05-yt-HzEA_Qozc7g|HD Tutorial: Edit Web Pages with JavaScript — writes for an outside freeware site (caption-uncertain), 1,000 subs on screen]] ★ · consumer-tech-culture, creator-business, tech-industry-commentary
+- 2009-06-05 — [[2009-06-05-yt-CNcVkVJ2bTA|Reviewed: DS International Wireless Keyboard — first in-review comparison to his own prior review, 3–4-day break-in, software/hardware alternation]] ★ · tech-reviews, consumer-tech-culture, creator-business
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -358,4 +366,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_317 videos ingested (L2) so far._
+_325 videos ingested (L2) so far._
