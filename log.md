@@ -4,6 +4,51 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-21] ingest | stage-orientation only (@mkbhd P2 selected), PO-token block re-confirmed a third time, 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere, all 5
+TARGET channels already enumerated, debt at 7/10 batches since synthesis pass 5 (no
+`>>> CHECKPOINT` banner, no channel/era boundary newly crossed), persona files freshly
+recompiled the same day (pass 5, v4→v5) — stage machine selected **Stage B** (open P2
+rows exist on every channel; no S/P/A checkpoint due).
+
+**Before spending a batch, re-checked whether the PO-token caption-fetch block (diagnosed
+in the two immediately preceding log entries, `@AutoFocus` then `@mkbhd`) had cleared,**
+per the prior iteration's own recommendation. Manual probe on the same control video
+(`yt-sfyL4BswUeE`, id `sfyL4BswUeE`): `yt-dlp --skip-download --write-auto-sub --sub-lang
+en` (v2026.07.04, no `--no-mark`/ledger interaction — read-only probe) still returns
+`WARNING: ... There are missing subtitles languages because a PO token was not provided`
+→ `There are no subtitles for the requested languages`. Identical failure mode, third
+consecutive confirmation (this iteration + the two logged immediately below), still
+systemic and environment-wide, not per-video/per-channel. No workaround attempted beyond
+the prior iteration's exhaustive client sweep (`web`/`web_safari`/`tv`/`ios`/`android`/
+`tv_embedded`/`web_embedded`/`mweb` — all already ruled out there); re-running that sweep
+would not add information.
+
+**Safety rail invoked.** Three consecutive iterations (across two prior full batch
+attempts plus this iteration's re-check) have now hit the same unresolved PO-token gate
+with 0 ingested each time. Per the ingest loop's safety rail (repeated systemic fetch
+failure, not isolated 429s), this iteration stops here rather than burning a batch against
+a confirmed-still-broken fetch path. No `tools/ingest_batch.py prepare` was run this
+iteration (the read-only probe was sufficient to confirm the block is unchanged) — no
+ledger writes, no ledger regression, no wiki/sources pages, no youtube-index/index.md
+changes (0 ok, 0 skipped, 0 dup — nothing was attempted beyond the diagnostic probe).
+
+**Standing recommendation (unchanged, now three-times confirmed):** the real fix is
+infra, not curatorial — either (a) install a PO-token provider (e.g.
+`bgutil-ytdlp-pot-provider`) in this environment, or (b) upgrade yt-dlp once a release
+handles this gate natively. Until then, every `prepare` call across every channel will
+likely return `no-captions` for rows that may well have real captions, so ledger rows
+marked `no-captions` since this block first appeared (this session) should be treated as
+`caption-fetch blocked`, not confirmed absent, and re-probed once the environment is
+fixed — consistent with the open flag already raised in the `@AutoFocus` entry below
+about the preceding two `@mkbhd` "caption desert" batches.
+
+Synthesis notes: none (0 new material; this is a pipeline/infra finding, not persona
+content). Debt unchanged at 7 ingest batches since synthesis pass 5 (checkpoint at 10).
+
 ## [2026-07-21] ingest | yt batch (@mkbhd, 8) — re-confirmed PO-token caption-fetch block still active, 0 ingested, iteration stopped
 
 Stage B (P2, oldest-first) continuation of @mkbhd, dispatched as a subagent under the
