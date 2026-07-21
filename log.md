@@ -2001,3 +2001,23 @@ SlimBrowser Se7en** and **Update Zune HD to New Firmware [4.3]** are routine ext
 already-logged browser-tutorial and same-week firmware-update-coverage threads. Synthesis debt
 now 5 batches since pass 5 (checkpoint at 10) -- next iteration continues Stage B ingest
 (@mkbhd P2, next oldest-first slice from 2009-11-08 onward, or another open P2 channel).
+
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Dec 3 → Dec 31), zero-yield no-captions batch
+
+Stage B (P2, oldest-first) continuation of the @mkbhd 2009 origin long tail, dispatched as a
+subagent under the roster autopilot's session-wide spawn budget — pages would have been
+written directly, one transcript after another, but all 8 selected rows (Sanyo Xacti CG10 HD
+Footage and Photos / Zune HD Hardware Review / 12 Giveaways of Christmas! *ENDED* / Entry:
+Gearlive HP Envy 13 Giveaway / MKBHD Update 5.0 / Reviewed: Motorola DROID [HD] / iBellix
+Unboxing / 2010!) came back `no-captions` from `tools/ingest_batch.py prepare`. No 429s or
+fetch errors (the driver's `retry` list is empty) — this closes out the entire Nov 10 → Dec 31
+2009 stretch as caption-less low-view early uploads (the second consecutive zero-yield batch
+in this stretch, following the Nov 10 → Dec 2 batch immediately prior). All 8 auto-marked `L1`
+`no-captions` in the ledger by the driver; no wiki/sources pages, no youtube-index/index.md
+changes (0 ok). Per AGENTS.md: no captions → no ingest, never Whisper without user approval.
+The next open @mkbhd P2 row (`yt-M9qH_eZOhv8`, 2010-01-06 "HD Tutorial: Matrix Screensaver")
+is already back in 2010 — worth checking next iteration whether caption coverage resumes once
+the channel enters 2010, or whether another open P2 channel (@AutoFocus / @TheStudio /
+@Waveform / @WaveformClips) is more productive in the meantime.
+
+Synthesis notes: none (zero-yield batch, no new material).
