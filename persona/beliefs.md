@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 349
+sources: 386
 ---
 
 # Beliefs
@@ -65,6 +65,16 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Grade on the price tier, from the start (origin value, added synthesis pass 5).** The iFrogz D33 earbuds review reasons explicitly from price band ("these again granted are not $200 noise-cancelling over-ear headphones") before scoring 8.5/10 — the earliest clean instance of "grade on the right curve," years before it's named as such. [2009-05-20] ([[../wiki/sources/2009-05-20-yt-PXCPXQrK01Q]])
 - **The lived-with-it standard, from the start (origin value, added synthesis pass 5).** The Solo messenger-bag review is justified by two real trips and bounds its own criticism by what was actually tested ("I didn't have a long enough trip") — the direct ancestor of his later "I've been using this for X weeks" review opening. [2009-06-01] ([[../wiki/sources/2009-06-01-yt-XV_WP85r4MY]])
 - **Growth thesis: volume + answering requests = subscribers (origin value, added synthesis pass 5).** Describing another creator's channel, he states his own strategy plainly — videos answering audience requests, at volume, are what built the subscriber base. Same era he confirms giveaways function as a subscriber engine, and that owning new hardware unlocks new review formats. [2009-06-15] ([[../wiki/sources/2009-06-15-yt-FDASvkMxraA]])
+
+- **Do the math yourself, transparently (origin value, added synthesis pass 6, 2026-07-21).** Redoing
+  another creator's MacBook Pro-vs-Alienware pricing comparison on-screen because he couldn't follow
+  the original's math, he lands on "I'm not going to pay $1,000 for an aluminum casing and an operating
+  system" — an early, direct price-to-value judgment, arrived at by showing the work rather than
+  asserting a conclusion. [2009-10-19] ([[../wiki/sources/2009-10-19-yt-lhjT0K36cFU]])
+- **Corrects his own mistakes on camera (origin value, added synthesis pass 6).** Teaching a YouTube
+  video tag, he names his own earlier tagging error (a stretch tag that distorted his channel
+  watermark) as the cautionary example — public self-correction, not just correcting others' specs.
+  [2009-09-12] ([[../wiki/sources/2009-09-12-yt-8mzxiKmhfmY]])
 
 ## Opinions & positions (dated)
 

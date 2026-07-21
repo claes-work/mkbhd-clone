@@ -2380,3 +2380,63 @@ Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchan
 9 ingest-batch log entries since synthesis pass 5 (checkpoint at 10). Dispatched as a
 downstream subagent, this run does not schedule wakeups, start loops, or touch the
 roster repo, per its own operating constraints.
+
+## [2026-07-21] lint | synthesis pass 6 — @mkbhd Jul–Nov 2009 origin P2 long tail (batches 49–53, 37 new L2)
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single coordinator,
+writing pages directly — no per-video subagents). Orientation (`python tools/ingest_batch.py status`):
+0 open P1 anywhere, debt at **10/10 batches since synthesis pass 5** — `>>> SYNTHESIS DUE`. The ten
+`ingest |` log entries since pass 5 break down as: five real @mkbhd 2009-origin content batches
+(49–53, Jul 19 → Nov 7 2009, 37 new L2) + two zero-yield no-captions batches (Dec 3–31 2009, Jan 6–Feb
+16 2010, closing the 2009 origin era) + three stage-orientation-only PO-token-block diagnostics
+("fourth"/"fifth"/"sixth time", 0 new material each). Per this loop's stage machine, **"Synthesis
+checkpoint due" is the first matching rule**
+— it fires ahead of Stage B even though the debt was mostly padded by administrative zero-yield
+entries rather than raw ingest volume. This was also the productive move independent of the stage
+machine: the yt-dlp PO-token caption-fetch block has now been confirmed six consecutive times and
+Stage B ingest is not currently viable, but nothing blocks promoting the 37 L2 sources already banked
+since pass 5.
+
+**Promoted (L3) into `wiki/topics/`:**
+- `tech-reviews` — the origin scoring ladder's new high (Wrapsol 9.5/10, "the highest rating I have
+  ever given a hardware review" + its side-by-side comparative method, an early "compared to what?"
+  ancestor); the widest unbox→review turnaround yet (DS International Flexible Keyboard, ~9 weeks
+  against a stated "one to three weeks" goal) plus a hardware review filmed entirely in Camtasia
+  Studio 6; HQ-by-default put to an audience vote plus an on-camera self-correction (YouTube Tags);
+  scoring explicitly named a hardware-only convention he doesn't normally apply to software
+  (Desktube, 8/10 "I'd give it a B"); an early price-to-value judgment via video response (MacBook
+  Pro vs. Alienware M17x, "I'm not going to pay $1,000 for an aluminum casing and an operating
+  system").
+- `creator-business` — the subscriber timeline continuing to 2,300 (from 2,000) with the first
+  explicit, self-imposed upload-cadence policy ("once every two days, and sometimes once every three
+  days"); MKBHD Update 4.0's four dated threads (a two-week wrongful YouTube channel suspension,
+  first mention, resolved; the YouTube Partnership threshold raised from ~2,000 to ~10,000
+  subscribers — an **evolving position, not a contradiction**, explicitly flagged as such; the
+  mega-widescreen 2:1 format put to a vote; a varsity sport + AP classes disclosed as the school-year
+  time constraint behind a 3–5-video/week cadence); a second named PR-outreach relationship (iSkin,
+  "first YouTube featured reviewer"); dedicated review-outreach email tooling (MKBHD@mail.com); and
+  giveaways starting to cross-promote a second platform (Twitter, via iGIVEAWAY! [Take 2]).
+- `consumer-tech-culture` — the red-and-black aesthetic thread upgraded from a stated personal
+  preference (pass 5) to a deliberate product-customization decision explicitly matched to his logo
+  colors (iFrogz Custom Fallouts); a genuine "Dope Tech" precursor a decade early (gScreen Spacebook,
+  specs-only/no-review-unit novelty coverage).
+
+**Persona:** `beliefs.md` (+2 origin values: do-the-math-yourself-transparently, corrects-his-own-
+mistakes-on-camera), `voice.md` (+5 verbatim quotes: the red-and-black customization line, the
+upload-cadence policy, the "highest rating I have ever given" superlative, the channel-suspension
+disclosure, the "$1,000 casing" price judgment), `biography.md` (subscriber timeline to 2,300, the
+two-week wrongful suspension, the varsity-sport/AP-classes constraint, and a note that the 2009
+origin era is now closed to the extent captions exist — everything from Nov 2009 through mid-Feb
+2010 came back no-captions, confirmed not rate-limiting). Recompiled `persona/system-prompt.md`
+**v5 → v6** (compiled_from_sources 349 → 386). No new `wiki/topics/` pages created (all promotions
+extended existing hubs). Advanced the high-water mark in `pipeline/synthesis-state.md` to L2=386;
+moved the checkpoint to Done. Updated `index.md` (Last-updated line + Topics/Persona sections). No
+rate limits during this pass (no network calls — pure promotion work over already-ingested L2 pages).
+No fabrication, all English.
+
+Synthesis notes: none — debt fully drained (10/10 → 0). Resume Stage B next iteration, but re-probe
+the yt-dlp PO-token caption-fetch block first (six consecutive confirmations as of the entry
+immediately prior to this pass) before spending a batch against it; if still blocked, consider an
+open P2 channel other than @mkbhd (@AutoFocus was also confirmed blocked; @Waveform/@WaveformClips/
+@TheStudio not yet re-probed this run) or escalate the infra finding rather than repeating the same
+diagnostic a seventh time.

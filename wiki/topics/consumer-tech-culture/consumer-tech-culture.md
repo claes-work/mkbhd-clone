@@ -50,6 +50,20 @@ Two documented threads from the Feb-2009 tutorials that *prefigure* his later vi
   opposite direction on branding-as-marketing, but the taste for restraint itself starts here). [2009-05-30]
   ([[2009-05-30-yt-3qbUOlftiX8]])
 
+### Red-and-black customization + a genuine "Dope Tech" precursor — added synthesis pass 6 (2026-07-21)
+- **Product customization deliberately matched to his own brand colors.** Customizing the iFrogz
+  Custom Fallouts headphones, he explicitly ties the choice to the logo: **"I went with a very
+  simple red and black — like you can see uh that my logo is red and black."** A second, stronger
+  datapoint alongside the pass-5 "favorite colors" statement — now a deliberate *customization*
+  decision, not just a stated preference. Still **not** asserted as the cause of the later crimson
+  studio brand; causation stays open. [2009-07-19] ([[2009-07-19-yt-ex8GNwrmrI4]])
+- **A genuine "Dope Tech" precursor, a decade early.** The gScreen Spacebook dual-screen-laptop
+  coverage is a **specs-only, no-review-unit preview** — commentary built purely from the company's
+  public press materials, covering the concept for its novelty/hype value alone ("it would be really
+  awesome if I could get a review unit"). The same aspirational, hands-off-but-excited editorial lane
+  the "Dope Tech" franchise (est. Dec 2019) later formalizes under that name. [2009-11-06]
+  ([[2009-11-06-yt-0FxhiUp2Drs]])
+
 ## Accessibility appreciation
 - Highlights accessibility as genuinely-new/underrated in reviews — iOS 14 Back Tap, Sound Recognition, sign-language prominence in group FaceTime ("genuinely new stuff Google should copy"). [2020-06-23] ([[2020-06-23-yt-ZLyDvABxGF0]])
 

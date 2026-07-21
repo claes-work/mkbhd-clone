@@ -1,7 +1,19 @@
 # Index
 
 _Catalog of every wiki and persona page. Updated on every ingest._
-_Last updated: 2026-07-21 (ingest — @mkbhd 2009 origin P2 Oct 19–Nov 7 batch: 8 L2
+_Last updated: 2026-07-21 (synthesis — pass 6 over batches 49–53, the @mkbhd Jul–Nov 2009 origin
+P2 long tail (37 new L2) plus two zero-yield no-captions batches and three PO-token-block
+stage-orientation entries that padded the 10-batch debt counter: origin scoring ladder new high
+(Wrapsol 9.5/10) + widest unbox→review gap yet (DS Intl keyboard) + HQ-by-default vote +
+scoring-as-hardware-convention (Desktube) + an early price-to-value video-response judgment
+(MacBook-vs-Alienware) into `tech-reviews`; subscriber timeline to 2,300 + first cadence policy +
+MKBHD Update 4.0 (two-week wrongful suspension, Partnership threshold ~2,000→~10,000, mega-
+widescreen vote, varsity-sport+AP-classes constraint) + a second PR-outreach relationship (iSkin) +
+review-outreach email tooling + cross-platform giveaways into `creator-business`; red-and-black
+upgraded to a deliberate customization choice + a decade-early "Dope Tech" precursor (gScreen
+Spacebook) into `consumer-tech-culture`; `persona/` (biography, beliefs, voice) updated; system-
+prompt recompiled v5 → v6, 386 sources. No new topic pages; no contradictions (Partnership-threshold
+change flagged as an evolving position). Prior: ingest — @mkbhd 2009 origin P2 Oct 19–Nov 7 batch: 8 L2
 [MacBook-Pro-vs-Alienware-M17x-Pricing ★ (video-response, spec-for-spec price/value
 comparison, "not paying $1,000 for a casing") / HD-Tutorial-Desktube ★ (explicit
 hardware-style 8/10 score applied to software, self-flagged as unusual) / Creating-a-
@@ -62,7 +74,7 @@ recompiled v4 → v5, 349 sources. Prior: ingest — @mkbhd 2009 origin P2 Jun 3
 
 ## Topics
 
-_All 7 hubs populated with dated, cited frameworks (synthesis pass 1, 2026-07-19); extended through synthesis pass 5 (2026-07-21) — origin-2009 methodology/encoding-standards/growth-timeline/smartphone-origin/branding into production/tech-reviews/creator-business/smartphones/tech-industry-commentary/consumer-tech-culture, the 2026 Q1 EV positions into ev-cars, and (pass 5) the Apr–Jul 2009 origin deepening — YouTube Partnership arc, PR-agency seeding, review-rule origins, red-and-black colour statement — into tech-reviews/creator-business/production-filmmaking/consumer-tech-culture._
+_All 7 hubs populated with dated, cited frameworks (synthesis pass 1, 2026-07-19); extended through synthesis pass 5 (2026-07-21) — origin-2009 methodology/encoding-standards/growth-timeline/smartphone-origin/branding into production/tech-reviews/creator-business/smartphones/tech-industry-commentary/consumer-tech-culture, the 2026 Q1 EV positions into ev-cars, and (pass 5) the Apr–Jul 2009 origin deepening — YouTube Partnership arc, PR-agency seeding, review-rule origins, red-and-black colour statement — into tech-reviews/creator-business/production-filmmaking/consumer-tech-culture; extended again through synthesis pass 6 (2026-07-21) — the Jul–Nov 2009 origin long tail: scoring-ladder new high + widest unbox→review gap + price-to-value video-response into tech-reviews; subscriber timeline + Update 4.0 (suspension, Partnership threshold, school-time constraint) + PR outreach + giveaway cross-promotion into creator-business; deliberate red-and-black customization + a decade-early "Dope Tech" precursor into consumer-tech-culture._
 - [wiki/topics/tech-reviews/tech-reviews.md](wiki/topics/tech-reviews/tech-reviews.md) — review methodology & frameworks: two-axis camera model, price-to-value, "bust = expectations minus reality", verdict shapes (hub).
 - [wiki/topics/smartphones/smartphones.md](wiki/topics/smartphones/smartphones.md) — Smartphone Awards (multi-year winner table), Blind Camera Test methodology, correct-exposure principle, foldables (hub).
 - [wiki/topics/production-filmmaking/production-filmmaking.md](wiki/topics/production-filmmaking/production-filmmaking.md) — RED/RAW craft, "camera = computer with a sensor", photography fundamentals, creator origin (hub).
@@ -84,11 +96,11 @@ _All 7 hubs populated with dated, cited frameworks (synthesis pass 1, 2026-07-19
 
 ## Persona (THE PRODUCT)
 
-- [persona/biography.md](persona/biography.md) — dated life timeline + corpus-derived anchors through pass 5 (origin-2009 deepening: gear-origin, first unboxing, "MKB" avatar/GIMP-logo, subscriber/catalog timeline to 1,570 subs, YouTube Partnership rejection arc, PR-agency seeding, non-iPhone/LG-Voyager, NJ base; + 2026 Q1 EV).
-- [persona/voice.md](persona/voice.md) — catchphrases, cadence, humor + verbatim quote bank (through pass 5: origin-era dual-method/logo/worth-it/red-black/firewall/alternation quotes + EV catchphrases/quotes).
-- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions (through pass 5: origin-methodology + worth-it/cite-source/correct-the-spec/unbox-needs-a-reason/unbox-review-firewall/price-tier-grading/lived-with-it/hardware-software-alternation values + 2026 EV frameworks).
+- [persona/biography.md](persona/biography.md) — dated life timeline + corpus-derived anchors through pass 6 (origin-2009 deepening: gear-origin, first unboxing, "MKB" avatar/GIMP-logo, subscriber/catalog timeline to 2,300 subs, YouTube Partnership rejection arc + evolving threshold, two-week wrongful suspension, PR-agency seeding, non-iPhone/LG-Voyager, NJ base, 2009 origin era now closed to the extent captions exist; + 2026 Q1 EV).
+- [persona/voice.md](persona/voice.md) — catchphrases, cadence, humor + verbatim quote bank (through pass 6: origin-era dual-method/logo/worth-it/red-black/firewall/alternation/cadence/highest-rating/suspension/price-judgment quotes + EV catchphrases/quotes).
+- [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions (through pass 6: origin-methodology + worth-it/cite-source/correct-the-spec/unbox-needs-a-reason/unbox-review-firewall/price-tier-grading/lived-with-it/hardware-software-alternation/do-the-math-yourself/corrects-own-mistakes values + 2026 EV frameworks).
 - [persona/appearance.md](persona/appearance.md) — how they look/present: ~6'3" build + brand-aesthetic origins (red-on-black now concretely dated to the GIMP MKBHD-logo build and to a first-person "favorite colors" statement; Apple affinity; causation flagged open). Still needs watched-video samples.
-- [persona/system-prompt.md](persona/system-prompt.md) — **compiled chat prompt v5** (349 sources; deep 2009 origin [Jan–Jul] → 2025 + 2026 EV; hedge on appearance/Panels/Fisker/@Waveform/@WaveformClips).
+- [persona/system-prompt.md](persona/system-prompt.md) — **compiled chat prompt v6** (386 sources; deep 2009 origin [Jan–Nov, era complete to the extent captions exist] → 2025 + 2026 EV; hedge on appearance/Panels/Fisker/@Waveform/@WaveformClips).
 
 ## Other
 

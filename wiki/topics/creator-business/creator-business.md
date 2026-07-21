@@ -104,6 +104,41 @@ infrastructure — a PR agency and the YouTube Partner Program itself.
 > freelanced for an outside tech-freeware site (caption garble points to TechSupportAlert.com) at 15 —
 > self-reported and site-name-uncertain. Tracked in [[../../gaps|wiki/gaps.md]], not asserted as fact.
 
+### Growth timeline continues, the Partnership threshold moves, PR outreach widens (Jul–Nov 2009) — added synthesis pass 6 (2026-07-21)
+Continues the pass-5 subscriber timeline and the PR/sponsorship-outreach thread through the second
+half of 2009, and adds a genuine biography-timeline event (a channel suspension).
+- **Dated subscriber timeline continues, with a first explicit cadence rule.** **2,000 subscribers**
+  dated 2009-07-27 (Update 3.1), which also states the first concrete, self-imposed **upload-cadence
+  policy**: "I've officially decided I'm gonna try to upload a video once every two days, and
+  sometimes once every three days." **2,300 subscribers** follows 2009-08-18, alongside the MKBHD
+  YouTube group growing to **300 members** (up from the previously logged 104). [2009-07-27]
+  ([[2009-07-27-yt-rvvTJEWHOTM]]) · [2009-08-18] ([[2009-08-18-yt-HhhycJL_muM]])
+- **MKBHD Update 4.0 (2009-10-15) — four dated threads in one video.** (1) Discloses a **two-week
+  wrongful YouTube channel suspension** — first mention in the corpus, no cause given, resolved by
+  contacting YouTube directly with all videos/subscribers restored — a genuine biography-timeline
+  event (see `persona/biography.md`). (2) **Restates and raises the YouTube Partnership threshold to
+  ~10,000 subscribers**, up from the ~2,000-subscriber-or-application framing in Update 3.1/3.0 — an
+  **evolving position, not a contradiction**: as the channel grew, the bar for "worth reapplying" moved
+  with it. (3) Puts the new **1920×960 "mega widescreen" (2:1) format** to an audience vote, continuing
+  the established pattern of crowdsourcing production-standard changes (echoes the earlier
+  upload-cadence and HQ-by-default votes). (4) Discloses a **varsity sport + AP classes** as the
+  school-year time constraint behind a resulting **3–5-video/week** cadence. [2009-10-15]
+  ([[2009-10-15-yt-33cOm8jDCFQ]])
+- **PR-outreach timeline continues: a second named brand-initiated relationship.** iSkin.com contacts
+  him directly to be their **"first YouTube featured reviewer"** — a second, explicitly named instance
+  of a company initiating the relationship (after the mid-June Fleishman-Hillard/Audéo PFE PR-agency
+  seeding), distinct from the earlier peer-to-peer Tech-Channel-of-the-Week/giveaway cluster. [2009-10-07]
+  ([[2009-10-07-yt-I_AxSjqWsLY]])
+- **Review-outreach tooling formalizes.** Sets up a dedicated **MKBHD@mail.com** address specifically
+  for review-unit requests and media inquiries ("companies find it appealing when someone emails them
+  requesting a product to review from an email that's just really simple and clean and professional") —
+  a small but genuine escalation of the April-2009 "emailing companies for review units" origin thread
+  into dedicated business infrastructure. [2009-10-23] ([[2009-10-23-yt-O9lS8ta3Ri0]])
+- **Giveaways start cross-promoting a second platform.** The "iGIVEAWAY! [Take 2]" iFrogz headphone
+  giveaway (subscribe + tagged comment to enter) adds **daily Twitter hints for extra entries** — the
+  first dated instance of using a giveaway mechanic to grow a platform *other than* YouTube, not just
+  subscribers. [2009-11-02] ([[2009-11-02-yt-XsXsG80Ff0A]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 

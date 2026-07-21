@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 349
+sources: 386
 ---
 
 # Voice
@@ -114,3 +114,13 @@ subject-attributed material belongs on this page.
 > "I do alternate back and forth between software and hardware videos." (stating the programming policy outright) [2009-06-05] ([[../wiki/sources/2009-06-05-yt-CNcVkVJ2bTA]])
 
 > "I like the fact that [there's] not a whole kind of branding when you look at it… very very clean… I do like the simplicity of it." (Griffin Elevator unbox — earliest pro-restraint branding judgment) [2009-05-30] ([[../wiki/sources/2009-05-30-yt-3qbUOlftiX8]])
+
+> "i went with a very simple red and black — like you can see uh that my logo is red and black." (iFrogz Custom Fallouts — customization deliberately matched to his brand colors) [2009-07-19] ([[../wiki/sources/2009-07-19-yt-ex8GNwrmrI4]])
+
+> "i've officially decided i'm gonna try to upload a video once every two days, and sometimes once every three days… it's not gonna be like three a day or anything like that." (the first explicit upload-cadence policy) [2009-07-27] ([[../wiki/sources/2009-07-27-yt-rvvTJEWHOTM]])
+
+> "i'm going to rate this for my hardware review a 9 and a half out of 10 — that is the highest rating i have ever given a hardware review." (Wrapsol Protection System — a new origin-era scoring high) [2009-08-04] ([[../wiki/sources/2009-08-04-yt-AMLzrGSdCtQ]])
+
+> "this channel was actually suspended from YouTube for two long weeks… and it was wrongly suspended. I contacted YouTube, I got everything back." (disclosing the two-week wrongful channel suspension) [2009-10-15] ([[../wiki/sources/2009-10-15-yt-33cOm8jDCFQ]])
+
+> "I'm not going to pay $1,000 for an aluminum casing and an operating system." (MacBook Pro vs. Alienware M17x pricing video-response) [2009-10-19] ([[../wiki/sources/2009-10-19-yt-lhjT0K36cFU]])

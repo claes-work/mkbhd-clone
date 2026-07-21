@@ -1,7 +1,7 @@
 ---
 type: persona
 updated: 2026-07-21
-sources: 349
+sources: 386
 ---
 
 # Biography
@@ -110,6 +110,23 @@ _Surfaced by ten @mkbhd 2009-origin P2 batches (Apr–Jul 2009, all solo, age 15
 > writing for," 2009-06-05 and 2009-07-08) suggest possible freelance writing for an outside tech-freeware
 > site at 15 (caption garble points to TechSupportAlert.com). Self-reported, site-name-uncertain — tracked
 > in [[../wiki/gaps|wiki/gaps.md]], not asserted as biographical fact.
+
+## Corpus-derived anchors (origin-2009 Jul–Nov deepening) — added synthesis pass 6 (2026-07-21)
+
+_Surfaced by five @mkbhd 2009-origin P2 batches (Jul 19 → Nov 7 2009, all solo, age 15). Family/private life still treated as not-public (SUBJECT.md)._
+
+- **Subscriber timeline continues: 2,000 (2009-07-27) → 2,300 (2009-08-18).** Extends the dated origin
+  growth curve (74→95→260→450→...→1,570→2,000→2,300). 🗣️ ([[../wiki/sources/2009-07-27-yt-rvvTJEWHOTM]]) · ([[../wiki/sources/2009-08-18-yt-HhhycJL_muM]])
+- **2009-10-15 — a two-week wrongful YouTube channel suspension**, first mention of this incident in
+  the corpus: no cause given, resolved after he contacted YouTube directly, all videos and subscribers
+  restored. 🗣️ ([[../wiki/sources/2009-10-15-yt-33cOm8jDCFQ]])
+- **2009-10-15 — school/channel balance disclosed.** Names a **varsity sport** plus **AP classes** as
+  the competing time commitments for the school year, settling on a 3–5-video/week cadence as the
+  compromise. 🗣️ ([[../wiki/sources/2009-10-15-yt-33cOm8jDCFQ]])
+- **The 2009 origin-era long tail closes.** Every remaining @mkbhd row from Nov 2009 through mid-Feb
+  2010 came back `no-captions` (low-view early uploads, not rate-limiting) — the ingest of the 2009
+  origin era is now complete to the extent captions exist; corpus coverage picks back up once 2010
+  content with captions resumes.
 
 ## Personal life (privacy-first by policy)
 

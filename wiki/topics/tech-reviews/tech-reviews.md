@@ -104,6 +104,38 @@ The Feb-2009 origin-of-the-method thread (pass 3/4) continues through spring/sum
   corroborated four times across two weeks in this era; a conscious content-mix policy, not a coincidence.
   [2009-06-05] ([[2009-06-05-yt-CNcVkVJ2bTA]])
 
+## Review methodology hardens further, Jul–Nov 2009 (age 15) — added synthesis pass 6 (2026-07-21)
+Continues the pass-3/4/5 origin-methodology thread: the numeric scoring ladder gets its highest
+origin mark yet, scoring is explicitly named a hardware-only convention, and an early price-to-value
+judgment appears in a new format (the video response).
+- **Origin scoring ladder hits a new high — "the highest rating I have ever given."** The Wrapsol
+  Protection System review scores **9.5/10**, stated outright as a new personal high (ladder now:
+  9/10 → 8.5/10 → 8/10 → 8/10 → **9.5/10**), and is built on an explicit **side-by-side visual
+  comparison** against an unnamed competing product (air bubbles/altered look vs. a clean matte
+  finish) — a concrete instance of comparative-review methodology and an early ancestor of the later
+  "compared to what?" framing. [2009-08-04] ([[2009-08-04-yt-AMLzrGSdCtQ]])
+- **Widest unbox→review turnaround yet — the "stated vs. actual" pattern continues.** The DS
+  International Flexible Keyboard review (**8/10**) closes an unbox opened 2009-06-30 roughly **nine
+  weeks later**, against his stated "one to three weeks" goal — the widest gap on record in this
+  recurring thread. Also notable production trivia: filmed and edited entirely inside **Camtasia
+  Studio 6** (screen-capture software) for a *physical hardware* review — "a new style of a review."
+  [2009-08-31] ([[2009-08-31-yt-x6hTpgmYqNg]])
+- **HQ-by-default put to a vote; a past mistake corrected on camera.** The YouTube Tags tutorial
+  crowdsources whether to force high-quality streaming by default on all future videos (echoing the
+  earlier upload-cadence and mega-widescreen votes), and names his own past tagging error (a stretch
+  tag that distorted his Update-2.3 watermark) as a cautionary, self-corrected example. [2009-09-12]
+  ([[2009-09-12-yt-8mzxiKmhfmY]])
+- **Scoring explicitly named a hardware-only convention.** Reviewing DeskTube (freeware), he scores it
+  **8/10 ("I'd give it a B")** but flags the act itself as unusual — "if I were to give this a
+  hardware sort of rating, I know I don't do that often" — direct primary-source confirmation that
+  numeric scoring was, by his own account, a hardware-review norm not yet routinely applied to
+  software. [2009-10-22] ([[2009-10-22-yt-uzOCg72esb4]])
+- **Video-response price-to-value judgment — an early precursor.** Redoing another creator's
+  MacBook Pro-vs-Alienware M17x pricing comparison transparently on-screen (spec-matched
+  configurations, running price gap), he lands on: **"I'm not going to pay $1,000 for an aluminum
+  casing and an operating system."** An early, direct statement of price-to-value reasoning, years
+  before "grade on the right curve" gets named as such. [2009-10-19] ([[2009-10-19-yt-lhjT0K36cFU]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

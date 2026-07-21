@@ -6,21 +6,55 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **the first 48 ingest batches (349 L2 sources)** — synthesis passes 1–2 (133 L2),
-pass 3's 9 batches (@AutoFocus 2026 Q1 EV + @mkbhd Feb-2009 origin P2, through L2=202), pass 4's
-10 batches (@mkbhd Feb–Apr 2009 origin P2 long tail, through L2=274), PLUS pass 5's 10 batches: the
-first @WaveformClips dedup batch + the @mkbhd Apr–Jul 2009 origin P2 long tail (through L2=349).
+Synthesized through: **five real ingest batches since pass 5 (386 L2 sources)** — synthesis passes
+1–2 (133 L2), pass 3's 9 batches (@AutoFocus 2026 Q1 EV + @mkbhd Feb-2009 origin P2, through L2=202),
+pass 4's 10 batches (@mkbhd Feb–Apr 2009 origin P2 long tail, through L2=274), pass 5's 10 batches
+(first @WaveformClips dedup batch + @mkbhd Apr–Jul 2009 origin P2 long tail, through L2=349), PLUS
+pass 6's five real @mkbhd 2009-origin P2 batches (Jul 19 → Nov 7 2009, through L2=386) plus two
+zero-yield no-captions batches and three stage-orientation-only PO-token-block diagnostics (0 new
+material) that padded the 10-batch debt counter without adding sources.
 Covers every `wiki/sources/` page that was L2 as of 2026-07-21 (`## [2026-07-19] ingest` batches
 1–19 (passes 1–2) + `## [2026-07-20] ingest` batches 20–38 (passes 3–4) + batch 39, the
 @WaveformClips dedup batch (pass 5 start) + `## [2026-07-21] ingest` batches 40–48, nine @mkbhd
-batches (pass 5) in `log.md`).
+batches (pass 5) + `## [2026-07-21] ingest` batches 49–53, five real @mkbhd batches (pass 6) +
+two zero-yield no-captions batches + three PO-token-block stage-orientation entries, in `log.md`).
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_None — synthesis is caught up with ingest (L2=349). Next checkpoint at the next channel/era
-boundary or ~10 more batches._
+_None — synthesis is caught up with ingest (L2=386). Next checkpoint at the next channel/era
+boundary or ~10 more batches. Note: the ingest→captions path (yt-dlp PO-token gate) is currently
+blocked environment-wide (six consecutive confirmations as of this pass) — resuming Stage B ingest
+next iteration should re-probe the block before spending a batch._
 
 ## Done checkpoints
+- [x] **Era: @mkbhd Jul–Nov 2009 origin P2 long tail (37 new L2, batches 49–53) + the debt-counter
+  padding from two zero-yield no-captions batches and three PO-token-block diagnostics** — sixth
+  synthesis pass. Debt hit the 10-batch checkpoint largely via administrative/zero-yield entries (a
+  systemic yt-dlp PO-token caption-fetch block, six-times confirmed as of this pass) rather than raw
+  volume — synthesizing now was the productive move while ingest is network-blocked. Drained the five
+  real batches' worth of `Synthesis notes:`. **Topic hubs (L3):** `tech-reviews` — the origin scoring
+  ladder's new high (Wrapsol 9.5/10, "the highest rating I have ever given," + its side-by-side
+  comparative method, an early "compared to what?" ancestor), the widest unbox→review turnaround yet
+  (DS Intl keyboard, ~9 weeks) + a hardware-review filmed in Camtasia Studio 6, HQ-by-default put to a
+  vote + an on-camera self-correction, scoring explicitly named a hardware-only convention (Desktube),
+  and an early price-to-value video-response judgment (MacBook Pro vs. Alienware M17x, "not paying
+  $1,000 for a casing"); `creator-business` — the subscriber timeline to 2,300 + the first explicit
+  upload-cadence policy, MKBHD Update 4.0's four threads (the two-week wrongful suspension, the
+  YouTube Partnership threshold raised ~2,000→~10,000 as an evolving position, the mega-widescreen
+  format vote, the varsity-sport+AP-classes time-constraint disclosure), a second named PR-outreach
+  relationship (iSkin), dedicated review-outreach email tooling, and giveaways starting to
+  cross-promote a second platform (Twitter); `consumer-tech-culture` — the red-and-black customization
+  statement upgraded from preference to deliberate choice (iFrogz Fallouts), and a genuine "Dope Tech"
+  precursor a decade early (gScreen Spacebook, specs-only/no-unit novelty coverage). **Persona:**
+  `beliefs.md` (+2 origin values: do-the-math-yourself-transparently, corrects-his-own-mistakes-on-camera),
+  `voice.md` (+5 verbatim quotes: red-and-black-customization, the cadence policy, the "highest rating"
+  superlative, the suspension disclosure, the "$1,000 casing" judgment), `biography.md` (subscriber
+  timeline to 2,300, the two-week suspension, the varsity-sport/AP-classes constraint, a note that the
+  2009 origin era is now closed to the extent captions exist). Recompiled `persona/system-prompt.md`
+  **v5 → v6** (compiled_from_sources 349 → 386). No new topic pages created (all promotions extended
+  existing hubs/persona). No contradictions flagged (the Partnership-threshold change is an evolving
+  position, explicitly noted as such, not a contradiction). No fabrication, all English. Done
+  2026-07-21 (synthesis pass 6).
 - [x] **Era: @WaveformClips first dedup batch + @mkbhd Apr–Jul 2009 origin P2 long tail (75 new L2,
   batches 39–48)** — fifth synthesis pass. Drained the ten accumulated `Synthesis notes:` lines since
   pass 4 (all @mkbhd solo except 4 @WaveformClips L2's, ensemble-gated — 0 confident-Marques quotes
