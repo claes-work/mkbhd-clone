@@ -244,6 +244,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-08-20 — [[2009-08-20-yt-qzg9llUcooQ|SEXIEST Firefox Glass!]] · consumer-tech-culture
 - 2009-08-22 — [[2009-08-22-yt-YLLX8jeMeqw|Tweet Your Youtube Videos [HD Tutorial]]] · creator-business, consumer-tech-culture
 - 2009-08-24 — [[2009-08-24-yt-bYNiRzN6d1Y|Blu - Twitter Client for Windows [HD Installation]]] · consumer-tech-culture, creator-business
+- 2009-08-26 — [[2009-08-26-yt-1paoVfC6b1s|HD Tutorial: Custom Dock Icons]] · consumer-tech-culture
+- 2009-08-29 — [[2009-08-29-yt-lw30WEhcxJE|Tour of Youtube Annotations [HD]]] · creator-business, consumer-tech-culture
+- 2009-08-31 — [[2009-08-31-yt-x6hTpgmYqNg|Reviewed: DS International Flexible Keyboard [HD]]] ★ · tech-reviews, consumer-tech-culture, creator-business
+- 2009-09-03 — [[2009-09-03-yt-Xl16ZqMA1mU|Google Chrome 3.0 / 4.0 Themes [HD]]] · consumer-tech-culture
+- 2009-09-06 — [[2009-09-06-yt-O3ytDuTQ-fw|Tech Channel of the Week #12]] ★ · creator-business, consumer-tech-culture
+- 2009-09-12 — [[2009-09-12-yt-8mzxiKmhfmY|HD Tutorial: Youtube Tags]] ★ · creator-business, consumer-tech-culture
+- 2009-09-13 — [[2009-09-13-yt-Oc2Qc2i_h9Q|HD Tutorial: Stack Docklets 2.0 [Windows]]] · consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -405,4 +412,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_364 videos ingested (L2) so far._
+_371 videos ingested (L2) so far._

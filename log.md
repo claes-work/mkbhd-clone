@@ -1852,3 +1852,40 @@ shoutout to named viewers -- a minor engagement-habit variant of the existing Te
 the-Week reciprocal-growth thread, not a new mechanism. Synthesis debt now 2 batches since pass 5
 (checkpoint at 10) -- next iteration continues Stage B ingest (@mkbhd P2, next oldest-first slice
 from 2009-08-25 onward).
+
+## [2026-07-21] ingest | yt batch (@mkbhd, 8) — 2009 origin P2 (Aug 26 → Sep 13): dock-icon customization / YouTube annotations tour / DS International Flexible Keyboard REVIEW + Chrome 3.0 themes / Tech Channel of the Week #12 (iBellix) + YouTube tags tutorial (HQ-by-default vote) / Stack Docklets 2.0
+
+Videos (-> `wiki/sources/`): 2009-08-26 HD Tutorial: Custom Dock Icons . 2009-08-29 Tour of
+Youtube Annotations [HD] . 2009-08-31 Reviewed: DS International Flexible Keyboard [HD] .
+2009-09-03 Google Chrome 3.0 / 4.0 Themes [HD] . 2009-09-06 Tech Channel of the Week #12 .
+2009-09-12 HD Tutorial: Youtube Tags . 2009-09-13 HD Tutorial: Stack Docklets 2.0 [Windows].
+1 no-captions: 2009-10-02 "Guess Who's BACK" (auto-captions non-substantive; ledger notes
+set to no-captions, left at L0-discovered).
+
+**Attribution.** Solo @mkbhd channel throughout (age 15) -- no quarantine needed, all quote banks
+are directly Marques-attributed.
+
+**Bookkeeping:** 7 new `wiki/sources/` pages; 7 rows inserted into `wiki/sources/youtube-index.md`
+in date order; footer 364 -> 371; `index.md` count 364 -> 371 + batch note. Ledger: 7 rows set to
+L2 (domains/notes set via `ledger_set.py`); 1 row notes set to no-captions. No fabrication, all
+English. Debt counter 2 -> 3 (checkpoint at 10).
+
+Synthesis notes: Three star L3-candidates, no new frameworks. (1) star **Reviewed: DS
+International Flexible Keyboard** (`x6hTpgmYqNg`, 2009-08-31) -- scores 8/10 and closes the
+2009-06-30 unbox ([[wiki/sources/2009-06-30-yt-t7zDDvbZDOQ]]) roughly **9 weeks later**, the
+widest unbox-to-review gap yet in the recurring "stated turnaround vs. actual turnaround"
+thread (prior stated goal: "one to three weeks"); also notes the review was filmed/edited
+entirely in Camtasia Studio 6 for a *physical* hardware review, a dated production-methodology
+detail worth cross-referencing against his later dedicated-camera hardware setup. (2) star
+**Tech Channel of the Week #12** (`O3ytDuTQ-fw`, 2009-09-06) -- features "iBellix" (David Bell),
+the same viewer he shouted out live on-camera in the 2009-08-24 Blu video
+([[wiki/sources/2009-08-24-yt-bYNiRzN6d1Y]]); a concrete, dated instance of the shoutout-to-
+feature pipeline inside the existing peer-discovery/community-growth-engine thread. (3) star
+**HD Tutorial: Youtube Tags** (`8mzxiKmhfmY`, 2009-09-12) -- puts the HQ-by-default production
+standard to an explicit audience vote (echoes the earlier upload-cadence vote in Update 3.0),
+and self-corrects an earlier tagging mistake (Update 2.3's stretched watermark) on camera.
+Minor, non-star notes: **HD Tutorial: Custom Dock Icons**, **Google Chrome 3.0/4.0 Themes**, and
+**HD Tutorial: Stack Docklets 2.0** are routine extensions of already-logged customization/
+browser-tutorial threads. Synthesis debt now 3 batches since pass 5 (checkpoint at 10) -- next
+iteration continues Stage B ingest (@mkbhd P2, next oldest-first slice from 2009-09-14 onward,
+or another open P2 channel).
