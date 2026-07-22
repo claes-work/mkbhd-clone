@@ -4,6 +4,59 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | stage-orientation only, differently-configured probes (tv/web player clients) confirm blocker is not a player-client issue (4th+ confirmation), iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly, no per-video subagents, batch size 8, per this loop's
+spawn-model rule for dispatched runs). Orientation (`python tools/ingest_batch.py status` +
+SUBJECT.md + `grep "^## \[" log.md`): synthesis debt 2/10 (not due), all 5 TARGET channels
+enumerated (no Stage A), no persona-staleness signal — no S/P/A rule fires. Open long-form
+unchanged: `@AutoFocus` 104 (P2), `@TheStudio` 104 (P2/P3), `@Waveform` 293 (**P1:1**,
+P2:275, P3:17), `@WaveformClips` 622 (P2/P3), `@mkbhd` 1215 (P2/P3); open shorts 364. The
+one open P1 row anywhere is still `@Waveform`'s `yt-NofmSGPCDr4` ("That's a Totally Normal
+Thing to Say! (Trivia Extravaganza 2026)", fresh-upload) — the P1/freshness rule fires for
+`@Waveform`, so Stage B targeted that video first, per the task brief.
+
+Per the prior iteration's own standing recommendation ("stop re-running single-video probes
+with the same command; try a differently-configured probe — different player client —
+instead of repeated re-diagnosis"), ran two new probes against the same P1 target rather
+than repeating the default (`android_vr`/`web_safari`) probe a 4th time:
+`--extractor-args "youtube:player_client=tv"` and `...=web`, both with `--skip-download
+--write-auto-sub --sub-langs 'en.*'`, both against the fully-configured environment (fresh
+`/home/roster/roster-run/cookies.txt`, `/etc/yt-dlp.conf` throttle block, bgutil PO-token
+provider stack up). **Both fail identically**: `tv` client → `tv player response
+playability status: LOGIN_REQUIRED`; `web` client → `web player response playability
+status: LOGIN_REQUIRED`; both surface the same `ERROR: [youtube] NofmSGPCDr4: Sign in to
+confirm you're not a bot.` This rules out player-client selection as a workaround — the
+block reproduces across at least four distinct clients (`android_vr`, `web_safari`, `tv`,
+`web`) with a genuinely fresh, authenticated cookie file each time. Strengthens the prior
+finding that this is a systemic/IP-reputation-style bot-check rather than anything
+addressable from the client-selection or cookie-freshness angle.
+
+**Safety rail invoked** (per task brief: 3 consecutive yt-dlp failures → assume
+rate-limiting, finish bookkeeping for what succeeded, stop). This iteration's two probes are
+the 4th and 5th consecutive confirmations of this exact blocker across distinct client
+configs — well past threshold. No `tools/ingest_batch.py prepare` batch was run; nothing was
+ingested, skipped, or marked no-captions; no ledger rows touched; no `wiki/sources/`,
+`youtube-index.md`, or `index.md` changes; persona/system-prompt untouched (not stale).
+Dispatched as a downstream subagent, this run does not schedule wakeups, start loops, or
+touch the roster repo, per its own operating constraints.
+
+**Standing recommendation (updated).** Four distinct yt-dlp player clients now all
+reproduce the identical `LOGIN_REQUIRED` / "Sign in to confirm you're not a bot" error
+against a same-session-fresh, genuinely-authenticated cookie file, with the infra-side
+throttle config already in place. Player-client rotation is now also a settled dead end —
+recommend the next iteration NOT re-run any more yt-dlp probes at all (cheap or otherwise)
+until there is an actual infra-side signal that something changed (e.g. a different IP, a
+manually-verified browser session, or an explicit note in `/etc/yt-dlp.conf` or the cookie
+provenance). This looks like it needs a human-side fix (residential IP / proxy, or manual
+browser CAPTCHA solve to re-trust the account) rather than anything discoverable via more
+automated retries from this environment.
+
+Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchanged at 2
+ingest batches since synthesis pass 7 (checkpoint at 10; this stage-orientation-only entry
+does not count toward the debt, per the same reasoning as the prior three).
+
 ## [2026-07-22] ingest | stage-orientation only, cheap re-probe re-confirms sign-in/bot-check blocker (3rd confirmation), safety rail invoked, iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
