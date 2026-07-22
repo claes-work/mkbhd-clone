@@ -23,20 +23,23 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 _(oldest first; the synthesis loop drains these top-down)_
 _None — synthesis is caught up with ingest (L2=386). Next checkpoint at the next channel/era
 boundary or ~10 more batches. Note: the ingest→captions path (yt-dlp PO-token gate) is currently
-blocked environment-wide (fifteen consecutive confirmations as of 2026-07-22, confirmed on
+blocked environment-wide (sixteen consecutive confirmations as of 2026-07-22, confirmed on
 **all 5 of 5 TARGET channels** — @mkbhd, @AutoFocus, @TheStudio, @Waveform, @WaveformClips) —
 fully settled as an infra blocker, not a per-channel caption gap. pip/pip3/node/npm remain
-absent from PATH and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all fifteen
+absent from PATH and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all sixteen
 checks to date). The 15th confirmation (2026-07-22) departed from the cheap-check-only pattern
 and ran a real `ingest_batch.py prepare --channel @mkbhd --n 8` as a live re-test (not just the
 PATH/version check) — same PO-token gate, 8/8 no-captions. That run also caught and fixed a
 ledger-hygiene issue: the driver auto-marks PO-token-blocked rows `L1 no-captions`, which is a
 misclassification (blocked ≠ confirmed absent); the 8 rows were reverted to `L0-discovered` with
 an accurate `caption-fetch blocked ... retry once resolved` note (same treatment the
-2026-07-21 `@AutoFocus` batch established). The 16 `@mkbhd` rows marked plain `no-captions`
-by the two batches immediately BEFORE the gate was first diagnosed (2009 origin P2 "Nov 10 →
-Dec 2" and 2010 origin P2 "Feb 23 → Apr 25") remain **not** corrected — flagged as a P1
-curatorial follow-up since 2026-07-21, still open, still out of scope for a single iteration.
+2026-07-21 `@AutoFocus` batch established). The 16th confirmation (2026-07-22) resumed the
+cheap-check-only pattern per the standing recommendation — PATH/version/sudo unchanged from the
+15th confirmation's live re-test, so no new caption probe was run. The 16 `@mkbhd` rows marked
+plain `no-captions` by the two batches immediately BEFORE the gate was first diagnosed (2009
+origin P2 "Nov 10 → Dec 2" and 2010 origin P2 "Feb 23 → Apr 25") remain **not** corrected —
+flagged as a P1 curatorial follow-up since 2026-07-21, still open, still out of scope for a
+single iteration.
 Future iterations should keep doing ONE cheap environment check per wakeup (pip/node on PATH?
 yt-dlp version changed?) and only re-run a full caption probe if that check shows something
 changed — but should also periodically (every few iterations, not every one) run a live
