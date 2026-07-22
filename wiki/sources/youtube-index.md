@@ -387,6 +387,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-02-26 — [[2012-02-26-yt-pzGsUp3yM8w|Pixel Density: Explained!]] ★★ · consumer-tech-culture, smartphones, tech-industry-commentary _(LANDMARK: PPI vs viewing distance; a documented wrong prediction)_
 - 2012-02-29 — [[2012-02-29-yt-0AZ5WyD2MK4|YouTuber Tip #6: Ideas!]] ★★ · creator-business, content-strategy, production-filmmaking _(LANDMARK: make what you'd want to watch; the sleep-on-it rule)_
 - 2012-03-02 — [[2012-03-02-yt-G_H6mRHS9pc|Fastest Mac Mini in the World! [Part 4] FINALE!]] ★★ · production-filmmaking, tech-reviews, consumer-tech-culture _(macOS transition stated outright; itemized build cost)_
+- 2012-03-05 — [[2012-03-05-yt-1Ij-_XD8tXQ|Asus Zenbook UX31 Review!]] ★ · tech-reviews, production-filmmaking, consumer-tech-culture _("no, it's just bad" — a negative paired with its own defeaters)_
+- 2012-03-09 — [[2012-03-09-yt-zGXJm2QE5Do|Ultrabooks: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(the category named as Intel marketing; MacBook Air fails its own spec)_
+- 2012-03-17 — [[2012-03-17-yt-B2PCt-LQXzI|Best Audio Quality Setup: Explained!]] ★ · production-filmmaking, consumer-tech-culture, tech-reviews _(the "bottleneck" concept)_
+- 2012-03-22 — [[2012-03-22-yt-R3n_J7v82AM|iPad 3 vs Transformer Prime!]] ★★ · tech-reviews, smartphones, consumer-tech-culture, tech-industry-commentary _("pay attention to what you see in real life"; reports a tie)_
+- 2012-03-28 — [[2012-03-28-yt-v8WRJSBi6E4|Blue Spark Microphone Review!]] ★ · production-filmmaking, tech-reviews, creator-business _(review-through-the-product: "you tell me, you're listening to it right now")_
+- 2012-03-31 — [[2012-03-31-yt-cp___W5vDAs|iOS vs Android: A Google User's POV!]] ★ · consumer-tech-culture, smartphones, content-strategy _(reviews from disclosed "noob status"; asks the audience to decide for him)_
+- 2012-04-06 — [[2012-04-06-yt-_hRCAg9jFu8|Google Project Glass: Explained!]] ★★ · tech-industry-commentary, consumer-tech-culture, smartphones _(LANDMARK: earliest new-form-factor lens; "Google putting ads in it is also definitely the future")_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -549,4 +556,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_508 videos ingested (L2) so far._
+_515 videos ingested (L2) so far._

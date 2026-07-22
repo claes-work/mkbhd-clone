@@ -4,6 +4,76 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2012 origin Mar 5–Apr 6, 7/8 ingested
+
+Stage B. **Ninth consecutive clean batch**: 7 ingested, 0 skipped, **1 no-captions**
+(`yt-SvGlDmfoF9o` "The New iPad 3! [Teaser]", auto-marked — no subtitle track), 0 dup.
+508→**515 L2**.
+
+**`Google Project Glass: Explained!` (04-06) is the find of the batch.** It is his **earliest
+analysis of a wearable/AR product — twelve years before the Humane AI Pin review** the wiki treats
+as the canonical statement of his new-form-factor lens. Strikingly, the interrogation is already
+the same one, minus the later "smartphones are OP" anchor. Three questions: **how do you control
+it** ("if you're doing something important like — well, I don't know, driving a car — you might want
+to be able to leave that notification in the corner"); **what does using it look like to other
+people** — the sharpest line in the video: "if you thought people looked ridiculous wearing
+Bluetooth headsets and talking to nobody, at least you could tell there was something on their ear…
+this is kind of just like someone walking up to you saying something to nobody, nodding in approval
+and walking away"; and **how does the maker monetize it** — "augmented reality is definitely the
+future. And **Google putting ads in it is also definitely the future** — hopefully not obtrusive
+ads." That last is the incentive-structure lens applied to a product that did not yet exist. He
+also opens by noting he "slept on it and thought about it" before publishing — the sleep-on-it
+discipline from eight days earlier, applied to *opinion formation* rather than editing.
+
+**`iPad 3 vs Transformer Prime` (03-22) completes the measurement-honesty cluster** with its
+clearest statement yet: "**don't believe what you see in these silly cross-platform benchmarks,
+they're almost never completely accurate — so pay attention to what you see in real life.**" He
+designs the alternative on camera (matched app workloads, escalating in intensity) and then reports
+a genuine tie rather than manufacturing a winner: "I never ever found myself saying that." He hands
+the deciding advantage to Apple's retina display while remaining an Android user, explains his own
+preference as ecosystem fit rather than superiority, and discloses that he had **bought an iPad 2
+and returned it**. This is even-handedness documented a year earlier than the wiki's current
+earliest instance (the 2013 iPhone 5s review).
+
+**Two more instances of criticism done carefully.** The Zenbook review lands an unqualified negative
+— "and the trackpad… **no, it's just bad**" — then immediately supplies the two reasons a viewer
+might discount it ("I don't know if it was just mine, or maybe I'm a mouse and keyboard kind of
+guy"), and argues *why the flaw is disqualifying for this class specifically* (on an ultraportable
+you can't carry a spare mouse). And in `iOS vs Android` he reviews a platform from a disclosed
+position of inexperience — "I'm a bit of a noob with iOS," "my iPad is pretty much noob status right
+now" — which extends the disclosed-baseline doctrine from product tier to **platform familiarity**.
+
+The **"Explained!" format is now clearly established** — three entries in three weeks (pixel density,
+ultrabooks, DACs), all triggered by a gap he noticed rather than a product launch, which is the
+"I don't see it on YouTube and I want it to be there" principle from 02-29 in visible action.
+`Ultrabooks: Explained!` is the most interesting of the three because it treats a **product category
+as a marketing artifact with an owner and a motive** — Intel's answer to the MacBook Air — and then
+finds that the MacBook Air and the Chromebook both fail the spec. `Best Audio Quality Setup` supplies
+a reusable analytical tool: **the bottleneck**, a chain performing at the level of its worst
+component.
+
+Rounding out: the **Blue Spark** review is the second clean instance of **review-through-the-product**
+("how does it sound? You tell me. You're listening to it right now"), completes a deliberately
+cross-linked audio signal chain (mic → interface → DAC → headphones) across three videos in eleven
+days, and undercuts its own "zero background noise" claim with a joke about his roommate — a further
+college-era living detail.
+
+Bookkeeping: 7 ledger rows → L2 with domains/notes; 7 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 508 → 515 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **The new-form-factor lens at its origin** (control / social legibility /
+business model) → `persona/beliefs.md`, cross-linked to the 2024 Humane AI Pin entry as its dated
+ancestor. (2) ★★ **"Pay attention to what you see in real life"** — promote as a named position; it
+now anchors a four-video measurement-honesty cluster. (3) ★★ **Even-handedness dated to 2012**, with
+a disclosed purchase-and-return as evidence. (4) ★ **Negative verdicts paired with their own
+defeaters**, and **flaws weighted by device class** — two method refinements. (5) ★ **The bottleneck
+concept** as a reusable tool. (6) ★ **Category-as-marketing-artifact** reasoning (ultrabooks) — the
+incentive lens applied to taxonomy, anticipating the later "everything high-end is just called Pro
+now." (7) ★ Format ledger: "Explained!" confirmed as a recurring series. (8) ★ Biography colour:
+roommate, spring-break trip to the southern US, owned/returned an iPad 2, excited for the Masters.
+Debt: 2 ingest batches since synthesis pass 8 (checkpoint at 10).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2012 origin Feb 10–Mar 2, 8/8 ingested
 
 Stage B, first batch after synthesis pass 8. **Eighth consecutive clean batch, fourth zero-loss**:
