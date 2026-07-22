@@ -304,6 +304,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2010-11-25 — [[2010-11-25-yt-5Ww9OLkJOEM|Canon EOS Rebel T2i Unboxing]] · tech-reviews, production-filmmaking
 - 2010-11-28 — [[2010-11-28-yt-blUOmfxNg2c|Asus UL30A-X5 \| Canon T2i Video Test]] ★★ · tech-reviews, production-filmmaking
 - 2010-12-05 — [[2010-12-05-yt-4vaOw5J8A9w|Editors Keys SL150 Microphone \[HD\]]] · tech-reviews, production-filmmaking
+- 2010-12-08 — [[2010-12-08-yt-zRqfTwA0o-o|GiftYouTube / PrizeYouTube SCAM]] · creator-business, tech-industry-commentary
+- 2010-12-12 — [[2010-12-12-yt-45-CdB3yhbY|Chromedeck Tips and Tricks!]] · tech-industry-commentary
+- 2010-12-13 — [[2010-12-13-yt-ScrOoe9vUIU|GIVEAWAY: Beats By Dre Studio \[Closed\]]] · creator-business
+- 2010-12-19 — [[2010-12-19-yt-dfB5dy-gitM|Update \| YouTube Video Tips]] · creator-business, production-filmmaking
+- 2010-12-21 — [[2010-12-21-yt-JGkt3FZJiZs|GoogleTV Video Contest Entry]] · tech-industry-commentary, consumer-tech-culture
+- 2010-12-24 — [[2010-12-24-yt-LZKmeweVcJ0|MKBHD YouTube Tips \| #1]] ★ · creator-business, production-filmmaking
+- 2010-12-27 — [[2010-12-27-yt-o-UoLW0XkfA|Zune HD: Revisited]] · tech-reviews
+- 2010-12-28 — [[2010-12-28-yt-EUTHE2yN43U|DSLR Video - Tips & Tricks]] · production-filmmaking
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -465,4 +473,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_424 videos ingested (L2) so far._
+_432 videos ingested (L2) so far._

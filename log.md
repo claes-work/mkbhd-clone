@@ -4,6 +4,78 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (7th consecutive clean batch), 8/8 ingested, 0 skipped, 0 no-captions, 0 dup
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere (fully
+drained several passes ago); open P2/P3 on every channel (@AutoFocus 104, @TheStudio 104,
+@Waveform 292, @WaveformClips 622, @mkbhd 1247 pre-batch); open shorts 364; ingested
+L2=424/L3=0 pre-batch. Driver-reported synthesis debt "2/10" is known-unreliable (log.md
+file-ordering quirk documented in `pipeline/synthesis-state.md` — the pass-6 heading sits
+mid-file from the old append-at-bottom convention, so the driver only counts entries
+physically below it); manual tally says this is the **7th real ingest batch since pass 6**
+(386 → 393 → 396 → 401 → 409 → 417 → 424 → 432 L2), still short of the 10-batch checkpoint.
+No channel/era boundary crossed. Stage machine selected **Stage B** (open P2 rows exist on
+every channel; no S/P/A rule matched).
+
+**Environment check before spending the batch** (per the standing recommendation from the
+PO-token-gate saga): `pip`/`pip3`/`node`/`npm` present on PATH, `yt-dlp --version` still
+`2026.07.04`, and the local bgutil PO-token server at `127.0.0.1:4416` responded — unchanged
+since the gate was resolved. Ran `python tools/ingest_batch.py prepare --channel @mkbhd --n 8
+--dry-run` to preview (all 8 titles solo/Marques-fronted, no promo trailers or guest-only
+content), then for real: `python tools/ingest_batch.py prepare --channel @mkbhd --n 8`
+against the oldest open P2 rows (2010-12-08 → 2010-12-28, continuing the origin-era
+chronological long tail). **8/8 came back `ok` with usable captions** — the seventh
+consecutive clean batch since the gate was resolved, no rate-limit or gate regressions.
+All 8 were written as normal L2 source pages (no skips this batch).
+
+Ingested (all @mkbhd, all solo/Marques attribution):
+- **GiftYouTube / PrizeYouTube SCAM** (2010-12-08) — an off-format PSA warning
+  subscribers about a comment-spam credential-hijack scam; explicit "I really value you
+  guys as subscribers" duty-of-care framing.
+- **Chromedeck Tips and Tricks!** (2010-12-12) — TweetDeck-on-Chrome tutorial; discloses
+  he applied for Google's Chrome OS pilot program (Cr-48-era), a dated biography anchor.
+- **GIVEAWAY: Beats By Dre Studio [Closed]** (2010-12-13) — a Beats-headphones giveaway
+  tied to a 15,000-subscriber stretch goal, run as part of a named cross-channel
+  promotion ("12 Giveaways of Christmas," MacintoshTips.com) with the prize shipped
+  directly by Monster Cable.
+- **Update | YouTube Video Tips** (2010-12-19) — pre-launches the "YouTube Video Tips"
+  series, confirms the T2i + Camtasia Studio 7 production toolchain, and solicits topic
+  requests (the same audience-request content pipeline established earlier in the
+  corpus).
+- **GoogleTV Video Contest Entry** (2010-12-21) — a contest-entry video with a genuine
+  self-reported media-consumption anchor: "the majority of the content I actually view
+  is on YouTube." Caption garbles his name as "Marcus Brownley" — flagged, not asserted.
+- **MKBHD YouTube Tips | #1** (2010-12-24) ★ — the batch's landmark find: a direct,
+  dated, first-person **channel-name-origin story**. He states he started under his own
+  name ("I just picked Marcus Brownley cuz that's my name") and only adopted "MKBHD" for
+  memorability ("much easier to remember"). Also gives the most concrete account yet of
+  his literal first hardware video (webcam pointed at a laptop-cooler box he'd bought
+  himself) and names CamStudio as his original free screencasting tool — extends the
+  `production-filmmaking` origin-toolchain thread. Flagged ★ for the next synthesis pass.
+- **Zune HD: Revisited** (2010-12-27) — names the Zune HD his #1 MP3 player, explicitly
+  against the "everyone just got an iPod Touch" holiday consensus; structured head-to-head
+  against the iPod Touch on marketplace (loses) vs. display/gameplay quality (wins).
+  Auto-captions garble the product name as "Zoom HD" throughout — corrected per fidelity
+  rule 6 (title and product details confirm Zune HD).
+- **DSLR Video - Tips & Tricks** (2010-12-28) — states a production philosophy directly:
+  "make the gadget the star of the show" via shallow depth of field, plus a lens-over-body
+  quality claim and a self-assessed-beginner hedge ("I am kind of a noob at this").
+
+No rate limits, no fabrication, all English. `wiki/sources/youtube-index.md` rows inserted
+in date order (footer bumped 424 → 432); `index.md` running-history block updated (both the
+top "Last updated" narrative and the `## Sources` YouTube sub-index line, count 424 → 432).
+Ledger: all 8 rows set `status=L2` with `domains`/`notes` via `tools/ledger_set.py`.
+
+Synthesis notes: One ★ L3-candidate — the MKBHD-YouTube-Tips-1 channel-name-origin story
+(started under his real name, switched to "MKBHD" for memorability; extends the origin
+production-toolchain thread with CamStudio). Everything else this batch is minor/
+administrative (a PSA, a software tutorial, a giveaway announcement, a series pre-launch,
+a contest entry, an MP3-player opinion piece, a production-tips video) — genuinely new but
+not landmark; stays L2 pending the next synthesis pass. Debt now 7 real ingest batches
+since pass 6 (checkpoint at 10; manual tally, see note above on the driver's undercount).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (6th consecutive clean batch), 7/8 ingested, 1 skipped (guest-hosted, no subject content), 0 no-captions, 0 dup
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single

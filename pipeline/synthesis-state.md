@@ -21,10 +21,11 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_Six real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 L2: the @mkbhd
-Apr 28–Jun 8 2010 batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–Aug 26 2010
-batch, the @mkbhd Sep 3–28 2010 batch, the @mkbhd Oct 13–Nov 12 2010 batch, then the @mkbhd
-Nov 17–Dec 5 2010 batch) — still short of the 10-batch checkpoint (see
+_Seven real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 → 432 L2: the
+@mkbhd Apr 28–Jun 8 2010 batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–Aug 26
+2010 batch, the @mkbhd Sep 3–28 2010 batch, the @mkbhd Oct 13–Nov 12 2010 batch, the @mkbhd
+Nov 17–Dec 5 2010 batch, then the @mkbhd Dec 8–28 2010 batch) — still short of the 10-batch
+checkpoint (see
 `tools/ingest_batch.py status` for the live driver-computed count; note the driver currently
 reports a lower number than this manual tally — a log.md
 file-ordering quirk: `batches_since_synthesis()` in `tools/ingest_batch.py` scans the whole file
@@ -33,6 +34,19 @@ pass-6 heading sits mid-file (from when the log convention was append-at-bottom)
 entries are now prepended at the top, so only the handful of ingest entries physically BELOW the
 pass-6 heading get counted, not the real newest ones above it. Worth a driver fix at some point;
 until then, trust this manual tally over the driver's printed number for checkpoint timing).
+The seventh batch (@mkbhd Dec 8–28 2010, 8 L2, 424→432) confirmed the PO-token gate stays
+resolved for a seventh consecutive time (8/8 clean, no skips/no-captions) and surfaced the
+batch's headline ★ finding: **MKBHD YouTube Tips | #1** (`yt-LZKmeweVcJ0`, 2010-12-24) gives a
+direct, dated, first-person **channel-name-origin story** — he started the channel under his
+own name and switched to "MKBHD" for memorability, and separately narrates his literal first
+hardware video (a self-owned laptop cooler, shot with a laptop webcam) and names CamStudio as
+his original free screencasting tool. Promote to `persona/biography.md` at the next synthesis
+pass; also extends the `production-filmmaking` origin-toolchain thread. Minor, non-★ additions
+worth noting: a Chrome OS pilot-program application (`Chromedeck-Tips-and-Tricks`, dated
+biography anchor), a 15,000-subscriber giveaway stretch goal with a named cross-promotion
+partner (MacintoshTips.com), and a caption garble worth remembering if anyone greps the raw
+transcripts — `Zune-HD-Revisited`'s auto-captions render the product as "Zoom HD" throughout;
+the wiki page corrects this per fidelity rule 6.
 The sixth batch (@mkbhd Nov 17–Dec 5 2010, 7 L2 + 1 skipped guest-hosted row, 417→424) confirmed
 the PO-token gate stays resolved for a sixth consecutive time (7/7 attempted ingests usable) and
 surfaced one ★★-flagged finding worth prioritizing at the next synthesis pass: the scoring
