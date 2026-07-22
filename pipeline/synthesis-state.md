@@ -131,6 +131,23 @@ still needs a cookie refresh from a signed-in browser session (or external confi
 broader YouTube-side bot-check escalation) before any caption-dependent stage (B or C) can run
 on any of the 5 TARGET channels.
 
+**3rd confirmation (2026-07-22, later same day) — rules out "stale cookies" as the cause.**
+Two infra-side changes had landed since the 2nd confirmation: `/etc/yt-dlp.conf` gained a
+`--sleep-requests`/`--sleep-interval` throttle block (commented "added 2026-07-22 to reduce
+datacenter-IP bot-checks"), and `/home/roster/roster-run/cookies.txt` was rewritten essentially
+during this very check (mtime 15:30:55 UTC vs. the probe's 15:31 UTC) with genuine authenticated
+Google-session cookies (`SID`, `SSID`, `HSID`, `APISID`, `SAPISID`, `__Secure-1PSID`,
+`__Secure-3PSID`, etc. — not just consent/analytics cookies). A live probe against the exact P1
+target (`@Waveform`'s `yt-NofmSGPCDr4`) with both changes in effect still returned the byte-for-
+byte identical `LOGIN_REQUIRED` / "Sign in to confirm you're not a bot" failure on both
+`android_vr` and `web_safari` player clients. **This is the key new finding: a same-minute-fresh,
+genuinely-authenticated cookie file does not fix it**, so this is not simple credential staleness.
+Recommend trying yt-dlp's other player clients explicitly (`--extractor-args
+"youtube:player_client=tv,web"` or similar) or checking whether the signed-in account itself is
+challenge-gated (CAPTCHA/phone verification) independent of yt-dlp, before further re-probing with
+the same command. Safety rail invoked at 3 consecutive confirmations; this iteration stopped
+without spending a full batch.
+
 ## Done checkpoints
 - [x] **Era: @mkbhd 2010 origin long tail + Aug–Sep 2011 (68 new L2, batches 54–63,
   386→454)** — seventh synthesis pass. Drained the ten-batch debt (the driver's own pending-

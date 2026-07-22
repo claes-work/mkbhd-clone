@@ -4,6 +4,83 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | stage-orientation only, cheap re-probe re-confirms sign-in/bot-check blocker (3rd confirmation), safety rail invoked, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly, no per-video subagents, batch size 8, per this loop's
+spawn-model rule for dispatched runs). Orientation (`python tools/ingest_batch.py status` +
+SUBJECT.md + `grep "^## \[" log.md`): synthesis debt 2/10 (not due), all 5 TARGET channels
+enumerated (no Stage A), no persona-staleness signal (pass 7 + its persona refresh were
+same-day) — no S/P/A rule fires. Open long-form: `@AutoFocus` 104 (P2), `@TheStudio` 104
+(P2/P3), `@Waveform` 293 (**P1:1**, P2:275, P3:17), `@WaveformClips` 622 (P2/P3), `@mkbhd`
+1215 (P2/P3); open shorts 364. Per the task brief and the ledger, `@Waveform`'s
+`yt-NofmSGPCDr4` ("That's a Totally Normal Thing to Say! (Trivia Extravaganza 2026)", fresh
+upload, discovered 2026-07-22) is the one open P1 row anywhere — the P1 rule fires for
+`@Waveform`, so Stage B targeted that channel/video first.
+
+Before spending a full 8-video batch, followed the standing recommendation from the two
+immediately-preceding entries: did the cheap environment check first, then one live
+single-video probe against the P1 target itself rather than an 8-video batch. **Environment
+check turned up two real changes since the last iteration**: (1) `pip`/`pip3`/`node`/`npm`
+are now all present on PATH (previously absent — that was the *old*, already-resolved
+PO-token-gate diagnostic, not this blocker, but noting the change for completeness); (2)
+`/etc/yt-dlp.conf` now carries a new `--sleep-requests 1.5 --sleep-subtitles 5
+--sleep-interval 2 --max-sleep-interval 6` throttle block explicitly commented
+`# added 2026-07-22 to reduce datacenter-IP bot-checks` — someone/something on the infra
+side is actively working this. (3) The cookies file itself was rewritten essentially
+*during* this iteration: `/home/roster/roster-run/cookies.txt` mtime 15:30:55 UTC vs. this
+probe's 15:31 UTC wall-clock — the freshest the cookie file has been at any check so far
+(prior confirmations found it ~2h stale). Inspected its contents: it does carry real Google
+account auth cookies for `.google.com`/`.youtube.com` (`SID`, `SSID`, `HSID`, `APISID`,
+`SAPISID`, `__Secure-1PSID`, `__Secure-3PSID`, `__Secure-3PAPISID`, `LSID`, etc. — a real
+signed-in session, not just consent/analytics cookies), and the bgutil PO-token provider
+server is up and responding (`{"server_uptime":28156s,"version":"1.3.1"}`, all three
+providers registered).
+
+Ran the live probe anyway (`yt-dlp -v --skip-download --write-auto-sub --sub-langs 'en.*'`
+against `NofmSGPCDr4`, the exact P1 target): **identical failure, byte-for-byte the same
+signature as both prior confirmations** — `android_vr` and `web_safari` player responses
+both `LOGIN_REQUIRED`, `ERROR: [youtube] NofmSGPCDr4: Sign in to confirm you're not a bot.
+Use --cookies-from-browser or --cookies for the authentication...`, despite the freshest
+cookie file yet and a fully-configured PO-token provider stack. **This rules out "merely
+stale cookies" as the root cause** — a cookie file rewritten within the same minute as the
+probe, containing genuine authenticated-session cookies, still gets `LOGIN_REQUIRED` from
+both tested player clients. The infra-side throttle addition also has not resolved it (this
+probe ran with the new `/etc/yt-dlp.conf` sleep settings already in effect). This looks
+increasingly like a broader YouTube-side bot-check escalation (possibly IP-reputation-based,
+independent of account/cookie state) rather than anything fixable by refreshing credentials
+from this side.
+
+**Safety rail invoked**: this is the 3rd consecutive confirmation of this specific
+sign-in/bot-check blocker (systemic, not isolated 429s), meeting this iteration's
+threshold to stop rather than burn a full batch against a confirmed-still-broken fetch
+path. Per instruction, finishing bookkeeping for what succeeded (nothing was ingested) and
+stopping here. No `tools/ingest_batch.py prepare` was run without a dry probe; the one
+live single-video check above was the only fetch attempt. 0 ingested, 0 skipped, 0
+no-captions marked, 0 dup. No ledger rows touched, no `wiki/sources/`, `youtube-index.md`,
+or `index.md` changes. Persona/system-prompt untouched (not stale). Dispatched as a
+downstream subagent, this run does not schedule wakeups, start loops, or touch the roster
+repo, per its own operating constraints.
+
+**Standing recommendation (updated).** The infra side is already iterating (new throttle
+config, freshly-rewritten cookies) but the blocker persists unchanged through both changes —
+this is no longer a "wait for a stale cookie to rotate" situation. Recommend escalating this
+as its own workstream with the finding that a same-minute-fresh, genuinely-authenticated
+cookie file plus correctly-configured PO-token providers still gets `LOGIN_REQUIRED` on
+`android_vr`/`web_safari` clients — worth trying yt-dlp's other player clients (e.g. `tv`,
+`web`) explicitly via `--extractor-args "youtube:player_client=..."`, or verifying the
+signed-in account itself isn't challenge-gated (CAPTCHA/phone verification) independent of
+yt-dlp. Future iterations should keep doing the cheap check (PATH + yt-dlp version + cookie
+mtime) but should stop re-running single-video probes every wakeup now that 3 consecutive
+identical confirmations exist with two independent infra changes in between — treat this as
+settled pending an actual infra-side fix or a differently-configured probe (different
+player client), not repeated re-diagnosis with the same command.
+
+Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchanged at 2
+ingest batches since synthesis pass 7 (checkpoint at 10; this stage-orientation-only entry
+does not count as a real ingest batch for debt purposes, consistent with prior such
+entries).
+
 ## [2026-07-22] ingest | stage-orientation only, cheap single-video re-probe re-confirms sign-in/bot-check blocker (2nd confirmation), 0 ingested, iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
