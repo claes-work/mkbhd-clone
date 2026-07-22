@@ -4,6 +4,49 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — live re-probe re-confirms PO-token block (19th confirmation), no ledger churn, 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model rule
+for dispatched runs). Orientation (`python tools/ingest_batch.py status`): identical to the 18th
+confirmation — 0 open P1 anywhere; open P2/P3 long-form on every channel (@AutoFocus 104,
+@TheStudio 104, @Waveform 292, @WaveformClips 622, @mkbhd 1295); open shorts 364; ingested
+L2=386/L3=0; synthesis debt 2/10 since pass 6 — no S/P/A rule matched. Stage machine selected
+**Stage B** (open P2 rows exist; persona not stale — debt only 2/10, no unreflected topic pages).
+
+Per `pipeline/synthesis-state.md`'s standing recommendation (cheap check most iterations, live
+re-test periodically since a server-side gate lift wouldn't show in PATH/version alone), ran the
+cheap check first: `which pip pip3 node npm` still empty (exit 1, nothing on PATH), `yt-dlp
+--version` still `2026.07.04`, `sudo -n true` still fails (password required), `python3 -m
+ensurepip` still reports no `ensurepip` module. All four signals unchanged from the 18th
+confirmation. Since the last live re-test was the 17th confirmation (two iterations back, the
+18th having been cheap-check-only), escalated to a real live probe this iteration per the
+alternating pattern the standing recommendation calls for: `python tools/ingest_batch.py prepare
+--channel @mkbhd --n 8 --no-mark` (oldest-first P2) — 8/8 came back `no-captions` again, same 8
+ids as the prior live re-tests would select (`m89I065ngos`, `D2aFMc8W1qQ`, `zoF2a0BAIec`,
+`f9_4lhN9zXM`, `ijgAj_FFaH0`, `8QvBKhk0owA`, `Wz5csgH8eFw`, `gYRObEyOWYM`). Used `--no-mark` so
+the ledger was never touched — zero churn, nothing to revert. Followed up with a manual verbose
+probe (`yt-dlp -v --skip-download --write-auto-sub --sub-lang en --write-sub` on `m89I065ngos`):
+identical signature — `[pot] PO Token Providers: none` → "Some web_safari client subtitles
+require a PO Token which was not provided" → "There are no subtitles for the requested
+languages". Environment otherwise unchanged: pip/pip3/node/npm absent from PATH, no
+`python3-pip` installed, `sudo`/`apt` need a password, no user-local `ensurepip` bootstrap
+available. Nineteenth consecutive confirmation; the blocker remains infra-side (no PO-token
+provider installable without root, network-side pip access, or a user-local `ensurepip`
+bootstrap; no yt-dlp release available that resolves the gate) and out of scope for this loop.
+
+**Safety rail invoked** (unresolved systemic fetch failure, now confirmed unchanged a 19th time;
+this iteration's probe used `--no-mark` so it caused zero ledger churn, needing no correction).
+0 ingested, 0 skipped, 0 no-captions ledger-marked, 0 dup. No ledger rows touched. No
+`wiki/sources/`, `youtube-index.md`, or `index.md` changes. Persona/system-prompt untouched (not
+stale; pass 6 was two days prior, debt only 2/10). Dispatched as a downstream subagent, this run
+does not schedule wakeups, start loops, or touch the roster repo, per its own operating
+constraints.
+
+Synthesis notes: none (0 new material this iteration; pipeline/infra finding only — the PO-token
+gate remains unresolved). Debt unchanged at 2 ingest batches since synthesis pass 6 (checkpoint
+at 10).
+
 ## [2026-07-22] ingest | stage-orientation only, cheap environment recheck per standing recommendation, unchanged (18th confirmation), 0 ingested, iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single

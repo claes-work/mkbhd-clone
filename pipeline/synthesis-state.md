@@ -23,12 +23,12 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 _(oldest first; the synthesis loop drains these top-down)_
 _None — synthesis is caught up with ingest (L2=386). Next checkpoint at the next channel/era
 boundary or ~10 more batches. Note: the ingest→captions path (yt-dlp PO-token gate) is currently
-blocked environment-wide (eighteen consecutive confirmations as of 2026-07-22, confirmed on
+blocked environment-wide (nineteen consecutive confirmations as of 2026-07-22, confirmed on
 **all 5 of 5 TARGET channels** — @mkbhd, @AutoFocus, @TheStudio, @Waveform, @WaveformClips) —
 fully settled as an infra blocker, not a per-channel caption gap. pip/pip3/node/npm remain
 absent from PATH, `python3 -m ensurepip` reports no `ensurepip` module either (no user-level
 pip bootstrap path), and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all
-seventeen checks to date). The 15th confirmation (2026-07-22) departed from the cheap-check-only
+nineteen checks to date). The 15th confirmation (2026-07-22) departed from the cheap-check-only
 pattern and ran a real `ingest_batch.py prepare --channel @mkbhd --n 8` as a live re-test (not
 just the PATH/version check) — same PO-token gate, 8/8 no-captions. That run also caught and
 fixed a ledger-hygiene issue: the driver auto-marks PO-token-blocked rows `L1 no-captions`, which
@@ -49,7 +49,12 @@ BEFORE the gate was first diagnosed (2009 origin P2 "Nov 10 → Dec 2" and 2010 
 2026-07-21, still open, still out of scope for a single iteration. The 18th confirmation
 (2026-07-22) resumed the cheap-check-only pattern (as the 16th did) since the 17th confirmation
 had just run a full live re-test one iteration prior — PATH/version/sudo/ensurepip all unchanged,
-no new caption probe run.
+no new caption probe run. The 19th confirmation (2026-07-22) escalated back to a live re-test
+per the alternating pattern (cheap-only two iterations back-to-back at 16/18 flanking live tests
+at 15/17) — cheap check (PATH/version/sudo/ensurepip) unchanged, then `prepare --channel @mkbhd
+--n 8 --no-mark` (same 8 oldest-P2 ids as prior probes) came back 8/8 no-captions, plus a manual
+`yt-dlp -v` probe on `m89I065ngos` reconfirming the identical `[pot] PO Token Providers: none` /
+"PO Token was not provided" gate. `--no-mark` again avoided ledger churn.
 Future iterations should keep doing ONE cheap environment check per wakeup (pip/node on PATH?
 yt-dlp version changed?) and only re-run a full caption probe if that check shows something
 changed — but should also periodically (every few iterations, not every one) run a live
