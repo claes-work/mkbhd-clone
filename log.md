@@ -4,6 +4,76 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (8th consecutive clean batch), 7/8 ingested, 0 skipped, 1 no-captions, 0 dup
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere (fully
+drained several passes ago, and the 7 "P1" rows still on record are all correctly
+excluded — 3 no-captions/429/fetch-error retry candidates plus one confirmed
+`dup-of:` clip); open P2/P3 on every channel (@AutoFocus 104, @TheStudio 104,
+@Waveform 292, @WaveformClips 622, @mkbhd 1239 pre-batch); open shorts 364; ingested
+L2=432/L3=0 pre-batch. Driver-reported synthesis debt "2/10" is the known-unreliable
+number (log.md file-ordering quirk documented in `pipeline/synthesis-state.md`); manual
+tally says this is the **8th real ingest batch since pass 6** (386 → 393 → 396 → 401 →
+409 → 417 → 424 → 432 → 439 L2), two batches short of the 10-batch checkpoint. No
+channel/era boundary crossed; persona not stale (last synthesis pass 6 was 2026-07-21,
+well under the 10-batch staleness threshold). Stage machine selected **Stage B** (open
+P2 rows exist on every channel; no S/P/A rule matched).
+
+Ran `python tools/ingest_batch.py prepare --channel @mkbhd --n 8` against the oldest
+open P2 @mkbhd rows (2010-12-30 → 2011-01-20, continuing the origin-era chronological
+long tail past the Dec-2010 batch). **7/8 came back `ok` with usable captions**; one
+(`yt-RhUL8whVGW0`, Android 3.0 - Honeycomb!) came back genuine no-captions (no subtitle
+track at all) and was marked `L1` — the eighth consecutive clean batch since the
+PO-token gate was resolved, no rate-limit or gate regressions (safety-rail threshold of
+3 consecutive yt-dlp failures never approached). The 7 ok videos were written as normal
+L2 source pages directly by the coordinator (no per-video subagents).
+
+Ingested (all @mkbhd, all solo/Marques attribution):
+- **Technology of 2010 - A Year in Review** (2010-12-30) — a "state of tech" 2010
+  recap (iPad, iPhone 4, Android's rise, social-networking boom, 3D TVs, Google TV,
+  MacBook Air, Chrome OS); closes with a self-reported channel-growth anchor: 250+
+  uploads on the MKBHD channel in 2010.
+- **MKBHD YouTube Tips | #2** (2011-01-03) — the graphics/branding episode: states the
+  red/black/white color-scheme explicitly as his brand palette, splits tooling by task
+  (Photoshop for the channel banner, a free Photoshop-alternative editor for other
+  graphics — name dropped by the auto-caption, resolved below).
+- **Apple Wireless Keyboard Review** (2011-01-08) — a structured pros/cons hardware
+  review from a Windows-user angle, made for a named-viewer video contest ("Dave from
+  geekanoids").
+- **Don't buy the Verizon iPhone 4 [Yet]** (2011-01-11) — a same-day PSA (explicitly
+  framed as advice, not a review) recommending buyers wait for the rumored iPhone 5
+  rather than buy the newly announced 3G-only Verizon iPhone 4.
+- **Optimize your HD Videos!** (2011-01-15) — a fake-HD upscaling tutorial (via MPEG
+  Streamclip, caption-garbled as "EG Stream Clip"), explicitly caveated as a screencast-
+  only workaround, not a general recommendation; restates the MKBHD initials-plus-HD
+  channel-name gloss.
+- **How to make a YouTube Mobile Banner [2011]** (2011-01-19) ★ — the batch's landmark
+  find: **names GIMP explicitly** ("the gnu image manipulation program"), resolving the
+  Jan-3 Tips-#2 caption garble with high confidence; also names the "Babas Neue" display
+  font and gives a second, concrete red/black brand-gradient example.
+- **MKBHD YouTube Tips | #3** (2011-01-20) — a budget-tiered camera/camcorder buying
+  guide for aspiring YouTube reviewers, from sub-$100 point-and-shoots to $500+ DSLRs;
+  reinforces the Canon T2i origin-gear thread.
+
+No rate limits, no fabrication, all English. `wiki/sources/youtube-index.md` rows
+inserted in date order (footer bumped 432 → 439); `index.md` running-history block
+updated (both the top "Last updated" narrative and the `## Sources` YouTube sub-index
+line, count 432 → 439). Ledger: all 7 ok rows set `status=L2` with `domains`/`notes`
+via `tools/ledger_set.py`; the no-captions row already updated by the driver.
+`pipeline/synthesis-state.md` Pending-checkpoints section updated with the eighth-batch
+narrative.
+
+Synthesis notes: One ★ L3-candidate — How-to-make-a-YouTube-Mobile-Banner-2011's
+explicit GIMP naming, which resolves the Jan-3 Tips-#2 caption garble and gives a
+second, independent GIMP citation to sit alongside the pass-4 GIMP-wordmark finding
+already in `creator-business`. Everything else this batch is minor/reinforcing (a
+year-in-review recap, a keyboard review, a buying-advice PSA, a fake-HD tutorial, a
+camera-buying-guide episode) — genuinely new in specifics but not landmark; stays L2
+pending the next synthesis pass. Debt now 8 real ingest batches since pass 6
+(checkpoint at 10; manual tally, see note above on the driver's undercount).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (7th consecutive clean batch), 8/8 ingested, 0 skipped, 0 no-captions, 0 dup
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single

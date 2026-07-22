@@ -312,6 +312,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2010-12-24 — [[2010-12-24-yt-LZKmeweVcJ0|MKBHD YouTube Tips \| #1]] ★ · creator-business, production-filmmaking
 - 2010-12-27 — [[2010-12-27-yt-o-UoLW0XkfA|Zune HD: Revisited]] · tech-reviews
 - 2010-12-28 — [[2010-12-28-yt-EUTHE2yN43U|DSLR Video - Tips & Tricks]] · production-filmmaking
+- 2010-12-30 — [[2010-12-30-yt-JnVIHQmCgTk|Technology of 2010 - A Year in Review]] · consumer-tech-culture, tech-industry-commentary
+- 2011-01-03 — [[2011-01-03-yt-_7oq_lfCqFU|MKBHD YouTube Tips \| #2]] · creator-business
+- 2011-01-08 — [[2011-01-08-yt-gPi-PFzCoF4|Apple Wireless Keyboard Review]] · tech-reviews
+- 2011-01-11 — [[2011-01-11-yt-meCvuJUM8cc|Don't buy the Verizon iPhone 4 \[Yet\]]] · smartphones, tech-industry-commentary
+- 2011-01-15 — [[2011-01-15-yt-N5oCPNCdFyk|Optimize your HD Videos!]] · production-filmmaking
+- 2011-01-19 — [[2011-01-19-yt-k9tP0OB7MEA|How to make a YouTube Mobile Banner \[2011\]]] ★ · creator-business
+- 2011-01-20 — [[2011-01-20-yt-Ljuw_Bahxbc|MKBHD YouTube Tips \| #3]] · production-filmmaking, creator-business
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -473,4 +480,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_432 videos ingested (L2) so far._
+_439 videos ingested (L2) so far._

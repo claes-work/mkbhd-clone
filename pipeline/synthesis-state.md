@@ -21,11 +21,11 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_Seven real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 → 432 L2: the
+_Eight real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 → 432 → 439 L2: the
 @mkbhd Apr 28–Jun 8 2010 batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–Aug 26
 2010 batch, the @mkbhd Sep 3–28 2010 batch, the @mkbhd Oct 13–Nov 12 2010 batch, the @mkbhd
-Nov 17–Dec 5 2010 batch, then the @mkbhd Dec 8–28 2010 batch) — still short of the 10-batch
-checkpoint (see
+Nov 17–Dec 5 2010 batch, the @mkbhd Dec 8–28 2010 batch, then the @mkbhd Dec 30 2010–Jan 20
+2011 batch) — still short of the 10-batch checkpoint, two away (see
 `tools/ingest_batch.py status` for the live driver-computed count; note the driver currently
 reports a lower number than this manual tally — a log.md
 file-ordering quirk: `batches_since_synthesis()` in `tools/ingest_batch.py` scans the whole file
@@ -34,6 +34,22 @@ pass-6 heading sits mid-file (from when the log convention was append-at-bottom)
 entries are now prepended at the top, so only the handful of ingest entries physically BELOW the
 pass-6 heading get counted, not the real newest ones above it. Worth a driver fix at some point;
 until then, trust this manual tally over the driver's printed number for checkpoint timing).
+The eighth batch (@mkbhd Dec 30 2010–Jan 20 2011, 7 L2 + 1 no-captions, 432→439) confirmed the
+PO-token gate stays resolved for an eighth consecutive time (7/8 usable captions; the one miss —
+**Android 3.0 - Honeycomb!** `yt-RhUL8whVGW0` — is a genuine no-subtitles case, not a gate
+regression) and surfaced the batch's headline ★ finding: **How to make a YouTube Mobile Banner
+[2011]** (`yt-k9tP0OB7MEA`, 2011-01-19) explicitly names **GIMP** ("the gnu image manipulation
+program") as his branding-graphics tool, resolving the caption-garbled tool reference in the
+same-week **MKBHD YouTube Tips | #2** (`yt-_7oq_lfCqFU`, 2011-01-03) with high confidence — a
+second, independent GIMP citation to sit alongside the pass-4 GIMP-wordmark finding. Also in this
+batch: a second, dated red-black-white palette confirmation (Tips #2 + the mobile-banner video,
+both naming the scheme explicitly as "my favorite colors"/brand gradient); the MKBHD
+initials-plus-HD name gloss restated directly (**Optimize your HD Videos!**, `yt-N5oCPNCdFyk`,
+2011-01-15); a budget-tiered camera/camcorder buying-guide (**YouTube Tips | #3**,
+`yt-Ljuw_Bahxbc`, 2011-01-20) reinforcing the existing Canon T2i origin-gear thread; and two
+routine solo items (a 2010 year-in-review recap, an Apple Wireless Keyboard review) with no new
+durable material. All 7 ingested items are solo/Marques-attributed, no ensemble quarantine
+needed. Not landmark enough to inline-promote; all flagged for the next synthesis pass.
 The seventh batch (@mkbhd Dec 8–28 2010, 8 L2, 424→432) confirmed the PO-token gate stays
 resolved for a seventh consecutive time (8/8 clean, no skips/no-captions) and surfaced the
 batch's headline ★ finding: **MKBHD YouTube Tips | #1** (`yt-LZKmeweVcJ0`, 2010-12-24) gives a
