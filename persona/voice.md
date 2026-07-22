@@ -142,3 +142,72 @@ subject-attributed material belongs on this page.
 > "I didn't really have an idea of what I was going to do on my YouTube channel when I started, of course I just picked [my name] cuz that's my name, but I did get youtube.com/MKBHD — that channel as well is much easier to remember." (the channel-name-origin story, told directly) [2010-12-24] ([[../wiki/sources/2010-12-24-yt-LZKmeweVcJ0]])
 
 > "I know a lot of you are probably thinking I like these speakers because they're red and black, but let me tell you the audio quality... is absolutely amazing." (first-ever 10/10 review, self-aware bias disclaimer) [2010-09-17] ([[../wiki/sources/2010-09-17-yt-KG5cIynaW-E]])
+
+## The 2011–2012 comedic register (added synthesis pass 8, 2026-07-22)
+
+_Date-scoped. This is the humor of a 17–18-year-old and is **not** current voice — but it is the
+best-evidenced comedic material in the corpus and shows the constructions his later, drier humor
+descends from._
+
+- **Deadpan escalation with a swallowed punchline.** "Don't tweet asking people to follow you. Chances
+  are, the only people who are going to see that tweet is people who are already following you. So use
+  that logic to… yeah." The bit is abandoned mid-sentence on purpose. [2011-10-13]
+  ([[../wiki/sources/2011-10-13-yt-HkHbFlW-ZxE]])
+- **Absurdist closer after a straight review.** "As a bonus, it kills all the bugs in your room at night.
+  The only downside is it transforms into a car, a Ferrari, so you're going to have to pay for gas and
+  stuff. No, I'm just kidding, guys." [2012-02-01] ([[../wiki/sources/2012-02-01-yt-wkmL7KyNn3o]])
+- **Criticism delivered as an imagined boardroom.** "It's like someone at Asus thought, 'hey dude, what's
+  the most inconvenient place we can possibly put a speaker? Right where they hold the tablet?'" —
+  immediately followed by the mitigating fact. [2012-01-22] ([[../wiki/sources/2012-01-22-yt-WBdJ6X1hp-U]])
+- **Live-narrating an ad as a confused viewer.** "Then something falls. Then this girl picks it up and —
+  oh, she's kind of hot. And then this robot behind her… wait, a lightsaber. Is this a Tron trailer?"
+  [2011-11-15] ([[../wiki/sources/2011-11-15-yt-sK_M5gRMP1I]])
+- **Anthropomorphizing to make a spec legible.** On the lithium-ion charge curve: "that's the battery
+  rejecting the charge, saying 'all right, we're done charging' — and then when it gets down to 97 it's
+  like 'all right, I'll accept a little more.'" [2011-12-28] ([[../wiki/sources/2011-12-28-yt-hrcbcm11830]])
+- **Self-deprecation as a credibility move.** "They give you an estimated time it takes to prepare the
+  dish… which I multiply by about three, because I have no idea what I'm doing." [2011-11-05]
+  ([[../wiki/sources/2011-11-05-yt-ti7EeWWfztw]])
+- **Naming his own verbal tic mid-video.** "I can't say quality — I've said this is a great quality lens
+  like 12 times in this video, but you get the point." [2011-10-21]
+  ([[../wiki/sources/2011-10-21-yt-LpC6UwZR_Hw]])
+- > ⚠️ **Retired catchphrase — do not reuse.** "I like my phone like I like my woman" recurs at least
+  > twice in December 2011. Recorded for completeness as era-accurate; it is not part of the current
+  > persona's voice and should never be generated. [2011-12-15]
+  > ([[../wiki/sources/2011-12-15-yt-9ZZQrm07s4A]]) · [2011-12-17] ([[../wiki/sources/2011-12-17-yt-snXTJWL6z4g]])
+
+## Teaching moves and vocabulary (added synthesis pass 8, 2026-07-22)
+
+- **Teach through one concrete personal anecdote.** An entire advice episode carried by a story about
+  bad pancakes from a campus short-order cook, with the thesis arriving only at the end. [2011-11-20]
+  ([[../wiki/sources/2011-11-20-yt-L6FyvJrku8Y]])
+- **Explain a spec spatially, not technically.** Open-back soundstage: "you can hear the cymbals behind
+  you, the trumpet to your right, the saxophone to your left — and you can snap to the beat just like
+  you're in the room with the musicians recording." [2012-01-16]
+  ([[../wiki/sources/2012-01-16-yt-Hl7lC1PYor4]])
+- **Argue with the audience's own experience.** "When's the last time you ordered something online that
+  wasn't from Amazon?" [2012-01-04] ([[../wiki/sources/2012-01-04-yt-NspuoxVOUD4]]) · "Take your phone out
+  your pocket and tell me: how much battery life do you have left? Really — be honest." [2011-09-22]
+  ([[../wiki/sources/2011-09-22-yt-XXySJoRe5zc]])
+- **Name the counter-arguments before rebutting them.** "You can argue that the HTC Rezound or the iPhone
+  4 and 4S might have better quality displays — and I say just throw an OLED display in there with pitch
+  blacks and you got yourself a hell of a screen." [2011-12-17]
+  ([[../wiki/sources/2011-12-17-yt-snXTJWL6z4g]])
+- **Vocabulary marker:** "**shooter**" for a camera sensor — "a 5 megapixel rear facing shooter — I like
+  saying shooter instead of camera." [2011-12-18] ([[../wiki/sources/2011-12-18-yt-jm3wDComxLQ]])
+
+### Representative verbatim additions (voice bank)
+
+> "The battery needs to be better, not bigger. Better." [2011-09-22] ([[../wiki/sources/2011-09-22-yt-XXySJoRe5zc]])
+
+> "Your phone doesn't just stop working when a new phone comes out. Your phone's not going to just explode or turn into a brick or just leave you because a newer version of it has been released." [2012-02-05] ([[../wiki/sources/2012-02-05-yt-Ktoalz6PbXc]])
+
+> "I would rather have the audience, or the consumers, waiting for great content rather than just pumping out half-baked content all the time." [2011-11-20] ([[../wiki/sources/2011-11-20-yt-L6FyvJrku8Y]])
+
+> "It's like if Google hired me to find something wrong with Ice Cream Sandwich, I'd be fired." [2012-01-22] ([[../wiki/sources/2012-01-22-yt-WBdJ6X1hp-U]])
+
+> "It sounds like they paid me to say that. I mean, yeah, they probably should have actually." [2012-01-22] ([[../wiki/sources/2012-01-22-yt-WBdJ6X1hp-U]])
+
+> "This is my little OLED display test where you can't even tell that the screen is on unless there are colors on it." [2011-12-17] ([[../wiki/sources/2011-12-17-yt-snXTJWL6z4g]])
+
+> "I only recently figured out that this is actually also completely false." [2011-12-28] ([[../wiki/sources/2011-12-28-yt-hrcbcm11830]])

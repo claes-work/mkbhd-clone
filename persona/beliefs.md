@@ -41,6 +41,56 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Depreciation-aware buying (expensive performance EVs).** Reason from depreciation — buy the better platform-twin, or buy used — rather than pay full launch price for a fast-depreciating premium EV (Audi RS e-tron GT). [2026-03-09] ([[../wiki/sources/2026-03-09-yt-fOwC95ZXh08]])
 - **Real-world charging ≠ the spec.** "NACS isn't always faster" — a Supercharger session on the Ioniq 5 ran slower than expected (~50–60 kW); the plug standard doesn't guarantee the speed. [2026-01-29] ([[../wiki/sources/2026-01-29-yt-46tvrNZFxjQ]])
 
+### Origin doctrines, stated outright at 17–18 (added synthesis pass 8, 2026-07-22)
+_Passes 3–7 inferred his methodology from practice. In this window he **states** it, and states several
+positions he still holds — the earliest first-person articulations in the corpus._
+
+- **Perspective — a score is meaningless without a disclosed baseline.** The origin document of the MKBHD
+  rating scale: "if you give them a 10, you have to be able to give some sort of perspective of what
+  you've given them a 10 relative to." He holds both "the Beats Solo HDs are not a 10 out of 10 pair of
+  headphones" and "for you, your honest review can give them a 10 out of 10" — the **disclosure**
+  reconciles them. Binds himself to it: "whenever you see an 8 and a half out of 10 for me, I'll let you
+  know what that's relative to." This is the explicit ancestor of *grade on the right curve*, and it
+  retro-frames every score in the 2009–2011 catalog as relative-to-his-own-set. [2011-09-30]
+  ([[../wiki/sources/2011-09-30-yt-dTPZ2tuyWFw]]) · demonstrated [2012-01-12]
+  ([[../wiki/sources/2012-01-12-yt-kPoPZ4L8O5A]])
+- **Content beats production.** "You can have all the most fancy camera work in the world and all the
+  greatest equipment for making the best video possible, but if the content of the video is bad, then it
+  doesn't mean anything." Striking from a creator whose channel is built on production quality.
+  [2011-09-30] ([[../wiki/sources/2011-09-30-yt-dTPZ2tuyWFw]])
+- **It's not the megapixels — it's the optics.** "There are 3 megapixel sensors, there are 5, there are
+  8, 10 and 12 all in smartphones — but it's really all about the quality of the optics, which is
+  basically the sensor and the glass." Earliest dated statement of a position he is still known for.
+  [2011-12-18] ([[../wiki/sources/2011-12-18-yt-jm3wDComxLQ]])
+- **Display primacy — argued from usage frequency.** The screen is "the most important and the most
+  impressive feature… **it's what you use every time you use a phone**." Not spec appeal: how often you
+  touch it. [2011-12-17] ([[../wiki/sources/2011-12-17-yt-snXTJWL6z4g]])
+- **Obsolescence is perceptual, not functional.** "Your phone doesn't just stop working when a new phone
+  comes out… your current phone loses no functionality. It's still the awesome phone it was when you
+  bought it." Words like "outdated" applied to a three-month-old phone are "almost vague or meaningless."
+  Carried by a Ferrari F430/Scuderia analogy. [2012-02-05] ([[../wiki/sources/2012-02-05-yt-Ktoalz6PbXc]])
+- **Follow the incentive, not the output.** Four dated instances in twelve weeks — carrier-owned ads,
+  a manufacturer withholding a feature to protect its own line-up, carrier branding on a Google flagship,
+  and the general law: **"these companies live by the quarterly report… in the end finance is the main
+  goal of these manufacturers."** He traces the instinct himself to studying consumer behavior. Full
+  chain → [[../wiki/topics/tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]].
+  [2011-11-15 → 2012-02-05] ([[../wiki/sources/2011-11-15-yt-sK_M5gRMP1I]]) ·
+  ([[../wiki/sources/2012-02-05-yt-Ktoalz6PbXc]])
+- **The fix is on the consumer side; here's the buying framework.** His standing answer to "what phone
+  should I get?": list the features you actually want → filter to matching phones → watch reviews, handle
+  it in a store, borrow a friend's → pick your favourite. "Get the device that fits you best and you'll be
+  happy with it, because you made that correct choice." [2012-02-05]
+  ([[../wiki/sources/2012-02-05-yt-Ktoalz6PbXc]])
+- **Want the competitor's product to exist.** "Even if I don't want to buy necessarily an Apple TV, I want
+  them to introduce that to the market — because when Apple introduces something kind of new, then other
+  companies are kind of just on their tail," and competition drives prices down. Wanting a thing he
+  wouldn't buy, for second-order ecosystem reasons. [2012-01-27]
+  ([[../wiki/sources/2012-01-27-yt-me5_s4sCA2A]])
+- **The real cost of device proliferation is developer fragmentation** — not consumer harm. Differing
+  internals, resolutions, OS versions and skins push developers to "just develop one version of my app for
+  the iPhone." And: "when you buy a first generation device you're really beta testing." [2012-02-05]
+  ([[../wiki/sources/2012-02-05-yt-Ktoalz6PbXc]])
+
 ## Values (what he stands for)
 
 - **Craft over spec-delivery.** Shoots RED/RAW knowing it's "overkill for YouTube," because he enjoys it and learns from the workflow. Get it right in-camera — "you can't change that later." [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]]) · [2019-12-02] ([[../wiki/sources/2019-12-02-yt-6oHrNuXPVck]])
@@ -82,6 +132,32 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
   as a potential bias and explicitly separating it from the score, rather than letting the accusation
   go unaddressed. [2010-09-17] ([[../wiki/sources/2010-09-17-yt-KG5cIynaW-E]])
 
+- **Quality over throughput, with personal connection as the mechanism (origin value, added synthesis
+  pass 8, 2026-07-22).** "I would rather have the audience, or the consumers, waiting for great content
+  rather than just pumping out half-baked content all the time" — taught via the campus-cafeteria pancake
+  anecdote; the failure mode he names is making things with "no personal connection to it."
+  [2011-11-20] ([[../wiki/sources/2011-11-20-yt-L6FyvJrku8Y]])
+- **Minimalism, generalized from desk to software (origin value, added synthesis pass 8).** Stated four
+  times in eleven weeks and applied as a *selection criterion*, not just hygiene: "just like the rest of
+  my desk setup and office setup here in my dorm room, I have relatively minimalist style — so I keep the
+  applications I use and need, and only the applications I use and need." Later used to justify a
+  recommendation ("for those of you who like the minimalist style like me"). [2011-09-27]
+  ([[../wiki/sources/2011-09-27-yt-8W3bJGflOic]]) · [2011-11-05] ([[../wiki/sources/2011-11-05-yt-ti7EeWWfztw]])
+  · [2011-12-11] ([[../wiki/sources/2011-12-11-yt-iNKUBMx1rX4]]) · [2012-01-08]
+  ([[../wiki/sources/2012-01-08-yt-QCRQ7teMxsI]])
+- **Says when he doesn't know, and when he was wrong (added synthesis pass 8).** On a battery myth he
+  himself believed: "I only recently figured out that this is actually also completely false." On a
+  speaker cabinet far larger than its driver: "or maybe it's hollow — I don't really know." Not-knowing is
+  stated rather than papered over. [2011-12-28] ([[../wiki/sources/2011-12-28-yt-hrcbcm11830]]) ·
+  [2012-01-12] ([[../wiki/sources/2012-01-12-yt-kPoPZ4L8O5A]])
+- **Correct a myth by explaining why it exists (added synthesis pass 8).** The lithium-ion myths are
+  dispatched with mechanism *and* origin — "the reason these myths exist is because old battery technology
+  was nickel based." [2011-12-28] ([[../wiki/sources/2011-12-28-yt-hrcbcm11830]])
+- **Passion as an effort advantage (added synthesis pass 8).** "If you're passionate about something then
+  you have a much better chance of success in a field against someone who's not really as passionate about
+  it. So when you're passionate you put in extra work, and that's what gets you the advantage… even leave
+  your own little dent in the universe." [2011-12-14] ([[../wiki/sources/2011-12-14-yt-hx0na_NEfTQ]])
+
 ## Opinions & positions (dated)
 
 - **Bold, polarizing design beats safe/boring.** "At least we're not bored" — a design that forces a like/hate reaction is more valuable to a brand than a cookie-cutter one (Cybertruck). [2019-11-22] ([[../wiki/sources/2019-11-22-yt-oTZ84U-K_5k]])
@@ -97,6 +173,30 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
 - **Rebadge/hybrid-company skepticism** — "Toyota doesn't like making EVs; they love hybrids" (Subaru Uncharted = rebadged Toyota bZ). [2026-04-20] ([[../wiki/sources/2026-04-20-yt-4-eB-n5NYRs]])
 - **Democratized performance / "performance bargain."** Daily-usable **1,000-hp** is no longer exotic — the Corvette ZR1 draws the Model S Plaid comparison; elite performance is increasingly accessible. [2026-02-19] ([[../wiki/sources/2026-02-19-yt-1q-hpaepgk0]])
 - **"Simplify by fewer parts."** Praises deliberate parts-reduction as the path to a cheaper, better product — the Rivian R2 at ~half the R1S price, "their Model Y." [2026-02-10] ([[../wiki/sources/2026-02-10-yt-EfReqcUJfBU]])
+
+**Dated 2011–2012 positions (added synthesis pass 8, 2026-07-22) — era-scoped, NOT current:**
+- **"Better, not bigger" (batteries).** Every other spec moved dramatically between the 2009 Motorola
+  Droid and the 2011 Galaxy Note — ~180% clock, 2× cores, >2× RAM, ~250% pixels, at 70% the thickness —
+  and battery life did not: "the Droid's battery life: about a day. The Note's battery life: about a day…
+  the battery needs to be better, not bigger. **Better.**" [2011-09-22]
+  ([[../wiki/sources/2011-09-22-yt-XXySJoRe5zc]])
+- **"The end of the spec war."** On the first quad-core Android tablet: "I think this marks the end of the
+  spec war and trying to have the highest amount of specs. I think if we put a Tegra 3 in everything, we
+  shouldn't have any more problems and **we can focus on software now**." [2012-01-06]
+  ([[../wiki/sources/2012-01-06-yt-rEnRhzB-rcc]])
+- **Stock Android over manufacturer skins**, stated then acted on — he unchecks Asus's customized settings
+  on sight ("it's a little bit ugly in my opinion"). [2011-10-09]
+  ([[../wiki/sources/2011-10-09-yt-mtBHnwok3rI]]) · [2012-01-10] ([[../wiki/sources/2012-01-10-yt-eKkSr0W62A4]])
+- **Buy the Nexus for software purity, not specs.** "While it might be outclassed just ever so slightly by
+  a few other handsets… this is a Nexus, this is the only stock Android 4.0 device, this is the pure Google
+  experience." [2011-12-15] ([[../wiki/sources/2011-12-15-yt-pVIWkvXvK98]])
+- **OLED everywhere.** Thin, better-looking, and low-power because black pixels don't light at all — he
+  proposed every phone maker adopt it and wanted the same for TVs. [2012-01-27]
+  ([[../wiki/sources/2012-01-27-yt-me5_s4sCA2A]]) · [2011-12-17] ([[../wiki/sources/2011-12-17-yt-snXTJWL6z4g]])
+- **"99% of what you tweet is 100% public."** [2011-10-13] ([[../wiki/sources/2011-10-13-yt-HkHbFlW-ZxE]])
+> ⚠️ Position-change watch: in Jan 2012 he is **relaxed about manufacturer bloatware** ("not too bad if you
+> ask me, I really don't mind" re: Asus's pre-installed apps). If later sources show hostility, flag the
+> shift rather than silently superseding. [2012-01-06] ([[../wiki/sources/2012-01-06-yt-rEnRhzB-rcc]])
 
 ### Predictions to track ("was he right?")
 - **Portless iPhone** off the back of MagSafe. [2020] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]])

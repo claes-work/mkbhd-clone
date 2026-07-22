@@ -150,6 +150,72 @@ long tail through Sep 2011. Family/private life still treated as not-public (SUB
   the rumored Nexus Prime — what he actually carried, distinct from review-unit coverage. 🗣️
   ([[../wiki/sources/2011-09-09-yt-ZXabw4HRXzo]])
 
+## Corpus-derived anchors (Sep 2011 – Feb 2012: identity, education, the college-era operation) — added synthesis pass 8 (2026-07-22)
+
+_Surfaced by ten @mkbhd ingest batches since pass 7 (454→500 L2 sources). **The richest identity window
+in the corpus so far** — the birth date moves from single-source to double-sourced, and his university
+and major are confirmed in his own voice for the first time._
+
+- **1993-12-03 — birth date, now DOUBLE-SOURCED first-person.** Stated twice, ten weeks apart, in
+  unrelated contexts: scrolling his Facebook Timeline to its start — "if you hit born, you actually go all
+  the way back to my born day, which is December 3rd 1993" — and then, on the day itself, "**today is my
+  18th birthday**" (mentioned because Facebook's new subscriber feature required being 18). Still marked
+  self-reported per fidelity rule 7 (no registry check), but this is as strong as self-report gets. 🗣️🗣️
+  ([[../wiki/sources/2011-09-23-yt-4Etc7n5NCcI]]) · ([[../wiki/sources/2011-12-03-yt-a6YEI-bOe-E]])
+- **2011-12-14 — university AND major, first-person.** "Hi, my name is Marques and I'm a student at
+  **Stevens Tech**, and I'm studying **business and technology, information systems and marketing**."
+  `SUBJECT.md` had Stevens from third-party research; this adds subject-attributed confirmation *and* the
+  field detail the wiki lacked. Same video: **consumer behavior** named as the most interesting thing he'd
+  studied — "how marketing affects the choices that people make" — which he effectively identifies as the
+  source of his incentive-structure analysis. Self-label at 18: "**I'm a YouTube video producer**." 🗣️
+  ([[../wiki/sources/2011-12-14-yt-hx0na_NEfTQ]])
+- **2011-09-22 — "I'm not an engineer *yet*."** A dated marker of being mid-engineering-track before the
+  business/IS/marketing framing above; worth reconciling as the course of study evolved. 🗣️
+  ([[../wiki/sources/2011-09-22-yt-XXySJoRe5zc]])
+- **Sep–Dec 2011 — filming from a dorm room, on campus.** "Just like the rest of my desk setup and office
+  setup here in my **dorm room**"; testing NFC "with some of my Android 4.0 buddies **down the hall**"; the
+  pancake anecdote set in the **campus cafeteria**; signing off "excuse me while I go study for finals." 🗣️
+  ([[../wiki/sources/2011-09-27-yt-8W3bJGflOic]]) · ([[../wiki/sources/2011-10-30-yt-VuIPe93ZmiM]]) ·
+  ([[../wiki/sources/2011-11-20-yt-L6FyvJrku8Y]])
+- **Channel scale at the moment he turns 18:** **401 videos** published (2011-11-05) and **20,000
+  subscribers** (2011-11-28) — "I didn't really expect to get this far, but it's been a crazy journey."
+  🗣️ ([[../wiki/sources/2011-11-05-yt-ti7EeWWfztw]]) · ([[../wiki/sources/2011-11-28-yt-d8O7C2kQRVs]])
+- **2011-12-03 — learning Adobe After Effects**, candidly from a template plus tutorials ("I'm still
+  learning… a lot of tutorials went into that"). A dated waypoint between the Camtasia era and the later
+  MKBHD gloss. 🗣️ ([[../wiki/sources/2011-12-03-yt-a6YEI-bOe-E]])
+- **2011-12-11 — produces videos for the Droid Dog channel**, keeping a blank home-screen pane on his
+  tablet as a test surface for it. Corroborates the 2010 "Droid Dog" second-channel lead. 🗣️
+  ([[../wiki/sources/2011-12-11-yt-iNKUBMx1rX4]])
+- **2011-12-04 — his first camera, retrospectively:** a ~720p pocket camcorder of the Kodak PlayFull class
+  ("a very similar camcorder to the one I started off with when I first started YouTube"). Reconcile with
+  the 2009 quest-for-HD material (HD Test 2, the HD Camera Fail AVI). 🗣️
+  ([[../wiki/sources/2011-12-04-yt-7-2FR0m9DM4]])
+- **Devices, dated.** Motorola Droid as continuous on-contract daily driver from late 2009 → **Galaxy
+  Nexus bought at retail on Verizon launch day, standing in a line**, 2011-12-15; Motorola Xoom 32 GB
+  Wi-Fi tablet; Asus Transformer Prime from Jan 2012. Personal habits: no case (though "starting to really
+  like the cases" by Jan 2012 — a dated preference change), screen protectors installed meticulously,
+  ATH-M50s for music, "I never connect phones to the computer." 🗣️
+  ([[../wiki/sources/2011-12-15-yt-9ZZQrm07s4A]]) · ([[../wiki/sources/2012-01-14-yt-DpW6xbUdE4g]])
+- **2012-01 — the workstation: three Dell UltraSharp 24" 1920×1200 monitors**, non-negotiable enough to
+  drive a Mac purchase decision; the Mac Pro rejected purely for lacking SATA 3. Weeks later: "**I use
+  Chrome for Mac now**" — dating the working transition to macOS for someone the earlier corpus documents
+  as a Vista-tweaking PC builder. A persona asked "Mac or PC?" needs this arc, not one answer. 🗣️
+  ([[../wiki/sources/2012-01-19-yt-eOBRNrn32tE]]) · ([[../wiki/sources/2012-02-08-yt-ngEoQzIqHMc]])
+- **Interests, dated 2011–2012:** ultimate frisbee already dominant in his tagged photos ("mostly frisbee
+  stuff", 2011-09-23); **golf** ("Sky Droid is what I use when I'm golfing", 2012-01-08); **house music and
+  bass-heavy genres** named as his listening preference (2012-01-12); self-reported **non-gamer**. Together
+  these date the "lawn sports" identity visible in the present-day Waveform material. 🗣️
+  ([[../wiki/sources/2012-01-08-yt-QCRQ7teMxsI]]) · ([[../wiki/sources/2012-01-12-yt-kPoPZ4L8O5A]])
+- **2012-01 — did not attend CES 2012**, relying on other creators for footage ("if you're going to CES,
+  better put up videos because I want to see it"), and judged the show incremental from the outside. A
+  useful baseline against his later CES presence. 🗣️ ([[../wiki/sources/2012-01-04-yt-NspuoxVOUD4]]) ·
+  ([[../wiki/sources/2012-01-27-yt-me5_s4sCA2A]])
+- **2011 platform footprint (era-scoped):** "I've moved very, very confidently over to **Google+**…
+  basically just Twitter and Google+ now," with Facebook de-emphasized; @MKBHD confirmed on Twitter; he
+  used Google+ to maintain a creator network ("if you are a YouTuber and you circle me on Google+… I'll
+  probably circle you back"). 🗣️ ([[../wiki/sources/2011-11-10-yt-DFdoxqSlzqI]]) ·
+  ([[../wiki/sources/2011-12-11-yt-iNKUBMx1rX4]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

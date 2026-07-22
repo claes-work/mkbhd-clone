@@ -4,6 +4,80 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] lint | synthesis pass 8 — Sep 2011 → Feb 2012 origin era (454→500 L2)
+
+Stage S. Drained the ten-batch debt accumulated since pass 7 — one @Waveform fresh-upload single
+plus nine @mkbhd batches covering **Sep 2011 → Feb 2012** (all solo, age 17–18), 454→**500 L2**.
+The driver again printed "no pending checkpoints" (the documented prose-vs-checklist quirk in
+`synthesis-state.md`); as in pass 7, the manual tally and the `Synthesis notes:` lines in `log.md`
+were trusted over it, and the quirk is re-flagged in the state file.
+
+**This is the most consequential pass so far, for one structural reason:** passes 3–7 could only
+*infer* his review methodology from practice. This window is where he **states** it — and then,
+over the following fifteen weeks, is caught applying all of it, including to himself.
+
+Promotions:
+- **`wiki/topics/tech-reviews`** — new section "The methodology is STATED, then demonstrated."
+  The doctrine ("How to Give an Honest Video Review", 2011-09-30): *a score is meaningless without
+  a disclosed baseline*, holding "the Beats Solo HDs are not a 10 out of 10 pair of headphones" and
+  "for you, your honest review can give them a 10 out of 10" simultaneously — the disclosure
+  reconciles them. Recorded that this **retro-frames every numeric score in the 2009–2011 catalog**.
+  Four worked examples (Snowball split sub-scores; the 24L's score-vs-recommendation split; the
+  Galaxy Nexus self-applied bias disclosure; the Bose review's baselines-by-name-and-price), the
+  **promise→delivery cycle** (01-06 states what a first-impressions video cannot conclude → 01-22
+  ships the full review filling exactly those gaps), and four new analytical moves
+  (hardware/software split, cost allocation, demonstrate-the-flaw, measurement honesty).
+- **`wiki/topics/tech-industry-commentary`** — "The incentive-structure lens emerges": four dated
+  instances in twelve weeks (carrier-owned ads → segmentation-protected features → carrier branding
+  on a Google flagship → "these companies live by the quarterly report"), the **steel-man** move,
+  Apple-as-market-catalyst, and the ⚠️ context-warning on the 2011 "iPhone is for people who aren't
+  tech-savvy" formulation.
+- **`wiki/topics/creator-business`** — the **four-rung disclosure ladder** (self-purchased with the
+  price / PR-seeded / rented with the rental cost / manufacturer-sponsored named in the second
+  sentence) plus perception-management-by-naming-it; filmed giveaway draws "so you guys know it's
+  legit"; quality-over-throughput with its output-rate tension recorded rather than smoothed; a
+  **six-format portfolio table** with per-format rationale; collaboration mechanics; dated growth
+  milestones; and the feature-first buying framework.
+- **`persona/beliefs.md`** — new subsection "Origin doctrines, stated outright at 17–18" (nine
+  entries: perspective/disclosed baseline, content-beats-production, optics-not-megapixels, display
+  primacy, perceptual obsolescence, follow-the-incentive, the buying framework, want-the-
+  competitor's-product-to-exist, fragmentation-is-the-real-cost); four new Values
+  (quality-over-throughput, minimalism generalized, says-when-wrong/doesn't-know, myth-correction-
+  by-historical-explanation, passion-as-effort-advantage); and a dated **2011–2012 positions block**
+  (better-not-bigger, end-of-the-spec-war, stock-over-skins, Nexus-for-software-purity, OLED
+  everywhere, 99%-public) carrying a ⚠️ **position-change watch-item** on manufacturer bloatware.
+- **`persona/biography.md`** — "identity, education, the college-era operation": the
+  **double-sourced 1993-12-03 birth date** (Facebook Timeline aside + "today is my 18th birthday"
+  ten weeks later), **first-person Stevens Tech + business/information-systems/marketing**, with
+  consumer behavior named as the stated root of the follow-the-incentive habit; dorm-room era
+  markers; 401 videos and 20,000 subscribers before turning 18; learning After Effects; Droid Dog;
+  the first camcorder; the three-Dell-UltraSharp workstation and the **macOS transition** ("I use
+  Chrome for Mac now") for a former Vista-tweaking PC builder; golf / frisbee / house music; no CES
+  2012; the 2011 Google+-and-Twitter platform footprint.
+- **`persona/voice.md`** — the date-scoped **2011–2012 comedic register** (deadpan escalation with
+  swallowed punchlines, absurdist closers, imagined-boardroom criticism, live ad-narration,
+  anthropomorphized specs, self-deprecation, naming his own verbal tic), teaching moves
+  (one-anecdote lessons, spatial spec explanations, arguing from the audience's own experience,
+  naming counter-arguments first), the "**shooter**" vocabulary marker, seven new voice-bank quotes,
+  and a ⚠️ **retired-catchphrase quarantine** ("I like my phone like I like my woman" — recorded as
+  era-accurate, never to be generated).
+
+`persona/system-prompt.md` recompiled **v7→v8** (454→500 sources) with a new "the rule you gave
+yourself" block, the teenage-doctrines block, the college/consumer-behavior origin, and the
+quarantine notes. `pipeline/synthesis-state.md` high-water mark advanced to 500 L2; `index.md`
+system-prompt line bumped to v8.
+
+Deliberately **not** promoted: the long tail of platform tours (Twitter Activity tab, Chrome Web
+Store, InSync), accessory round-ups, and per-device spec recitations — already captured as L2 source
+pages, nothing genuinely new. Two items remain quarantined pending confirmation: the unverified
+"TLDToday" external-contribution reference, and the attribution-uncertain "the MKBHD channel is
+terrible at business" line from the @Waveform trivia episode.
+
+Synthesis notes: none (this IS the synthesis pass). Debt reset to 0; next checkpoint at ~10 further
+ingest batches or an era completion. Open threads carried forward for the next ingest window: the
+promised **full Galaxy Nexus review**, **Mac Mini part 2**, and the 5D Mark III / 2012-predictions
+fact-checks.
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2012 origin Jan 14–Feb 8, 8/8 ingested (500 L2 milestone)
 
 Stage B, full batch of 8 against `@mkbhd` P2. **Seventh consecutive clean batch, third

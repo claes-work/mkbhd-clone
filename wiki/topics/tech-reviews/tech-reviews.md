@@ -164,6 +164,73 @@ with a manufacturer.
   [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]].
   [2011-08-27] ([[2011-08-27-yt-bXxU6QOfMrU]])
 
+## The methodology is STATED, then demonstrated (Sep 2011 – Feb 2012) — added synthesis pass 8 (2026-07-22)
+The single most important development in the origin-methodology thread. Everything in passes 3–7 was
+methodology **inferred from practice**; here, at 17, he states the doctrine outright in a dedicated
+video — and then, over the following fifteen weeks, is caught applying all of it, including to himself.
+
+**The doctrine — "How to Give an Honest Video Review" (YouTube Tips #5).** The origin document of the
+MKBHD rating scale. His answer to "how do you review honestly" is one word — **perspective** — developed
+into a rule: *a score is only meaningful relative to a disclosed baseline, so the reviewer must tell the
+audience what they were using before.* He holds two claims at once without flinching — "the Beats Solo
+HDs are not a 10 out of 10 pair of headphones" AND a viewer coming off $20 iPod earbuds can honestly
+score them 10/10 — and says the **disclosure is what reconciles them**. He then binds himself to it:
+"whenever you see an 8 and a half out of 10 for me, I'll let you know what that's relative to, and what
+is actually a 10 out of 10 on my scale." **This retro-frames every numeric score in the 2009–2011
+catalog** (the three 10/10s, the 9.5s, the 7.2) as relative-to-his-own-reviewed-set, not absolute.
+Also states a priority in real tension with the channel's production reputation: "you can have all the
+most fancy camera work in the world… but if the content of the video is bad, then it doesn't mean
+anything." [2011-09-30] ([[2011-09-30-yt-dTPZ2tuyWFw]])
+
+**The worked examples, in order:**
+- **Split sub-scores that are allowed to disagree.** Blue Snowball: audio 7/10, construction 7.5/10
+  ("mostly plastic — but it's fantastic plastic"), ease of use 10/10, overall 8–8.5 — scoped to "beginners
+  on YouTube" on "a tight budget." He publishes a 7 on the headline axis and still recommends the product.
+  [2011-10-17] ([[2011-10-17-yt-lF7GLUHu8BE]])
+- **The score rates the object; the recommendation weighs price.** Canon 24mm f/1.4L: image 9/10, build
+  10/10, overall 9.5 — paired with "the price you pay, if you pay full price, isn't really worth it. But
+  borrowing this lens, you're definitely going to be impressed." A 9.5/10 he explicitly tells you not to
+  buy. [2011-10-21] ([[2011-10-21-yt-LpC6UwZR_Hw]])
+- **Applied to himself, under pressure.** Galaxy Nexus first impressions — he names his own upgrade
+  baseline as a bias source and argues past it ("I'm not just saying that because I came from a
+  2-year-old OG Droid… I have tested other phones before"), calls the sensor of a phone he **queued in
+  line and paid for** "pitiful," and refuses a verdict he hasn't earned. [2011-12-15]
+  ([[2011-12-15-yt-pVIWkvXvK98]])
+- **The cleanest single execution.** Bose Companion 2: baselines disclosed **by name and price** ("$99
+  Bose… $600 iKey Audio studio monitors… $29 earbuds — that's a pretty full range"), an ordered
+  highs→mids→lows breakdown ("because that is also the order in which it falls"), and **his own genre
+  taste named as a limit on the verdict** (he listens to house/bass-heavy music, so his complaint about
+  the lows may not transfer). Plus: admits he can't explain why the cabinet dwarfs its 2.5" driver.
+  [2012-01-12] ([[2012-01-12-yt-kPoPZ4L8O5A]])
+- **Promise → delivery, documented.** On 2012-01-06 he states what a first-impressions video *cannot*
+  conclude (battery life, durability); on **2012-01-22 the full review arrives with exactly those gaps
+  filled**. The scope discipline is evidenced practice, not a disclaimer. The full review also addresses
+  reported Wi-Fi/GPS issues he did **not** personally hit — giving the mechanism (metal body attenuating
+  Wi-Fi) and separating community reports from his own testing. [2012-01-06]
+  ([[2012-01-06-yt-rEnRhzB-rcc]]) · [2012-01-22] ([[2012-01-22-yt-WBdJ6X1hp-U]])
+
+**New analytical moves in this window:**
+- **Hardware/software split verdict.** "I'm really a big fan of the camera software rather than the
+  camera hardware" — resolving a mixed product by naming which half works instead of averaging to mush.
+  [2011-12-18] ([[2011-12-18-yt-jm3wDComxLQ]])
+- **Cost allocation as a lens.** Reading unpadded headbands and notch-less adjustment as money
+  deliberately moved into sound: "you can see where they saved money on some parts of the headphones and
+  put that money saved into the sound quality." [2012-01-16] ([[2012-01-16-yt-Hl7lC1PYor4]])
+- **Demonstrate the flaw, don't describe it.** Plays the open-back leakage on camera ("they leak a lot —
+  let's have a listen"). Of a piece with the crop-vs-full-frame A/B demo, the deliberately-shaky
+  stabilization test, and the multitasking kill demo. [2012-01-16] ([[2012-01-16-yt-Hl7lC1PYor4]]) ·
+  [2011-11-30] ([[2011-11-30-yt-wWvaqPY6JVA]]) · [2011-09-15] ([[2011-09-15-yt-1bhB1se99sc]])
+- **Measurement honesty.** Declines to report a Quadrant benchmark he judges invalid for un-optimized
+  ICS; states test conditions as part of the evidence ("I walked around in 25 degree weather — that's
+  Fahrenheit — to get these shots for you"). [2012-01-10] ([[2012-01-10-yt-eKkSr0W62A4]]) · [2011-12-18]
+  ([[2011-12-18-yt-jm3wDComxLQ]])
+- **Superlatives issued with an invitation to disprove them.** "If you can show me one more adjustable
+  than the RAT 7, well — please show me." [2012-02-01] ([[2012-02-01-yt-wkmL7KyNn3o]])
+
+> Series-numbering caution: [[2011-11-20-yt-L6FyvJrku8Y]] ("Pancakes") and [[2011-09-30-yt-dTPZ2tuyWFw]]
+> are **both** announced on camera as "YouTube tips episode number five." Use publication dates, not the
+> series numbering, to order this material.
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

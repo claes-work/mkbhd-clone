@@ -6,44 +6,41 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **ten real ingest batches since pass 6 (454 L2 sources)** — synthesis passes
-1–2 (133 L2), pass 3's 9 batches (@AutoFocus 2026 Q1 EV + @mkbhd Feb-2009 origin P2, through L2=202),
-pass 4's 10 batches (@mkbhd Feb–Apr 2009 origin P2 long tail, through L2=274), pass 5's 10 batches
-(first @WaveformClips dedup batch + @mkbhd Apr–Jul 2009 origin P2 long tail, through L2=349), pass
-6's five real @mkbhd 2009-origin P2 batches (Jul 19 → Nov 7 2009, through L2=386) plus two
-zero-yield no-captions batches and three stage-orientation-only PO-token-block diagnostics (0 new
-material), PLUS pass 7's ten real @mkbhd batches (2010 origin long tail Apr 28 2010 → Sep 9 2011,
-through L2=454).
-Covers every `wiki/sources/` page that was L2 as of 2026-07-22 (`## [2026-07-19] ingest` batches
-1–19 (passes 1–2) + `## [2026-07-20] ingest` batches 20–38 (passes 3–4) + batch 39, the
-@WaveformClips dedup batch (pass 5 start) + `## [2026-07-21] ingest` batches 40–48, nine @mkbhd
-batches (pass 5) + `## [2026-07-21] ingest` batches 49–53, five real @mkbhd batches (pass 6) +
-two zero-yield no-captions batches + three PO-token-block stage-orientation entries + `## [2026-07-22]
-ingest` batches 54–63, ten real @mkbhd batches (pass 7), in `log.md`).
-
-**Driver note (still applies):** `python tools/synthesis_batch.py status` reads the `## Pending
-checkpoints` section for `- [ ]` bullet lines; this file has historically recorded pending debt as
-free-form prose instead, so the driver under-reports (prints 0 pending even when a checkpoint is
-manifestly due — same class of issue as `ingest_batch.py`'s `batches_since_synthesis()` log-ordering
-quirk noted in prior passes). Pass 7 drained the debt anyway, trusting the manual tally + the prior
-iteration's explicit note in `log.md` over the driver's printed count. Worth fixing the driver (or
-switching this file to real checklist syntax) at some point; not urgent since the section below is
-empty and manual tallying has been reliable so far.
+Synthesized through: **ten real ingest batches since pass 7 (500 L2 sources)** — synthesis passes
+1–2 (133 L2), pass 3's 9 batches (through L2=202), pass 4's 10 batches (through L2=274), pass 5's
+10 batches (through L2=349), pass 6's five real @mkbhd batches (through L2=386) plus two zero-yield
+and three stage-orientation-only entries, pass 7's ten real @mkbhd batches (2010 origin long tail
+Apr 2010 → Sep 2011, through L2=454), PLUS **pass 8's ten batches (2026-07-22): one @Waveform
+fresh-upload single + nine @mkbhd batches covering Sep 2011 → Feb 2012, through L2=500** (which
+also spans the sign-in/bot-check blocker's resolution — five stage-orientation-only entries before
+it cleared carried no new material).
+Covers every `wiki/sources/` page that was L2 as of 2026-07-22 at the 500-source mark.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_None currently — synthesis pass 7 (2026-07-22) drained the ten-batch debt that had accumulated
-since pass 6 (386→454 L2). All ten batches' findings (the origin scoring ladder's first two
-10/10s, the "fat laptops"/Razer-Blade industry-response pair, the channel-name-origin story +
-first hardware video, the 10,000-subscriber milestone, the MKBHD Update 6.0 persistence
-commitment, the "Stop It!" comedic-delivery sample, the three-tier mic framework, and a second
-GIMP citation) were promoted into `wiki/topics/tech-reviews`, `wiki/topics/tech-industry-commentary`,
-`wiki/topics/production-filmmaking`, `wiki/topics/creator-business`, `wiki/topics/consumer-tech-culture`,
-and `persona/biography.md` + `persona/voice.md` + `persona/beliefs.md` + `persona/appearance.md`;
-`persona/system-prompt.md` recompiled v6→v7. See the pass-7 entry under "## Done checkpoints" below
-for the full promotion record. Next checkpoint is due whenever ≥~10 more ingest batches accumulate
-(or a channel/era completes) since this pass._
+_None currently — **synthesis pass 8 (2026-07-22)** drained the ten-batch debt accumulated since
+pass 7 (454→500 L2). Promotions: `wiki/topics/tech-reviews` (the methodology STATED then
+demonstrated — the "perspective"/disclosed-baseline doctrine, four worked examples, the
+promise→delivery cycle, and four new analytical moves), `wiki/topics/tech-industry-commentary`
+(the incentive-structure lens in four dated instances + the steel-man + Apple-as-catalyst),
+`wiki/topics/creator-business` (the four-rung disclosure ladder, filmed-draw verifiability,
+quality-over-throughput, the six-format portfolio table, collaboration mechanics, dated growth
+milestones, the buying framework), `persona/beliefs.md` (new "Origin doctrines, stated outright at
+17–18" subsection + four values + a dated 2011–2012 positions block with a bloatware
+position-change watch-item), `persona/biography.md` (the double-sourced 1993-12-03 birth date,
+first-person Stevens + major, dorm-room era, 401 videos / 20k subs, After Effects, Droid Dog, first
+camcorder, the three-monitor workstation, the macOS transition, golf/frisbee/house-music markers,
+no CES 2012), and `persona/voice.md` (the date-scoped 2011–2012 comedic register, teaching moves,
+"shooter", a retired-catchphrase quarantine, and seven new voice-bank quotes).
+`persona/system-prompt.md` recompiled **v7→v8** (454→500 sources). Next checkpoint is due whenever
+≥~10 more ingest batches accumulate (or a channel/era completes) since this pass._
+
+_**Driver quirk (still unfixed, still worked around):** `synthesis_batch.py status/prepare` reads
+`- [ ]` checklist bullets from this section and therefore printed "no pending checkpoints —
+synthesis is caught up" while a ten-batch debt was manifestly due. Pass 8 did what pass 7 did:
+trusted the manual tally + the explicit `Synthesis notes:` lines in `log.md` over the driver's
+printed count. Worth fixing the driver or switching this section to real checklist syntax._
 
 ## Ingest infra notes (archived — PO-token gate history, not synthesis debt)
 _Kept for operational continuity across ingest iterations; this is about caption-fetch

@@ -152,6 +152,69 @@ half of 2009, and adds a genuine biography-timeline event (a channel suspension)
   (also feeds [[../../../persona/biography|biography]]). [2010-12-24]
   ([[2010-12-24-yt-LZKmeweVcJ0]])
 
+## The disclosure ladder + the format portfolio (Oct 2011 – Feb 2012) — added synthesis pass 8 (2026-07-22)
+
+**Provenance is disclosed, every time, in the opening seconds — and by this window it covers four
+distinct categories.** The 2009 material established self-purchased vs. PR-seeded; late 2011 adds two more:
+- **Self-purchased**, stated with the price: the ATH-M50s — "as you can see by the link in the
+  description I only paid 160" — against a stated willingness to pay $250. [2011-09-12]
+  ([[2011-09-12-yt-Krdb8lceRoI]])
+- **Rented**, explained and priced: "this lens retails for $1,600. I didn't pay $1,600 for this lens —
+  and it's not for any other illegal reasons. I actually got this lens courtesy of BorrowLenses.com."
+  Three consecutive rented units disclosed in six weeks — how a college student reviewed $1,500 glass
+  without owning it. [2011-10-21] ([[2011-10-21-yt-LpC6UwZR_Hw]]) · [2011-11-22]
+  ([[2011-11-22-yt-Pt2HXm4Au10]]) · [2011-11-30] ([[2011-11-30-yt-wWvaqPY6JVA]])
+- **Manufacturer-sponsored**, named in the second sentence with the fulfilment path: "this video is
+  actually a giveaway video sponsored by Blue… one random comment will be picked to win their own Blue
+  Snowball in their color of choice **directly from Blue**." [2011-10-17] ([[2011-10-17-yt-lF7GLUHu8BE]])
+- **Perception managed by naming it.** After praising Nvidia's gaming performance: "it sounds like they
+  paid me to say that. I mean, yeah, they probably should have actually." He says out loud how the
+  enthusiasm might read. [2012-01-22] ([[2012-01-22-yt-WBdJ6X1hp-U]])
+
+**Verifiability as a practice, not a claim.** The ATH-M50 giveaway is honoured because the video hit its
+like target ("I'm going to keep my promise"), the winner is drawn **on camera** and posted to his second
+channel — "so you guys know it's legit" — rather than merely announced. [2011-11-28]
+([[2011-11-28-yt-d8O7C2kQRVs]])
+
+**Quality over throughput — stated at 17.** An entire YouTube Tips episode carried by one anecdote: a
+campus-cafeteria short-order cook turning out food fast, and terrible pancakes two minutes later.
+"I would rather have the audience, or the consumers, waiting for great content rather than just pumping
+out half-baked content all the time." The operative variable he isolates is **personal connection to the
+individual piece** — working five things at once with "no personal connection to it, you just kind of
+make it" is named as the failure mode. [2011-11-20] ([[2011-11-20-yt-L6FyvJrku8Y]])
+> Tension, recorded not smoothed: he preaches this while running a 400+ video channel at several uploads
+> a week. Best read as a per-piece standard rather than a description of his then-current output rate;
+> later sources should settle whether it becomes literal practice.
+
+**A deliberate portfolio of formats, at different production costs.** Six named formats are launched or
+confirmed in five months, several with the rationale stated on camera and continuation gated on audience
+response — the channel is being run as a format business, not a stream of uploads:
+| Format | First/confirmed | Stated rationale |
+|---|---|---|
+| Forum Friday (monthly) | [2011-09-09] ([[2011-09-09-yt-ZXabw4HRXzo]]) | recurring audience question |
+| Retro review | [2011-09-27] ([[2011-09-27-yt-8W3bJGflOic]]) | revisit after long-term use |
+| 30-second tip | [2011-09-19] ([[2011-09-19-yt-bt0ouTWFyvQ]]) | "quick for me to make… quick for you" |
+| Single-feature deep dive | [2011-12-17] ([[2011-12-17-yt-snXTJWL6z4g]]) | the screen is "what you use every time" |
+| "Tour of" series | [2011-12-11] ([[2011-12-11-yt-iNKUBMx1rX4]]) | request-driven, with a running tally |
+| Multi-part project series | [2012-01-19] ([[2012-01-19-yt-eOBRNrn32tE]]) | thumbs-up gated continuation |
+
+**Collaboration as a growth mechanic.** Beyond shoutouts: a **two-channel cross-entry giveaway** with
+Duncan33303 (enter on both videos, one prize drawn from each) [2011-12-04]
+([[2011-12-04-yt-7-2FR0m9DM4]]), and a **guest segment handed to another creator inside his own upload**
+— Lamar of Wilson Tech 1 reviewing a battery pack and addressing "MKBHD audience" directly
+[2012-01-14] ([[2012-01-14-yt-DpW6xbUdE4g]]).
+
+**Dated growth milestones (this window):** 401 videos published as of [2011-11-05]
+([[2011-11-05-yt-ti7EeWWfztw]]); **20,000 subscribers** — "I didn't really expect to get this far, but
+it's been a crazy journey" — at [2011-11-28] ([[2011-11-28-yt-d8O7C2kQRVs]]); the ATH-M50 review took
+"about 500 likes on the first day."
+
+**The standing answer to the most-asked audience question.** "Because I get a lot of people asking me
+what Android phone should I get": list the features you actually want → filter to phones matching that
+set → watch reviews, handle it in a store, borrow a friend's → pick your favourite. "Get the device that
+fits you best and you'll be happy with it, because you made that correct choice." [2012-02-05]
+([[2012-02-05-yt-Ktoalz6PbXc]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 
