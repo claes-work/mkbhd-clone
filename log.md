@@ -4,6 +4,83 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011–2012 origin Dec 28–Jan 12, 7/8 ingested
+
+Stage B, full batch of 8 against `@mkbhd` P2, crossing into 2012. **Sixth consecutive clean
+batch**: 7 ingested, 0 skipped, **1 music/montage-only-caption retry candidate**
+(`yt-BeIf7osn4GY` "Technology of 2011: A Year in Review" — the only intelligible speech in the
+caption track is the Steve Jobs "stay hungry, stay foolish" clip, so it reads as a montage;
+left open with a note per convention), 0 dup.
+
+**The methodology thread reaches its cleanest expression yet.** The Bose Companion 2 review
+(2012-01-12) does all three things the 2011-09-30 methodology video prescribed, in one video,
+fifteen weeks later: (a) **baselines disclosed by name and price** — "I've listened to a lot of
+hours of audio on these $99 Bose speakers. I've also listened to a lot of hours of audio on $600
+iKey Audio studio monitors, and on $29 earbuds — right, so that's a pretty full range";
+(b) a structured breakdown rather than an impression, ordered by quality ("we start from the
+highs and work our way down to the lows, because that is also the order in which it falls");
+and (c) **his own taste named as a boundary on the verdict** — he listens to house and
+bass-heavy music, so his complaint about the lows may not transfer to the viewer. He also
+admits outright that he can't explain why the cabinet is so much larger than its single 2.5"
+driver ("or maybe it's hollow, I don't really know") rather than papering over it. This should
+be the headline worked example in the review-methodology topic page.
+
+**A second durable belief lands.** The Transformer Prime first impressions (2012-01-06) contains
+"I think this marks the **end of the spec war** and trying to have the highest amount of specs…
+if we put a Tegra 3 in everything, we shouldn't have any more problems and **we can focus on
+software now**." That is the specs-have-plateaued / experience-matters-more thesis in its early
+form — the same class of finding as "it's the optics, not the megapixels" three weeks earlier,
+and it deserves the same treatment: promote dated, then find the mature restatement in later
+sources.
+
+**Battery Myths (2011-12-28)** is a strong method page: he dispels three lithium-ion myths with
+mechanism rather than assertion, then does the distinctive thing — **explains why the wrong
+belief exists** (nickel-chemistry carryover). He also concedes "I only recently figured out that
+this is actually also completely false," including himself among the people who were wrong. Filmed
+entirely on the Galaxy Nexus, ten days after criticizing that phone's stills sensor.
+
+`Tour of my Nexus` (2012-01-08) is the densest personal-detail source in the batch — the full app
+stack (gTasks, Evernote, Dropbox, Google Docs + InSync, Spotify, SoundCloud, Maps/Navigation), a
+dated data-consumption figure (**6.6 GB of 4G and 3.92 GB of Wi-Fi in ~3.5 weeks**, "not enough
+to get throttled though, thank gosh"), **golf** named as a hobby alongside the existing frisbee
+thread, a self-reported non-gamer note, and a fourth dated minimalism instance. The "Tour of"
+series is now formally audience-programmed — he keeps "a tally of what people want to see a tour
+of."
+
+Rounding out: **`Technology in 2012` (01-04)** logs falsifiable predictions (Google+ everywhere,
+an ICS point revision, iPad 3 within months, Kindle Fire 2, a Mac Pro refresh) with the Amazon
+pick argued from the viewer's own purchasing habit rather than its product line — the same
+follow-the-behaviour instinct he traced to studying consumer behavior three weeks earlier; the
+page records the outcomes as a *later* fact-check task, since none are sourced in the wiki yet.
+It also dates him **not attending CES 2012** ("if you're going to CES, better put up videos
+because I want to see it"). **`Transformer Prime Gets ICS` (01-10)** shows the stock-over-skin
+preference **acted on** rather than merely stated (he unchecks Asus's customized settings on
+sight), demonstrates true multitasking by A/B test, and **declines to report a Quadrant score he
+judges invalid** for un-optimized ICS. **`InSync` (01-01)** resolves a two-product comparison on
+the one axis that actually differs — storage price per gigabyte.
+
+One watch-item flagged for the future: his relaxed take on Asus's pre-installed apps ("not too
+bad if you ask me, I really don't mind") is a plausible **position-change candidate** if later
+sources show him hostile to manufacturer bloatware — recorded on the page so the shift gets
+flagged rather than silently superseded.
+
+Bookkeeping: 7 ledger rows → L2 with domains/notes, 1 row noted as a retry candidate; 7 rows
+inserted into `wiki/sources/youtube-index.md` in date order; footer 485 → 492 and the `index.md`
+count/batch trail updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **The Bose review as the definitive methodology worked example** —
+baselines by name and price, ordered breakdown, own taste disclosed as a limit. Pair it with the
+09-30 origin document as the anchor of the review-methodology topic page. (2) ★★ **"The end of
+the spec war… focus on software"** → `persona/beliefs.md`, dated 2012-01-06. (3) ★ **Myth
+correction by historical explanation** (nickel-era carryover) plus admitting his own prior error
+— method + credibility material. (4) ★ **Measurement honesty**: declining an invalid benchmark,
+after earlier instances of stating test conditions and scoping scores; this is now a
+well-evidenced pattern. (5) ★ Biography colour: golf, non-gamer, house music, the 2012 app stack,
+no CES 2012. (6) Watch-item: the bloatware position. Debt now 8 ingest batches since synthesis
+pass 7 — **the checkpoint is two batches away, and the queue of ★★ material (methodology,
+optics-not-megapixels, display primacy, spec-war, Stevens + major, double-sourced birth date,
+quality-over-throughput, incentive-structure reasoning) is the largest it has been in this run.**
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011 origin Dec 6–18, 8/8 ingested (Galaxy Nexus arc + two landmarks)
 
 Stage B, full batch of 8 against `@mkbhd` P2. **Fifth consecutive clean batch, second

@@ -364,6 +364,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2011-12-15 — [[2011-12-15-yt-pVIWkvXvK98|Verizon Galaxy Nexus First Impressions]] ★★ · smartphones, tech-reviews, tech-industry-commentary _(names own upgrade bias; defers full verdict; "best display I've ever used")_
 - 2011-12-17 — [[2011-12-17-yt-snXTJWL6z4g|All About the Galaxy Nexus Display]] ★★ · smartphones, tech-reviews, consumer-tech-culture _(display-primacy principle; single-feature deep-dive format)_
 - 2011-12-18 — [[2011-12-18-yt-jm3wDComxLQ|Galaxy Nexus Camera Review]] ★★ · smartphones, tech-reviews, production-filmmaking _(LANDMARK: "not the megapixels, the optics")_
+- 2011-12-28 — [[2011-12-28-yt-hrcbcm11830|Top 3 Battery Myths!]] ★ · consumer-tech-culture, tech-industry-commentary, smartphones _(explains why the myths exist; admits own prior error; filmed on the Nexus)_
+- 2012-01-01 — [[2012-01-01-yt-p0nlU7E_xs8|InSync: Dropbox for Google Docs!]] · consumer-tech-culture, content-strategy _(verdict on storage price, not features)_
+- 2012-01-04 — [[2012-01-04-yt-NspuoxVOUD4|Technology in 2012]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(big-three predictions; falsifiable calls logged)_
+- 2012-01-06 — [[2012-01-06-yt-rEnRhzB-rcc|Asus Transformer Prime First Impressions!]] ★★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _("the end of the spec war… focus on software")_
+- 2012-01-08 — [[2012-01-08-yt-QCRQ7teMxsI|Tour of my Nexus]] ★ · content-strategy, smartphones, consumer-tech-culture _(full personal app stack; golf marker; data usage)_
+- 2012-01-10 — [[2012-01-10-yt-eKkSr0W62A4|Transformer Prime Gets Android 4.0 ICS!]] ★ · tech-reviews, consumer-tech-culture, smartphones _(stock-over-skin acted on; declines an untrustworthy benchmark)_
+- 2012-01-12 — [[2012-01-12-yt-kPoPZ4L8O5A|Bose Companion 2 Series II Speaker Review!]] ★★ · tech-reviews, production-filmmaking, creator-business _(CLEANEST methodology worked example: baselines by name + price)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -526,4 +533,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_485 videos ingested (L2) so far._
+_492 videos ingested (L2) so far._
