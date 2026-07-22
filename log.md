@@ -4,6 +4,55 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | stage-orientation only, cheap single-video re-probe re-confirms sign-in/bot-check blocker (2nd confirmation), 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, no per-video subagents). Orientation per AGENTS.md/ingest-loop.md's
+first-matching-rule selection: `python tools/ingest_batch.py status` showed synthesis debt
+2/10 (not due; pass 7 drained it, persona refreshed same pass — Stage S/P did not fire), all
+5 TARGET channels already enumerated (no Stage A). Checked the ledger directly for open P1
+rows as the immediately-preceding iteration's entry documents the driver's by-priority counts
+include already-flagged/excluded rows: the only genuinely open, unblocked P1 row anywhere is
+`@Waveform`'s `yt-NofmSGPCDr4` (today's fresh-upload P1, matching this dispatch's "1 open
+fresh-upload P1 row" brief) — the P1 rule fires for `@Waveform`, so this iteration targeted
+that channel first, per Stage B.
+
+Before burning a full 8-video batch, followed the standing recommendation left in the
+immediately-preceding log entry ("a future iteration should do a cheap check first — cookie
+file mtime, a quick single-video live re-probe — before re-running a full 8-video batch
+against a possibly-still-broken fetch path"). Cookie file mtime: `/home/roster/roster-run/
+cookies.txt` at 12:10 UTC, ~2h stale relative to this iteration's start (14:17 UTC) — not
+obviously expired on its own. Ran a live single-video probe (`yt-dlp -v --skip-download
+--write-auto-sub`) against the exact P1 target, `yt-NofmSGPCDr4` (@Waveform's fresh upload,
+the same video the prior iteration's cross-channel check had already probed once). **Result:
+identical failure, byte-for-byte the same signature as the prior iteration's finding** —
+`android_vr` and `web_safari` player responses both `LOGIN_REQUIRED`, `ERROR: [youtube]
+NofmSGPCDr4: Sign in to confirm you're not a bot...` — despite PO Token Providers correctly
+listed (`bgutil:http-1.3.1`, `bgutil:script-node-1.3.1`, `bgutil:script-deno-1.3.1`, all
+external) and the cookies file present/configured. Confirms this is NOT per-video flakiness
+and NOT the old (already-resolved) PO-token gate recurring — it is the same new,
+environment-wide sign-in/bot-check block the prior iteration found across `@mkbhd` and
+`@Waveform` both, now reconfirmed a third channel-instance-worth of evidence (2nd
+confirmation of this specific new blocker) with a cheap 1-request check instead of burning
+another 8-video batch.
+
+**Safety rail invoked** (treating this as a continuation of the prior iteration's
+already-past-threshold failure run, not resetting the counter — the underlying block is
+unchanged). Stopped the iteration here: no raw files written, no ledger rows touched (probe
+errored before the subtitle-fetch stage), nothing to promote to L2. 0 items ingested, so no
+`wiki/sources/` pages, no `youtube-index.md`/`index.md` bookkeeping needed. Per the
+roster-autopilot dispatch instructions for this iteration: no wakeup scheduled, no loop
+started (single-iteration dispatch).
+
+**Infra fix still needed (out of scope here, unchanged from prior entry).** The
+sign-in/bot-check block persists across both a cold multi-video batch and a fresh live
+single-request probe ~2 hours apart; cookie refresh from a signed-in browser session (or a
+broader look at whether this is a YouTube-side bot-check escalation rather than a
+cookie-freshness issue) is needed before ingest can resume on any of the 5 TARGET channels.
+
+Synthesis notes: none (0 new material this iteration; the finding above is a pipeline/infra
+issue, not persona content).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — new "sign in to confirm you're not a bot" blocker (distinct from the resolved PO-token gate), 0 ingested, iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single

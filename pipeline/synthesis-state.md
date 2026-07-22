@@ -119,6 +119,18 @@ If unresolved, this blocks ALL caption-dependent stages (B and C) across every c
 as its own infra workstream (refresh/rotate the cookies file) rather than repeatedly re-diagnosing
 with full 8-video batches.
 
+**2nd confirmation (2026-07-22, ~2h later).** Followed the standing recommendation: cookie file
+mtime checked (12:10 UTC, ~2h stale relative to this run — not obviously expired on its own),
+then a cheap single-video live probe (`yt-dlp -v --skip-download --write-auto-sub`, no full
+batch) against the exact P1 target (`@Waveform`'s `yt-NofmSGPCDr4`, the same fresh-upload video
+this workflow would otherwise have ingested first). Identical failure signature: `android_vr`/
+`web_safari` both `LOGIN_REQUIRED`, same `Sign in to confirm you're not a bot...` error, PO Token
+Providers still correctly listed (not a recurrence of the old "none" gate). Confirms the block is
+still live ~2 hours on, unchanged, and is not resolved by mere time passing. Still unresolved;
+still needs a cookie refresh from a signed-in browser session (or external confirmation of a
+broader YouTube-side bot-check escalation) before any caption-dependent stage (B or C) can run
+on any of the 5 TARGET channels.
+
 ## Done checkpoints
 - [x] **Era: @mkbhd 2010 origin long tail + Aug–Sep 2011 (68 new L2, batches 54–63,
   386→454)** — seventh synthesis pass. Drained the ten-batch debt (the driver's own pending-
