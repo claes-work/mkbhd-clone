@@ -4,6 +4,86 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2012 origin Jan 14–Feb 8, 8/8 ingested (500 L2 milestone)
+
+Stage B, full batch of 8 against `@mkbhd` P2. **Seventh consecutive clean batch, third
+zero-loss batch**: 8 ingested, 0 skipped, 0 no-captions, 0 dup. This batch crosses
+**500 L2 sources** in the wiki.
+
+**`Too many Android phones? RANT` (2012-02-05) is the most fully-argued video found in the
+entire 2011–2012 window** — a genuine essay rather than a rant, and the single richest
+beliefs source of this run. Its structure is worth recording because it is the shape his
+later industry commentary takes: (1) grant the complaint with specifics (RAZR → RAZR MAXX,
+Transformer Prime → TF700T, three Galaxy S2 variants in months); (2) attack the premise —
+**obsolescence is perceptual, not functional**: "your phone doesn't just stop working when a
+new phone comes out… your current phone loses no functionality," with words like "outdated"
+called "almost vague or meaningless," carried by a Ferrari F430/Scuderia analogy;
+(3) relocate the real problem to **developer fragmentation** (devs shipping one iPhone version
+rather than six Android ones); (4) explain why the treadmill won't stop — **"these companies
+live by the quarterly report, and they are never going to slow down so much that they make
+less money than they do now"** — the maturest statement yet of the incentive-structure
+reasoning tracked since 2011-11-15, now generalized into a law of the industry rather than
+applied to one case; (5) **steel-man the treadmill**: one device a year would cost you the
+RAZR MAXX's bigger battery (which existed because "Motorola listened to you guys") and would
+make companies risk-averse, so you'd never get designs as bold as the RAZR at all; and
+(6) close with a **feature-first buying framework** — list the features you want, filter,
+watch reviews, handle it in a store, borrow a friend's, pick your favourite. That framework is
+his stock answer to the most common question his audience asks, and the persona will need it
+verbatim.
+
+**A documented promise→delivery cycle closes.** On 01-06 he said a first-impressions video
+cannot speak to battery life or durability; on **01-22 the full Transformer Prime review
+arrives with exactly those gaps filled** ("the best tablet money can buy"). That is the
+strongest available evidence that the review-scope discipline is real practice rather than a
+disclaimer. The same review also **addresses reported Wi-Fi and GPS problems he did not
+personally experience**, giving the mechanism (metal body attenuating Wi-Fi) and separating
+community reports from his own testing — and contains a sponsorship-perception joke that shows
+unusual awareness of how praise reads: "it sounds like they paid me to say that. I mean, yeah,
+they probably should have actually."
+
+**`The OLED TV Rant` (01-27)** yields a characteristic and nuanced position: he wants the LG
+55" OLED category to succeed so competition drives prices down, and explicitly hopes **Apple
+enters a market he has no intention of buying into** — "even if I don't want to buy necessarily
+an Apple TV, I want them to introduce that to the market, because when Apple introduces
+something kind of new then other companies are just on their tail." Wanting a competitor's
+product to exist for ecosystem reasons is exactly the kind of second-order thinking the persona
+should reproduce. He also names his own OLED obsession by chaining four of his prior videos.
+
+Rounding out: **Grado SR80i (01-16)** teaches open-back soundstage spatially ("the cymbals
+behind you, the trumpet to your right") and **demonstrates the downside on camera** by playing
+the leakage, plus a **cost-allocation lens** — reading unpadded headbands as money deliberately
+moved into sound quality; **Mac Mini Part 1 (01-19)** starts a multi-part **project series**
+(third new format in three months) and documents the workstation — **three Dell UltraSharp 24"
+1920×1200 monitors** — while rejecting the Mac Pro purely on SATA-3 support; **Cyborg RAT 7
+(02-01)** issues a superlative with an invitation to disprove it and a real exclusion ("unless
+you're a lefty"); **Chrome Beta (02-08)** demos cross-device sync live on two of his own devices,
+states both cons before recommending, and drops a biography marker — **"I use Chrome for Mac
+now"**; and **Galaxy Nexus Accessories (01-14)** is a rare `attribution: mixed` page — a full
+guest segment by Lamar of Wilson Tech 1, quarantined per fidelity rule 6 — plus a dated
+**position change** (naked-phone by default, "starting to really like the cases").
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 492 → **500** and the `index.md`
+count/batch trail updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **The Android-proliferation essay** — four separately promotable
+positions in one video (perceptual obsolescence; fragmentation as the real cost; quarterly-report
+incentives; the buying framework). Highest-value beliefs source of the run. (2) ★★ **Promise→
+delivery documented** across 01-06 → 01-22, which upgrades review-scope discipline from a stated
+rule to an evidenced practice — the review-methodology topic page should cite the pair.
+(3) ★★ **Apple-as-market-catalyst** and competition-drives-prices → `persona/beliefs.md`; the
+"want a product I wouldn't buy to exist" framing is distinctive. (4) ★ **Cost-allocation as a
+review lens** — new analytical move, joins the hardware/software split and the
+score-vs-recommendation split. (5) ★ Biography: three-monitor Dell setup, "I use Chrome for Mac
+now" (macOS transition for a former Vista-tweaking PC builder — the persona needs the dated arc,
+not a single answer), and the naked-phone→cases position change. (6) ★ Format ledger: multi-part
+project series. (7) Attribution discipline: one mixed-attribution page with a named guest
+quarantined. **Debt now 9 ingest batches since synthesis pass 7 — the checkpoint fires on the
+next batch.** The queued ★★ material now spans methodology (origin + three worked examples +
+promise/delivery), optics-not-megapixels, display primacy, end-of-spec-war, the
+proliferation essay, Apple-as-catalyst, Stevens + major, the double-sourced birth date,
+quality-over-throughput, and the incentive-structure pattern in four dated instances.
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011–2012 origin Dec 28–Jan 12, 7/8 ingested
 
 Stage B, full batch of 8 against `@mkbhd` P2, crossing into 2012. **Sixth consecutive clean
