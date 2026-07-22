@@ -21,17 +21,24 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_Three real batches since pass 6 (386 → 393 → 396 → 401 L2: the @mkbhd Apr 28–Jun 8 2010 batch,
-the @mkbhd Jun 16–Jul 22 2010 batch, then the @mkbhd Jul 28–Aug 26 2010 batch) — still short of
-the 10-batch checkpoint (see `tools/ingest_batch.py status` for the live driver-computed count;
-note the driver currently reports a lower number (2) than this manual tally (3) — a log.md
+_Four real batches since pass 6 (386 → 393 → 396 → 401 → 409 L2: the @mkbhd Apr 28–Jun 8 2010
+batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–Aug 26 2010 batch, then the
+@mkbhd Sep 3–28 2010 batch) — still short of the 10-batch checkpoint (see
+`tools/ingest_batch.py status` for the live driver-computed count; note the driver currently
+reports a lower number (2, now likely 3) than this manual tally (4) — a log.md
 file-ordering quirk: `batches_since_synthesis()` in `tools/ingest_batch.py` scans the whole file
 top-to-bottom and resets its counter on the last-encountered `synthesis`-heading line, but the
 pass-6 heading sits mid-file (from when the log convention was append-at-bottom) while all newer
 entries are now prepended at the top, so only the handful of ingest entries physically BELOW the
 pass-6 heading get counted, not the real newest ones above it. Worth a driver fix at some point;
 until then, trust this manual tally over the driver's printed number for checkpoint timing).
-The third batch confirmed the PO-token gate stays resolved for a third consecutive time (no
+The fourth batch (@mkbhd Sep 3–28 2010, 8 L2, 386→409 cumulative alongside the prior three)
+confirmed the PO-token gate stays resolved for a fourth consecutive time (8/8 clean, no
+no-captions/rate-limit rows at all this time) and surfaced two ★★-flagged findings worth
+prioritizing at the next synthesis pass: the scoring ladder's first-ever 10/10 (iKey Audio
+M808-V2 Studio Monitors) with an explicit red-and-black-bias disclaimer, and a same-week
+fish-tank+Acid3 comparative-benchmark pair run identically across Chrome 7 and IE9 (an early,
+concrete instance of the comparative-review method). The third batch confirmed the PO-token gate stays resolved for a third consecutive time (no
 rate-limit or gate regressions) and added a **dated 10,000-subscriber milestone** (2010-08-22) plus
 an explicit skip-the-unboxing criterion and a second concrete instance of the audience-request
 content-format pattern (live unboxing adopted within days of a setup-tour request). Only 1 of its

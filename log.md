@@ -4,6 +4,52 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (4th consecutive clean batch), 8/8 ingested, 0 no-captions, 0 dup
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Ran `python tools/ingest_batch.py prepare --channel @mkbhd --n 8` against the
+oldest open P2 @mkbhd rows (2010-09-03 → 2010-09-28, origin-era long tail). All 8 came
+back `ok` with usable captions — the fourth consecutive clean batch since the PO-token
+gate was resolved, no rate-limit or gate regressions observed.
+
+Ingested (all @mkbhd, all solo/Marques attribution):
+- **Cyber Acoustics 5.1 High Performance Speakers Review** (2010-09-03) — 7.2/10,
+  states the royalty-free-copyrighted-music playback constraint on reviews.
+- **Solar Sound 2 Speaker System Review** (2010-09-07) — combined unbox+review (no
+  separate unboxing video), repeats the royalty-free-audio constraint, no numeric score.
+- **Review: Altec Lansing Octane 7** (2010-09-10) ★ — 8.5/10; directly answers a viewer
+  comment by playing an actual track to demo bass, resolving the royalty-free-audio gap
+  opened by the two prior videos this batch.
+- **iKey Audio M808-V2 Studio Monitor Review** (2010-09-17) ★★ — **first-ever 10/10**
+  score in the scoring ladder, plus an explicit self-aware disclaimer separating the
+  red-and-black aesthetic preference from the audio-quality judgment.
+- **Google Chrome 7 Beta** (2010-09-21) — introduces the "fish tank" hardware-
+  acceleration benchmark alongside the existing Acid3 test (100/100), states "Google is
+  one of my favorite companies."
+- **Internet Explorer 9 Beta** (2010-09-24) ★ — same-week head-to-head fish-tank +
+  Acid3 comparison directly against the Chrome 7 numbers from 3 days earlier; praises
+  IE9 but keeps Chrome as daily driver.
+- **#NewTwitter Parody - MKBHD Style** (2010-09-26) — light ingest, commentary over
+  Twitter's own promo video (kept, not skipped: contains a genuine hedged opinion).
+- **Blackberry Playbook Tablet - First Look** (2010-09-28) — commentary over RIM's ad,
+  explicit ad-vs-hands-on transparency disclosure, iPad/Galaxy-Tab comparisons.
+
+Ledger: 8 rows → L2 (domains/notes set per `tools/ledger_set.py`). `wiki/sources/
+youtube-index.md` @mkbhd section gets 8 new rows in date order (2010-09-03 → 09-28),
+footer bumped 401 → 409; `index.md` count bumped to match. No topic/persona pages
+touched this batch (L2 only, per ingestion tiers) — the ★/★★ findings above are flagged
+for the next synthesis pass, not inline-promoted.
+
+**Synthesis notes:** genuinely new this batch — (1) first-ever 10/10 score milestone
+(iKey Audio M808-V2) with a directly-quotable red-and-black bias disclaimer; (2) a
+concrete viewer-comment → format-change turnaround (royalty-free-audio demo resolved
+within the same 3-video run); (3) a same-week comparative benchmark pair (fish-tank +
+Acid3) run identically across two competing browsers, an early instance of the
+comparative-review method; (4) first explicit "Google is one of my favorite companies"
+brand-affinity statement. Candidates for `tech-reviews` (scoring ladder + comparative
+method) and `consumer-tech-culture` (red-and-black) at next synthesis pass.
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (3rd consecutive batch), 5 ingested, 2 genuine no-captions, 1 music/filler-only-caption retry candidate
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single

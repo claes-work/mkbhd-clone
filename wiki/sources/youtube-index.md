@@ -281,6 +281,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2010-08-16 — [[2010-08-16-yt-7XdczEd26dU|Dell Ultrasharp 2407WFPb Unboxing and Setup]] ★ · creator-business, consumer-tech-culture, production-filmmaking
 - 2010-08-22 — [[2010-08-22-yt-8TdFhVGvn2c|GIVEAWAY: Beats by Dre Solo HD [Closed]]] ★ · creator-business
 - 2010-08-26 — [[2010-08-26-yt-0H-wgsF6nFc|Cyborg R.A.T. 7 Unboxing [HD]]] ★ · production-filmmaking, consumer-tech-culture, creator-business
+- 2010-09-03 — [[2010-09-03-yt-S_IOXncPeuY|Cyber Acoustics 5.1 High Performance Speakers Review]] · tech-reviews, production-filmmaking
+- 2010-09-07 — [[2010-09-07-yt-ZaucXnaIzoY|Solar Sound 2 Speaker System Review]] · tech-reviews, production-filmmaking
+- 2010-09-10 — [[2010-09-10-yt-Vq2YQzm6vCY|Review: Altec Lansing Octane 7]] ★ · tech-reviews, production-filmmaking, creator-business
+- 2010-09-17 — [[2010-09-17-yt-KG5cIynaW-E|iKey Audio M808-V2 Studio Monitor Review]] ★★ · tech-reviews, consumer-tech-culture, production-filmmaking
+- 2010-09-21 — [[2010-09-21-yt-X-X-IZsnbEE|Google Chrome 7 Beta]] · tech-reviews, tech-industry-commentary, production-filmmaking
+- 2010-09-24 — [[2010-09-24-yt-ZrHSO3ZldEk|Internet Explorer 9 Beta]] ★ · tech-reviews, tech-industry-commentary, production-filmmaking
+- 2010-09-26 — [[2010-09-26-yt-JJLuABfjkH4|#NewTwitter Parody - MKBHD Style]] · tech-industry-commentary, consumer-tech-culture
+- 2010-09-28 — [[2010-09-28-yt-um0Y5VptwqQ|Blackberry Playbook Tablet - First Look]] · tech-reviews, tech-industry-commentary
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -442,4 +450,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_401 videos ingested (L2) so far._
+_409 videos ingested (L2) so far._
