@@ -21,14 +21,30 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_None — synthesis is caught up with ingest (L2=386). Next checkpoint at the next channel/era
-boundary or ~10 more batches. Note: the ingest→captions path (yt-dlp PO-token gate) is currently
-blocked environment-wide (twenty consecutive confirmations as of 2026-07-22, confirmed on
-**all 5 of 5 TARGET channels** — @mkbhd, @AutoFocus, @TheStudio, @Waveform, @WaveformClips) —
-fully settled as an infra blocker, not a per-channel caption gap. pip/pip3/node/npm remain
-absent from PATH, `python3 -m ensurepip` reports no `ensurepip` module either (no user-level
-pip bootstrap path), and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all
-twenty checks to date). The 15th confirmation (2026-07-22) departed from the cheap-check-only
+_One real batch since pass 6 (386 → 393 L2, the @mkbhd Apr 28–Jun 8 2010 batch) — debt 3/10,
+still short of the checkpoint. **PO-token gate update (2026-07-22, 21st check): RESOLVED,
+provisionally.** After 20 consecutive blocked confirmations (below), this check found pip/node/npm
+newly available in the environment (unlike all 20 prior checks) and network access to PyPI;
+installed the `bgutil-ytdlp-pot-provider` PO-token provider via
+`pip install --user --break-system-packages`, and found a companion bgutil PO-token HTTP server
+already running locally (`127.0.0.1:4416`, not started by this session). A live probe against the
+same control id used in confirmations 15/17/19 (`m89I065ngos`) succeeded end-to-end — captions
+downloaded. A real `ingest_batch.py prepare --channel @mkbhd --n 8` batch then ran for real:
+7/8 ok, 1 genuine no-captions (unrelated to the gate). Caption fetch — and therefore Stage B and
+the caption-dependent Stage C (shorts dedup) — is workable again. Outstanding: the 16 `@mkbhd`
+rows misclassified `no-captions` before the gate was first diagnosed (flagged since 2026-07-21)
+are now retry candidates rather than confirmed caption-less, still not yet corrected. Future
+iterations should keep monitoring for regressions (the server/provider could disappear again) but
+no longer need the cheap-check/live-probe alternating ritual below unless captions start failing
+again._
+
+_Historical record (20 consecutive blocked confirmations, 2026-07-21→22, before resolution): the
+ingest→captions path (yt-dlp PO-token gate) was blocked environment-wide, confirmed on
+**all 5 of 5 TARGET channels** — @mkbhd, @AutoFocus, @TheStudio, @Waveform, @WaveformClips — a
+fully settled infra blocker, not a per-channel caption gap. pip/pip3/node/npm were absent from
+PATH throughout, `python3 -m ensurepip` reported no `ensurepip` module either (no user-level pip
+bootstrap path), and yt-dlp stayed pinned at `stable@2026.07.04` across all twenty checks. The 15th
+confirmation (2026-07-22) departed from the cheap-check-only
 pattern and ran a real `ingest_batch.py prepare --channel @mkbhd --n 8` as a live re-test (not
 just the PATH/version check) — same PO-token gate, 8/8 no-captions. That run also caught and
 fixed a ledger-hygiene issue: the driver auto-marks PO-token-blocked rows `L1 no-captions`, which

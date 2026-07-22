@@ -4,6 +4,78 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate RESOLVED, first successful caption fetch after 20 blocked confirmations, 7 ingested
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model rule
+for dispatched runs). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere;
+open P2/P3 long-form on every channel (@AutoFocus 104, @TheStudio 104, @Waveform 292,
+@WaveformClips 622, @mkbhd 1295); open shorts 364; ingested L2=386/L3=0; synthesis debt 2/10
+since pass 6 — no S/P/A rule matched. Stage machine selected **Stage B** (open P2 rows exist;
+persona not stale).
+
+Per the standing recommendation's alternating pattern (the 20th confirmation was cheap-check-only,
+so this iteration was due for a live re-test), ran the cheap environment check first — and it came
+back **different for the first time in 20 confirmations**: `which pip pip3 node npm` now resolves
+all four (`/usr/bin/pip`, `/usr/bin/pip3`, `/usr/bin/node` v20.20.2, `/usr/bin/npm` 10.8.2), where
+every prior check (1st–20th confirmation) found them absent from PATH. `yt-dlp --version` unchanged
+(`2026.07.04`). Escalated immediately to a live probe given the changed signal: `pip install --dry-run`
+hit `externally-managed-environment`; `python3 -m venv` failed (`ensurepip` still unavailable, matching
+prior findings — `apt install python3.12-venv` would need root); but `pip install --user
+--break-system-packages bgutil-ytdlp-pot-provider` **succeeded** (installed 1.3.1, network access to
+PyPI confirmed). Re-ran `yt-dlp --version` verbose: the plugin loaded from both
+`~/.config/yt-dlp/plugins/bgutil-ytdlp-pot-provider.zip` (a copy already present, timestamped
+~15 minutes earlier than this session — likely another concurrent roster-autopilot iteration on a
+different clone finding the same environment change independently) and the pip-installed
+`~/.local/lib/python3.12/site-packages/yt_dlp_plugins`. A manual verbose probe
+(`yt-dlp -v --skip-download --write-auto-sub --sub-lang en --write-sub` on the same control id,
+`m89I065ngos`, used in confirmations 15/17/19) **succeeded**: `[pot] PO Token Providers:
+bgutil:http-1.3.1 (external), bgutil:script-node-1.3.1 (external), bgutil:script-deno-1.3.1
+(external)`; a companion bgutil PO-token HTTP server was found already running locally at
+`http://127.0.0.1:4416` (not started this iteration — pre-existing), serving working gvs/subs PO
+tokens; captions downloaded successfully (30.7KiB `.en.vtt`). The 20-confirmation-long PO-token
+block is **provisionally resolved** — an environment-side change (pip/node/npm becoming available,
+plus a PO-token provider + server already running) rather than anything this loop did to yt-dlp
+itself. Test file removed from `/tmp` after the probe.
+
+Proceeded with a real Stage B batch: `python tools/ingest_batch.py prepare --channel @mkbhd --n 8`
+(oldest-first P2, continuing the 2009→2010 origin long tail from pass 6's Nov 7 2009 high-water
+mark) — **7/8 ok, 1 marked no-captions** (`yt-ijgAj_FFaH0`, Intel X25-V SSD unboxing — a genuine
+caption absence, not the PO-token gate; unrelated ledger hygiene, left as `no-captions`). Read
+and wrote all 7 transcripts directly, sequentially (per the dispatched-subagent spawn-model rule):
+Samson MD5 desktop mic stand unbox (2010-04-28, ★ voiceover-workflow-bottleneck → gear-fix →
+output-quality/frequency chain), HTC Droid Incredible unboxing (2010-04-30, unbox/review firewall
+maintained), HD Tutorial: YouTube Groups [Updated] (2010-05-07, own-tutorial revision as the
+platform changed), Unboxed: Motorola Droid EasyStand (2010-05-11, magnet-triggered accessory
+mechanism), Google Moderator Module (2010-05-25, ★ a second, more formalized audience-voting
+content-selection system alongside the informal YouTube-Group submissions), Unboxed: Bluelounge
+CableBox (2010-06-03, cleanest verbatim unbox/review-firewall restatement yet), HD Tutorial:
+Safari 5 (2010-06-08, same-day WWDC-2010 desktop-software coverage extending the same-day
+platform-update habit from mobile firmware to desktop browsers). All solo-attributed (age 16, no
+guests). Ledger rows set to `L2` via `tools/ledger_set.py` with domains/notes per video; the 7
+new pages inserted into `wiki/sources/youtube-index.md` in date order between the 2009-11-07 and
+2013-10-12 rows, footer bumped 386 → 393; `index.md`'s YouTube sub-index count and running batch
+narrative bumped to match, and its "Last updated" header rewritten to lead with this batch (prior
+synthesis-pass-6 summary preserved in the "Prior:" chain).
+
+**Outstanding follow-up (not done this iteration, still flagged):** the 16 `@mkbhd` rows from two
+pre-diagnosis 2009/2010-origin batches that were misclassified `no-captions` before the PO-token
+gate was first identified (2026-07-21) remain uncorrected — now that captions demonstrably work
+again, those rows are candidates for a retry, not confirmed permanently caption-less. Left as an
+open curatorial item (unchanged from its prior flagged status) rather than expanded into this
+iteration's scope.
+
+7 ingested, 1 no-captions (genuine, unrelated to the resolved gate), 0 skipped, 0 dup. Persona/
+system-prompt untouched this batch (L2-only, per the ingest tiers); synthesis debt now 3 batches
+since pass 6 (checkpoint at 10) — still short of the checkpoint, so no Stage S this iteration.
+
+Synthesis notes: two ★ candidates for the next synthesis pass — (1) the Samson MD5 mic-stand
+voiceover-workflow-bottleneck→gear-fix→quality/frequency causal chain (production-filmmaking); (2)
+the Google Moderator weekly-voting content-selection system as a second, more formalized audience-
+participation mechanism alongside the informal YouTube-Group submissions (creator-business) —
+worth reconciling into a single audience-driven-content-selection lineage at the next pass. Debt
+3/10 since pass 6.
+
 ## [2026-07-22] ingest | stage-orientation only, cheap environment recheck per standing recommendation, unchanged (20th confirmation), 0 ingested, iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single

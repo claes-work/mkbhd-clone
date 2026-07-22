@@ -1,6 +1,6 @@
 ---
 type: source-subindex
-updated: 2026-07-21
+updated: 2026-07-22
 ---
 
 # YouTube Sources Sub-Index
@@ -266,6 +266,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2009-11-02 — [[2009-11-02-yt-XsXsG80Ff0A|iGIVEAWAY! [Take 2]]] ★ · creator-business, consumer-tech-culture
 - 2009-11-06 — [[2009-11-06-yt-0FxhiUp2Drs|gScreen Spacebook: Dualscreen Laptop!]] ★ · consumer-tech-culture, tech-reviews
 - 2009-11-07 — [[2009-11-07-yt-pO-q89n_coc|Update Zune HD to New Firmware [4.3] For free 3D Games!]] · tech-reviews
+- 2010-04-28 — [[2010-04-28-yt-m89I065ngos|Samson MD5 Desktop Microphone Stand [HD]]] ★ · production-filmmaking, creator-business
+- 2010-04-30 — [[2010-04-30-yt-D2aFMc8W1qQ|HTC Droid Incredible Unboxing [HD]]] · smartphones, tech-reviews
+- 2010-05-07 — [[2010-05-07-yt-zoF2a0BAIec|HD Tutorial: YouTube Groups [Updated]]] · creator-business
+- 2010-05-11 — [[2010-05-11-yt-f9_4lhN9zXM|Unboxed: Motorola Droid Desktop Stand]] · smartphones, tech-reviews
+- 2010-05-25 — [[2010-05-25-yt-8QvBKhk0owA|Google Moderator Module]] ★ · creator-business
+- 2010-06-03 — [[2010-06-03-yt-Wz5csgH8eFw|Unboxed: BlueLounge CableBox [HD]]] · consumer-tech-culture, tech-reviews
+- 2010-06-08 — [[2010-06-08-yt-gYRObEyOWYM|HD Tutorial: Safari 5]] · tech-industry-commentary, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -427,4 +434,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_386 videos ingested (L2) so far._
+_393 videos ingested (L2) so far._
