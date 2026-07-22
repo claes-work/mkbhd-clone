@@ -4,6 +4,57 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | stage-orientation only, sign-in/bot-check blocker still active on fresh dispatch (5th+ confirmation), iteration stopped
+
+Dispatched as a fresh subagent under the roster autopilot's session-wide spawn budget
+(single coordinator, writing pages directly, no per-video subagents, batch size 8, per
+this loop's spawn-model rule for dispatched runs). Orientation (`python
+tools/ingest_batch.py status` + `SUBJECT.md` + `grep "^## \[" log.md`): synthesis debt
+still 2/10 (not due), all 5 TARGET channels enumerated (no Stage A), no
+persona-staleness signal — no S/P/A rule fires. Open long-form unchanged: `@AutoFocus`
+104 (P2), `@TheStudio` 104 (P2/P3), `@Waveform` 293 (**P1:1**, P2:275, P3:17),
+`@WaveformClips` 622 (P2/P3), `@mkbhd` 1215 (P2/P3); open shorts 364. The one open P1
+row anywhere is still `@Waveform`'s `yt-NofmSGPCDr4` ("That's a Totally Normal Thing to
+Say! (Trivia Extravaganza 2026)", fresh-upload) — the P1/freshness rule fires for
+`@Waveform`, so Stage B targeted that video first, per the task brief's explicit
+instruction to prefer the open P1 fresh-upload row.
+
+Ran `python tools/ingest_batch.py prepare --channel @Waveform --priority 1 --n 8`: 1
+row selected (`yt-NofmSGPCDr4`), caption fetch errored and was left open for retry (not
+auto-marked `no-captions`) — 0 ok, 0 marked, 1 retry. A direct `yt-dlp
+--write-auto-sub` probe against the same video reproduces the identical error: `Sign in
+to confirm you're not a bot. Use --cookies-from-browser or --cookies for the
+authentication.` This is the same systemic sign-in/bot-check blocker documented in the
+four preceding log entries today (distinct from the earlier, since-resolved PO-token
+gate; already reconfirmed across `android_vr`, `web_safari`, `tv`, and `web` player
+clients with a fresh cookie file). No new diagnostic angle was attempted here — the
+prior iteration's standing recommendation was to stop re-running yt-dlp probes
+(cheap or otherwise) absent an actual infra-side signal that something changed (new
+IP, manually re-verified browser session, or a provenance note in `/etc/yt-dlp.conf`
+or the cookie file). This run did the minimum single confirmation needed to verify
+that recommendation still holds for a freshly-dispatched session, found no such
+signal, and is stopping rather than burning further attempts.
+
+**Safety rail invoked** (per task brief: 3 consecutive yt-dlp failures → assume
+rate-limiting, finish bookkeeping for what succeeded, stop). Nothing was ingested,
+skipped, or marked `no-captions`; no ledger rows touched (`git status`/`git diff
+--stat` confirm a clean tree before this log write); no `wiki/sources/`,
+`youtube-index.md`, or `index.md` changes; persona/system-prompt untouched (not
+stale). Dispatched as a downstream subagent, this run does not schedule wakeups, start
+loops, or touch the roster repo, per its own operating constraints.
+
+**Standing recommendation (unchanged).** The blocker is still best explained as a
+systemic/IP-reputation-style bot-check, not a player-client or cookie-freshness issue —
+now reconfirmed on a completely fresh dispatch, ruling out session-local flakiness as
+the cause. Continue withholding further automated yt-dlp retries until there is an
+actual infra-side change (different IP/proxy, a manually-solved browser CAPTCHA to
+re-trust the account, or an explicit provenance note in `/etc/yt-dlp.conf` / the cookie
+file) — this looks like it needs a human-side fix, not more agent-side retries.
+
+Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchanged at
+2 ingest batches since synthesis pass 7 (checkpoint at 10; this stage-orientation-only
+entry does not count toward the debt, per the same reasoning as the prior entries).
+
 ## [2026-07-22] ingest | stage-orientation only, differently-configured probes (tv/web player clients) confirm blocker is not a player-client issue (4th+ confirmation), iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
