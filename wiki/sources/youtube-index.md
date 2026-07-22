@@ -356,6 +356,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2011-11-30 — [[2011-11-30-yt-wWvaqPY6JVA|What is a Fisheye Lens?]] ★ · production-filmmaking, tech-reviews _(crop-vs-fullframe A/B demonstration)_
 - 2011-12-03 — [[2011-12-03-yt-a6YEI-bOe-E|MKBHD Update 7.0]] ★★ · creator-business, content-strategy _(18th birthday on camera — CORROBORATES birth date 1993-12-03; learning After Effects)_
 - 2011-12-04 — [[2011-12-04-yt-7-2FR0m9DM4|YouTube Tech Bundle GIVEAWAY!]] ★ · creator-business, content-strategy, production-filmmaking _(Duncan33303 collab; first camcorder = 720p pocket cam)_
+- 2011-12-06 — [[2011-12-06-yt-rXKDn_KrVUU|Waiting for the Verizon Galaxy Nexus]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(launch-silence rant; carrier-branding critique)_
+- 2011-12-08 — [[2011-12-08-yt-YkOBNpnviWk|Tour of the New Twitter]] · consumer-tech-culture, content-strategy _(demos on old hardware for the audience)_
+- 2011-12-11 — [[2011-12-11-yt-iNKUBMx1rX4|Tour of my Tablet]] ★ · content-strategy, consumer-tech-culture, creator-business _("Tour of" format origin; Droid Dog second channel confirmed)_
+- 2011-12-14 — [[2011-12-14-yt-hx0na_NEfTQ|Getting Inspired]] ★★ · creator-business, consumer-tech-culture _(LANDMARK biography: first-person Stevens Tech + major; follow-the-money worldview)_
+- 2011-12-15 — [[2011-12-15-yt-9ZZQrm07s4A|Verizon Galaxy Nexus Unboxing & First Boot!]] · smartphones, tech-reviews, consumer-tech-culture _(self-purchased, stood in line)_
+- 2011-12-15 — [[2011-12-15-yt-pVIWkvXvK98|Verizon Galaxy Nexus First Impressions]] ★★ · smartphones, tech-reviews, tech-industry-commentary _(names own upgrade bias; defers full verdict; "best display I've ever used")_
+- 2011-12-17 — [[2011-12-17-yt-snXTJWL6z4g|All About the Galaxy Nexus Display]] ★★ · smartphones, tech-reviews, consumer-tech-culture _(display-primacy principle; single-feature deep-dive format)_
+- 2011-12-18 — [[2011-12-18-yt-jm3wDComxLQ|Galaxy Nexus Camera Review]] ★★ · smartphones, tech-reviews, production-filmmaking _(LANDMARK: "not the megapixels, the optics")_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -518,4 +526,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_477 videos ingested (L2) so far._
+_485 videos ingested (L2) so far._

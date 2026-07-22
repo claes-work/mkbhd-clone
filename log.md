@@ -4,6 +4,85 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011 origin Dec 6–18, 8/8 ingested (Galaxy Nexus arc + two landmarks)
+
+Stage B, full batch of 8 against `@mkbhd` P2. **Fifth consecutive clean batch, second
+zero-loss batch in a row**: 8 ingested, 0 skipped, 0 no-captions, 0 dup. The window happens
+to contain a **complete six-video Galaxy Nexus arc** — anticipation rant → unboxing → first
+impressions → display deep-dive → camera review — which is the most complete picture the
+wiki now has of how he covered a single device in 2011.
+
+**Landmark 1 — biography. `Getting Inspired` (2011-12-14)** opens with a plain
+self-introduction that resolves a long-standing gap: "my name is Marques and I'm a student
+at **Stevens Tech**, and I'm studying **business and technology, information systems and
+marketing**." `SUBJECT.md` already had Stevens from third-party research; this is
+**first-person corroboration plus the specific major**, which the wiki did not have. He also
+self-labels as a "**YouTube video producer**" — his own term at 18. Critically, the same
+video states the intellectual root of a habit documented across the last three batches:
+"everything that you work hard to do… is all financially inspired," and consumer behavior —
+"how marketing affects the choices that people make" — named as the coolest thing he'd
+studied. He was formally studying advertising's mechanics in the same term he tore down
+iPhone-vs-Android commercials. That causal link between his coursework and his analytical
+style is exactly the kind of self-knowledge the persona should be able to articulate.
+
+**Landmark 2 — beliefs. `Galaxy Nexus Camera Review` (2011-12-18)** states, before a single
+test shot, the position he is still known for: "there are 3 megapixel sensors, there are 5,
+there are 8, 10 and 12 all in smartphones — but **it's really all about the quality of the
+optics**, which is basically the sensor and the glass." Earliest dated articulation in the
+corpus. The verdict splits hardware from software ("a big fan of the camera software rather
+than the camera hardware") and the numeric call is class-scoped ("on the smartphone scale
+this guy takes around an eight"), i.e. the 09-30 methodology again, operating.
+
+**The methodology now demonstrably applies to himself.** `First Impressions` (12-15) is the
+strongest evidence yet: he names his own baseline as a bias source and argues past it
+("I'm not just saying that because I came from a 2-year-old OG Droid… I have tested other
+phones before"), calls the sensor of a phone he **queued in line and paid for**
+"pitiful," and refuses a verdict he hasn't earned ("I didn't really cover battery life…
+I'll cover a lot of these things in my full review in a couple weeks"). Buying it himself,
+loving it, and still publishing the criticism is the disclosed-baseline rule under real
+pressure.
+
+**`All About the Galaxy Nexus Display` (12-17)** is a **single-feature deep dive** — a whole
+video on one component — and states the justification as a principle: the screen is "the
+most important and the most impressive feature… **it's what you use every time you use a
+phone**." That is display-primacy, a still-current MKBHD position, at its earliest clear
+articulation. He also demonstrates OLED black pixels as a live battery tip, and defends the
+superlative by naming the counter-arguments (Rezound, iPhone 4S) before rebutting them —
+the third argue-against-yourself instance in five weeks.
+
+Rounding out: the **12-06 launch rant** scopes its complaint precisely (silence, not
+lateness — "I don't care if this device is released December 31st") and critiques Verizon
+stripping Google branding from a Google flagship, a **third incentive-structure instance in
+three weeks**; **`Tour of my Tablet` (12-11)** launches the **"Tour of" format**, confirms
+he produces videos for the **Droid Dog** channel (keeping a blank home-screen pane as a test
+surface), and delivers a third dated minimalism statement; **`Tour of the New Twitter`
+(12-08)** demos on his two-year-old OG Droid specifically to establish a compatibility floor
+for viewers, and praises the redesign while declining to switch; and the **unboxing (12-15)**
+supplies the provenance underpinning the whole arc — self-purchased, launch day, in a line —
+plus small biography colour (no case, screen protector, M50s for music, never tethers his
+phone to a computer).
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 477 → 485 and the `index.md`
+count/batch trail updated. persona/ and system-prompt untouched.
+
+Synthesis notes: an unusually load-bearing batch. (1) ★★ **Stevens Institute + major,
+first-person** → `persona/biography.md`, joining the now-double-sourced birth date from the
+previous batch; three weeks of 2011 material now fix identity, age and education.
+(2) ★★ **"Not the megapixels, the optics"** → `persona/beliefs.md`, dated 2011-12-18, with a
+note to find the mature restatement in later sources. (3) ★★ **Display primacy**, argued
+from usage frequency → `persona/beliefs.md`; the OLED-contrast-over-panel-quality corollary
+is era-specific and must be date-scoped separately. (4) ★★ **The follow-the-money worldview
+and its stated origin in studying consumer behavior** → `persona/beliefs.md`, and it
+retro-explains the incentive-structure analyses of 11-15, 11-22 and 12-06. (5) ★★ **The
+methodology applied reflexively** (own-bias disclosure, criticizing a self-bought favourite,
+refusing an unearned verdict) → the review-methodology topic page as its strongest worked
+example. (6) ★ Format ledger grows again: "Tour of" series + single-feature deep dive — the
+2011 channel is running a deliberate portfolio of formats and that now deserves its own
+topic page. (7) ★ Droid Dog second channel confirmed with detail. **Open thread: the
+promised full Galaxy Nexus review is NOT in this batch** — flag it for the next window. Debt
+now 7 ingest batches since synthesis pass 7 (checkpoint at 10).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011 origin Nov 10–Dec 4, 8/8 ingested
 
 Stage B, full batch of 8 against `@mkbhd` P2. **Fourth consecutive clean batch** since the
