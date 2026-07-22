@@ -4,6 +4,83 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2012 origin Feb 10–Mar 2, 8/8 ingested
+
+Stage B, first batch after synthesis pass 8. **Eighth consecutive clean batch, fourth zero-loss**:
+8 ingested, 0 skipped, 0 no-captions, 0 dup. 500→**508 L2**. Two of the three open threads carried
+out of the pre-synthesis window are now **closed**: Mac Mini part 2 (and parts 3–4) landed, and the
+Transformer Prime dock arrived.
+
+**`Pixel Density: Explained!` (02-26) is the earliest full technical explainer in the corpus** and
+supplies the missing substructure under the display-primacy belief promoted at pass 8. Display
+primacy says *the screen matters most*; this says *how to judge one*: **density only means anything
+relative to viewing distance**. He builds it from first principles — sub-pixels → the PPI formula →
+"retina" defined generically as a threshold rather than a brand — then walks the device-class ladder
+(iPhone 326 · iPad 2 132 · Xoom/Prime 150 · 24" monitor 91 · Thunderbolt Display 109 · 42" TV 52).
+The sharpest move: he **deflates a premium product with arithmetic** — "while you may be inclined to
+believe that your precious Apple Thunderbolt display is superior in clarity… it's really not."
+It also contains a **documented wrong call**: "there have been rumors about a retina display MacBook
+Pro, but I wouldn't put any money on it" — which shipped roughly four months later. Recorded as a
+dated miss rather than quietly skipped; an honest persona should own those.
+
+**`YouTuber Tip #6: Ideas!` (02-29) is the batch's other landmark**, and it answers a tension pass 8
+explicitly flagged. The selection principle: "I try to make videos that are better **to me** — that I
+would actually want to watch… what do I want to see? That's what I would end up making a video about,
+'cause **I don't see it on YouTube and I want it to be there**." (The pixel-density explainer three
+days earlier is literally this principle executed.) And the craft discipline: **finish it, sleep a
+full day, rewatch before publishing** — "you will find so many things that you would rather have
+different about that video. I swear. I do this all the time" — with the project file kept so the
+rewatch is actionable. That is *how* the quality-over-throughput waiting gets spent, which sharpens
+the belief promoted at pass 8 from a slogan into a practice.
+
+**`Beats Pro vs ATH-M50` (02-14) dates the Beats thread 2½ years earlier than the wiki had it.** The
+$160 pair beats the $400 pair on sound — "I thought I was going to get punched in the face for saying
+that" — and the critique the channel is later known for is already fully formed: "you're making these
+a **$400 fashion accessory, a $400 necklace**." Structurally it's a cleaner relative of the split
+sub-scores: "swag" is isolated as its own axis so the rival's looks can be conceded generously
+("hands down classy, Bravo") without contaminating the verdict. The wiki's existing 2014 entry
+("Margins + perceived value") should now be read as the *softened, matured* version of this.
+
+**`Best iPad 3 Features!` (02-23)** yields a one-line connection worth more than the rest of the
+video: "I'm MKBHD, and the HD… stands for high definition, **which basically means I love pixels.
+Lots and lots of pixels.**" The wiki already had the name's mechanics (MKB initials + HD, chosen for
+memorability) and the GIMP logo origin; this adds the *motivational* reading and ties the branding
+directly to display primacy. He also declines the era's cheapest content — the Siri-gag video —
+"No. No. Sorry. Just no."
+
+**The Mac Mini series completes (parts 2–4)** and documents the platform transition in his own words:
+"**I've never really been a full-time Mac OS X person, but I'm giving OS X a shot right now to see if
+I can get used to it as my daily driver**," closing with "don't freak out PC people, Windows isn't
+going anywhere." Also: an itemized **$1,759** build cost; benchmarks **crowdsourced from Twitter**
+with the unflattering CPU result published alongside the good ones and contextualized by the real
+workload ("I am editing this video on the Mac Mini"); and in part 2, two small but characteristic
+moves — he **called Apple and reported that nobody could tell him** how fast their own SSD was, and
+he **sent viewers to another creator's teardown tutorial** rather than making a worse version, the
+earliest known instance of the "defer to specialists" value already in the persona from 2020.
+
+Rounding out: the **Transformer Prime dock** (02-18) answers "can it replace a laptop?" with a
+procedure rather than a verdict — "look at what you do on your laptop" — the second
+give-them-a-way-to-decide answer in two weeks after the phone-buying framework, plus the reframing
+analogy "really a quad-core Chromebook," and a nitpick he keeps while flagging it as one (tablets
+that aren't laptops don't open like laptops).
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 500 → 508 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched (pass 8 just recompiled to v8; this batch's ★★ material
+queues for pass 9).
+
+Synthesis notes: (1) ★★ **The viewing-distance framework** — completes the display doctrine
+(primacy + how to judge). (2) ★★ **"Make what you'd want to watch and can't find"** + the
+**sleep-on-it rule** → `persona/beliefs.md` and the creator-business hub; the latter resolves the
+quality-vs-frequency tension flagged at pass 8. (3) ★★ **The Beats thread's origin at 2012**, harder
+than its 2014 form — promote as the dated antecedent and note the softening rather than presenting
+either as timeless. (4) ★★ **"The HD means I love pixels"** → a one-line addition to the biography
+name-origin entry and the display belief. (5) ★★ **The macOS transition stated outright** →
+strengthens the pass-8 biography entry from an aside to a documented decision. (6) ★ A **documented
+wrong prediction** (retina MacBook Pro) — worth its own line, since the corpus so far records mostly
+correct calls. (7) ★ Two small values instances: deferring to another creator's tutorial, and
+declining easy Siri-gag content. Debt: 1 ingest batch since synthesis pass 8 (checkpoint at 10).
+
 ## [2026-07-22] lint | synthesis pass 8 — Sep 2011 → Feb 2012 origin era (454→500 L2)
 
 Stage S. Drained the ten-batch debt accumulated since pass 7 — one @Waveform fresh-upload single

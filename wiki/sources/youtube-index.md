@@ -379,6 +379,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-02-01 — [[2012-02-01-yt-wkmL7KyNn3o|Cyborg RAT 7 Review!]] · tech-reviews, production-filmmaking, consumer-tech-culture _(superlative offered with an invitation to disprove it)_
 - 2012-02-05 — [[2012-02-05-yt-Ktoalz6PbXc|Too many Android phones? RANT]] ★★ · smartphones, tech-industry-commentary, consumer-tech-culture, creator-business _(LANDMARK essay: obsolescence is perceptual; "live by the quarterly report"; buying framework)_
 - 2012-02-08 — [[2012-02-08-yt-ngEoQzIqHMc|Chrome Beta for Android!]] ★ · consumer-tech-culture, smartphones, content-strategy _(two-device sync demo; "I use Chrome for Mac now")_
+- 2012-02-10 — [[2012-02-10-yt-6cmhEmwfea0|Fastest Mac Mini in the World! [Part 2]]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(called Apple, got no answer; links another creator's tutorial)_
+- 2012-02-14 — [[2012-02-14-yt-et_PWifUd1w|Beats Pro vs Audio Technica ATH-M50!]] ★★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(the $160 pair wins; earliest "$400 fashion accessory" critique)_
+- 2012-02-18 — [[2012-02-18-yt-fQqdHfUVOiI|Asus Transformer Prime Dock!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _("look at what you do on your laptop"; "a quad-core Chromebook")_
+- 2012-02-20 — [[2012-02-20-yt-KRDYGVqxya4|Fastest Mac Mini in the World! [Part 3]]] · production-filmmaking, consumer-tech-culture _(RAM upgrade; cost accounting deferred)_
+- 2012-02-23 — [[2012-02-23-yt-4f6ti8k_BhY|Best iPad 3 Features!]] ★★ · tech-industry-commentary, consumer-tech-culture, smartphones _("the HD… basically means I love pixels"; declines Siri-gag content)_
+- 2012-02-26 — [[2012-02-26-yt-pzGsUp3yM8w|Pixel Density: Explained!]] ★★ · consumer-tech-culture, smartphones, tech-industry-commentary _(LANDMARK: PPI vs viewing distance; a documented wrong prediction)_
+- 2012-02-29 — [[2012-02-29-yt-0AZ5WyD2MK4|YouTuber Tip #6: Ideas!]] ★★ · creator-business, content-strategy, production-filmmaking _(LANDMARK: make what you'd want to watch; the sleep-on-it rule)_
+- 2012-03-02 — [[2012-03-02-yt-G_H6mRHS9pc|Fastest Mac Mini in the World! [Part 4] FINALE!]] ★★ · production-filmmaking, tech-reviews, consumer-tech-culture _(macOS transition stated outright; itemized build cost)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -541,4 +549,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_500 videos ingested (L2) so far._
+_508 videos ingested (L2) so far._
