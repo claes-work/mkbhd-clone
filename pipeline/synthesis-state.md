@@ -21,11 +21,12 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_Nine real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 → 432 → 439 → 446 L2:
-the @mkbhd Apr 28–Jun 8 2010 batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–Aug 26
-2010 batch, the @mkbhd Sep 3–28 2010 batch, the @mkbhd Oct 13–Nov 12 2010 batch, the @mkbhd
-Nov 17–Dec 5 2010 batch, the @mkbhd Dec 8–28 2010 batch, the @mkbhd Dec 30 2010–Jan 20 2011
-batch, then the @mkbhd Jan 23–Aug 20 2011 batch) — one away from the 10-batch checkpoint (see
+_Ten real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 → 432 → 439 → 446 → 454
+L2: the @mkbhd Apr 28–Jun 8 2010 batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–
+Aug 26 2010 batch, the @mkbhd Sep 3–28 2010 batch, the @mkbhd Oct 13–Nov 12 2010 batch, the
+@mkbhd Nov 17–Dec 5 2010 batch, the @mkbhd Dec 8–28 2010 batch, the @mkbhd Dec 30 2010–Jan 20
+2011 batch, the @mkbhd Jan 23–Aug 20 2011 batch, then the @mkbhd Aug 24–Sep 9 2011 batch) —
+**the 10-batch checkpoint is now due.** The next iteration must run Stage S (see
 `tools/ingest_batch.py status` for the live driver-computed count; note the driver currently
 reports a lower number than this manual tally — a log.md
 file-ordering quirk: `batches_since_synthesis()` in `tools/ingest_batch.py` scans the whole file
@@ -34,6 +35,30 @@ pass-6 heading sits mid-file (from when the log convention was append-at-bottom)
 entries are now prepended at the top, so only the handful of ingest entries physically BELOW the
 pass-6 heading get counted, not the real newest ones above it. Worth a driver fix at some point;
 until then, trust this manual tally over the driver's printed number for checkpoint timing).
+The tenth batch (@mkbhd Aug 24–Sep 9 2011, 8 L2, 446→454) confirmed the PO-token gate stays
+resolved for a tenth consecutive time (8/8 usable captions, no no-captions/rate-limit/dup rows
+at all) and completes the 10-batch synthesis debt. Two headline ★ findings: **Fat Laptops - HP
+8560W Review** (`yt-BHBjq1vRTtk`, 2011-08-24) coins an explicit "fat laptop" weight-threshold
+category (<6 lb = laptop, ≥6 lb = mobile-workstation) with a matching desktop-class-features
+performance bar, immediately followed three days later by **The Razer Blade - Preview**
+(`yt-bXxU6QOfMrU`, 2011-08-27) explicitly crediting that video with prompting an industry
+response ("took my previous video... very seriously") — a concrete, dated instance of his
+content shaping/being answered by manufacturer output, worth a `tech-reviews`/
+`tech-industry-commentary` entry. Also ★-worthy: **MKBHD YouTube Tips | #4**
+(`yt-VwKtcVrSKL8`, 2011-08-30), a two-part collab with Austin Evans ("Duncan33303"), lays out an
+explicit three-tier microphone framework (USB/camera-mounted/fully-separate, graded by
+convenience-vs-control trade-off) and a free-light-before-buying-gear lighting principle —
+concrete, reusable `production-filmmaking` methodology. And **What Phone are You?**
+(`yt-ZXabw4HRXzo`, 2011-09-09) confirms "Forum Friday" as an established monthly segment by
+this date and gives a dated personal-device biography anchor (his own daily driver was a
+Motorola Droid, awaiting the rumored Nexus Prime) — self-reported, not registry-verifiable.
+The remaining four videos (Galaxy Nexus rumor listicle, Blue Yeti Pro mic review, a thin Galaxy
+Note reaction, an OLED explainer) are routine long-tail continuations of already-tracked
+threads (rumor coverage, gear reviews, explainer format) with no new durable material beyond
+what's noted above. All 8 ingested items are solo/Marques-attributed (Austin Evans's collab
+appearance is a one-off credit, not yet a recurring co-host — not promoted to an entity page).
+Not landmark enough to inline-promote; all flagged for the next synthesis pass, which is now
+due.
 The ninth batch (@mkbhd Jan 23–Aug 20 2011, 7 L2 + 1 music/filler-only-caption retry candidate,
 439→446) confirmed the PO-token gate stays resolved for a ninth consecutive time (7/8 usable
 captions; the one miss — **IndiSLIDER Mini Deluxe [Canon T2i]** `yt-ui_ItunKJvc` — is a

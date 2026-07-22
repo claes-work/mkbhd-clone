@@ -326,6 +326,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2011-08-16 — [[2011-08-16-yt-vatuVGnd_X4|New Google Chrome 15 Features]] · tech-industry-commentary, consumer-tech-culture
 - 2011-08-18 — [[2011-08-18-yt-tFMJXSXfmUQ|Sigma 30mm f/1.4 Review + Footage]] · production-filmmaking, tech-reviews
 - 2011-08-20 — [[2011-08-20-yt-Aji9F-QWNTA|Stop It!]] ★ · tech-industry-commentary, consumer-tech-culture
+- 2011-08-24 — [[2011-08-24-yt-BHBjq1vRTtk|Fat Laptops - HP 8560W Review]] · tech-reviews, consumer-tech-culture
+- 2011-08-27 — [[2011-08-27-yt-bXxU6QOfMrU|The Razer Blade - Preview]] · tech-reviews, consumer-tech-culture
+- 2011-08-29 — [[2011-08-29-yt-mo7kYKeT3Vg|Top Reasons the Galaxy Nexus WINS]] · smartphones
+- 2011-08-30 — [[2011-08-30-yt-VwKtcVrSKL8|MKBHD YouTube Tips | #4]] · production-filmmaking, creator-business
+- 2011-09-02 — [[2011-09-02-yt-_G1d_1ZdsaU|Blue Yeti Pro [Review]]] · production-filmmaking, tech-reviews
+- 2011-09-04 — [[2011-09-04-yt-tAikHtGndGY|Samsung Galaxy Note Reaction]] · smartphones
+- 2011-09-07 — [[2011-09-07-yt-e6oN6ytpbi0|Top Reasons OLED Rocks!]] · smartphones, tech-industry-commentary
+- 2011-09-09 — [[2011-09-09-yt-ZXabw4HRXzo|What Phone are You?]] ★ · creator-business, smartphones
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -487,4 +495,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_446 videos ingested (L2) so far._
+_454 videos ingested (L2) so far._

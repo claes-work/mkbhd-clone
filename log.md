@@ -4,6 +4,83 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (10th consecutive clean batch), 8/8 ingested, 0 skipped, 0 no-captions, 0 dup — hits the 10-batch synthesis checkpoint
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere (fully
+drained several passes ago); open P2/P3 on every channel (@AutoFocus 104, @TheStudio 104,
+@Waveform 292, @WaveformClips 622, @mkbhd 1223 pre-batch); open shorts 364; ingested
+L2=446/L3=0 pre-batch. Driver-reported synthesis debt "2/10" is the known-unreliable
+number (log.md file-ordering quirk documented in `pipeline/synthesis-state.md`); manual
+tally said this would be the **10th real ingest batch since pass 6** (386 → 393 → 396 →
+401 → 409 → 417 → 424 → 432 → 439 → 446 → 454 L2), landing exactly on the checkpoint. No
+channel/era boundary crossed; persona not yet stale by the batch-count rule going in
+(9 batches at orientation time). Stage machine selected **Stage B** (open P2 rows exist
+on every channel; no S/P/A rule matched at orientation) — this batch itself is what
+pushes the debt counter to the 10-batch checkpoint; the **next** iteration should run
+Stage S before any further ingest.
+
+Ran `python tools/ingest_batch.py prepare --channel @mkbhd --n 8` against the oldest open
+P2 @mkbhd rows (2011-08-24 → 2011-09-09, continuing the origin-era chronological long
+tail). **8/8 came back `ok` with usable captions** — a clean batch, no no-captions/
+rate-limit/dup rows at all, the tenth consecutive batch confirming the PO-token gate
+stays resolved (safety-rail threshold of 3 consecutive yt-dlp failures never
+approached). All 8 videos were written as normal L2 source pages directly by the
+coordinator (no per-video subagents).
+
+Ingested (all @mkbhd, all solo/Marques attribution):
+- **Fat Laptops - HP 8560W Review** (2011-08-24) — ★ coins a "fat laptop" category with
+  an explicit weight threshold (<6 lb = laptop, ≥6 lb = mobile-workstation "fatty") and
+  a matching desktop-class-features performance bar for anything marketed as a desktop
+  replacement; cites the Windows Experience Index to name the HDD as the bottleneck.
+- **The Razer Blade - Preview** (2011-08-27) — ★ explicit same-week sequel: opens by
+  crediting the Fat Laptops video with prompting Razer's response ("took my previous
+  video... very seriously"); calls the Blade "the 17-inch MacBook Pro on steroids";
+  preview-vs-review format distinction stated explicitly (no unit in hand yet).
+- **Top Reasons the Galaxy Nexus WINS** (2011-08-29) — a pre-release rumor listicle with
+  an explicit rumor-vs-fact caveat up front, a standing pro-Nexus rationale (update
+  priority, dev support), and a pointed Verizon carrier grievance (Galaxy S2 launch
+  mishandling).
+- **MKBHD YouTube Tips | #4** (2011-08-30) — ★ a two-part collab with Austin Evans
+  ("Duncan33303"); an explicit three-tier microphone framework (USB/camera-mounted/
+  fully-separate, by convenience-vs-control trade-off) and a free-light-before-buying-
+  lights production principle; defends iMovie against "gear snobbery."
+- **Blue Yeti Pro [Review]** (2011-09-02) — a mic review stating a tier-appropriate-
+  effort philosophy ("if you're buying the Yeti Pro, you might as well get the most out
+  of it"); one caption-garbled prior-mic name flagged, not corrected without visual
+  confirmation.
+- **Samsung Galaxy Note Reaction** (2011-09-04) — thin, mostly-interjection reaction
+  content played over Samsung's own promo video; filed for timeline completeness.
+- **Top Reasons OLED Rocks!** (2011-09-07) — an explainer-format video (mechanism-first,
+  then benefits) closing with a direct-to-industry advocacy opinion ("I propose every
+  mobile manufacturer switch over to OLED... as soon as possible").
+- **What Phone are You?** (2011-09-09) — ★ confirms "Forum Friday" as an established
+  monthly recurring segment by this date; dated biography anchor — his own daily-driver
+  phone at this point is a Motorola Droid, while waiting on the rumored Nexus Prime.
+
+All 8 pages carry frontmatter (type, source_date, url, channel, ingested, tier: L2,
+domains, tags, attribution) + Summary + Key claims (dated) + Notable verbatim quotes.
+Austin Evans ("Duncan33303") appears as a one-off collab credit in the Tips #4 video —
+not yet recurring enough in this corpus to warrant a `wiki/entities/` page; watched for
+further crossovers. Ledger updated per video (`tools/ledger_set.py`);
+`wiki/sources/youtube-index.md` gained 8 rows in date order (footer count 446→454);
+`index.md`'s YouTube sub-index count and running batch-description bumped to match
+(446→454).
+
+Synthesis notes: several candidates for the next pass — (1) the **Fat Laptops / Razer
+Blade** same-week pair as a concrete "his content prompts an industry response" thread,
+plus the "fat laptop" weight-threshold category-naming convention for `tech-reviews`;
+(2) **YouTube Tips #4**'s three-tier microphone framework and free-light-first
+principle for `production-filmmaking`; (3) **What Phone are You?**'s dated Forum-Friday-
+is-monthly confirmation and Motorola Droid personal-device anchor for
+`creator-business`/`biography.md`. The remaining 4 videos (Galaxy Nexus rumor listicle,
+Blue Yeti Pro review, Galaxy Note reaction, OLED explainer) are routine long-tail
+continuations of already-tracked threads (rumor coverage, gear reviews, explainer
+format) — no new durable material beyond what's noted above. **Debt now at 10/10 ingest
+batches since synthesis pass 6 — the checkpoint is due.** Next iteration must run
+Stage S (synthesis) before resuming Stage B ingest.
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (9th consecutive clean batch), 7/8 ingested, 0 skipped, 1 music/filler-only-caption retry candidate, 0 dup
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
