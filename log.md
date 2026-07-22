@@ -4,6 +4,60 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@Waveform, 1) — sign-in/bot-check blocker RESOLVED, 1/1 ingested
+
+**Blocker cleared.** Orientation found the pipeline unchanged (synthesis debt 2/10, all 5
+TARGET channels enumerated, no persona-staleness signal) and the single open P1 row
+anywhere still `yt-NofmSGPCDr4` (@Waveform, "That's a Totally Normal Thing to Say!
+(Trivia Extravaganza 2026)", 2026-07-21 fresh upload). Before re-probing, this run checked
+for the infra-side signal the five preceding entries made a precondition for any further
+yt-dlp attempt — and found one: `~/.config/yt-dlp/config` was created at 22:03 local
+(20:03 UTC), i.e. *after* the last blocker confirmation (18:46 UTC), adding
+`--cookies-from-browser chrome` machine-locally with a comment documenting the anonymous
+timedtext HTTP 429 it was meant to fix. A single caption probe against the P1 video then
+succeeded cleanly (3,378 cookies extracted, `tv` player client, en auto-subs downloaded,
+no bot-check). The blocker is treated as resolved by a human-side config change, exactly
+the class of fix the standing recommendation called for. yt-dlp 2026.07.04; no repo change
+was involved (the VPS worker still has no browser and stays anonymous).
+
+Stage B, batch of 1 (only one P1 row open). `python3 tools/ingest_batch.py prepare
+--channel @Waveform --priority 1 --n 8` → 1 ok, 0 marked, 0 retry. Transcript read in full
+(3,461 lines) and the source page written directly by the coordinator (no per-video
+subagent for a single video). Result: 1 ingested, 0 skipped, 0 no-captions, 0 dup.
+
+**Content is deliberately low-yield.** The episode is a game show — the return of Trivia
+Extravaganza after ~11 months, with three formats (Keyword Search, a taboo variant, Reddit
+Feud over sentiment-analyzed Reddit threads), played in rotating two-host teams; Andrew
+Manganelli wins the Podman's Cup at 391 points, eight ahead of David Imel. Attribution was
+the binding constraint per SUBJECT.md's ensemble-channel rule: the auto-captions carry no
+speaker labels, only the host's turn-taking callouts. Exactly ONE item is confidently
+Marques-attributed — his confirmation that he made an early-era video on getting **Aero
+Snap working on Windows XP** (the trivia question names him as its author and he answers
+first-person, "I remember making that video"), a dated pre-smartphone-era channel anchor
+alongside Forum Friday / YouTube Tips. Four plausible-but-unlabelled first-person lines
+were quarantined under `attribution: uncertain` rather than promoted — most notably "The
+MKBHD channel is terrible at business. We give away. We don't take a lot of money.", which
+would be a genuinely valuable creator-business self-characterization if a labelled source
+ever confirms the speaker.
+
+A contradiction callout was added: the Reddit Feud round quotes a real r/MKBHD thread
+titled "MKBHD has unfollowed Elon Musk" and its top community answers (including "he sold
+his Cybertruck" and, at #2, that Musk blocked *him* rather than the reverse). These are
+Reddit-user assertions read aloud, not subject statements; the page records only that the
+discourse existed by 2026-07-21, and explicitly forbids treating either as an established
+biographical fact.
+
+Bookkeeping: ledger row `yt-NofmSGPCDr4` → L2 with domains + notes; one row inserted into
+`wiki/sources/youtube-index.md` in date order under @Waveform; footer 454 → 455 and the
+`index.md` count/batch trail updated to match. persona/ and system-prompt untouched (not
+stale, and nothing here is persona-eligible).
+
+Synthesis notes: one genuinely-new ★ item — the confirmed early "Aero Snap for Windows XP"
+video as a dated biography/early-content anchor (worth one biography-timeline line if the
+original video's ledger row can be located). One blocked ★ item — the "MKBHD channel is
+terrible at business" creator-business line, promotable only after speaker confirmation.
+Debt now 3 ingest batches since synthesis pass 7 (checkpoint at 10).
+
 ## [2026-07-22] ingest | stage-orientation only, sign-in/bot-check blocker still active on fresh dispatch (5th+ confirmation), iteration stopped
 
 Dispatched as a fresh subagent under the roster autopilot's session-wide spawn budget

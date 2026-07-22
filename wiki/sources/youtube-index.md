@@ -457,6 +457,7 @@ quarantined on each page (`attribution: uncertain`)._
 - 2026-07-03 — [[2026-07-03-yt-MwllurO2M-Y|Apple Raises Prices on Everything!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones, ev-cars, creator-business
 - 2026-07-10 — [[2026-07-10-yt-YgMNE4C89EQ|Nothing Beats Phone 4b with Ear 3a]] ★ · smartphones, tech-reviews, tech-industry-commentary, consumer-tech-culture, creator-business
 - 2026-07-17 — [[2026-07-17-yt-63m_fsOE-eQ|OnePlus is Dead… (In the US)]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(fresh-upload)_
+- 2026-07-21 — [[2026-07-21-yt-NofmSGPCDr4|That's a Totally Normal Thing to Say! (Trivia Extravaganza 2026)]] · consumer-tech-culture, tech-industry-commentary, creator-business _(fresh-upload; game episode, low persona yield)_
 
 ## @AutoFocus
 
@@ -495,4 +496,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_454 videos ingested (L2) so far._
+_455 videos ingested (L2) so far._
