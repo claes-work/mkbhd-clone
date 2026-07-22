@@ -97,6 +97,28 @@ caption fetch, so no caption-dependent stage is currently workable. Escalate as 
 workstream (infra: install a PO-token provider or await a yt-dlp release) rather than repeatedly
 re-diagnosing._
 
+**NEW blocker, distinct from the PO-token gate above (2026-07-22, post-pass-7).** The PO-token
+gate stayed resolved through pass 7's 10th consecutive clean `@mkbhd` batch (`[pot] PO Token
+Providers: bgutil:http-1.3.1, bgutil:script-node-1.3.1, bgutil:script-deno-1.3.1` — correctly
+configured, not the old "none" state). The very next real ingest attempt (this iteration, 8
+oldest-first `@mkbhd` P2 rows, 2011-09-12→2011-10-05) hit a **different** failure: every video
+returns `android_vr`/`web_safari` player response `LOGIN_REQUIRED` and yt-dlp errors `Sign in to
+confirm you're not a bot. Use --cookies-from-browser or --cookies ...`, despite
+`/home/roster/.config/yt-dlp/config` already passing `--cookies /home/roster/roster-run/cookies.txt`
+(file present, 43KB). Cross-checked on a second channel (`@Waveform`'s `yt-NofmSGPCDr4`, today's
+fresh upload) — identical failure, confirming this is environment-wide (cookie/bot-check), not a
+per-video or per-channel issue, and not a caption-availability question at all (it fails before
+reaching the subtitle-fetch stage). `tools/ingest_batch.py`'s classifier has no pattern for this
+either (falls into the generic `error`/`retry` bucket, correctly left open/unmarked — no ledger
+corruption risk here, unlike the old no-captions misclassification). **Likely cause:** the cookies
+file has gone stale (YouTube session cookies expire/rotate) and needs re-exporting from a
+signed-in browser session; can't rule out a broader YouTube bot-check escalation independent of
+cookie freshness without an external check. **Next iteration:** cheap check first — cookie file
+mtime vs. last-known-good, one single-video live re-probe — before committing to a full batch.
+If unresolved, this blocks ALL caption-dependent stages (B and C) across every channel; escalate
+as its own infra workstream (refresh/rotate the cookies file) rather than repeatedly re-diagnosing
+with full 8-video batches.
+
 ## Done checkpoints
 - [x] **Era: @mkbhd 2010 origin long tail + Aug–Sep 2011 (68 new L2, batches 54–63,
   386→454)** — seventh synthesis pass. Drained the ten-batch debt (the driver's own pending-

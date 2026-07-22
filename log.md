@@ -4,6 +4,65 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — new "sign in to confirm you're not a bot" blocker (distinct from the resolved PO-token gate), 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, no per-video subagents; per the harness note in `.claude/commands/ingest-loop.md`
+Stage B). Orientation per AGENTS.md/ingest-loop.md's first-matching-rule selection: `python
+tools/ingest_batch.py status` showed "ingest batches since last synthesis: 2/10" — the
+known-unreliable log-ordering-quirk number (documented in `pipeline/synthesis-state.md`); the
+top log entry (synthesis pass 7, this session's immediately-preceding iteration) already drained
+the real debt (0 real batches since), so Stage S did not fire. Persona was refreshed in that same
+pass-7 iteration, so Stage P did not fire either. All 5 TARGET channels already have ledger rows
+(no Stage A). Checked the ledger directly for open P1 rows (the driver's `status` by-priority
+counts exclude flagged rows, same as its selector): `@mkbhd`'s 6 open P1 rows are all
+already-diagnosed problem rows excluded by `FLAG_RE` (2 `no-captions`, 2 `429 rate-limited`, 1
+`fetch-error ... possibly unavailable`, 1 `no-captions (music-only caption track)`) — none are
+genuinely fresh/selectable, so the P1 rule did not fire for `@mkbhd` despite the dispatch prompt's
+expectation. The only genuinely open, unblocked P1 row anywhere in the ledger is
+`@Waveform`'s `yt-NofmSGPCDr4` (today's fresh-upload P1 from the prior discovery-refresh commit);
+`@WaveformClips`'s P1 row (`yt-SyR7RrXkqSs`) is flagged `dup-of` and excluded. Fell through to the
+P2 rule for the preferred channel: `python tools/ingest_batch.py prepare --channel @mkbhd --n 8`
+selected the next 8 oldest-first P2 rows (2011-09-12 → 2011-10-05, continuing the origin long
+tail from where pass 7 left off).
+
+**All 8 came back `error`** (not classified as `no-captions`/`429`/`unavailable` by the driver's
+classifier — left open, unmarked, per its `else: retry.append(...)` branch). Manual verbose probe
+(`yt-dlp -v` on `yt-Krdb8lceRoI`) surfaced a **different failure mode than the previously-resolved
+PO-token gate**: `android_vr` and `web_safari` player responses both report `LOGIN_REQUIRED`, and
+yt-dlp errors with `Sign in to confirm you're not a bot. Use --cookies-from-browser or --cookies
+...` — despite a cookies file being present and configured (`/home/roster/.config/yt-dlp/config`
+→ `--cookies /home/roster/roster-run/cookies.txt`, file present, 43KB, not obviously stale) and
+despite the PO-token providers being correctly configured this time (`bgutil:http-1.3.1`,
+`bgutil:script-node-1.3.1`, `bgutil:script-deno-1.3.1` all listed — this is NOT a recurrence of
+the "PO Token Providers: none" gate from the 20-confirmation saga; that issue stayed resolved
+through pass 7's 10th consecutive clean batch immediately prior). **Confirmed environment-wide,
+not per-video/per-channel:** re-ran the identical probe against `@Waveform`'s `yt-NofmSGPCDr4`
+(a different channel, a different video, today's fresh upload) — same `LOGIN_REQUIRED` /
+"sign in to confirm you're not a bot" failure. No raw files were written (both probes errored
+before the subtitle-fetch stage); no ledger rows were touched (the `error` outcome path in
+`tools/ingest_batch.py` doesn't call `ledger_set`) — confirmed via `git status` (clean) and a
+`find -newer` check on `raw/youtube/mkbhd` and `raw/youtube/waveform` (no new files).
+
+**Safety rail invoked.** 8 consecutive `error` outcomes (well past the 3-failure threshold) plus
+a 2-channel cross-check both failing the same way — treated as a systemic, environment-wide
+cookie/bot-check block, not per-video flakiness. Stopped the iteration here rather than burning
+further batches against a confirmed-broken fetch path. 0 items ingested, so no `wiki/sources/`
+pages, no `youtube-index.md`/`index.md` bookkeeping needed this iteration. Logged this diagnostic
+finding to `pipeline/synthesis-state.md`'s ingest-infra-notes section for continuity. Per the
+roster-autopilot dispatch instructions for this iteration: no wakeup scheduled, no loop started
+(single-iteration dispatch).
+
+**Infra fix needed (out of scope here).** The cookies file at `/home/roster/roster-run/cookies.txt`
+is likely stale/expired (YouTube session cookies typically rotate/expire) and needs refreshing
+from a signed-in browser session; alternatively this may be a broader YouTube bot-check escalation
+independent of cookie freshness. A future iteration should do a cheap check first (cookie file
+mtime, a quick single-video live re-probe) before re-running a full 8-video batch against a
+possibly-still-broken fetch path.
+
+Synthesis notes: none (0 new material this iteration; the finding above is a pipeline/infra issue,
+not persona content).
+
 ## [2026-07-22] lint | synthesis pass 7 — 2010 origin long tail + Aug–Sep 2011 (386→454 L2)
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget. Orientation:
