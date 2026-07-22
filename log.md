@@ -4,6 +4,86 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011 origin Sep 12–30, 7/8 ingested, first clean batch post-blocker
+
+Stage B, full batch of 8 against `@mkbhd` P2 (the P1 queue emptied last iteration, so the
+2011 origin long tail resumes). Captions fetched cleanly for all attempted videos —
+**second consecutive clean batch** since the sign-in/bot-check blocker cleared, confirming
+the machine-local `--cookies-from-browser chrome` fix holds under a full-size batch, not
+just a single probe. Result: **7 ingested, 0 skipped, 1 no-captions
+(`yt-Xt2tBXTOBVM` "Nexus Prime Teaser", auto-marked), 0 dup.** All seven pages written
+directly by the coordinator (no per-video subagents); ledger/index/log updated centrally.
+
+An unusually high-yield window — three ★★ pages in seven, including the single most
+important methodology document found in the 2011 material so far.
+
+**The landmark: "How to Give an Honest Video Review" (2011-09-30, YouTube Tips #5).** The
+origin document for the MKBHD rating scale. His answer to "how do you review honestly" is
+one word — *perspective* — developed into a concrete rule: a score is only meaningful
+relative to a disclosed baseline, so the reviewer must state what they were using before.
+He holds two statements simultaneously without flinching — "the Beats Solo HDs are not a 10
+out of 10 pair of headphones" AND a viewer upgrading from $20 iPod earbuds can honestly
+score them 10/10 — and says the disclosure is what reconciles them. He then commits to it
+for his own scale: "whenever you see an 8 and a half out of 10 for me, I'll let you know
+what that's relative to." **This retro-frames every numeric score already ingested from the
+2009–2011 catalog** (the three 10/10s, the 9.5s, the 7.2) as relative-to-his-own-reviewed-set
+ratings rather than absolute rankings. Also yields a quotable priority statement in tension
+with the channel's production-quality reputation: "you can have all the most fancy camera
+work in the world … but if the content of the video is bad, then it doesn't mean anything."
+
+**Battery Technology Rant (2011-09-22)** is an early, cleanly-dated instance of a
+structurally characteristic MKBHD argument: take the industry's own spec sheet, compute the
+deltas aloud (Droid → Galaxy Note: ~180% clock, 2× cores, >2× RAM, ~250% pixels, at 70% the
+thickness), and show the one axis that didn't move ("the Droid's battery life: about a day.
+The Note's battery life: about a day"). Verdict is qualitative by design — "the battery
+needs to be better, not bigger. Better." Carries a dated student marker: "I'm not an
+engineer *yet*." Date-scoped with a ⚠️ callout — this is a 2011 position, not a current one.
+
+**The DROID [Retro Review] (2011-09-27)** names the **retro-review format origin** ("my
+first retro review video") and reports two years of continuous daily-driver use of the phone
+he originally reviewed in late 2009 — durability, degraded-but-adequate battery, a flattened
+slider keyboard — plus the full mod stack keeping it fast (Simply Stunning Gingerbread ROM,
+1.25 GHz ULV kernel, SetCPU underclocking to 125 MHz screen-off, LauncherPro Plus), with an
+honest limit stated: overclocking fixes speed, not RAM. Best persona material is the
+**minimalism principle generalized in his own words** from "my desk setup and office setup
+here in my dorm room" to app management — plus dorm room as a dated Sep-2011 filming
+location.
+
+**Facebook Timeline (2011-09-23)** is a screencast demoed on his real account, which
+incidentally produces the strongest biography anchor of the batch: an **on-camera,
+first-person birth date — December 3rd 1993** (marked self-reported per fidelity rule 7;
+reconcile with the existing third-party biography sources at synthesis). Also dates the
+ultimate-frisbee thread ("mostly frisbee stuff" in his tagged photos) that persists into the
+present-day Waveform "lawn sports" identity, restates "I answer all the comments and personal
+messages on YouTube," and lands an early privacy-cost aside on Timeline: "really give
+Facebook all your information."
+
+Rounding out: **ATH-M50 (2011-09-12)** — the third-ever 10/10, explicitly on a unit he
+**bought himself for $160** while stating he'd have paid $250, an early separation of
+self-purchased from PR-seeded units; **30 Second Tip (2011-09-19)** — a new named
+micro-format with its rationale stated on camera (cheap for him to make, cheap for the
+viewer to watch); **YouTube's New Video Editor (2011-09-15)** — a platform explainer led by
+the distribution consequence (edits keep the URL, views, likes and comments) and containing
+an adversarial test, deliberately shaky footage run through stabilization, with the
+resulting crop volunteered as a tradeoff.
+
+Bookkeeping: 7 ledger rows → L2 with domains/notes; 7 rows inserted into
+`wiki/sources/youtube-index.md` in date order under @mkbhd; footer 455 → 462 and the
+`index.md` count/batch trail updated to match. persona/ and system-prompt untouched — the
+★★ material is queued for the synthesis checkpoint, not inline-promoted.
+
+Synthesis notes: FOUR genuinely-new items, the richest batch in this era. (1) ★★ The
+relative-rating/"perspective" methodology — warrants its own `wiki/topics/` review-methodology
+page, not a bullet, and re-frames all previously-ingested scores. (2) ★★ "Better, not
+bigger" battery position + the spec-delta argument structure → `persona/beliefs.md` (2011
+date-scoped) and the argument method → `voice.md`. (3) ★★ Birth date 1993-12-03 stated
+first-person on camera → `persona/biography.md`, reconciled against existing third-party
+sources. (4) ★★ Minimalism as a stated general principle applied from desk to software →
+`persona/beliefs.md`. Plus ★ smaller items: retro-review + 30-second-tip format origins,
+the 10/10-scarcity and self-purchased-vs-seeded threads, dorm-room/engineering-student
+biography markers, and the frisbee anchor. Debt now 4 ingest batches since synthesis pass 7
+(checkpoint at 10).
+
 ## [2026-07-22] ingest | yt batch (@Waveform, 1) — sign-in/bot-check blocker RESOLVED, 1/1 ingested
 
 **Blocker cleared.** Orientation found the pipeline unchanged (synthesis debt 2/10, all 5

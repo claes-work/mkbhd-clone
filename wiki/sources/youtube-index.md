@@ -334,6 +334,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2011-09-04 — [[2011-09-04-yt-tAikHtGndGY|Samsung Galaxy Note Reaction]] · smartphones
 - 2011-09-07 — [[2011-09-07-yt-e6oN6ytpbi0|Top Reasons OLED Rocks!]] · smartphones, tech-industry-commentary
 - 2011-09-09 — [[2011-09-09-yt-ZXabw4HRXzo|What Phone are You?]] ★ · creator-business, smartphones
+- 2011-09-12 — [[2011-09-12-yt-Krdb8lceRoI|Audio Technica ATH-M50 Review]] ★ · tech-reviews, creator-business, consumer-tech-culture _(third-ever 10/10; self-purchased unit)_
+- 2011-09-15 — [[2011-09-15-yt-1bhB1se99sc|YouTube's New Video Editor]] · content-strategy, production-filmmaking, consumer-tech-culture
+- 2011-09-19 — [[2011-09-19-yt-bt0ouTWFyvQ|30 Second Tip: Pin Tabs in Chrome]] ★ · content-strategy, consumer-tech-culture _(30-second-tip format origin)_
+- 2011-09-22 — [[2011-09-22-yt-XXySJoRe5zc|Battery Technology Rant]] ★★ · smartphones, tech-industry-commentary, consumer-tech-culture _("better, not bigger"; "not an engineer yet")_
+- 2011-09-23 — [[2011-09-23-yt-4Etc7n5NCcI|Facebook Timeline 2011: Review / Tour]] ★★ · consumer-tech-culture, content-strategy _(on-camera birth date 1993-12-03)_
+- 2011-09-27 — [[2011-09-27-yt-8W3bJGflOic|The DROID [Retro Review]]] ★★ · smartphones, tech-reviews, content-strategy, consumer-tech-culture _(retro-review format origin; minimalism principle; dorm room)_
+- 2011-09-30 — [[2011-09-30-yt-dTPZ2tuyWFw|How to Give an Honest Video Review]] ★★ · creator-business, tech-reviews, content-strategy _(LANDMARK: relative-rating methodology origin)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -496,4 +503,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_455 videos ingested (L2) so far._
+_462 videos ingested (L2) so far._
