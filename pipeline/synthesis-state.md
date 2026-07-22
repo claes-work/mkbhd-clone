@@ -21,8 +21,16 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_One real batch since pass 6 (386 → 393 L2, the @mkbhd Apr 28–Jun 8 2010 batch) — debt 3/10,
-still short of the checkpoint. **PO-token gate update (2026-07-22, 21st check): RESOLVED,
+_Two real batches since pass 6 (386 → 393 → 396 L2: the @mkbhd Apr 28–Jun 8 2010 batch, then the
+@mkbhd Jun 16–Jul 22 2010 batch) — still short of the 10-batch checkpoint (see
+`tools/ingest_batch.py status` for the live driver-computed count). The second batch confirmed
+the PO-token gate stays resolved (pip/node/npm still on PATH, caption fetch still working) but
+surfaced a **distinct data-quality issue**: 4 of its 7 "ok" caption fetches were music/filler-only
+auto-caption tracks with no intelligible speech (Cyborg R.A.T. Mouse Review, Firefox 4 Beta 1
+Download, Droid X Unboxing, Scrolling Comments!) — flagged `L1` as retry candidates (not
+confirmed silent), consistent with the pre-existing `music-only caption track` ledger convention
+(see e.g. `yt-x_R-qzjZrKQ`, `yt-7gA_PV9lzn0`). Only 3 pages were written this batch. **PO-token
+gate update (2026-07-22, 21st check): RESOLVED,
 provisionally.** After 20 consecutive blocked confirmations (below), this check found pip/node/npm
 newly available in the environment (unlike all 20 prior checks) and network access to PyPI;
 installed the `bgutil-ytdlp-pot-provider` PO-token provider via

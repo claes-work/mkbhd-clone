@@ -273,6 +273,9 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2010-05-25 — [[2010-05-25-yt-8QvBKhk0owA|Google Moderator Module]] ★ · creator-business
 - 2010-06-03 — [[2010-06-03-yt-Wz5csgH8eFw|Unboxed: BlueLounge CableBox [HD]]] · consumer-tech-culture, tech-reviews
 - 2010-06-08 — [[2010-06-08-yt-gYRObEyOWYM|HD Tutorial: Safari 5]] · tech-industry-commentary, consumer-tech-culture
+- 2010-06-16 — [[2010-06-16-yt-klANjwTxF6s|YouTube Video Editor Tutorial [HD]]] · creator-business
+- 2010-06-21 — [[2010-06-21-yt-5CYf9onx8gM|HD Tutorial: DestroyTwitter 2.0.2]] · tech-reviews, consumer-tech-culture
+- 2010-06-27 — [[2010-06-27-yt-096tJciU694|Safari 5 Extensions [HD]]] · tech-industry-commentary, consumer-tech-culture
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -434,4 +437,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_393 videos ingested (L2) so far._
+_396 videos ingested (L2) so far._

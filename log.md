@@ -4,6 +4,64 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved, 3 ingested, 1 genuine no-captions, 4 music/filler-only-caption retry candidates
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model rule
+for dispatched runs). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere;
+open P2/P3 long-form on every channel (@AutoFocus 104, @TheStudio 104, @Waveform 292,
+@WaveformClips 622, @mkbhd 1287); open shorts 364; ingested L2=393/L3=0; synthesis debt 2/10
+since pass 6 — no S/P/A rule matched. Stage machine selected **Stage B** (open P2 rows exist;
+persona not stale). Confirmed the environment still resolves the PO-token gate from the prior
+iteration: `which pip pip3 node npm` still all resolve, `yt-dlp --version` unchanged
+(`2026.07.04`).
+
+Ran `python tools/ingest_batch.py prepare --channel @mkbhd --n 8` (oldest-first P2, continuing
+the 2010-06-08 high-water mark): 7/8 "ok" caption fetches, 1 auto-marked genuine `no-captions`
+(`yt-2Hqmru-NV30`, MKBHD Update 6.0 — no subtitle track at all). Read all 7 "ok" transcripts
+directly, sequentially (per the dispatched-subagent spawn-model rule). **Only 3 of the 7
+contained actual speech**: YouTube Video Editor Tutorial [HD] (2010-06-16, same-day built-in-
+editor walkthrough incl. 10-min duration cap + Audio Swap monetization caveat), HD Tutorial:
+DestroyTwitter 2.0.2 (2010-06-21, same-day software-client review with a stated TweetDeck
+preference), and Safari 5 Extensions [HD] (2010-06-27, a direct follow-up to the 2010-06-08
+same-day Safari 5 launch video). Wrote all 3 as normal `wiki/sources/` pages; all solo-attributed
+(age 16, no guests).
+
+**Data-quality finding (4 of 7 "ok" fetches were content-free).** The other 4 — Cyborg R.A.T.
+Mouse Review (2010-06-11), Firefox 4 Beta 1 Download (2010-06-29), Droid X Unboxing [HD]
+(2010-07-20), Scrolling Comments! (2010-07-22) — had a caption track the driver classified `ok`,
+but the fetched `.en.txt` contained only `[Music]`/`[Applause]`/single filler-word lines, no
+intelligible speech. Given MKBHD narrates every video in this era ("hey what's up guys..."),
+these are almost certainly caption-extraction failures on videos that do have real narration,
+not silent videos — a different failure mode than both the now-resolved PO-token gate (which
+blocks the fetch entirely) and genuine `no-captions` (no subtitle track exists at all). Per the
+fidelity no-fabrication rule, did not write source pages from content-free transcripts. Followed
+established ledger precedent for this exact pattern (see e.g. `yt-x_R-qzjZrKQ`, `yt-7gA_PV9lzn0`):
+set all 4 to `L1` with `notes=no-captions (music/filler-only auto-caption track, no intelligible
+speech; likely a real-narration caption-extraction failure, not a silent video -- retry
+candidate)`. These are flagged as retry candidates for a future batch, not confirmed empty.
+
+Ledger rows set via `tools/ledger_set.py`: 3 to `L2` (domains/notes per video), 1 already
+auto-marked genuine `no-captions`, 4 to `L1` with the music/filler-only note above. The 3 new
+pages inserted into `wiki/sources/youtube-index.md` in date order between the 2010-06-08 and
+2013-10-12 rows, footer bumped 393 → 396; `index.md`'s YouTube sub-index count and running batch
+narrative bumped to match, "Last updated" header rewritten to lead with this batch (prior batch's
+summary preserved in the "Prior:" chain).
+
+3 ingested, 5 no-captions (1 genuine + 4 music/filler-only retry candidates), 0 skipped, 0 dup.
+Persona/system-prompt untouched (L2-only, per the ingest tiers). Synthesis debt still short of
+the 10-batch checkpoint since pass 6 (see `tools/ingest_batch.py status` for the live count — the
+driver's count and this log's running narrative have drifted slightly in past entries; trust the
+driver). No rate limits hit (well under the 3-consecutive-failure safety rail — only 1 of 8 rows
+this batch was a genuine caption miss).
+
+Synthesis notes: two ★-worthy items for the next synthesis pass — (1) the YouTube Video Editor
+same-day walkthrough, extending the same-day/rapid-turnaround platform-coverage habit to
+YouTube's own tools (alongside the existing mobile-firmware/desktop-browser instances); (2) the
+DestroyTwitter video's up-front stated software preference ("my favorite Twitter client over
+TweetDeck") as an early instance of leading with a preference before the tour rather than closing
+with a verdict — worth reconciling with the existing preference/verdict-pattern findings.
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate RESOLVED, first successful caption fetch after 20 blocked confirmations, 7 ingested
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single

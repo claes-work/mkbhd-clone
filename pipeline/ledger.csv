@@ -1391,14 +1391,14 @@ yt-LgBS0Kv08UU,video,New MKBHD Intro,@mkbhd,https://www.youtube.com/watch?v=LgBS
 yt-3dep6FaxSYY,video,MKBHD Intro Contest [CLOSED],@mkbhd,https://www.youtube.com/watch?v=3dep6FaxSYY,2010-08-02,2026-07-14,L0-discovered,2,,views=12438
 yt-JSccrZyw4Vo,video,Motorola Droid X 720p HD Video,@mkbhd,https://www.youtube.com/watch?v=JSccrZyw4Vo,2010-07-28,2026-07-14,L0-discovered,2,,views=16445
 yt-Rf_TNp_ReS4,video,How to Play Snake on YouTube Videos,@mkbhd,https://www.youtube.com/watch?v=Rf_TNp_ReS4,2010-07-26,2026-07-14,L0-discovered,2,,views=37635
-yt-PmzVWibGdJ4,video,Scrolling Comments!,@mkbhd,https://www.youtube.com/watch?v=PmzVWibGdJ4,2010-07-22,2026-07-14,L0-discovered,2,,views=11215
-yt-KrW44HcRYfo,video,Droid X Unboxing [HD],@mkbhd,https://www.youtube.com/watch?v=KrW44HcRYfo,2010-07-20,2026-07-14,L0-discovered,2,,views=28444
-yt-2Hqmru-NV30,video,MKBHD Update 6.0,@mkbhd,https://www.youtube.com/watch?v=2Hqmru-NV30,2010-07-17,2026-07-14,L0-discovered,2,,views=14985
-yt-8xmO7mFYX-A,video,Firefox 4 Beta 1 Download,@mkbhd,https://www.youtube.com/watch?v=8xmO7mFYX-A,2010-06-29,2026-07-14,L0-discovered,2,,views=22896
-yt-096tJciU694,video,Safari 5 Extensions [HD],@mkbhd,https://www.youtube.com/watch?v=096tJciU694,2010-06-27,2026-07-14,L0-discovered,2,,views=11831
-yt-5CYf9onx8gM,video,HD Tutorial: DestroyTwitter 2.0.2,@mkbhd,https://www.youtube.com/watch?v=5CYf9onx8gM,2010-06-21,2026-07-14,L0-discovered,2,,views=7476
-yt-klANjwTxF6s,video,YouTube Video Editor Tutorial [HD],@mkbhd,https://www.youtube.com/watch?v=klANjwTxF6s,2010-06-16,2026-07-14,L0-discovered,2,,views=156863
-yt-CWjj--vJ4rI,video,Cyborg R.A.T. Mouse Review,@mkbhd,https://www.youtube.com/watch?v=CWjj--vJ4rI,2010-06-11,2026-07-14,L0-discovered,2,,views=92954
+yt-PmzVWibGdJ4,video,Scrolling Comments!,@mkbhd,https://www.youtube.com/watch?v=PmzVWibGdJ4,2010-07-22,2026-07-14,L1,2,,"no-captions (music/filler-only auto-caption track, no intelligible speech; likely a real-narration caption-extraction failure, not a silent video -- retry candidate)"
+yt-KrW44HcRYfo,video,Droid X Unboxing [HD],@mkbhd,https://www.youtube.com/watch?v=KrW44HcRYfo,2010-07-20,2026-07-14,L1,2,,"no-captions (music/filler-only auto-caption track, no intelligible speech; likely a real-narration caption-extraction failure, not a silent video -- retry candidate)"
+yt-2Hqmru-NV30,video,MKBHD Update 6.0,@mkbhd,https://www.youtube.com/watch?v=2Hqmru-NV30,2010-07-17,2026-07-14,L1,2,,no-captions (no subtitles available)
+yt-8xmO7mFYX-A,video,Firefox 4 Beta 1 Download,@mkbhd,https://www.youtube.com/watch?v=8xmO7mFYX-A,2010-06-29,2026-07-14,L1,2,,"no-captions (music/filler-only auto-caption track, no intelligible speech; likely a real-narration caption-extraction failure, not a silent video -- retry candidate)"
+yt-096tJciU694,video,Safari 5 Extensions [HD],@mkbhd,https://www.youtube.com/watch?v=096tJciU694,2010-06-27,2026-07-14,L2,2,tech-industry-commentary;consumer-tech-culture,"Safari 5 extensions follow-up, ad-block install"
+yt-5CYf9onx8gM,video,HD Tutorial: DestroyTwitter 2.0.2,@mkbhd,https://www.youtube.com/watch?v=5CYf9onx8gM,2010-06-21,2026-07-14,L2,2,tech-reviews;consumer-tech-culture,"DestroyTwitter 2.0 same-day walkthrough, stated TweetDeck preference"
+yt-klANjwTxF6s,video,YouTube Video Editor Tutorial [HD],@mkbhd,https://www.youtube.com/watch?v=klANjwTxF6s,2010-06-16,2026-07-14,L2,2,creator-business,YouTube built-in video editor same-day walkthrough
+yt-CWjj--vJ4rI,video,Cyborg R.A.T. Mouse Review,@mkbhd,https://www.youtube.com/watch?v=CWjj--vJ4rI,2010-06-11,2026-07-14,L1,2,,"no-captions (music/filler-only auto-caption track, no intelligible speech; likely a real-narration caption-extraction failure, not a silent video -- retry candidate)"
 yt-gYRObEyOWYM,video,HD Tutorial: Safari 5,@mkbhd,https://www.youtube.com/watch?v=gYRObEyOWYM,2010-06-08,2026-07-14,L2,2,tech-industry-commentary;consumer-tech-culture,Safari 5 same-day WWDC install tutorial
 yt-Wz5csgH8eFw,video,Unboxed: BlueLounge CableBox [HD],@mkbhd,https://www.youtube.com/watch?v=Wz5csgH8eFw,2010-06-03,2026-07-14,L2,2,consumer-tech-culture;tech-reviews,Bluelounge CableBox unboxing
 yt-8QvBKhk0owA,video,Google Moderator Module,@mkbhd,https://www.youtube.com/watch?v=8QvBKhk0owA,2010-05-25,2026-07-14,L2,2,creator-business,Google Moderator audience-voting content-selection launch
