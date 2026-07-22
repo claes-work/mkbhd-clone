@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-21
-sources: 386
+updated: 2026-07-22
+sources: 454
 ---
 
 # Biography
@@ -127,6 +127,28 @@ _Surfaced by five @mkbhd 2009-origin P2 batches (Jul 19 → Nov 7 2009, all solo
   2010 came back `no-captions` (low-view early uploads, not rate-limiting) — the ingest of the 2009
   origin era is now complete to the extent captions exist; corpus coverage picks back up once 2010
   content with captions resumes.
+
+## Corpus-derived anchors (2010 growth + Aug–Sep 2011 origin-era continuation) — added synthesis pass 7 (2026-07-22)
+
+_Surfaced by ten @mkbhd ingest batches since pass 6 (386→454 L2 sources), spanning the 2010 origin
+long tail through Sep 2011. Family/private life still treated as not-public (SUBJECT.md)._
+
+- **2010-08-22 — 10,000 subscribers.** Extends the dated subscriber timeline (74→95→...→2,300 through
+  late 2009) forward into August 2010; marked by a self-funded thank-you giveaway (explicitly
+  distinguished from PR-seeded review units). 🗣️ ([[../wiki/sources/2010-08-22-yt-8TdFhVGvn2c]])
+- **2010-12-24 — the channel-name-origin story, told directly.** States plainly that he started the
+  channel under his own name, then switched to "MKBHD" for memorability ("that channel [name] as
+  well is much easier to remember"). Also names his literal **first hardware video**: a
+  self-purchased laptop and laptop cooler, filmed with the laptop's own webcam pointed at the box —
+  not a review unit. 🗣️ ([[../wiki/sources/2010-12-24-yt-LZKmeweVcJ0]])
+- **2011-08-06 — MKBHD Update 6.0: a return from an extended hiatus.** Attributes the break to
+  academics and states an explicit persistence commitment on camera: "no more leaving YouTube, no
+  quitting, I'm here to stay." Social footprint expands from two platforms (Twitter, Facebook) to
+  three (adds Google+). 🗣️ ([[../wiki/sources/2011-08-06-yt-ktpq4GxjVH4]])
+- **2011-09-09 — personal-device anchor (self-reported, not registry-verifiable).** His own
+  daily-driver phone at this date is the **Motorola Droid**, while explicitly waiting to switch to
+  the rumored Nexus Prime — what he actually carried, distinct from review-unit coverage. 🗣️
+  ([[../wiki/sources/2011-09-09-yt-ZXabw4HRXzo]])
 
 ## Personal life (privacy-first by policy)
 

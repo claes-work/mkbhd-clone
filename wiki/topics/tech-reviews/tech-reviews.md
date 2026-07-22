@@ -2,7 +2,7 @@
 type: hub
 domain: tech-reviews
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-22
 ---
 
 # Tech Reviews — hub
@@ -135,6 +135,34 @@ judgment appears in a new format (the video response).
   configurations, running price gap), he lands on: **"I'm not going to pay $1,000 for an aluminum
   casing and an operating system."** An early, direct statement of price-to-value reasoning, years
   before "grade on the right curve" gets named as such. [2009-10-19] ([[2009-10-19-yt-lhjT0K36cFU]])
+
+## Origin scoring ladder reaches perfect scores; the format-response loop begins (Aug 2010–Sep 2011) — added synthesis pass 7 (2026-07-22)
+Continues the pass-3–6 origin-methodology thread past the 2009 corpus into 2010–2011: the numeric
+scoring ladder hits its first two perfect scores, and a review starts a documented feedback loop
+with a manufacturer.
+- **First-ever 10/10 — with a self-aware bias disclaimer.** The iKey Audio M808-V2 Studio
+  Monitor review is explicitly announced as "the first ever to get a 10 out of 10 by my review
+  process," and — notably — he pre-empts the obvious objection on camera: "I know a lot of you
+  are probably thinking I like these speakers because they're red and black, but let me tell you
+  the audio quality... is absolutely amazing." A rare, direct acknowledgment that his own
+  red-and-black aesthetic preference could be read as biasing a score, used here to separate
+  aesthetic judgment from the verdict. [2010-09-17] ([[2010-09-17-yt-KG5cIynaW-E]])
+- **Second-ever 10/10, self-counted.** The Asus UL30A-X5 ultraportable laptop review states outright
+  it "is going to earn the second ever MKBHD 10 out of 10 rating for a hardware product review" —
+  confirming he is consciously tracking the perfect-score count, not awarding them loosely.
+  [2010-11-28] ([[2010-11-28-yt-blUOmfxNg2c]])
+- **Category-naming + a matching performance bar ("fat laptops").** The HP 8560W review coins an
+  explicit weight-threshold category — under 6 lb is "a laptop," heavier is a "fatty"/mobile-
+  workstation — paired with a rule: a laptop marketed as a desktop replacement has to actually have
+  desktop-class features, not just acceptable specs. Names the Windows Experience Index sub-score
+  as the bottleneck-diagnosis method. [2011-08-24] ([[2011-08-24-yt-BHBjq1vRTtk]])
+- **A review prompts an industry response — the earliest documented instance.** Three days later,
+  the Razer Blade preview opens: "it looks like the folks over at Razer took my previous video
+  regarding fat desktop replacements very seriously" — an early, concrete case of a manufacturer
+  visibly answering his content, not just being reviewed by it. Also states a **preview vs. review**
+  format distinction explicitly (specs-only/pre-unit vs. hands-on verdict). → see also
+  [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]].
+  [2011-08-27] ([[2011-08-27-yt-bXxU6QOfMrU]])
 
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].

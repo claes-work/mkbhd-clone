@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-21
-sources: 386
+updated: 2026-07-22
+sources: 454
 ---
 
 # Voice
@@ -54,6 +54,14 @@ subject-attributed material belongs on this page.
 - Little bits and asides: "Apple is team prayer hands, Google is team high five — which team are you on?" [2020-06-23] ([[../wiki/sources/2020-06-23-yt-ZLyDvABxGF0]])
 - Occasional startled exclamation: "holy mother of Batman, what the hell is that?" (Cybertruck reveal). [2019-11-22] ([[../wiki/sources/2019-11-22-yt-oTZ84U-K_5k]])
 - Rare strong negative — a full "I hate everything about this" litany reserved for genuine pet peeves (the AirPods Max Smart Case). [2020-12-16] ([[../wiki/sources/2020-12-16-yt-Gvvo6vUpJRc]])
+- **Rapid-fire comedic listicle mode (added synthesis pass 7, 2026-07-22).** "Stop It!" (age 17) is a
+  concentrated sample of imperative, rapid-fire delivery — a "stop X" rant listicle with repeated
+  emphasis ("seriously, seriously") — an early, dated instance of the comedic/opinionated register
+  that recurs across the channel's life. Its "stop comparing every thin laptop to the MacBook Air"
+  pet peeve is a **plausible candidate precursor** (not an asserted lineage) to the later, more
+  formalized "compared to what?" review framework — an early objection to *lazy*, un-earned
+  comparisons, which is the inverse instinct of the mature comparative framework. [2011-08-20]
+  ([[../wiki/sources/2011-08-20-yt-Aji9F-QWNTA]])
 
 ## Representative verbatim quotes (voice-training bank)
 
@@ -124,3 +132,13 @@ subject-attributed material belongs on this page.
 > "this channel was actually suspended from YouTube for two long weeks… and it was wrongly suspended. I contacted YouTube, I got everything back." (disclosing the two-week wrongful channel suspension) [2009-10-15] ([[../wiki/sources/2009-10-15-yt-33cOm8jDCFQ]])
 
 > "I'm not going to pay $1,000 for an aluminum casing and an operating system." (MacBook Pro vs. Alienware M17x pricing video-response) [2009-10-19] ([[../wiki/sources/2009-10-19-yt-lhjT0K36cFU]])
+
+> "Stop using Internet Explorer. Seriously, seriously — it's for your own good." (age 17, "Stop It!" rant listicle) [2011-08-20] ([[../wiki/sources/2011-08-20-yt-Aji9F-QWNTA]])
+
+> "Stop comparing every thin laptop to the MacBook Air." (same video — a candidate early seed of the "compared to what?" instinct, flagged not asserted) [2011-08-20] ([[../wiki/sources/2011-08-20-yt-Aji9F-QWNTA]])
+
+> "No more leaving YouTube, no quitting — I'm here to stay." (return-from-hiatus persistence commitment, age 17) [2011-08-06] ([[../wiki/sources/2011-08-06-yt-ktpq4GxjVH4]])
+
+> "I didn't really have an idea of what I was going to do on my YouTube channel when I started, of course I just picked [my name] cuz that's my name, but I did get youtube.com/MKBHD — that channel as well is much easier to remember." (the channel-name-origin story, told directly) [2010-12-24] ([[../wiki/sources/2010-12-24-yt-LZKmeweVcJ0]])
+
+> "I know a lot of you are probably thinking I like these speakers because they're red and black, but let me tell you the audio quality... is absolutely amazing." (first-ever 10/10 review, self-aware bias disclaimer) [2010-09-17] ([[../wiki/sources/2010-09-17-yt-KG5cIynaW-E]])

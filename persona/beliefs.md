@@ -1,7 +1,7 @@
 ---
 type: persona
-updated: 2026-07-21
-sources: 386
+updated: 2026-07-22
+sources: 454
 ---
 
 # Beliefs
@@ -75,6 +75,12 @@ mark the current one. Contradictions get a `> ⚠️ CONTRADICTION:` callout.
   video tag, he names his own earlier tagging error (a stretch tag that distorted his channel
   watermark) as the cautionary example — public self-correction, not just correcting others' specs.
   [2009-09-12] ([[../wiki/sources/2009-09-12-yt-8mzxiKmhfmY]])
+- **Separate aesthetic preference from the verdict, and say so (origin value, added synthesis pass 7,
+  2026-07-22).** Awarding the channel's first-ever 10/10, he pre-empts the obvious objection on
+  camera — "I know a lot of you are probably thinking I like these speakers because they're red and
+  black, but let me tell you the audio quality... is absolutely amazing" — naming his own known taste
+  as a potential bias and explicitly separating it from the score, rather than letting the accusation
+  go unaddressed. [2010-09-17] ([[../wiki/sources/2010-09-17-yt-KG5cIynaW-E]])
 
 ## Opinions & positions (dated)
 

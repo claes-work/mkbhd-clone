@@ -6,152 +6,48 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **five real ingest batches since pass 5 (386 L2 sources)** — synthesis passes
+Synthesized through: **ten real ingest batches since pass 6 (454 L2 sources)** — synthesis passes
 1–2 (133 L2), pass 3's 9 batches (@AutoFocus 2026 Q1 EV + @mkbhd Feb-2009 origin P2, through L2=202),
 pass 4's 10 batches (@mkbhd Feb–Apr 2009 origin P2 long tail, through L2=274), pass 5's 10 batches
-(first @WaveformClips dedup batch + @mkbhd Apr–Jul 2009 origin P2 long tail, through L2=349), PLUS
-pass 6's five real @mkbhd 2009-origin P2 batches (Jul 19 → Nov 7 2009, through L2=386) plus two
+(first @WaveformClips dedup batch + @mkbhd Apr–Jul 2009 origin P2 long tail, through L2=349), pass
+6's five real @mkbhd 2009-origin P2 batches (Jul 19 → Nov 7 2009, through L2=386) plus two
 zero-yield no-captions batches and three stage-orientation-only PO-token-block diagnostics (0 new
-material) that padded the 10-batch debt counter without adding sources.
-Covers every `wiki/sources/` page that was L2 as of 2026-07-21 (`## [2026-07-19] ingest` batches
+material), PLUS pass 7's ten real @mkbhd batches (2010 origin long tail Apr 28 2010 → Sep 9 2011,
+through L2=454).
+Covers every `wiki/sources/` page that was L2 as of 2026-07-22 (`## [2026-07-19] ingest` batches
 1–19 (passes 1–2) + `## [2026-07-20] ingest` batches 20–38 (passes 3–4) + batch 39, the
 @WaveformClips dedup batch (pass 5 start) + `## [2026-07-21] ingest` batches 40–48, nine @mkbhd
 batches (pass 5) + `## [2026-07-21] ingest` batches 49–53, five real @mkbhd batches (pass 6) +
-two zero-yield no-captions batches + three PO-token-block stage-orientation entries, in `log.md`).
+two zero-yield no-captions batches + three PO-token-block stage-orientation entries + `## [2026-07-22]
+ingest` batches 54–63, ten real @mkbhd batches (pass 7), in `log.md`).
+
+**Driver note (still applies):** `python tools/synthesis_batch.py status` reads the `## Pending
+checkpoints` section for `- [ ]` bullet lines; this file has historically recorded pending debt as
+free-form prose instead, so the driver under-reports (prints 0 pending even when a checkpoint is
+manifestly due — same class of issue as `ingest_batch.py`'s `batches_since_synthesis()` log-ordering
+quirk noted in prior passes). Pass 7 drained the debt anyway, trusting the manual tally + the prior
+iteration's explicit note in `log.md` over the driver's printed count. Worth fixing the driver (or
+switching this file to real checklist syntax) at some point; not urgent since the section below is
+empty and manual tallying has been reliable so far.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_Ten real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 → 432 → 439 → 446 → 454
-L2: the @mkbhd Apr 28–Jun 8 2010 batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–
-Aug 26 2010 batch, the @mkbhd Sep 3–28 2010 batch, the @mkbhd Oct 13–Nov 12 2010 batch, the
-@mkbhd Nov 17–Dec 5 2010 batch, the @mkbhd Dec 8–28 2010 batch, the @mkbhd Dec 30 2010–Jan 20
-2011 batch, the @mkbhd Jan 23–Aug 20 2011 batch, then the @mkbhd Aug 24–Sep 9 2011 batch) —
-**the 10-batch checkpoint is now due.** The next iteration must run Stage S (see
-`tools/ingest_batch.py status` for the live driver-computed count; note the driver currently
-reports a lower number than this manual tally — a log.md
-file-ordering quirk: `batches_since_synthesis()` in `tools/ingest_batch.py` scans the whole file
-top-to-bottom and resets its counter on the last-encountered `synthesis`-heading line, but the
-pass-6 heading sits mid-file (from when the log convention was append-at-bottom) while all newer
-entries are now prepended at the top, so only the handful of ingest entries physically BELOW the
-pass-6 heading get counted, not the real newest ones above it. Worth a driver fix at some point;
-until then, trust this manual tally over the driver's printed number for checkpoint timing).
-The tenth batch (@mkbhd Aug 24–Sep 9 2011, 8 L2, 446→454) confirmed the PO-token gate stays
-resolved for a tenth consecutive time (8/8 usable captions, no no-captions/rate-limit/dup rows
-at all) and completes the 10-batch synthesis debt. Two headline ★ findings: **Fat Laptops - HP
-8560W Review** (`yt-BHBjq1vRTtk`, 2011-08-24) coins an explicit "fat laptop" weight-threshold
-category (<6 lb = laptop, ≥6 lb = mobile-workstation) with a matching desktop-class-features
-performance bar, immediately followed three days later by **The Razer Blade - Preview**
-(`yt-bXxU6QOfMrU`, 2011-08-27) explicitly crediting that video with prompting an industry
-response ("took my previous video... very seriously") — a concrete, dated instance of his
-content shaping/being answered by manufacturer output, worth a `tech-reviews`/
-`tech-industry-commentary` entry. Also ★-worthy: **MKBHD YouTube Tips | #4**
-(`yt-VwKtcVrSKL8`, 2011-08-30), a two-part collab with Austin Evans ("Duncan33303"), lays out an
-explicit three-tier microphone framework (USB/camera-mounted/fully-separate, graded by
-convenience-vs-control trade-off) and a free-light-before-buying-gear lighting principle —
-concrete, reusable `production-filmmaking` methodology. And **What Phone are You?**
-(`yt-ZXabw4HRXzo`, 2011-09-09) confirms "Forum Friday" as an established monthly segment by
-this date and gives a dated personal-device biography anchor (his own daily driver was a
-Motorola Droid, awaiting the rumored Nexus Prime) — self-reported, not registry-verifiable.
-The remaining four videos (Galaxy Nexus rumor listicle, Blue Yeti Pro mic review, a thin Galaxy
-Note reaction, an OLED explainer) are routine long-tail continuations of already-tracked
-threads (rumor coverage, gear reviews, explainer format) with no new durable material beyond
-what's noted above. All 8 ingested items are solo/Marques-attributed (Austin Evans's collab
-appearance is a one-off credit, not yet a recurring co-host — not promoted to an entity page).
-Not landmark enough to inline-promote; all flagged for the next synthesis pass, which is now
-due.
-The ninth batch (@mkbhd Jan 23–Aug 20 2011, 7 L2 + 1 music/filler-only-caption retry candidate,
-439→446) confirmed the PO-token gate stays resolved for a ninth consecutive time (7/8 usable
-captions; the one miss — **IndiSLIDER Mini Deluxe [Canon T2i]** `yt-ui_ItunKJvc` — is a
-music/filler-only auto-caption track with no intelligible speech, the same established
-retry-candidate convention as prior such misses, not a gate regression). This batch spans a
-~6.5-month ledger gap (2011-01-20 → 2011-08-06) — the driver's chronological selection simply
-had no open P2 rows in between, not a caption-fetch issue. Headline finding: **Stop It!**
-(`yt-Aji9F-QWNTA`, 2011-08-20) is a concentrated, ★-flagged sample of rapid-fire comedic/
-opinionated delivery (imperative "stop X" listicle, "seriously, seriously" emphasis repetition)
-worth promoting to `voice.md`'s cadence/humor section, and its anti-lazy-comparison pet peeve
-("stop comparing every thin laptop to the MacBook Air") is flagged as a candidate — not
-asserted — precursor to the later, more formalized "compared to what?" review framework. Also
-in this batch: a dated biography anchor (**MKBHD Update 6.0**, 2011-08-06 — an extended hiatus
-attributed to academics, closed with an explicit "no more leaving YouTube, no quitting"
-persistence commitment) worth a `biography.md`/`voice.md` entry at the next synthesis pass; the
-remaining four videos (online-reputation tool showcase, Google+ tips, Forum Friday browser
-poll, Chrome 15 preview, Sigma 30mm lens review) are routine long-tail continuations of
-already-tracked threads (Canon T2i gear, Forum Friday format, platform-tutorial format) with no
-new durable material. All 7 ingested items are solo/Marques-attributed, no ensemble quarantine
-needed. Not landmark enough to inline-promote; all flagged for the next synthesis pass, which is
-now one batch away from the 10-batch checkpoint.
-The eighth batch (@mkbhd Dec 30 2010–Jan 20 2011, 7 L2 + 1 no-captions, 432→439) confirmed the
-PO-token gate stays resolved for an eighth consecutive time (7/8 usable captions; the one miss —
-**Android 3.0 - Honeycomb!** `yt-RhUL8whVGW0` — is a genuine no-subtitles case, not a gate
-regression) and surfaced the batch's headline ★ finding: **How to make a YouTube Mobile Banner
-[2011]** (`yt-k9tP0OB7MEA`, 2011-01-19) explicitly names **GIMP** ("the gnu image manipulation
-program") as his branding-graphics tool, resolving the caption-garbled tool reference in the
-same-week **MKBHD YouTube Tips | #2** (`yt-_7oq_lfCqFU`, 2011-01-03) with high confidence — a
-second, independent GIMP citation to sit alongside the pass-4 GIMP-wordmark finding. Also in this
-batch: a second, dated red-black-white palette confirmation (Tips #2 + the mobile-banner video,
-both naming the scheme explicitly as "my favorite colors"/brand gradient); the MKBHD
-initials-plus-HD name gloss restated directly (**Optimize your HD Videos!**, `yt-N5oCPNCdFyk`,
-2011-01-15); a budget-tiered camera/camcorder buying-guide (**YouTube Tips | #3**,
-`yt-Ljuw_Bahxbc`, 2011-01-20) reinforcing the existing Canon T2i origin-gear thread; and two
-routine solo items (a 2010 year-in-review recap, an Apple Wireless Keyboard review) with no new
-durable material. All 7 ingested items are solo/Marques-attributed, no ensemble quarantine
-needed. Not landmark enough to inline-promote; all flagged for the next synthesis pass.
-The seventh batch (@mkbhd Dec 8–28 2010, 8 L2, 424→432) confirmed the PO-token gate stays
-resolved for a seventh consecutive time (8/8 clean, no skips/no-captions) and surfaced the
-batch's headline ★ finding: **MKBHD YouTube Tips | #1** (`yt-LZKmeweVcJ0`, 2010-12-24) gives a
-direct, dated, first-person **channel-name-origin story** — he started the channel under his
-own name and switched to "MKBHD" for memorability, and separately narrates his literal first
-hardware video (a self-owned laptop cooler, shot with a laptop webcam) and names CamStudio as
-his original free screencasting tool. Promote to `persona/biography.md` at the next synthesis
-pass; also extends the `production-filmmaking` origin-toolchain thread. Minor, non-★ additions
-worth noting: a Chrome OS pilot-program application (`Chromedeck-Tips-and-Tricks`, dated
-biography anchor), a 15,000-subscriber giveaway stretch goal with a named cross-promotion
-partner (MacintoshTips.com), and a caption garble worth remembering if anyone greps the raw
-transcripts — `Zune-HD-Revisited`'s auto-captions render the product as "Zoom HD" throughout;
-the wiki page corrects this per fidelity rule 6.
-The sixth batch (@mkbhd Nov 17–Dec 5 2010, 7 L2 + 1 skipped guest-hosted row, 417→424) confirmed
-the PO-token gate stays resolved for a sixth consecutive time (7/7 attempted ingests usable) and
-surfaced one ★★-flagged finding worth prioritizing at the next synthesis pass: the scoring
-ladder's **second-ever 10/10** (Asus UL30A-X5 ultraportable laptop), explicitly self-labeled as
-such on camera — pairs with the fourth batch's first-ever 10/10 below. Also flags two smaller
-additions: a second independent red-and-black preference confirmation (Canon T2i retail
-packaging) and an untracked "how to build a computer" series tease (BitFenix Survivor review)
-worth watching for in later batches. The fifth batch (@mkbhd Oct 13–Nov 12 2010, 8 L2, 409→417)
-confirmed the PO-token gate stays resolved for a fifth consecutive time (8/8 clean) with no
-major new findings beyond long-tail review/tutorial continuation (this paragraph was not
-originally recorded here at the time — backfilled during the sixth batch's bookkeeping; see
-`log.md`'s Oct 13–Nov 12 entry for full detail). The fourth batch (@mkbhd Sep 3–28 2010, 8 L2, 386→409 cumulative alongside the prior three)
-confirmed the PO-token gate stays resolved for a fourth consecutive time (8/8 clean, no
-no-captions/rate-limit rows at all this time) and surfaced two ★★-flagged findings worth
-prioritizing at the next synthesis pass: the scoring ladder's first-ever 10/10 (iKey Audio
-M808-V2 Studio Monitors) with an explicit red-and-black-bias disclaimer, and a same-week
-fish-tank+Acid3 comparative-benchmark pair run identically across Chrome 7 and IE9 (an early,
-concrete instance of the comparative-review method). The third batch confirmed the PO-token gate stays resolved for a third consecutive time (no
-rate-limit or gate regressions) and added a **dated 10,000-subscriber milestone** (2010-08-22) plus
-an explicit skip-the-unboxing criterion and a second concrete instance of the audience-request
-content-format pattern (live unboxing adopted within days of a setup-tour request). Only 1 of its
-8 rows was a content-free caption track (music/filler-only, same established retry-candidate
-convention). The second batch confirmed the PO-token gate stays resolved (pip/node/npm still on
-PATH, caption fetch still working) but surfaced a **distinct data-quality issue**: 4 of its 7 "ok"
-caption fetches were music/filler-only auto-caption tracks with no intelligible speech (Cyborg
-R.A.T. Mouse Review, Firefox 4 Beta 1 Download, Droid X Unboxing, Scrolling Comments!) — flagged
-`L1` as retry candidates (not confirmed silent), consistent with the pre-existing `music-only
-caption track` ledger convention (see e.g. `yt-x_R-qzjZrKQ`, `yt-7gA_PV9lzn0`). Only 3 pages were
-written that batch. **PO-token gate update (2026-07-22, 21st check): RESOLVED,
-provisionally.** After 20 consecutive blocked confirmations (below), this check found pip/node/npm
-newly available in the environment (unlike all 20 prior checks) and network access to PyPI;
-installed the `bgutil-ytdlp-pot-provider` PO-token provider via
-`pip install --user --break-system-packages`, and found a companion bgutil PO-token HTTP server
-already running locally (`127.0.0.1:4416`, not started by this session). A live probe against the
-same control id used in confirmations 15/17/19 (`m89I065ngos`) succeeded end-to-end — captions
-downloaded. A real `ingest_batch.py prepare --channel @mkbhd --n 8` batch then ran for real:
-7/8 ok, 1 genuine no-captions (unrelated to the gate). Caption fetch — and therefore Stage B and
-the caption-dependent Stage C (shorts dedup) — is workable again. Outstanding: the 16 `@mkbhd`
-rows misclassified `no-captions` before the gate was first diagnosed (flagged since 2026-07-21)
-are now retry candidates rather than confirmed caption-less, still not yet corrected. Future
-iterations should keep monitoring for regressions (the server/provider could disappear again) but
-no longer need the cheap-check/live-probe alternating ritual below unless captions start failing
-again._
+
+_None currently — synthesis pass 7 (2026-07-22) drained the ten-batch debt that had accumulated
+since pass 6 (386→454 L2). All ten batches' findings (the origin scoring ladder's first two
+10/10s, the "fat laptops"/Razer-Blade industry-response pair, the channel-name-origin story +
+first hardware video, the 10,000-subscriber milestone, the MKBHD Update 6.0 persistence
+commitment, the "Stop It!" comedic-delivery sample, the three-tier mic framework, and a second
+GIMP citation) were promoted into `wiki/topics/tech-reviews`, `wiki/topics/tech-industry-commentary`,
+`wiki/topics/production-filmmaking`, `wiki/topics/creator-business`, `wiki/topics/consumer-tech-culture`,
+and `persona/biography.md` + `persona/voice.md` + `persona/beliefs.md` + `persona/appearance.md`;
+`persona/system-prompt.md` recompiled v6→v7. See the pass-7 entry under "## Done checkpoints" below
+for the full promotion record. Next checkpoint is due whenever ≥~10 more ingest batches accumulate
+(or a channel/era completes) since this pass._
+
+## Ingest infra notes (archived — PO-token gate history, not synthesis debt)
+_Kept for operational continuity across ingest iterations; this is about caption-fetch
+infrastructure, not pending synthesis work. See `log.md` for the full blow-by-blow._
 
 _Historical record (20 consecutive blocked confirmations, 2026-07-21→22, before resolution): the
 ingest→captions path (yt-dlp PO-token gate) was blocked environment-wide, confirmed on
@@ -202,6 +98,37 @@ workstream (infra: install a PO-token provider or await a yt-dlp release) rather
 re-diagnosing._
 
 ## Done checkpoints
+- [x] **Era: @mkbhd 2010 origin long tail + Aug–Sep 2011 (68 new L2, batches 54–63,
+  386→454)** — seventh synthesis pass. Drained the ten-batch debt (the driver's own pending-
+  checkpoints parser under-reports because this file recorded the debt as prose, not `- [ ]`
+  checklist items — see the driver note under "High-water mark"; trusted the manual tally +
+  the pass-6 iteration's explicit "run Stage S next" instruction in `log.md` instead).
+  **Topic hubs (L3):** `tech-reviews` — the origin scoring ladder's **first two perfect 10/10
+  scores** (iKey Audio M808-V2 monitors, paired with a rare self-aware red-and-black bias
+  disclaimer; Asus UL30A-X5, self-consciously counted as "the second ever"), and a "fat
+  laptops" weight-threshold category-naming review; `tech-industry-commentary` — that same
+  review visibly **prompting a manufacturer response** (Razer Blade, three days later) — the
+  earliest documented instance of his content shaping industry output, a precursor to "this
+  will be copied"; `production-filmmaking` — the **channel-name-origin story** told directly
+  (started under his own name, switched to MKBHD for memorability) + his literal **first
+  hardware video** (webcam on a box) + CamStudio named, a three-tier microphone framework +
+  free-light-first lighting principle (collab w/ Austin Evans), and a second independent GIMP
+  citation resolving an earlier caption garble; `creator-business` — a **10,000-subscriber
+  milestone** (2010-08-22) with a self-funded-vs-PR-seeded giveaway distinction, cross-linked
+  to the channel-name story; `consumer-tech-culture` — the red-and-black preference's
+  strongest evidence yet (the self-aware bias disclaimer). **Persona:** `beliefs.md` (+1
+  value: separate aesthetic preference from the verdict, and say so), `voice.md` (+6 verbatim
+  quotes: the channel-name-origin line, the bias-disclaimer line, two "Stop It!" lines, the
+  persistence-commitment line; +1 cadence/humor entry: the "Stop It!" rapid-fire delivery
+  sample, with its "stop comparing... to the MacBook Air" pet peeve flagged — not asserted —
+  as a candidate early precursor to "compared to what?"), `biography.md` (+4 dated anchors:
+  10,000 subs, the channel-name/first-hardware-video story, the MKBHD Update 6.0 hiatus +
+  persistence commitment, a self-reported Motorola-Droid personal-device anchor),
+  `appearance.md` (+1: the bias-disclaimer as evidence the red/black preference is
+  self-recognized, not just asserted by the wiki). Recompiled `persona/system-prompt.md`
+  **v6 → v7** (compiled_from_sources 386 → 454). No new topic pages created (all promotions
+  extended existing hubs/persona). No contradictions flagged. No fabrication, all English.
+  Done 2026-07-22 (synthesis pass 7).
 - [x] **Era: @mkbhd Jul–Nov 2009 origin P2 long tail (37 new L2, batches 49–53) + the debt-counter
   padding from two zero-yield no-captions batches and three PO-token-block diagnostics** — sixth
   synthesis pass. Debt hit the 10-batch checkpoint largely via administrative/zero-yield entries (a

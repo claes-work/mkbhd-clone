@@ -4,6 +4,65 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] lint | synthesis pass 7 — 2010 origin long tail + Aug–Sep 2011 (386→454 L2)
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget. Orientation:
+`python tools/ingest_batch.py status` reported "ingest batches since last synthesis: 2/10" —
+the known-unreliable driver number (log.md file-ordering quirk, documented in
+`pipeline/synthesis-state.md`). The top log entry (this session's own prior iteration, the
+10th consecutive clean @mkbhd batch) explicitly stated the 10-batch checkpoint was hit and
+that "the next iteration should run Stage S before any further ingest." `python
+tools/synthesis_batch.py status` also under-reported (0 pending) because `synthesis-state.md`'s
+"## Pending checkpoints" section recorded the debt as free-form prose rather than the `- [ ]`
+checklist syntax the driver's `parse_checkpoints()` looks for — a second, distinct
+driver-vs-reality gap from the ingest-side one. Trusted the manual tally (both files agreed:
+ten real batches since pass 6, 386→454 L2) over both driver outputs and ran Stage S directly.
+
+Worked through all ten batches' accumulated findings (already curated with ★/★★ flags in
+`pipeline/synthesis-state.md`'s prior pending-checkpoints notes) and promoted the genuinely-new
+ones — dropping routine long-tail repeats (a fifth batch with no major findings, minor
+already-tracked-thread reinforcements) per the quality-over-volume rule. **Topic hubs (L3):**
+`tech-reviews` — the origin scoring ladder's first two perfect 10/10 scores (iKey Audio M808-V2
+studio monitors, paired with a rare self-aware red-and-black bias disclaimer; Asus UL30A-X5,
+explicitly self-counted as "the second ever") and a "fat laptops" weight-threshold
+category-naming review (HP 8560W); `tech-industry-commentary` — that same review visibly
+prompting a manufacturer response three days later (the Razer Blade preview crediting it by
+name) — the earliest documented instance of his content shaping industry output, a precursor to
+the later "this will be copied" lens; `production-filmmaking` — the channel-name-origin story
+told directly for the first time (started under his own name, switched to "MKBHD" for
+memorability) plus his literal first hardware video (webcam pointed at a box), a three-tier
+microphone framework + free-light-before-buying-gear principle from a collab episode with Austin
+Evans, and a second independent GIMP citation resolving an earlier caption garble;
+`creator-business` — a 10,000-subscriber milestone (2010-08-22) with a self-funded-vs-PR-seeded
+giveaway distinction, cross-linked to the channel-name story; `consumer-tech-culture` — the
+red-and-black preference's strongest evidence yet (the on-camera bias disclaimer). **Persona:**
+`beliefs.md` (+1 value: separate aesthetic preference from the verdict, and say so on camera),
+`voice.md` (+6 verbatim quotes: the channel-name-origin line, the bias-disclaimer line, two
+"Stop It!" lines, the persistence-commitment line, plus a new cadence/humor entry for the "Stop
+It!" rapid-fire comedic-listicle sample — its "stop comparing every thin laptop to the MacBook
+Air" pet peeve flagged, not asserted, as a candidate early precursor to "compared to what?"),
+`biography.md` (+4 dated anchors: the 10,000-subscriber milestone, the channel-name/first-
+hardware-video story, the MKBHD Update 6.0 hiatus + "no more leaving YouTube, no quitting"
+persistence commitment, a self-reported Motorola-Droid personal-device anchor), `appearance.md`
+(+1: the bias disclaimer as evidence the red/black preference is self-recognized). Recompiled
+`persona/system-prompt.md` **v6 → v7** (compiled_from_sources 386 → 454). No new topic pages
+created (all promotions extended existing hubs/persona). No contradictions flagged. Updated
+`pipeline/synthesis-state.md` (advanced the high-water mark to 454, moved the checkpoint to
+Done, cleared "Pending checkpoints" to empty, and split the archived PO-token-gate history into
+its own subsection so it stops masquerading as synthesis debt) and `index.md` (Topics section
+running note + all five Persona-section lines). No rate limits, no fabrication, all English.
+Also flagged a driver bug for a future iteration: `tools/synthesis_batch.py`'s
+`parse_checkpoints()` only recognizes `- [ ]` bullets under "## Pending checkpoints" — prior
+passes wrote that section as prose, so `status`/`prepare` silently reported 0 pending debt even
+when a checkpoint was clearly due. Not fixed this pass (out of scope for a single synthesis
+iteration; the section is empty now so it's not actively misleading), but worth a driver patch
+or a switch to real checklist syntax next time real debt accumulates there.
+
+Synthesis debt: **0** (fully drained; high-water mark now 454 L2, through 2026-07-22 batch 63).
+Next iteration resumes ingest (open P2 long-form remains on every channel: @AutoFocus 104,
+@TheStudio 104, @Waveform 292, @WaveformClips 622, @mkbhd ~1,207) per the stage machine's normal
+Stage B selection, unless a fresher trigger fires first.
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (10th consecutive clean batch), 8/8 ingested, 0 skipped, 0 no-captions, 0 dup — hits the 10-batch synthesis checkpoint
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single

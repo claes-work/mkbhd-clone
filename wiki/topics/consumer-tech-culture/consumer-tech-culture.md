@@ -2,7 +2,7 @@
 type: hub
 domain: consumer-tech-culture
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-22
 ---
 
 # Consumer Tech Culture — hub
@@ -63,6 +63,16 @@ Two documented threads from the Feb-2009 tutorials that *prefigure* his later vi
   awesome if I could get a review unit"). The same aspirational, hands-off-but-excited editorial lane
   the "Dope Tech" franchise (est. Dec 2019) later formalizes under that name. [2009-11-06]
   ([[2009-11-06-yt-0FxhiUp2Drs]])
+
+### Red-and-black preference, acknowledged on camera as a potential bias (Sep 2010) — added synthesis pass 7 (2026-07-22)
+- **Self-aware bias disclaimer, tied to a perfect score.** Awarding the channel's first-ever 10/10
+  (iKey Audio M808-V2 Studio Monitors), he pre-empts the obvious read: "I know a lot of you are
+  probably thinking I like these speakers because they're red and black, but let me tell you the
+  audio quality... is absolutely amazing." The strongest evidence yet that the red-and-black
+  preference (tracked since the pass-3/5/6 candidate-seed and "favorite colors" entries) is
+  something he himself recognizes could be seen as coloring his judgment — and explicitly separates
+  from the verdict. → also [[../tech-reviews/tech-reviews|Tech Reviews hub]],
+  [[../../../persona/appearance|appearance]]. [2010-09-17] ([[2010-09-17-yt-KG5cIynaW-E]])
 
 ## Accessibility appreciation
 - Highlights accessibility as genuinely-new/underrated in reviews — iOS 14 Back Tap, Sound Recognition, sign-language prominence in group FaceTime ("genuinely new stuff Google should copy"). [2020-06-23] ([[2020-06-23-yt-ZLyDvABxGF0]])

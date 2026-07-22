@@ -2,7 +2,7 @@
 type: hub
 domain: production-filmmaking
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-22
 ---
 
 # Production & Filmmaking — hub
@@ -81,6 +81,34 @@ platform-awareness.
 - **Origin audio-quality preference, on record.** States a dated preference for Audacity over Camtasia for
   audio work — a small but citable production-audio opinion from the same origin era. [2009-07-15]
   ([[2009-07-15-yt-c927MPDH8ew]])
+
+### Channel-name origin, first hardware video, and a production-methodology series (Dec 2010–Aug 2011) — added synthesis pass 7 (2026-07-22)
+- **The channel-name-origin story, stated directly.** MKBHD YouTube Tips #1 gives the clearest,
+  dated, first-person account of the channel-name decision on record: "I didn't really have an idea
+  of what I was going to do on my YouTube channel when I started, of course I just picked [my name]
+  cuz that's my name, but I did get youtube.com/MKBHD — that channel [name] as well is much easier
+  to remember." Confirms the channel started under his own name and MKBHD was adopted afterward for
+  memorability, not chosen from day one. Also names **CamStudio** as his original free screencasting
+  tool for the software-review sub-type. → also [[../../../persona/biography|biography]].
+  [2010-12-24] ([[2010-12-24-yt-LZKmeweVcJ0]])
+- **His literal first hardware video, self-described.** Same video: he bought a laptop and a laptop
+  cooler, then "took the laptop webcam, point it at the box, and just film me taking it out of the
+  box" — the most concrete origin account yet of the hardware-review format's literal starting
+  point (webcam + a purchase he already owned, not a review unit). [2010-12-24]
+  ([[2010-12-24-yt-LZKmeweVcJ0]])
+- **A three-tier microphone framework, by workflow trade-off.** MKBHD YouTube Tips #4 (a two-part
+  collab with fellow creator Austin Evans, credited on-camera as "Duncan33303") lays out mic options
+  by convenience-vs-control rather than price alone: USB (plug-and-play, no post-sync) → camera-
+  mounted (for DSLRs/camcorders with a mic jack) → fully separate (most control, requires manual
+  audio-sync in post). Pairs with an explicit **free-light-before-buying-gear** principle: "before
+  you go out and buy lights, take advantage of as much free light as possible." [2011-08-30]
+  ([[2011-08-30-yt-VwKtcVrSKL8]])
+- **A second, independent GIMP citation.** The "YouTube Mobile Banner" tutorial names GIMP explicitly
+  by its full name ("the gnu image manipulation program") while building a red-to-black brand-
+  gradient banner — resolving, with high confidence, the caption-garbled tool reference in the same-
+  week Jan-3 "YouTube Tips #2" graphics video, and reinforcing the origin GIMP-branding thread
+  already tracked from the 2009-03-29 wordmark build. [2011-01-19]
+  ([[2011-01-19-yt-k9tP0OB7MEA]])
 
 ## Creator-origin narrative
 - Marques locates his own filmmaking/camera obsession in the 1984 JVC GR-C1 camcorder — "even though I didn't start making my videos until 25 years after this camera came out, I still owe a lot of what I do now to this." → see [[../consumer-tech-culture/consumer-tech-culture|Consumer Tech Culture hub]] and [[../../../persona/biography|biography]]. [2019-12-02] ([[2019-12-02-yt-kMtN9KJHn5Y]])

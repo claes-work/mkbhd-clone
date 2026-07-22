@@ -2,7 +2,7 @@
 type: hub
 domain: creator-business
 created: 2026-07-14
-updated: 2026-07-20
+updated: 2026-07-22
 ---
 
 # Creator Business — hub
@@ -138,6 +138,19 @@ half of 2009, and adds a genuine biography-timeline event (a channel suspension)
   giveaway (subscribe + tagged comment to enter) adds **daily Twitter hints for extra entries** — the
   first dated instance of using a giveaway mechanic to grow a platform *other than* YouTube, not just
   subscribers. [2009-11-02] ([[2009-11-02-yt-XsXsG80Ff0A]])
+
+### Subscriber timeline continues; a giveaway-mechanics distinction; the channel-name origin (Aug 2010–Dec 2010) — added synthesis pass 7 (2026-07-22)
+- **Dated subscriber milestone: 10,000 subscribers (2010-08-22).** Extends the dated origin timeline
+  (74→95→260→450→1,000→1,500→2,000→2,300 through late 2009) forward into August 2010. The occasion
+  video also draws an explicit **self-funded-thanks-giveaway vs. PR-seeded-review-unit** distinction
+  — a second Beats by Dre Solo HD unit, this one "actually purchased myself," given away purely to
+  thank subscribers, contrasted with the first pair that Monster Cable sent for review.
+  [2010-08-22] ([[2010-08-22-yt-8TdFhVGvn2c]])
+- **The channel-name-origin story, on record.** MKBHD YouTube Tips #1 states directly that the
+  channel started under his own name and switched to "MKBHD" afterward for memorability — full
+  detail and quote in [[../production-filmmaking/production-filmmaking|Production & Filmmaking hub]]
+  (also feeds [[../../../persona/biography|biography]]). [2010-12-24]
+  ([[2010-12-24-yt-LZKmeweVcJ0]])
 
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
