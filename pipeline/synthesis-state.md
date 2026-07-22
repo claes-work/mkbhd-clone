@@ -23,12 +23,12 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 _(oldest first; the synthesis loop drains these top-down)_
 _None — synthesis is caught up with ingest (L2=386). Next checkpoint at the next channel/era
 boundary or ~10 more batches. Note: the ingest→captions path (yt-dlp PO-token gate) is currently
-blocked environment-wide (thirteen consecutive confirmations as of 2026-07-22, confirmed on
+blocked environment-wide (fourteen consecutive confirmations as of 2026-07-22, confirmed on
 **all 5 of 5 TARGET channels** — @mkbhd, @AutoFocus, @TheStudio, @Waveform, @WaveformClips) —
 fully settled as an infra blocker, not a per-channel caption gap. pip/pip3/node/npm remain
-absent from PATH and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all thirteen
+absent from PATH and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all fourteen
 checks to date, most recently re-verified this iteration via the cheap PATH/version check, plus
-a one-time confirmation that no user-level workaround exists either — `yt-dlp -U` reports
+re-confirmation that no user-level workaround exists either — `yt-dlp -U` reports
 already up to date, and `sudo -n true` fails, `python3-pip` is not installed, so `apt-get
 install python3-pip` is not available non-interactively — no new caption probe run). Future
 iterations should keep doing ONE cheap environment

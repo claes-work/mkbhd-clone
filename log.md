@@ -4,6 +4,47 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | stage-orientation only, cheap environment recheck per standing recommendation, unchanged (14th confirmation), 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule for dispatched runs). Orientation (`python tools/ingest_batch.py status`): 0 open P1
+anywhere; open P2/P3 long-form on every channel (@AutoFocus 104, @TheStudio 104, @Waveform
+292, @WaveformClips 622, @mkbhd 1295); open shorts 364; ingested L2=386/L3=0; synthesis
+debt 2/10 since pass 6 (no channel/era boundary newly crossed) — no S/P/A rule matched.
+Stage machine selected **Stage B** (open P2 rows exist; persona not stale — pass 6 was one
+day prior, debt only 2/10, no unreflected topic pages).
+
+`pipeline/synthesis-state.md`'s pending-checkpoints note instructs future iterations to do
+ONE cheap environment check per wakeup — PATH for `pip`/`pip3`/`node`/`npm`, and the
+`yt-dlp` version — and only re-run a caption probe if that check shows something changed;
+otherwise log the unchanged finding and stop without re-probing captions. Ran that cheap
+check: `which pip pip3 node npm` returned nothing (still absent from PATH); `yt-dlp
+--version` and `yt-dlp -U` both report `stable@2026.07.04`, already up to date (unchanged
+across all fourteen checks to date); `apt-cache policy python3-pip` still shows it not
+installed (candidate `24.0+dfsg-1ubuntu1.3` available but needs root); `sudo -n true` still
+fails (`a password is required`), so no non-interactive install path exists. No
+`ingest_batch.py prepare` run, no yt-dlp caption fetch attempted this iteration — a full
+probe would just re-confirm a block already established on all 5/5 TARGET channels across
+thirteen prior consecutive checks, and Stage C (shorts dedup) is equally caption-dependent,
+so no caption-dependent stage can make progress; the fix remains infra-side (a PO-token
+provider needs `pip`/`node`, neither present in this environment and not installable
+without root, or a yt-dlp release/update path that resolves the gate) and is out of scope
+for this loop.
+
+**Safety rail invoked** (unresolved systemic fetch failure, now confirmed unchanged a
+14th time; no new caption probe attempted, consistent with the standing recommendation to
+stop re-probing absent an environment change). 0 ingested, 0 skipped, 0 no-captions marked,
+0 dup. No ledger rows touched. No `wiki/sources/`, `youtube-index.md`, or `index.md`
+changes. Persona/system-prompt untouched (not stale; pass 6 was one day prior, debt only
+2/10). Dispatched as a downstream subagent, this run does not schedule wakeups, start
+loops, or touch the roster repo, per its own operating constraints.
+
+Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchanged at
+2 ingest batches since synthesis pass 6 (checkpoint at 10; this stage-orientation-only
+entry does not count as a real ingest batch for debt purposes, consistent with prior such
+entries).
+
 ## [2026-07-22] ingest | stage-orientation only, cheap environment recheck per standing recommendation, unchanged (13th confirmation), 0 ingested, iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
