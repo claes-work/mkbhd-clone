@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | stage-orientation only, cheap environment recheck per standing recommendation, unchanged (18th confirmation), 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model rule
+for dispatched runs). Orientation (`python tools/ingest_batch.py status`): identical to the 17th
+confirmation — 0 open P1 anywhere; open P2/P3 long-form on every channel (@AutoFocus 104,
+@TheStudio 104, @Waveform 292, @WaveformClips 622, @mkbhd 1295); open shorts 364; ingested
+L2=386/L3=0; synthesis debt 2/10 since pass 6 — no S/P/A rule matched. Stage machine selected
+**Stage B** (open P2 rows exist; persona not stale — debt only 2/10, no unreflected topic pages).
+
+Per `pipeline/synthesis-state.md`'s standing recommendation (cheap check most iterations, live
+re-test only periodically since the 17th confirmation ran a full live re-probe + manual `yt-dlp
+-v` probe just one iteration prior), ran the cheap check only this iteration: `which pip pip3
+node npm` still empty (exit 1, nothing on PATH), `yt-dlp --version` still `2026.07.04`, `sudo -n
+true` still fails (password required), `python3 -m ensurepip` still reports no `ensurepip`
+module. All four signals unchanged from the 17th confirmation — no new avenue surfaced, so no
+live caption probe was re-run this iteration (would only reconfirm the same PO-token gate at the
+cost of a wasted `--no-mark` prepare call). Eighteenth consecutive confirmation; the blocker
+remains infra-side (no PO-token provider installable without root, network-side pip access, or a
+user-local `ensurepip` bootstrap; no yt-dlp release available that resolves the gate) and out of
+scope for this loop.
+
+**Safety rail invoked** (unresolved systemic fetch failure, now confirmed unchanged an 18th time;
+this iteration made no fetch attempts, so there was zero ledger churn to correct). 0 ingested, 0
+skipped, 0 no-captions ledger-marked, 0 dup. No ledger rows touched. No `wiki/sources/`,
+`youtube-index.md`, or `index.md` changes. Persona/system-prompt untouched (not stale; debt only
+2/10 since pass 6). Dispatched as a downstream subagent, this run does not schedule wakeups,
+start loops, or touch the roster repo, per its own operating rules.
+
+Synthesis notes: none (0 new sources this iteration; synthesis debt remains 2/10, unchanged).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — live re-probe re-confirms PO-token block (17th confirmation), no ledger churn, 0 ingested, iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
