@@ -4,6 +4,88 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011 origin Nov 10–Dec 4, 8/8 ingested
+
+Stage B, full batch of 8 against `@mkbhd` P2. **Fourth consecutive clean batch** since the
+blocker cleared, and the first **zero-loss** batch of the run: **8 ingested, 0 skipped,
+0 no-captions, 0 dup.** All pages written directly by the coordinator.
+
+**The headline finding is a corroboration, not a new claim.** `MKBHD Update 7.0`
+(2011-12-03) opens with "today is my 18th birthday" — which independently confirms the
+**December 3rd 1993** birth date he stated ten weeks earlier while scrolling his Facebook
+Timeline ([[2011-09-23-yt-4Etc7n5NCcI]], ingested two batches ago). Two first-person
+statements, ten weeks apart, in unrelated contexts, agreeing. The date was flagged
+`self-reported` on a single source at the last pass; it should now be promoted to
+`persona/biography.md` citing **both** pages, with the corroboration noted explicitly. The
+fidelity-rule-7 self-reported qualifier still stands (no registry check), but this is about
+as strong as self-report gets. Same video also dates him **learning Adobe After Effects**,
+candidly from a template plus tutorials — a waypoint between the Camtasia era and the later
+MKBHD gloss.
+
+**`iPhone Commercials vs. Android Commercials` (2011-11-15) is the analytical standout of
+the batch.** He plays an iPhone 4S ad (phone on screen in two seconds) against a Droid
+Bionic ad (mystery, robot fight, lightsaber — "is this a Tron trailer?"), then does the
+thing that makes it worth ★★: he explains the gap **structurally** rather than blaming the
+creative. Apple controls its own ads end to end; most Android ads are Verizon/AT&T/Sprint
+ads that must also sell the carrier, "and that's why you're seeing so much extra crap
+thrown in there." He also argues against his own loyalty and admits the evidence on
+himself: "I've never wanted to buy an iPhone, but watching iPhone commercials honestly
+makes me think about what would happen if I switched." That combination — incentive-structure
+explanation plus willingness to report the rival's marketing working on him — is the
+earliest clean instance in the corpus of the habit that later defines his industry
+commentary. Its "the iPhone is for people who aren't tech-savvy" formulation is
+⚠️-flagged on the page: in context it is a claim about advertising legibility, but it reads
+dismissively stripped of that context and must not surface as a current view.
+
+Seven days later the **same structural instinct recurs** in the `Canon 5D MkIII Preview`
+(2011-11-22): he predicts Canon will *not* meaningfully improve autofocus, because doing so
+"would kind of take away from reasons to buy their other DSLRs." Two independent instances
+in eight days is a habit, not a coincidence — recorded as such on both pages. The video also
+commits to a falsifiable 28 MP sensor call, worth revisiting when a source covering the
+actual 2012 launch is ingested.
+
+**`YouTuber Tip #5: Pancakes` (2011-11-20)** is the batch's other ★★: an entire advice
+episode carried by one anecdote from the campus cafeteria — a short-order cook turning out
+food fast, and terrible pancakes two minutes later. The thesis is a foundational
+creator-business position stated at 17: "I would rather have the audience, or the consumers,
+waiting for great content rather than just pumping out half-baked content all the time,"
+with **personal connection to the individual piece** isolated as the operative variable. A
+⚠️ CONTRADICTION is flagged: this video and the 2011-09-30 methodology video both open as
+"YouTube tips episode number five" — the series numbering is unreliable, use dates. Also
+noted as a tension rather than a contradiction: he preaches quality-over-throughput while
+running a 400+ video, multi-upload-per-week channel; the reconciliation appears to be a
+per-piece standard rather than a description of his output rate, and needs later sources to
+settle.
+
+Rounding out: `Cyber Monday M50 Giveaway` (11-28) closes a three-video promise loop and
+yields a **20,000-subscriber milestone** plus a real transparency practice — the draw is
+filmed and posted to his second channel "so you guys know it's legit"; `What is a Fisheye
+Lens?` (11-30) teaches crop factor by **A/B demonstration** (same spot, T2i then a
+full-frame 5D Mark II) and marks the third consecutive disclosed rented unit;
+`Twitter's New Activity Tab` (11-10) dates his 2011 platform allocation (Google+ and
+Twitter active, Facebook de-emphasized — ⚠️ date-scoped, Google+ no longer exists); and the
+`Tech Bundle Giveaway` (12-04) documents a two-channel cross-entry collab with Duncan33303
+and a small biography detail — his first camera was a ~720p pocket camcorder of the Kodak
+PlayFull class.
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 469 → 477 and the `index.md`
+count/batch trail updated to match. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **Birth date 1993-12-03 now double-sourced** — promote to
+`persona/biography.md` citing both videos, upgrading it from a single-source aside. (2) ★★
+The **incentive-structure explanation habit** (carrier-owned ads; segmentation-protecting
+feature withholding) — two dated instances eight days apart; belongs in `persona/beliefs.md`
+as a reasoning pattern and in a `wiki/topics/` entry on carrier-vs-manufacturer control.
+(3) ★★ **Quality over throughput**, with per-piece personal connection as the mechanism →
+`persona/beliefs.md`, with the output-rate tension noted rather than smoothed over. (4) ★
+**Transparency practices compounding**: filmed giveaway draws + a third disclosed rented
+unit + the earlier sponsored-giveaway disclosure now form a coherent 2011 disclosure thread
+worth a single topic page. (5) ★ Dated anchors: 20,000 subscribers (11-28), After Effects
+(12-03), first camcorder = 720p pocket cam, 2011 platform allocation. (6) ★ Method:
+teaching by A/B demonstration. Debt now 6 ingest batches since synthesis pass 7 (checkpoint
+at 10).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011 origin Oct 9–Nov 5, 7/8 ingested
 
 Stage B, full batch of 8 against `@mkbhd` P2, continuing the 2011 origin long tail.

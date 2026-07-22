@@ -348,6 +348,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2011-10-26 — [[2011-10-26-yt-CAlNejjtSLc|New Chrome Web Store Review]] · consumer-tech-culture, content-strategy
 - 2011-10-30 — [[2011-10-30-yt-VuIPe93ZmiM|Top 5 Features of Android 4.0 [Ice Cream Sandwich]]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(day-one Galaxy Nexus intent; unverified TLDToday contribution)_
 - 2011-11-05 — [[2011-11-05-yt-ti7EeWWfztw|Best Free Chrome Apps!]] ★ · consumer-tech-culture, content-strategy, creator-business _(401st-video milestone; minimalism as selection criterion)_
+- 2011-11-10 — [[2011-11-10-yt-DFdoxqSlzqI|Twitter's New Activity Tab]] ★ · consumer-tech-culture, content-strategy _(2011 platform allocation: Google+ and Twitter)_
+- 2011-11-15 — [[2011-11-15-yt-sK_M5gRMP1I|iPhone Commercials vs. Android Commercials]] ★★ · tech-industry-commentary, smartphones, consumer-tech-culture, creator-business _(carrier-controls-the-ad structural explanation)_
+- 2011-11-20 — [[2011-11-20-yt-L6FyvJrku8Y|YouTuber Tip #5: Pancakes]] ★★ · creator-business, content-strategy _(quality over throughput; ⚠️ series-numbering clash with 2011-09-30)_
+- 2011-11-22 — [[2011-11-22-yt-Pt2HXm4Au10|Canon 5D MkIII Preview]] ★ · production-filmmaking, tech-industry-commentary, tech-reviews _(product-segmentation reasoning; falsifiable 28MP prediction)_
+- 2011-11-28 — [[2011-11-28-yt-d8O7C2kQRVs|Cyber Monday GIVEAWAY: ATH-M50 Headphones!]] ★ · creator-business, content-strategy _(20,000-subscriber milestone; filmed-draw transparency)_
+- 2011-11-30 — [[2011-11-30-yt-wWvaqPY6JVA|What is a Fisheye Lens?]] ★ · production-filmmaking, tech-reviews _(crop-vs-fullframe A/B demonstration)_
+- 2011-12-03 — [[2011-12-03-yt-a6YEI-bOe-E|MKBHD Update 7.0]] ★★ · creator-business, content-strategy _(18th birthday on camera — CORROBORATES birth date 1993-12-03; learning After Effects)_
+- 2011-12-04 — [[2011-12-04-yt-7-2FR0m9DM4|YouTube Tech Bundle GIVEAWAY!]] ★ · creator-business, content-strategy, production-filmmaking _(Duncan33303 collab; first camcorder = 720p pocket cam)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -510,4 +518,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_469 videos ingested (L2) so far._
+_477 videos ingested (L2) so far._
