@@ -21,11 +21,11 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_Eight real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 → 432 → 439 L2: the
-@mkbhd Apr 28–Jun 8 2010 batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–Aug 26
+_Nine real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 → 432 → 439 → 446 L2:
+the @mkbhd Apr 28–Jun 8 2010 batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–Aug 26
 2010 batch, the @mkbhd Sep 3–28 2010 batch, the @mkbhd Oct 13–Nov 12 2010 batch, the @mkbhd
-Nov 17–Dec 5 2010 batch, the @mkbhd Dec 8–28 2010 batch, then the @mkbhd Dec 30 2010–Jan 20
-2011 batch) — still short of the 10-batch checkpoint, two away (see
+Nov 17–Dec 5 2010 batch, the @mkbhd Dec 8–28 2010 batch, the @mkbhd Dec 30 2010–Jan 20 2011
+batch, then the @mkbhd Jan 23–Aug 20 2011 batch) — one away from the 10-batch checkpoint (see
 `tools/ingest_batch.py status` for the live driver-computed count; note the driver currently
 reports a lower number than this manual tally — a log.md
 file-ordering quirk: `batches_since_synthesis()` in `tools/ingest_batch.py` scans the whole file
@@ -34,6 +34,27 @@ pass-6 heading sits mid-file (from when the log convention was append-at-bottom)
 entries are now prepended at the top, so only the handful of ingest entries physically BELOW the
 pass-6 heading get counted, not the real newest ones above it. Worth a driver fix at some point;
 until then, trust this manual tally over the driver's printed number for checkpoint timing).
+The ninth batch (@mkbhd Jan 23–Aug 20 2011, 7 L2 + 1 music/filler-only-caption retry candidate,
+439→446) confirmed the PO-token gate stays resolved for a ninth consecutive time (7/8 usable
+captions; the one miss — **IndiSLIDER Mini Deluxe [Canon T2i]** `yt-ui_ItunKJvc` — is a
+music/filler-only auto-caption track with no intelligible speech, the same established
+retry-candidate convention as prior such misses, not a gate regression). This batch spans a
+~6.5-month ledger gap (2011-01-20 → 2011-08-06) — the driver's chronological selection simply
+had no open P2 rows in between, not a caption-fetch issue. Headline finding: **Stop It!**
+(`yt-Aji9F-QWNTA`, 2011-08-20) is a concentrated, ★-flagged sample of rapid-fire comedic/
+opinionated delivery (imperative "stop X" listicle, "seriously, seriously" emphasis repetition)
+worth promoting to `voice.md`'s cadence/humor section, and its anti-lazy-comparison pet peeve
+("stop comparing every thin laptop to the MacBook Air") is flagged as a candidate — not
+asserted — precursor to the later, more formalized "compared to what?" review framework. Also
+in this batch: a dated biography anchor (**MKBHD Update 6.0**, 2011-08-06 — an extended hiatus
+attributed to academics, closed with an explicit "no more leaving YouTube, no quitting"
+persistence commitment) worth a `biography.md`/`voice.md` entry at the next synthesis pass; the
+remaining four videos (online-reputation tool showcase, Google+ tips, Forum Friday browser
+poll, Chrome 15 preview, Sigma 30mm lens review) are routine long-tail continuations of
+already-tracked threads (Canon T2i gear, Forum Friday format, platform-tutorial format) with no
+new durable material. All 7 ingested items are solo/Marques-attributed, no ensemble quarantine
+needed. Not landmark enough to inline-promote; all flagged for the next synthesis pass, which is
+now one batch away from the 10-batch checkpoint.
 The eighth batch (@mkbhd Dec 30 2010–Jan 20 2011, 7 L2 + 1 no-captions, 432→439) confirmed the
 PO-token gate stays resolved for an eighth consecutive time (7/8 usable captions; the one miss —
 **Android 3.0 - Honeycomb!** `yt-RhUL8whVGW0` — is a genuine no-subtitles case, not a gate

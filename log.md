@@ -4,6 +4,71 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (9th consecutive clean batch), 7/8 ingested, 0 skipped, 1 music/filler-only-caption retry candidate, 0 dup
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere (fully
+drained several passes ago); open P2/P3 on every channel (@AutoFocus 104, @TheStudio 104,
+@Waveform 292, @WaveformClips 622, @mkbhd 1231 pre-batch); open shorts 364; ingested
+L2=439/L3=0 pre-batch. Driver-reported synthesis debt "2/10" is the known-unreliable
+number (log.md file-ordering quirk documented in `pipeline/synthesis-state.md`); manual
+tally says this is the **9th real ingest batch since pass 6** (386 → 393 → 396 → 401 →
+409 → 417 → 424 → 432 → 439 → 446 L2), one batch short of the 10-batch checkpoint. No
+channel/era boundary crossed; persona not stale (last synthesis pass 6 was 2026-07-21,
+well under the 10-batch staleness threshold). Stage machine selected **Stage B** (open
+P2 rows exist on every channel; no S/P/A rule matched).
+
+Ran `python tools/ingest_batch.py prepare --channel @mkbhd --n 8` against the oldest
+open P2 @mkbhd rows (2011-01-23 → 2011-08-20, continuing the origin-era chronological
+long tail; the driver's selection jumped a ~6.5-month ledger gap since no open P2 rows
+existed in between). **7/8 came back `ok` with usable captions**; one
+(`yt-ui_ItunKJvc`, IndiSLIDER Mini Deluxe [Canon T2i]) came back a music/filler-only
+auto-caption track with no intelligible speech ("c k k k") and was marked `L1` as a
+retry candidate (the established convention, not a confirmed-absent caption) — the
+ninth consecutive clean batch since the PO-token gate was resolved, no rate-limit or
+gate regressions (safety-rail threshold of 3 consecutive yt-dlp failures never
+approached). The 7 ok videos were written as normal L2 source pages directly by the
+coordinator (no per-video subagents).
+
+Ingested (all @mkbhd, all solo/Marques attribution):
+- **Find your Online Reputation!** (2011-01-23) — an MIT-built online-reputation
+  word-cloud tool showcase; Marques runs his own name and reports "online media" and
+  "professional" as the top results.
+- **MKBHD Update 6.0** (2011-08-06) — return-from-hiatus video after an
+  academics-focused break; a dated, explicit persistence commitment ("no more leaving
+  YouTube, no quitting, I'm here to stay") and socials expanding to three (Twitter,
+  Facebook, Google+).
+- **Top Google+ Tips and Tricks** (2011-08-08) — an early Google+ feature tutorial
+  (tagging, post editing, notifications, keyboard shortcuts, vanity URLs).
+- **Favorite Web Browser?** (2011-08-12) — a "Forum Friday" audience-poll episode.
+- **New Google Chrome 15 Features** (2011-08-16) — an alpha-build feature preview
+  (settings sync, new-tab visual panel redesign).
+- **Sigma 30mm f/1.4 Review + Footage** (2011-08-18) — a lens review extending the
+  Canon T2i origin-gear thread.
+- **Stop It!** (2011-08-20) — ★ a rapid-fire, comedic pet-peeves rant ("stop asking if
+  every tablet is an iPad," "stop comparing every thin laptop to the MacBook Air,"
+  "seriously, seriously" emphasis cadence); flagged as a voice/cadence L3-candidate and
+  a possible early precursor to the later "compared to what?" review framework.
+
+All 7 pages carry frontmatter (type, source_date, url, channel, ingested, tier: L2,
+domains, tags, attribution) + Summary + Key claims (dated) + Notable verbatim quotes.
+Ledger updated per video (`tools/ledger_set.py`); `wiki/sources/youtube-index.md`
+gained 7 rows in date order (footer count 439→446); `index.md`'s YouTube sub-index
+count and running batch-description bumped to match (439→446).
+
+Synthesis notes: two candidates for the next pass — (1) **Stop It!**'s rapid-fire
+comedic cadence for `voice.md` (imperative "stop X" listicle phrasing, "seriously,
+seriously" emphasis repetition) plus its anti-lazy-comparison pet peeve as a flagged,
+not-asserted precursor to "compared to what?"; (2) **MKBHD Update 6.0**'s dated
+2011 academics hiatus + explicit "no more leaving YouTube, no quitting" persistence
+commitment for `biography.md`/`voice.md`. The remaining 5 videos are routine long-tail
+continuations of already-tracked threads (Canon T2i gear, Forum Friday format,
+platform-tutorial format) — no new durable material. Debt now at 9/10 ingest batches
+since synthesis pass 6 (one batch short of the checkpoint) per the manual tally in
+`pipeline/synthesis-state.md` (the driver's own counter is known-unreliable, see that
+file for the file-ordering-quirk explanation).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (8th consecutive clean batch), 7/8 ingested, 0 skipped, 1 no-captions, 0 dup
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
