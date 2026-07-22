@@ -4,6 +4,61 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (5th consecutive clean batch), 8/8 ingested, 0 no-captions, 0 dup
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Ran `python tools/ingest_batch.py prepare --channel @mkbhd --n 8` against the
+oldest open P2 @mkbhd rows (2010-10-13 → 2010-11-12, origin-era long tail continuing past
+September into October/November 2010). All 8 came back `ok` with usable captions — the
+fifth consecutive clean batch since the PO-token gate was resolved, no rate-limit or gate
+regressions observed.
+
+Ingested (all @mkbhd, all solo/Marques attribution):
+- **Beats By Dre Studio Review** (2010-10-13) ★ — explicit "casual" off-cadence review
+  disclosure; restates the red-and-black favorite-colors preference; adopts the product
+  as his own permanent editing headphones; cross-promotes a peer reviewer (Duncan33303)
+  covering the same product.
+- **Review: Editors Keys Vocal Booth** (2010-10-18) — 8/10; reviews the very booth he's
+  recording the video's own audio in.
+- **Review: iClarity HD Precision Speaker** (2010-10-23) — 8.5/10; leads with an Android-
+  Bluetooth pairing demo instead of an unboxing, direct compatibility callback to the
+  Solar Sound 2 review.
+- **Review: Azza Hurricane 2000** (2010-10-27) ★ — discloses his own PC-building habit
+  ("one of my top choices when it came to picking a case"); explicit pros/cons structure;
+  no numeric score, conditional audience-segmented verdict instead; a black-and-brown
+  personal desk-setup color note distinct from the red-and-black brand preference.
+- **Review: Wiki Golf** (2010-10-31) ★★ — Halloween-only iOS app review; references a
+  second channel, **"Droid Dog,"** where he did Android app reviews — a genuinely new
+  biographical/business lead not previously captured anywhere in the wiki or SUBJECT.md.
+- **NEW YouTube Video Watch Page [November 2010]** (2010-11-04) — screencast praising a
+  YouTube layout update; rare unqualified-positive verdict on a platform change, explicit
+  self-aware contrast with his usual skepticism.
+- **Review: Monster Jamz High Performance Earphones** (2010-11-08) — no numeric score;
+  use-case-qualified verdict (fine seated, not for walking); cites Monster's own tractor-
+  durability marketing as corroboration.
+- **Enable Google Instant in Chrome 9 Beta** (2010-11-12) — short tutorial; restates
+  Google as "one of my favorite companies."
+
+Ledger: 8 rows → L2 (domains/notes set per `tools/ledger_set.py`). `wiki/sources/
+youtube-index.md` @mkbhd section gets 8 new rows in date order (2010-10-13 → 11-12),
+footer bumped 409 → 417; `index.md` count bumped to match. No topic/persona pages
+touched this batch (L2 only, per ingestion tiers) — the ★/★★ findings above are flagged
+for the next synthesis pass, not inline-promoted.
+
+**Synthesis notes:** genuinely new this batch — (1) **"Droid Dog"** — a previously
+uncaptured second channel/venture (Android app reviews) from Oct 2010, a real
+`creator-business`/biography lead worth its own `wiki/gaps.md` entry (self-reported only,
+unverified, do not infer scope or duration); (2) the peer cross-promotion (Duncan33303),
+a small but genuine first instance of naming/linking a fellow tech reviewer's coverage of
+the same product; (3) a black-and-brown personal desk-setup color detail, distinct from
+the red-and-black brand/hardware preference already tracked — needs reconciling, not
+conflating, at the next synthesis pass; (4) continued reinforcement of existing threads
+(red-and-black, Google affinity, price-tier material judgments, use-case-qualified
+verdicts) — not new frameworks on their own. Candidates for `creator-business` (Droid Dog,
+cross-promotion) and `consumer-tech-culture`/`appearance.md` (black-and-brown desk setup)
+at next synthesis pass.
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (4th consecutive clean batch), 8/8 ingested, 0 no-captions, 0 dup
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
