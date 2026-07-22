@@ -276,6 +276,11 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2010-06-16 — [[2010-06-16-yt-klANjwTxF6s|YouTube Video Editor Tutorial [HD]]] · creator-business
 - 2010-06-21 — [[2010-06-21-yt-5CYf9onx8gM|HD Tutorial: DestroyTwitter 2.0.2]] · tech-reviews, consumer-tech-culture
 - 2010-06-27 — [[2010-06-27-yt-096tJciU694|Safari 5 Extensions [HD]]] · tech-industry-commentary, consumer-tech-culture
+- 2010-07-28 — [[2010-07-28-yt-JSccrZyw4Vo|Motorola Droid X 720p HD Video]] · production-filmmaking, creator-business
+- 2010-08-11 — [[2010-08-11-yt-Fi_ASfyfBm4|Beats by Dre Solo HD Review]] ★ · tech-reviews, creator-business
+- 2010-08-16 — [[2010-08-16-yt-7XdczEd26dU|Dell Ultrasharp 2407WFPb Unboxing and Setup]] ★ · creator-business, consumer-tech-culture, production-filmmaking
+- 2010-08-22 — [[2010-08-22-yt-8TdFhVGvn2c|GIVEAWAY: Beats by Dre Solo HD [Closed]]] ★ · creator-business
+- 2010-08-26 — [[2010-08-26-yt-0H-wgsF6nFc|Cyborg R.A.T. 7 Unboxing [HD]]] ★ · production-filmmaking, consumer-tech-culture, creator-business
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -437,4 +442,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_396 videos ingested (L2) so far._
+_401 videos ingested (L2) so far._

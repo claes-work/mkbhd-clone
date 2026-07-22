@@ -4,6 +4,63 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (3rd consecutive batch), 5 ingested, 2 genuine no-captions, 1 music/filler-only-caption retry candidate
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model rule
+for dispatched runs). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere;
+open P2/P3 long-form on every channel (@AutoFocus 104, @TheStudio 104, @Waveform 292,
+@WaveformClips 622, @mkbhd 1279); open shorts 364; ingested L2=396/L3=0; synthesis debt 2/10
+since pass 6 — no S/P/A rule matched (no `>>> CHECKPOINT` printed, persona not stale, no
+zero-row TARGET channel). Stage machine selected **Stage B** (open P2 rows exist).
+
+Ran `python tools/ingest_batch.py prepare --channel @mkbhd --n 8` (oldest-first P2, continuing
+into Jul–Aug 2010): 6/8 "ok" caption fetches, 2 auto-marked genuine `no-captions`
+(`yt-Rf_TNp_ReS4` How to Play Snake on YouTube Videos, `yt-LgBS0Kv08UU` New MKBHD Intro — no
+subtitle track at all). Read all 6 "ok" transcripts directly, sequentially (per the
+dispatched-subagent spawn-model rule). **5 of the 6 contained real speech**; the 6th
+(`yt-3dep6FaxSYY`, MKBHD Intro Contest [CLOSED]) was `[Music]` / `you` only — same
+content-free-caption-track pattern documented in the prior batch — set to `L1` with the
+established `music/filler-only auto-caption track ... retry candidate` note (same convention as
+`yt-x_R-qzjZrKQ`, `yt-7gA_PV9lzn0`, and the prior batch's 4 instances), no page written.
+
+Wrote 5 normal `wiki/sources/` pages, all solo-attributed (age 16, no guests): Motorola Droid X
+720p HD Video (2010-07-28, a camera test doubling as an explanation for a multi-week
+away-from-home no-mic narration gap), Beats by Dre Solo HD Review (2010-08-11, 9.5/10, explicit
+skip-the-unboxing criterion for well-known product categories, PR unit from Monster Cable),
+Dell Ultrasharp 2407WFPb Unboxing and Setup (2010-08-16, first "unusually large" unboxing,
+references an ongoing unnamed "custom build" project, floats a setup-tour video gated on
+audience demand), GIVEAWAY: Beats by Dre Solo HD [Closed] (2010-08-22, **dated 10,000-subscriber
+milestone**, gives away a self-purchased — not PR-seeded — second unit), and Cyborg R.A.T. 7
+Unboxing [HD] (2010-08-26, adopts the live-unboxing format within days of it being floated in
+the prior video, ties back to the same "custom build" thread with a RAID/Velociraptor detail,
+mentions Photoshop CS5 use).
+
+Ledger rows set via `tools/ledger_set.py`: 5 to `L2` (domains/notes per video), 2 already
+auto-marked genuine `no-captions`, 1 to `L1` with the music/filler-only note. The 5 new pages
+inserted into `wiki/sources/youtube-index.md` in date order between the 2010-06-27 and
+2013-10-12 rows, footer bumped 396 → 401; `index.md`'s YouTube sub-index count and running batch
+narrative bumped to match, "Last updated" header rewritten to lead with this batch (prior
+batch's summary preserved in the "Prior:" chain).
+
+5 ingested, 3 no-captions (2 genuine + 1 music/filler-only retry candidate), 0 skipped, 0 dup.
+Persona/system-prompt untouched (L2-only, per the ingest tiers). Synthesis debt now 3 real
+ingest batches since pass 6 (see `tools/ingest_batch.py status` for the live driver-computed
+count). No rate limits hit (0 of 8 rows this batch were a genuine caption-fetch failure in the
+PO-token sense — the 2 no-captions and 1 music-only are both distinct, already-documented
+failure modes, not gate blocks). PO-token gate confirmed resolved for a third consecutive real
+batch.
+
+Synthesis notes: three items worth promoting at the next synthesis pass — (1) **the
+10,000-subscriber milestone** (2010-08-22), continuing the dated subscriber timeline in
+`persona/biography.md`; (2) an explicit **skip-the-unboxing criterion** ("you probably know what
+to expect in a headphone package") that extends the existing "an unboxing needs a reason to
+exist" belief with a converse case — worth reconciling in `wiki/topics/tech-reviews`; (3) a
+recurring **audience-request-gated content-format thread** (setup tour floated → live unboxing
+adopted within days) that extends the Google Moderator / "Use that Search Box!" pattern already
+in `wiki/topics/creator-business` — the "custom build" project referenced across both videos is
+still unnamed/incomplete and should stay an open thread, not asserted as finished.
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved, 3 ingested, 1 genuine no-captions, 4 music/filler-only-caption retry candidates
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
