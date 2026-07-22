@@ -23,18 +23,25 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 _(oldest first; the synthesis loop drains these top-down)_
 _None — synthesis is caught up with ingest (L2=386). Next checkpoint at the next channel/era
 boundary or ~10 more batches. Note: the ingest→captions path (yt-dlp PO-token gate) is currently
-blocked environment-wide (fourteen consecutive confirmations as of 2026-07-22, confirmed on
+blocked environment-wide (fifteen consecutive confirmations as of 2026-07-22, confirmed on
 **all 5 of 5 TARGET channels** — @mkbhd, @AutoFocus, @TheStudio, @Waveform, @WaveformClips) —
 fully settled as an infra blocker, not a per-channel caption gap. pip/pip3/node/npm remain
-absent from PATH and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all fourteen
-checks to date, most recently re-verified this iteration via the cheap PATH/version check, plus
-re-confirmation that no user-level workaround exists either — `yt-dlp -U` reports
-already up to date, and `sudo -n true` fails, `python3-pip` is not installed, so `apt-get
-install python3-pip` is not available non-interactively — no new caption probe run). Future
-iterations should keep doing ONE cheap environment
-check per wakeup (pip/node on PATH? yt-dlp version changed?) and only re-run a full caption
-probe if that check shows something changed; otherwise log the unchanged-environment finding
-and stop the iteration — Stage C (shorts dedup) also depends on caption fetch, so no
+absent from PATH and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all fifteen
+checks to date). The 15th confirmation (2026-07-22) departed from the cheap-check-only pattern
+and ran a real `ingest_batch.py prepare --channel @mkbhd --n 8` as a live re-test (not just the
+PATH/version check) — same PO-token gate, 8/8 no-captions. That run also caught and fixed a
+ledger-hygiene issue: the driver auto-marks PO-token-blocked rows `L1 no-captions`, which is a
+misclassification (blocked ≠ confirmed absent); the 8 rows were reverted to `L0-discovered` with
+an accurate `caption-fetch blocked ... retry once resolved` note (same treatment the
+2026-07-21 `@AutoFocus` batch established). The 16 `@mkbhd` rows marked plain `no-captions`
+by the two batches immediately BEFORE the gate was first diagnosed (2009 origin P2 "Nov 10 →
+Dec 2" and 2010 origin P2 "Feb 23 → Apr 25") remain **not** corrected — flagged as a P1
+curatorial follow-up since 2026-07-21, still open, still out of scope for a single iteration.
+Future iterations should keep doing ONE cheap environment check per wakeup (pip/node on PATH?
+yt-dlp version changed?) and only re-run a full caption probe if that check shows something
+changed — but should also periodically (every few iterations, not every one) run a live
+`prepare` re-test regardless of the cheap check, since a server-side gate lifting wouldn't
+show up in PATH/version alone. Stage C (shorts dedup) also depends on caption fetch, so no
 caption-dependent stage is currently workable. Escalate as its own workstream (infra: install
 a PO-token provider or await a yt-dlp release) rather than repeatedly re-diagnosing._
 

@@ -4,6 +4,63 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — live re-probe re-confirms PO-token block (15th confirmation), ledger corrected, 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule for dispatched runs). Orientation (`python tools/ingest_batch.py status`): 0 open P1
+anywhere; open P2/P3 long-form on every channel (@AutoFocus 104, @TheStudio 104, @Waveform
+292, @WaveformClips 622, @mkbhd 1295); open shorts 364; ingested L2=386/L3=0; synthesis
+debt 2/10 since pass 6 (no channel/era boundary newly crossed) — no S/P/A rule matched.
+Stage machine selected **Stage B** (open P2 rows exist; persona not stale).
+
+Departed from the last four iterations' cheap-check-only pattern: rather than repeat only
+the PATH/version check, ran a real `python tools/ingest_batch.py prepare --channel @mkbhd
+--n 8` (oldest-first P2, 2010-04-28 → 2010-06-08) to get a live signal instead of inferring
+from environment metadata alone. Result: all 8/8 came back `no-captions` from the driver's
+classifier. Verbose manual probe on one (`yt-m89I065ngos`): yt-dlp (`stable@2026.07.04`)
+logs `[pot] PO Token Providers: none`, then `WARNING: ... There are missing subtitles
+languages because a PO token was not provided` → `There are no subtitles for the requested
+languages` — the identical PO-token gate diagnosed 2026-07-21 and reconfirmed fourteen times
+since (cheap-check method) and three times before that (live-probe method). Environment is
+unchanged: `pip`/`pip3`/`node`/`npm` absent from PATH, `yt-dlp -U` reports already
+up-to-date, `sudo -n true` fails, `python3-pip` not installed non-interactively. Fifteenth
+consecutive confirmation, first live re-test since the cheap-check policy started.
+
+**Corrective action (ledger hygiene).** Per the 2026-07-21 `@AutoFocus` precedent, the
+driver's `prepare` call auto-marked all 8 rows `L1 no-captions (no subtitles available)` —
+a misclassification (PO-token-blocked ≠ confirmed absent). Reverted all 8 via
+`tools/ledger_set.py` to `status=L0-discovered` with an accurate, non-`FLAG_RE`-matching
+note (`caption-fetch blocked 2026-07-22: yt-dlp PO-token gate, not confirmed absent ...
+retry once resolved`), so they stay selectable once the gate clears — no net change to
+@mkbhd's open-P2 count (1295 before/after). The driver's classifier still lacks a PO-token
+pattern (flagged infra fix, same as 2026-07-21, still not applied — out of scope for this
+loop).
+
+**Safety rail invoked.** 8/8 consecutive fetch failures on this batch (well past the
+3-consecutive threshold), all the same systemic PO-token gate, not isolated 429s — this
+iteration stops here per AGENTS.md rather than burning further batches against a
+confirmed-still-broken fetch path. 0 ingested, 0 skipped as duplicate, 8 no-captions
+auto-marks written then corrected back to `L0-discovered` with an accurate note (net: 0
+rows newly excluded), 0 dup. No `wiki/sources/`, `youtube-index.md`, or `index.md` changes
+(nothing to ingest). Persona/system-prompt untouched (not stale; pass 6 was one day prior,
+debt only 2/10). Dispatched as a downstream subagent, this run does not schedule wakeups,
+start loops, or touch the roster repo, per its own operating constraints.
+
+**Standing recommendation (unchanged, now fifteen-times confirmed, second time via live
+re-test):** the fix is infra-side — install a PO-token provider (e.g.
+`bgutil-ytdlp-pot-provider`, needs `pip`/`node`, neither present here and neither
+installable without root) or await a yt-dlp release that resolves the gate natively.
+Future iterations should keep doing periodic live re-probes (not just the cheap PATH/version
+check) since the cheap check cannot by itself detect a server-side gate lifting — but there
+is no need to re-probe every single wakeup; the next iteration may resume the
+cheap-check-first pattern and only re-run a full batch if that check shows something
+changed, escalating to a live probe every few iterations regardless.
+
+Synthesis notes: none (0 new material; pipeline/infra finding only). Debt unchanged at
+2 ingest batches since synthesis pass 6 (checkpoint at 10; this zero-yield entry does not
+count as a real ingest batch for debt purposes, consistent with prior such entries).
+
 ## [2026-07-22] ingest | stage-orientation only, cheap environment recheck per standing recommendation, unchanged (14th confirmation), 0 ingested, iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
