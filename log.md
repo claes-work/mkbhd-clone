@@ -4,6 +4,52 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — live re-probe re-confirms PO-token block (17th confirmation), no ledger churn, 0 ingested, iteration stopped
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model rule
+for dispatched runs). Orientation (`python tools/ingest_batch.py status`): 0 open P1 anywhere;
+open P2/P3 long-form on every channel (@AutoFocus 104, @TheStudio 104, @Waveform 292,
+@WaveformClips 622, @mkbhd 1295); open shorts 364; ingested L2=386/L3=0; synthesis debt 2/10
+since pass 6 (no channel/era boundary newly crossed) — no S/P/A rule matched. Stage machine
+selected **Stage B** (open P2 rows exist; persona not stale — pass 6 was one day prior, debt
+only 2/10, no unreflected topic pages).
+
+Per `pipeline/synthesis-state.md`'s standing recommendation (cheap check most iterations, live
+re-test periodically since a server-side gate lift wouldn't show in PATH/version alone), ran the
+cheap check first: `which pip pip3 node npm` still empty, `yt-dlp --version` still
+`2026.07.04`, `sudo -n true` still fails (password required). All unchanged from the 16th
+confirmation one iteration prior. Given the last live re-test (15th confirmation) was two
+iterations back, escalated to a real live probe this iteration rather than stopping at the cheap
+check: `python tools/ingest_batch.py prepare --channel @mkbhd --n 8 --no-mark` (oldest-first P2,
+same 8 ids as the 15th confirmation's probe) — 8/8 came back `no-captions` again. Used `--no-mark`
+this time specifically to avoid the ledger-hygiene misclassification/revert cycle the 15th
+confirmation had to clean up (PO-token-blocked getting auto-marked `L1 no-captions` by the
+driver) — with `--no-mark` the ledger was never touched, so no correction was needed. Followed up
+with a manual verbose probe (`yt-dlp -v --skip-download --write-auto-sub --sub-lang en
+--write-sub` on `m89I065ngos`): identical signature — `[pot] PO Token Providers: none` →
+"Some web_safari client subtitles require a PO Token which was not provided" → "There are no
+subtitles for the requested languages". Also tried a new avenue this iteration: `python3 -m
+ensurepip` (a user-local pip bootstrap that needs no root) — not available (`No module named
+ensurepip`) in this Python 3.12.3 install, ruling out that workaround too. Environment otherwise
+unchanged: pip/pip3/node/npm absent from PATH, no `python3-pip` installed, `sudo`/`apt` need a
+password. Seventeenth consecutive confirmation; the blocker remains infra-side (no PO-token
+provider installable without root or network-side pip access, and no yt-dlp release available
+that resolves the gate) and out of scope for this loop.
+
+**Safety rail invoked** (unresolved systemic fetch failure, now confirmed unchanged a 17th time;
+this iteration's probe used `--no-mark` so it caused zero ledger churn, needing no correction).
+0 ingested, 0 skipped, 0 no-captions ledger-marked, 0 dup. No ledger rows touched. No
+`wiki/sources/`, `youtube-index.md`, or `index.md` changes. Persona/system-prompt untouched (not
+stale; pass 6 was one day prior, debt only 2/10). Dispatched as a downstream subagent, this run
+does not schedule wakeups, start loops, or touch the roster repo, per its own operating
+constraints.
+
+Synthesis notes: none (0 new material; pipeline/infra finding only — ruled out `ensurepip` as a
+pip-bootstrap workaround). Debt unchanged at 2 ingest batches since synthesis pass 6 (checkpoint
+at 10; this stage-orientation/live-re-probe-only entry does not count as a real ingest batch for
+debt purposes, consistent with prior such entries).
+
 ## [2026-07-22] ingest | stage-orientation only, cheap environment recheck per standing recommendation, unchanged (16th confirmation), 0 ingested, iteration stopped
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single

@@ -23,30 +23,39 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 _(oldest first; the synthesis loop drains these top-down)_
 _None — synthesis is caught up with ingest (L2=386). Next checkpoint at the next channel/era
 boundary or ~10 more batches. Note: the ingest→captions path (yt-dlp PO-token gate) is currently
-blocked environment-wide (sixteen consecutive confirmations as of 2026-07-22, confirmed on
+blocked environment-wide (seventeen consecutive confirmations as of 2026-07-22, confirmed on
 **all 5 of 5 TARGET channels** — @mkbhd, @AutoFocus, @TheStudio, @Waveform, @WaveformClips) —
 fully settled as an infra blocker, not a per-channel caption gap. pip/pip3/node/npm remain
-absent from PATH and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all sixteen
-checks to date). The 15th confirmation (2026-07-22) departed from the cheap-check-only pattern
-and ran a real `ingest_batch.py prepare --channel @mkbhd --n 8` as a live re-test (not just the
-PATH/version check) — same PO-token gate, 8/8 no-captions. That run also caught and fixed a
-ledger-hygiene issue: the driver auto-marks PO-token-blocked rows `L1 no-captions`, which is a
-misclassification (blocked ≠ confirmed absent); the 8 rows were reverted to `L0-discovered` with
-an accurate `caption-fetch blocked ... retry once resolved` note (same treatment the
+absent from PATH, `python3 -m ensurepip` reports no `ensurepip` module either (no user-level
+pip bootstrap path), and yt-dlp remains pinned at `stable@2026.07.04` (unchanged across all
+seventeen checks to date). The 15th confirmation (2026-07-22) departed from the cheap-check-only
+pattern and ran a real `ingest_batch.py prepare --channel @mkbhd --n 8` as a live re-test (not
+just the PATH/version check) — same PO-token gate, 8/8 no-captions. That run also caught and
+fixed a ledger-hygiene issue: the driver auto-marks PO-token-blocked rows `L1 no-captions`, which
+is a misclassification (blocked ≠ confirmed absent); the 8 rows were reverted to `L0-discovered`
+with an accurate `caption-fetch blocked ... retry once resolved` note (same treatment the
 2026-07-21 `@AutoFocus` batch established). The 16th confirmation (2026-07-22) resumed the
 cheap-check-only pattern per the standing recommendation — PATH/version/sudo unchanged from the
-15th confirmation's live re-test, so no new caption probe was run. The 16 `@mkbhd` rows marked
-plain `no-captions` by the two batches immediately BEFORE the gate was first diagnosed (2009
-origin P2 "Nov 10 → Dec 2" and 2010 origin P2 "Feb 23 → Apr 25") remain **not** corrected —
-flagged as a P1 curatorial follow-up since 2026-07-21, still open, still out of scope for a
-single iteration.
+15th confirmation's live re-test, so no new caption probe was run. The 17th confirmation
+(2026-07-22, this iteration) ran another live re-test — `ingest_batch.py prepare --channel @mkbhd
+--n 8 --no-mark` (the `--no-mark` flag avoids ledger mutation so no revert was needed this time)
+— identical result, 8/8 no-captions, plus a manual verbose `yt-dlp -v` probe on one id
+(`m89I065ngos`) confirming the exact same `[pot] PO Token Providers: none` / "PO Token was not
+provided" gate. Also tried `python3 -m ensurepip` this iteration as a new avenue (no root needed
+for a user-local pip bootstrap) — not available in this Python 3.12.3 install, ruling out that
+workaround too. The 16 `@mkbhd` rows marked plain `no-captions` by the two batches immediately
+BEFORE the gate was first diagnosed (2009 origin P2 "Nov 10 → Dec 2" and 2010 origin P2
+"Feb 23 → Apr 25") remain **not** corrected — flagged as a P1 curatorial follow-up since
+2026-07-21, still open, still out of scope for a single iteration.
 Future iterations should keep doing ONE cheap environment check per wakeup (pip/node on PATH?
 yt-dlp version changed?) and only re-run a full caption probe if that check shows something
 changed — but should also periodically (every few iterations, not every one) run a live
-`prepare` re-test regardless of the cheap check, since a server-side gate lifting wouldn't
-show up in PATH/version alone. Stage C (shorts dedup) also depends on caption fetch, so no
-caption-dependent stage is currently workable. Escalate as its own workstream (infra: install
-a PO-token provider or await a yt-dlp release) rather than repeatedly re-diagnosing._
+`prepare --no-mark` re-test regardless of the cheap check (prefer `--no-mark` over plain
+`prepare` to avoid ledger churn/reverts on an already-known-blocked batch), since a server-side
+gate lifting wouldn't show up in PATH/version alone. Stage C (shorts dedup) also depends on
+caption fetch, so no caption-dependent stage is currently workable. Escalate as its own
+workstream (infra: install a PO-token provider or await a yt-dlp release) rather than repeatedly
+re-diagnosing._
 
 ## Done checkpoints
 - [x] **Era: @mkbhd Jul–Nov 2009 origin P2 long tail (37 new L2, batches 49–53) + the debt-counter
