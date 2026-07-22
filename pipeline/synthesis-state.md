@@ -21,18 +21,30 @@ two zero-yield no-captions batches + three PO-token-block stage-orientation entr
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
-_Four real batches since pass 6 (386 → 393 → 396 → 401 → 409 L2: the @mkbhd Apr 28–Jun 8 2010
-batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–Aug 26 2010 batch, then the
-@mkbhd Sep 3–28 2010 batch) — still short of the 10-batch checkpoint (see
+_Six real batches since pass 6 (386 → 393 → 396 → 401 → 409 → 417 → 424 L2: the @mkbhd
+Apr 28–Jun 8 2010 batch, the @mkbhd Jun 16–Jul 22 2010 batch, the @mkbhd Jul 28–Aug 26 2010
+batch, the @mkbhd Sep 3–28 2010 batch, the @mkbhd Oct 13–Nov 12 2010 batch, then the @mkbhd
+Nov 17–Dec 5 2010 batch) — still short of the 10-batch checkpoint (see
 `tools/ingest_batch.py status` for the live driver-computed count; note the driver currently
-reports a lower number (2, now likely 3) than this manual tally (4) — a log.md
+reports a lower number than this manual tally — a log.md
 file-ordering quirk: `batches_since_synthesis()` in `tools/ingest_batch.py` scans the whole file
 top-to-bottom and resets its counter on the last-encountered `synthesis`-heading line, but the
 pass-6 heading sits mid-file (from when the log convention was append-at-bottom) while all newer
 entries are now prepended at the top, so only the handful of ingest entries physically BELOW the
 pass-6 heading get counted, not the real newest ones above it. Worth a driver fix at some point;
 until then, trust this manual tally over the driver's printed number for checkpoint timing).
-The fourth batch (@mkbhd Sep 3–28 2010, 8 L2, 386→409 cumulative alongside the prior three)
+The sixth batch (@mkbhd Nov 17–Dec 5 2010, 7 L2 + 1 skipped guest-hosted row, 417→424) confirmed
+the PO-token gate stays resolved for a sixth consecutive time (7/7 attempted ingests usable) and
+surfaced one ★★-flagged finding worth prioritizing at the next synthesis pass: the scoring
+ladder's **second-ever 10/10** (Asus UL30A-X5 ultraportable laptop), explicitly self-labeled as
+such on camera — pairs with the fourth batch's first-ever 10/10 below. Also flags two smaller
+additions: a second independent red-and-black preference confirmation (Canon T2i retail
+packaging) and an untracked "how to build a computer" series tease (BitFenix Survivor review)
+worth watching for in later batches. The fifth batch (@mkbhd Oct 13–Nov 12 2010, 8 L2, 409→417)
+confirmed the PO-token gate stays resolved for a fifth consecutive time (8/8 clean) with no
+major new findings beyond long-tail review/tutorial continuation (this paragraph was not
+originally recorded here at the time — backfilled during the sixth batch's bookkeeping; see
+`log.md`'s Oct 13–Nov 12 entry for full detail). The fourth batch (@mkbhd Sep 3–28 2010, 8 L2, 386→409 cumulative alongside the prior three)
 confirmed the PO-token gate stays resolved for a fourth consecutive time (8/8 clean, no
 no-captions/rate-limit rows at all this time) and surfaced two ★★-flagged findings worth
 prioritizing at the next synthesis pass: the scoring ladder's first-ever 10/10 (iKey Audio

@@ -297,6 +297,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2010-11-04 — [[2010-11-04-yt-kuWKEkYEO8I|NEW YouTube Video Watch Page \[November 2010\]]] · tech-industry-commentary, consumer-tech-culture
 - 2010-11-08 — [[2010-11-08-yt-e14rw4Ap70w|Review: Monster Jamz High Performance Earphones]] · tech-reviews
 - 2010-11-12 — [[2010-11-12-yt-JAGfGvOM07c|Enable Google Instant in Chrome 9 Beta]] · tech-industry-commentary, consumer-tech-culture
+- 2010-11-17 — [[2010-11-17-yt-7vZwUStVqdw|iKey Audio HDR7 Dual Microphone]] · tech-reviews, production-filmmaking
+- 2010-11-18 — [[2010-11-18-yt-3DdJtW72hSs|YouTube goes Social! \[Video Sharing 2010\]]] · tech-industry-commentary
+- 2010-11-18 — [[2010-11-18-yt-oAAVGxFXp-Y|NEW YouTube Comment Sharing \[November 2010\]]] · tech-industry-commentary
+- 2010-11-22 — [[2010-11-22-yt-HA6j8G1f_Pk|Review: BitFenix Survivor]] · tech-reviews
+- 2010-11-25 — [[2010-11-25-yt-5Ww9OLkJOEM|Canon EOS Rebel T2i Unboxing]] · tech-reviews, production-filmmaking
+- 2010-11-28 — [[2010-11-28-yt-blUOmfxNg2c|Asus UL30A-X5 \| Canon T2i Video Test]] ★★ · tech-reviews, production-filmmaking
+- 2010-12-05 — [[2010-12-05-yt-4vaOw5J8A9w|Editors Keys SL150 Microphone \[HD\]]] · tech-reviews, production-filmmaking
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -458,4 +465,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_417 videos ingested (L2) so far._
+_424 videos ingested (L2) so far._

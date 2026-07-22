@@ -4,7 +4,60 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
-## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (5th consecutive clean batch), 8/8 ingested, 0 no-captions, 0 dup
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — PO-token gate stays resolved (6th consecutive clean batch), 7/8 ingested, 1 skipped (guest-hosted, no subject content), 0 no-captions, 0 dup
+
+Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
+coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
+rule). Ran `python tools/ingest_batch.py prepare --channel @mkbhd --n 8` against the
+oldest open P2 @mkbhd rows (2010-11-17 → 2010-12-05, origin-era long tail continuing past
+November into early December 2010). All 8 came back `ok` with usable captions — the sixth
+consecutive clean batch since the PO-token gate was resolved, no rate-limit or gate
+regressions observed. 7 of 8 were written as normal L2 source pages; the 8th
+(AeroWeather) turned out on read to be a guest-hosted screencast by a third party
+(Duncan33303) with Marques entirely absent except for a closing thank-you — no
+subject-attributable content, so it was marked `skipped` in the ledger with no page
+(same treatment as the prior @AutoFocus co-host-only precedent).
+
+Ingested (all @mkbhd, all solo/Marques attribution):
+- **iKey Audio HDR7 Dual Microphone** (2010-11-17) — 9/10; confirms the Canon T2i
+  camera-equipment transition ("one of the last videos... not filmed with the Canon
+  T2i"), consistent with the T2i unboxing eight days later.
+- **YouTube goes Social! [Video Sharing 2010]** (2010-11-18) — platform-update
+  explainer on the new share-button/buzz/tweet redesign; self-aware "yet another
+  YouTube update" framing confirms it as an established recurring series by this date.
+- **NEW YouTube Comment Sharing [November 2010]** (2010-11-18) — same-day companion
+  update video; confirms his personal `@mkbhd` Twitter handle on camera; mild critique
+  of a UI change (prefers the old like/dislike chart).
+- *(skipped)* **Review: AeroWeather [HD]** (2010-11-21) — guest screencast by
+  Duncan33303 (`youtube.com/duncan33303`), thanking Marques for "allowing me to go
+  ahead and put this video up on his channel"; zero Marques-attributable speech.
+- **Review: BitFenix Survivor** (2010-11-22) — unqualified qualitative recommendation,
+  no numeric score; teases an upcoming "how to build a computer" series not yet seen
+  elsewhere in the corpus.
+- **Canon EOS Rebel T2i Unboxing** (2010-11-25) — his own DSLR purchase, price-
+  triggered, replacing a Sanyo Xacti CG10 point-and-shoot; restates the red-and-black
+  color preference against the camera's retail packaging.
+- **Asus UL30A-X5 | Canon T2i Video Test** (2010-11-28) ★★ — dual-purpose video: T2i
+  test footage + laptop review; explicitly self-labeled **"the second ever MKBHD 10 out
+  of 10 rating"**, confirming the scoring ladder reaches a perfect score more than once
+  (first was the iKey Audio M808-V2 Studio Monitors, already logged in synthesis pass
+  6's pending notes).
+- **Editors Keys SL150 Microphone [HD]** (2010-12-05) — 8.5/10; discloses this is the
+  exact mic he records all his own videos with; turns 17 the same week (2010-12-03).
+
+Ledger: 7 rows → `L2` with domains/notes set via `ledger_set.py`; 1 row (AeroWeather)
+→ `skipped` with a guest-hosted note. `wiki/sources/youtube-index.md` rows inserted in
+date order under `@mkbhd`, footer bumped 417 → 424. `index.md` count bumped to match.
+
+Synthesis notes: the "second-ever MKBHD 10/10" self-count (Asus UL30A) is a strong,
+directly-quotable addition to the `tech-reviews` scoring-ladder thread (pairs with the
+already-pending first-ever 10/10 from pass 6's notes); the red-and-black preference
+gets two more independent confirmations (T2i packaging, general aesthetic) worth a
+one-line addition to `consumer-tech-culture`/`appearance.md`; everything else is
+long-tail repetition of already-tracked threads (unbox→review cadence, own-gear
+disclosure, YouTube-update series). No contradictions. No new topic pages needed.
+
+
 
 Dispatched as a subagent under the roster autopilot's session-wide spawn budget (single
 coordinator, writing pages directly — no per-video subagents, per this loop's spawn-model
