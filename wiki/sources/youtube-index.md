@@ -341,6 +341,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2011-09-23 — [[2011-09-23-yt-4Etc7n5NCcI|Facebook Timeline 2011: Review / Tour]] ★★ · consumer-tech-culture, content-strategy _(on-camera birth date 1993-12-03)_
 - 2011-09-27 — [[2011-09-27-yt-8W3bJGflOic|The DROID [Retro Review]]] ★★ · smartphones, tech-reviews, content-strategy, consumer-tech-culture _(retro-review format origin; minimalism principle; dorm room)_
 - 2011-09-30 — [[2011-09-30-yt-dTPZ2tuyWFw|How to Give an Honest Video Review]] ★★ · creator-business, tech-reviews, content-strategy _(LANDMARK: relative-rating methodology origin)_
+- 2011-10-09 — [[2011-10-09-yt-mtBHnwok3rI|What if Phones Were Like Desktop Computers?]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(dream-phone thought experiment; stock-Android preference)_
+- 2011-10-13 — [[2011-10-13-yt-HkHbFlW-ZxE|Top Twitter Tips and Tricks]] ★ · content-strategy, consumer-tech-culture, creator-business _(2011 comedic-register voice data)_
+- 2011-10-17 — [[2011-10-17-yt-lF7GLUHu8BE|The Blue Snowball [Review]]] ★★ · production-filmmaking, tech-reviews, creator-business _(sponsored giveaway disclosed; split sub-scores = methodology in practice)_
+- 2011-10-21 — [[2011-10-21-yt-LpC6UwZR_Hw|Canon 24mm f/1.4 L Review]] ★★ · production-filmmaking, tech-reviews, creator-business _(rented unit disclosed; 9.5/10 but "rent, don't buy")_
+- 2011-10-26 — [[2011-10-26-yt-CAlNejjtSLc|New Chrome Web Store Review]] · consumer-tech-culture, content-strategy
+- 2011-10-30 — [[2011-10-30-yt-VuIPe93ZmiM|Top 5 Features of Android 4.0 [Ice Cream Sandwich]]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(day-one Galaxy Nexus intent; unverified TLDToday contribution)_
+- 2011-11-05 — [[2011-11-05-yt-ti7EeWWfztw|Best Free Chrome Apps!]] ★ · consumer-tech-culture, content-strategy, creator-business _(401st-video milestone; minimalism as selection criterion)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -503,4 +510,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_462 videos ingested (L2) so far._
+_469 videos ingested (L2) so far._

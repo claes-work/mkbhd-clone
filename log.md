@@ -4,6 +4,78 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011 origin Oct 9–Nov 5, 7/8 ingested
+
+Stage B, full batch of 8 against `@mkbhd` P2, continuing the 2011 origin long tail.
+**Third consecutive clean batch** since the sign-in/bot-check blocker cleared. Result:
+**7 ingested, 0 skipped, 1 music/filler-only-caption retry candidate
+(`yt-nDSy7JVenss` "Google Does a Barrel Roll" — music-only track, no intelligible speech;
+plausibly a genuinely silent screen-recording of the easter egg rather than a caption
+failure, left open with a note per the established convention), 0 dup.** All pages written
+directly by the coordinator.
+
+The dominant finding: **the review methodology from 2011-09-30 shows up operating in the
+wild, twice, within three weeks** — which is exactly the corroboration that landmark page
+needed.
+
+**Blue Snowball (2011-10-17)** splits the verdict across three axes and lets them disagree
+hard: audio quality **7/10** ("it could be better, but then again this is better than most
+other USB microphones"), construction **7.5/10** ("mostly plastic — but it's fantastic
+plastic"), ease of use **10/10**, overall **8–8.5**. Scope is stated explicitly ("a great
+mic for beginners on YouTube," "on a tight budget"), and the claim is anchored to his own
+prior reviewed set rather than restated fresh. It is also a **manufacturer-sponsored
+giveaway, disclosed in the second sentence**, with the fulfilment path named ("directly
+from Blue") — a dated data point for the disclosure thread. And the review is voiced
+*through* the reviewed mic: the product's own unedited output is the test.
+
+**Canon 24mm f/1.4 L (2011-10-21)** goes further and **separates the quality score from the
+buying advice**: image 9/10, build 10/10, overall 9.5 — paired with "the price you pay, if
+you pay full price, isn't really worth it. But borrowing this lens, you're definitely going
+to be impressed." A 9.5/10 he explicitly does not tell you to buy. Provenance disclosed in
+the first fifteen seconds (rented from BorrowLenses, under $100/week, "and it's not for any
+other illegal reasons"). Also dates the f/1.4 shallow-depth-of-field look as a stated
+personal signature, and confirms the Canon T2i + small-room + no-studio-lights setup.
+
+Two more items with real persona weight. **Top Twitter Tips (2011-10-13)** is the best
+sample of his **2011 comedic register** captured so far — deadpan escalation with swallowed
+punchlines ("so use that logic to… yeah"), rule-of-three rhythm — plus two positions he
+appears to actually hold: "99% of what you tweet is 100% public," and a rant discipline
+("keep it civilized, keep it three tweets or less") notable because his own channel runs a
+mini-rant format. **Best Free Chrome Apps (2011-11-05)** dates a hard output milestone —
+**his 401st video** — and restates **minimalism**, this time as the *reason he picks* a
+tool rather than as device hygiene, six weeks after the dorm-room version.
+
+Rounding out: the **dream-phone thought experiment (2011-10-09)**, cross-posted from
+Google+, spec-your-own-phone as a hypothetical, yielding a dated stock-Android-over-TouchWiz
+preference and a notably even-handed framing of iPhone buyers as making a valid choice;
+**Android 4.0 ICS Top 5 (2011-10-30)**, an anticipation video (⚠️ date-scoped, not a
+verdict) whose most characteristic moment is judging Face Unlock by what the new camera API
+would let developers build rather than by the unlock gimmick, plus day-one Galaxy Nexus
+purchase intent "at the Verizon store two blocks that way"; and the **Chrome Web Store tour
+(2011-10-26)**, a plain platform explainer kept mainly because it is the deliberate setup
+half of a two-part sequence with the 11-05 apps video.
+
+One flagged-uncertain item: the ICS video references "the video I did for TLD today," most
+plausibly TLDToday (Jon Rettinger). If confirmed this is the earliest known contribution to
+another channel — recorded on the page as **unverified, not to be promoted** until a second
+source supports it.
+
+Bookkeeping: 7 ledger rows → L2 with domains/notes, 1 row noted as a retry candidate;
+7 rows inserted into `wiki/sources/youtube-index.md` in date order; footer 462 → 469 and the
+`index.md` count/batch trail updated to match. persona/ and system-prompt untouched.
+
+Synthesis notes: genuinely-new material, mostly reinforcing rather than novel — which is
+itself the useful signal. (1) ★★ The Snowball and 24L reviews are the **worked examples**
+for the relative-rating methodology page; the 24L additionally establishes that his *score*
+rates the object while his *recommendation* weighs price and use case separately — that
+distinction is new and belongs in the topic page. (2) ★★ Disclosure practice in 2011:
+sponsored-giveaway and rented-unit provenance both stated in the opening seconds, extending
+the self-purchased/seeded distinction to a third category. (3) ★ Minimalism as a selection
+criterion (second dated instance, new form) → `persona/beliefs.md` with the 09-27 statement.
+(4) ★ 2011 comedic-register voice data → `voice.md`. (5) ★ Small dated anchors: 401 videos
+at 2011-11-05, stock-Android preference, f/1.4 as signature look, "99% public." Debt now 5
+ingest batches since synthesis pass 7 (checkpoint at 10).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2011 origin Sep 12–30, 7/8 ingested, first clean batch post-blocker
 
 Stage B, full batch of 8 against `@mkbhd` P2 (the P1 queue emptied last iteration, so the
