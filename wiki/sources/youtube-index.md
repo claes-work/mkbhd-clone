@@ -394,6 +394,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-03-28 — [[2012-03-28-yt-v8WRJSBi6E4|Blue Spark Microphone Review!]] ★ · production-filmmaking, tech-reviews, creator-business _(review-through-the-product: "you tell me, you're listening to it right now")_
 - 2012-03-31 — [[2012-03-31-yt-cp___W5vDAs|iOS vs Android: A Google User's POV!]] ★ · consumer-tech-culture, smartphones, content-strategy _(reviews from disclosed "noob status"; asks the audience to decide for him)_
 - 2012-04-06 — [[2012-04-06-yt-_hRCAg9jFu8|Google Project Glass: Explained!]] ★★ · tech-industry-commentary, consumer-tech-culture, smartphones _(LANDMARK: earliest new-form-factor lens; "Google putting ads in it is also definitely the future")_
+- 2012-04-08 — [[2012-04-08-yt-8bT8JvxrBt8|Limited Edition ATH-M50 Giveaway (with Duncan33303)]] ★ · creator-business, production-filmmaking _(impersonation warning + verification rule)_
+- 2012-04-11 — [[2012-04-11-yt-fDCumhEKerw|TokyoFlash Night Vision Watch!]] ★ · consumer-tech-culture, tech-reviews _(Dope Tech precursor; teach-then-quiz)_
+- 2012-04-12 — [[2012-04-12-yt-2C3Iwafsdbo|Google+ Re-design and WhiteSpace Rant!]] ★ · consumer-tech-culture, content-strategy, tech-industry-commentary _("it's going to be ad space in like six months")_
+- 2012-04-16 — [[2012-04-16-yt-fFRl2oOqDsk|Samsung Galaxy Nexus Review!]] ★★ · smartphones, tech-reviews, consumer-tech-culture _(LANDMARK: the promised full review, at 15 weeks; stock→AOKP position change)_
+- 2012-04-21 — [[2012-04-21-yt-a5C-pzJUMsQ|Dear Apple!]] ★★ · tech-industry-commentary, consumer-tech-culture, tech-reviews _(open-letter format; MIXED attribution — recorded Apple support call quarantined)_
+- 2012-04-25 — [[2012-04-25-yt-0FbjsNsfEmE|Google Drive vs Dropbox!]] ★ · consumer-tech-culture, content-strategy, creator-business _(cloud-first workflow; provisional revisable verdict)_
+- 2012-05-01 — [[2012-05-01-yt-dB_xQ2x5Ngo|Transformer Pad 300 vs Transformer Prime!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(prefers the cheaper one; plastic back as an engineering advantage)_
+- 2012-05-05 — [[2012-05-05-yt-cBSp1j5tPyU|Samsung Galaxy S III Design: Explained!]] ★★ · tech-industry-commentary, smartphones, consumer-tech-culture _(LANDMARK: "designed by lawyers in California")_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -556,4 +564,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_515 videos ingested (L2) so far._
+_523 videos ingested (L2) so far._

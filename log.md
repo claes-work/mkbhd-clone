@@ -4,6 +4,83 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2012 origin Apr 8–May 5, 8/8 ingested
+
+Stage B. **Tenth consecutive clean batch, fifth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
+0 dup. 515→**523 L2**. **The longest-standing open thread in the project closes** — the full Galaxy
+Nexus review finally lands.
+
+**`Samsung Galaxy Nexus Review!` (04-16) — the promised review, at fifteen weeks.** On 2011-12-15 he
+said the full verdict would come "in a couple weeks when I really get to know everything about this
+phone." It arrives four months later, and the elapsed time *is* the credential: "a little more than
+15 weeks ago in December 2011… it's been my primary handset since then, and this is the 100% honest
+review." It answers exactly what the first-impressions video said it couldn't — the plastic back is
+"still really durable, none of the glass on the back is cracked," the display "amazes me literally
+every day," battery is all-day (on a disclosed 2100 mAh replacement). This is the **second documented
+promise→delivery cycle** and by far the more demanding one; together with the sixteen-day Transformer
+Prime pair it establishes the "I've been using this for X weeks" review opening at a dated origin.
+
+It also records a **position change** worth handling carefully: in Oct 2011 his dream phone ran
+"stock Android, not TouchWiz," and in Jan 2012 he unchecked Asus's skin on sight — but by April he
+has left stock for the **AOKP ROM with an overclocked Franco kernel**, calling his earlier stance
+"downright silly for me, someone who likes to take advantage of the customization of Android." The
+consistent underlying value is **control over the software**, not stock-as-such, and the page records
+it that way. He also reports the cost of the choice rather than hiding it: "it opens apps quickly, it
+closes them quickly — **even crashes quicker**."
+
+**`Samsung Galaxy S III Design: Explained!` (05-05) is the sharpest analysis in the 2012 material.**
+The S III had just been revealed to widespread complaints about its looks. Instead of joining in, he
+reads **Apple's April 2011 lawsuit, quotes the infringement claims verbatim, and maps each one to a
+design change**: rectangular-with-uniformly-rounded-corners → an oval with mismatched corner radii;
+black borders → Pebble Blue and Marble White; equal top/bottom borders → "Samsung lawyers said 'we got
+this' and they gave it a chin"; colourful square icons and the persistent dock row → both removed from
+TouchWiz. Conclusion: "the Samsung Galaxy S3, **designed by lawyers in California**." This is the
+incentive-structure lens at its most specific — explaining a *physical object's shape* by a legal
+filing, and proving it with the filing. He also **withholds his own aesthetic verdict** pending
+hands-on, separating what he can responsibly assess at a distance (the cause) from what he can't (how
+it feels).
+
+**`Dear Apple!` (04-21)** introduces an **open-letter format** and does something unusual for the era:
+it criticizes a company **with recorded primary evidence**. He claims Apple's "technical support isn't
+very technical" and then plays audio of his own sales call, in which the rep can't supply a
+rewrite-speed figure ("it's truly not that important") and is unsure about driving a 30" display. The
+call also corroborates the "I called Apple and nobody could tell me" claim from the Mac Mini build —
+he tells the rep on tape "I'm trying to build actually the world's fastest Mac Mini." The page is
+`attribution: mixed`, with the Apple employee's statements quarantined. It also yields a compact
+stated motto: "the mantra is kind of 'if it ain't broke don't fix it' — **my motto is kind of 'if it
+ain't broke don't break it. But you can still make it better.'**"
+
+Rounding out: **TF300 vs Prime (05-01)** has him **preferring the cheaper tablet**, reframing its
+plastic back as an engineering *advantage* (Wi-Fi strength "destroying the metal-back Transformer
+Prime and iPad"), reporting perceptual nulls honestly ("did I notice a difference? Nope"), proposing
+his own blind test, and telling some viewers to buy neither and wait; **Drive vs Dropbox (04-25)**
+documents his cloud-first workflow ("almost my entire existence is in the cloud") and issues a
+**provisional, revisable verdict**; the **Google+ whitespace video (04-12)** closes with a throwaway
+that is the sharpest line in it — "it's going to be ad space in like six months" — the second
+ad-inventory read in six days after Project Glass; the **M50 giveaway (04-08)** adds an
+**impersonation warning** with a verification rule; and the **TokyoFlash watch (04-11)** is a Dope Tech
+precursor that teaches its display encoding and then quizzes the audience.
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 515 → 523 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **The 15-week promise→delivery cycle** — promote as the dated origin of the
+lived-with-it review standard, paired with the 16-day Transformer Prime instance. (2) ★★ **The
+stock→custom-ROM position change**, framed as control-over-software rather than a reversal — the
+persona must carry dated positions, not timeless ones. (3) ★★ **"Designed by lawyers in California"**
+— the capstone incentive-structure example; belongs in the tech-industry-commentary hub as the
+strongest demonstration that the "why does it look like that?" instinct is research-driven.
+(4) ★★ **"If it ain't broke don't break it — but you can still make it better"** → `persona/beliefs.md`
+as the dated origin of the iterative-improvement value. (5) ★★ **Criticism with recorded primary
+evidence** (the support call) → creator-business/method. (6) ★ **Cheaper-and-plastic as the better
+engineering choice** → an early "root for affordable tech done right." (7) ★ **Provisional revisable
+verdicts** — three dated instances now; name it as a habit. (8) ★ Format ledger: open letter.
+(9) ★ Giveaway-integrity thread extended (impersonation warning). One flagged, unresolved: the April
+"I don't have a second account" line versus the Nov 2011 second-channel and Dec 2011 Droid Dog
+references — most plausibly scoped to messaging accounts, but **not asserted either way**. Debt: 3
+ingest batches since synthesis pass 8 (checkpoint at 10).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2012 origin Mar 5–Apr 6, 7/8 ingested
 
 Stage B. **Ninth consecutive clean batch**: 7 ingested, 0 skipped, **1 no-captions**
