@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Apr 25–May 26, 8/8 ingested (THE FIRST BLIND CAMERA TEST + Google I/O 2017 + Dear Twitter)
+
+Stage B. Ingested spring 2017 to L2 (936→944): the **first Blind Camera Test**, the **Android O** Top-5, the
+**S8-vs-G6** MrMobile collab, the **BlackBerry KEYone**, the **Dell 8K monitor**, the **Google I/O 2017**
+recap, the **DJI Spark vs Inspire 1** drone comparison, and **Dear Twitter**. All 8 Marques-fronted →
+persona-eligible; captions clean; no dups, no skips. **Two mixed-attribution sources**: the S8-vs-G6 debate
+(MrMobile/Michael Fisher GUEST-quarantined — he argues the G6) and the DJI video (Casey Neistat as pilot,
+collaborator context). Ledger @mkbhd now 719 open (P2:681, P3:38); L2=944, L3=0. (Debt now 4 batches since
+pass 14.)
+
+Synthesis notes (for pass 15) —
+**(1) FRANCHISE ORIGIN — the first Blind Camera Test.** The realization of the camera-method predicted in
+pass-13/14: "cameras are so good now the difference is **personal preference, not objective performance**";
+THE **confirmation-bias insight** — "we go into head-to-heads knowing which one we *want* to win, so we
+justify every little thing about phone A and ignore what's good about phone B… a lot of people say 'I hate
+the iPhone' — and then a lot of you pick the iPhone." The direct ancestor of the annual bracketed Blind
+Camera Test. Color temperature / white balance = the biggest differentiator (all else near-parity).
+**(2) "Cheap X got good, good X got cheap" — now applied to drones** (DJI Spark vs Inspire), with the
+reusable **"film tool vs. fun tool"** category framing. **(3) The "Dear X" wishlist format extended to a
+platform** (Dear Twitter): pro-chronological-timeline, **stop-hobbling-third-party-apps** (the token-limit /
+developer-hostility critique), and the **edit-tweets** ask (the comedic "hyperloop but can't edit tweets"
+riff + a scoped 60-second-window-with-edit-history proposal — argue-both-sides-then-propose-a-fix). **(4) The
+"poor use of space" refrain becomes a recurring reviewer tic** (BlackBerry KEYone: no wireless charging in a
+9mm phone) + judge-it-for-its-audience ("not in the target demographic" but fair) + a five-pillars snapshot.
+**(5) ML-is-the-real-story, in full** (Google I/O 2017): Google Lens as "the culmination of computer vision"
+(Goggles-2010 → now); the Assistant escaping the Pixel onto the iPhone; reserve-judgment-on-the-jaw-dropping-
+demo (Photos obstruction-removal). **(6) "A YouTube video can't do the bleeding edge justice" pipeline caveat**
+(Dell 8K; he finally sees his own 8K files native; pro use = a native 4K editing window pixel-for-pixel).
+**(7) "Phones are personal — the 'loser' is still fantastic"** (S8-vs-G6; champions the overshadowed G6).
+Minor: the find-the-underrated-feature instinct (Android O notification snooze). Next synthesis checkpoint
+(pass 15) at ~6 more batches or the next era boundary.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Mar 22–Apr 18, 8/8 ingested (the Galaxy S8 season + "Dear Samsung" + the Studio Tours series)
 
 Stage B. Ingested spring 2017 to L2 (928→936): the **Matte Black OnePlus 3T**, the **Casey Neistat Studio
