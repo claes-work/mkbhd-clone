@@ -4,6 +4,43 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Jul 10–Aug 2, 8/8 ingested (Chromecast + Moto X landmarks + first Windows Phone review)
+
+Stage B. **Twenty-fifth consecutive clean batch, twentieth zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 635→**643 L2**.
+
+**Beliefs landmark — the geeks-vs-consumers framework.** `Moto X Features: Explained` (08-02) distills his
+tech-press-vs-mainstream lens into one line: **"geeks value specs-versus-price; consumers value features-
+versus-price."** He uses it to explain the $200 mid-range-specs Moto X (value-via-software aimed at the
+mass market, not reviewers), plus the Moto Maker "make it your own" customization value and a sharp AT&T-
+exclusivity critique. A canonical statement of the framework the Galaxy S4 features video first sketched.
+
+**Landmark product — the Chromecast.** `Google Chromecast Review` (07-29) shows his **clear-technical-
+teaching**: he corrects the widespread "you're beaming content to the TV" misconception ("you're
+transferring the *action* — the Chromecast streams independently from the cloud"), draws the Nexus-Q-
+reloaded pricing lesson, and delivers a confident "$35, buy it" instant-buy verdict.
+
+**Method / beliefs (reinforcing).** `Nokia Lumia 925 Review` (07-10) — his first Windows Phone review —
+is a clean **perspective-disclosure / fair-shot** piece (reviewing a platform he doesn't use, from a
+disclosed Google-user baseline; the customization ceiling + app gap are the dealbreakers). `Google Edition
+HTC One Review` (07-15) restates the **stock-Android preference**. `Samsung Galaxy Note 3 Hype` (07-23)
+applies the **"no major flaw" one-critical-flaw framing**, states the **big-hands/large-phone preference**
+explicitly, and confirms he **rooted his own S4 to CyanogenMod** (control-over-software, lived). `Ubuntu
+Edge Explained` (07-26) continues the **convergence / Halo-product** fascination. `Top 5 Android 4.3
+Features` (07-31) defends incremental updates and teaches TRIM. `Giveaway` (07-19) is a low-yield collab.
+
+Attribution: all 8 solo. Lou/Unbox Therapy, Guy Kawasaki, and Mark Shuttleworth appear as context.
+
+Synthesis notes: ★★ beliefs to promote at the next checkpoint — the **"geeks value specs-vs-price,
+consumers value features-vs-price"** framework (Moto X; promote to `persona/beliefs.md` as the canonical
+statement of the tech-press-vs-mainstream / value-via-software lens, companion to the Galaxy S4 features
+video). Also promotable: the Chromecast **clear-technical-teaching + pricing lesson**, the Lumia 925
+**perspective-disclosure / fair-shot** methodology, and the Note-3 **rooted-my-own-S4-to-CyanogenMod**
+control-over-software datum + explicit **big-hands preference** (biography). Debt now **9 ingest batches**
+since synthesis pass 9 — **the next batch hits the 10-batch checkpoint → Stage S synthesis next iteration**
+(promote the accumulated Feb–Aug 2013 material into topics/persona and recompile the system prompt with
+the large accumulated biography debt: Five Facts + Update 9.0 + the 2013 belief landmarks).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Jun 7–Jul 4, 8/8 ingested (MKBHD Update 9.0 FAQ biography + platform-strategy analysis)
 
 Stage B. **Twenty-fourth consecutive clean batch, nineteenth zero-loss**: 8 ingested, 0 skipped,

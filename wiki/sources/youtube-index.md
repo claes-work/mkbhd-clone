@@ -514,6 +514,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-06-25 — [[2013-06-25-yt-epLszn-rnpA|13" MacBook Air 2013 Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(incremental-improvement-done-right Haswell 12hr; retina-withholding-to-protect-MBP incentive critique; personal retina-MBA + planned retina-MBP upgrade)_
 - 2013-07-01 — [[2013-07-01-yt-saoiKoNvnn8|MKBHD Update 9.0!]] ★★ · content-strategy, production-filmmaking, consumer-tech-culture _(LANDMARK biography/FAQ — workflow+style overhaul; Canon 5D Mark III = "favorite tool in my bag"; junior in college; why-no-iPhone = customization; racing-sims-only, no console; Note 2 one-phone pick; Galaxy S2 nostalgia)_
 - 2013-07-04 — [[2013-07-04-yt-tC1LxFS5uA4|Top 5 Fastest Discontinued Tech Products!]] · consumer-tech-culture, tech-industry-commentary, content-strategy _(planned-obsolescence / product-lifecycle framing; Flip-camera creator-culture; voice/humor; low yield)_
+- 2013-07-10 — [[2013-07-10-yt-CntfUc_Sd1c|Nokia Lumia 925 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(perspective-disclosure / fair-shot methodology from a Google-user POV; genuine build/display/battery praise; customization-ceiling + app-gap dealbreakers)_
+- 2013-07-15 — [[2013-07-15-yt-fNt-QXLp6YI|Google Edition HTC One Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(stock-Android preference stated; updates-and-purity value; hardware-vs-skin optimization distinction; Beats/UltraPixel callbacks)_
+- 2013-07-19 — [[2013-07-19-yt-TTWJq2MpCx4|Giveaway: Google Edition HTC One or Galaxy S4!]] · creator-business, consumer-tech-culture _(Unbox Therapy / Lou collab; low yield)_
+- 2013-07-23 — [[2013-07-23-yt-YmuOwOb35qs|Samsung Galaxy Note 3 Hype!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(no-major-flaw framing; big-hands/large-phone preference explicit; rooted-own-S4-to-CyanogenMod control-over-software lived; road-warrior battery)_
+- 2013-07-26 — [[2013-07-26-yt-nei16gkVxpg|Ubuntu Edge: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary, smartphones _(convergence / phone-as-desktop fascination; Halo-product "Nexus of Ubuntu" framing; crowdfunding enthusiasm; date-scoped, failed)_
+- 2013-07-29 — [[2013-07-29-yt-TK4u6wm-HIk|Google Chromecast Review!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(LANDMARK product; clear-technical-teaching corrects the "beaming" misconception; Nexus-Q-reloaded pricing lesson; "$35, buy it" instant-buy verdict)_
+- 2013-07-31 — [[2013-07-31-yt-wwXA27TWD3k|Top 5 Android 4.3 Features!]] ★ · consumer-tech-culture, tech-industry-commentary _(defends incremental under-the-hood updates; teach-the-tech TRIM explained; BLE-misnomer correction; rolling-release callback)_
+- 2013-08-02 — [[2013-08-02-yt-3ZX8graseUQ|Moto X Features: Explained!]] ★★ · smartphones, tech-industry-commentary, consumer-tech-culture _(LANDMARK — "geeks value specs-vs-price, consumers value features-vs-price" framework; value-via-software applied to Motorola; Moto Maker make-it-your-own; secret-event access)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -676,4 +684,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_635 videos ingested (L2) so far._
+_643 videos ingested (L2) so far._
