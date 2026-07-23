@@ -4,6 +4,58 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Nov 22–Dec 16, 8/8 ingested
+
+Stage B, first batch after synthesis pass 9. **Seventeenth consecutive clean batch, twelfth zero-loss**:
+8 ingested, 0 skipped, 0 no-captions, 0 dup. 571→**579 L2**. Three ★★: a belief thesis stated twice in a
+week, and a production-history landmark.
+
+**The "hardware outran software" thesis, twice in one week.** The `Nexus 10 Review` (12-03) argues the
+tablet's 2560×1600 display is "**just enough ahead of its time for it to become its biggest weakness**"
+— naming "content optimization" as the missing piece (apps, games, fonts, icons haven't caught up to the
+hardware). Three days later the off-the-cuff `Retina Displays vs Battery Life` (12-06) generalizes it:
+"**we've gone past our software with our hardware already**," every flagship has a "wow display" but
+"when's the last time you saw a phone with a wow battery life?" — arguing the next big industry push
+*should* be battery, and citing his own 2011 "better, not bigger" rant. Together these are the dated
+origin of the "the tech works, the ecosystem isn't ready — don't buy for the buzzword" belief the persona
+already carries (8K, Dolby Vision), plus the forward-looking battery companion.
+
+**Production-history landmark.** `8 Holiday Gifts for a YouTuber` (12-16) is a gift guide that
+incidentally documents his own origins: the **nifty-fifty 50mm f/1.8 was "my first video lens — where I
+first really started getting creative with DSLR videos"** (the origin of his shallow-depth-of-field
+aesthetic, named), the **gorilla pod was "one of my first creative tools,"** and he **founded a top-15
+Google+ YouTubers community (10,000+ members)**. Dated craft and community anchors.
+
+Supporting: `Rooting & Jailbreaking Explained` (12-08) carries the ownership/control line — "**you don't
+even really own the device until you've voided the warranty**" — the vivid articulation of the
+control-over-your-device value under the stock-vs-skin arc, plus the observation that root-app features
+get absorbed into stock Android over time (screenshots, tethering). The `Nexus 4 Review` (11-27) is the
+**cleanest anti-benchmark demonstration in the corpus** (a 5300 Quadrant score explicitly overridden by
+"the snappiest Android experience I've ever used") with a three-reasons buyer's-guide close; the three-way
+`Nexus 4 vs S3 vs Galaxy Nexus` (11-29) states the "**think about what you do on your phone**" LTE
+heuristic and recommends **rooting the S3 into a SuperNexus** (build the phone you want); `iPad Mini vs
+Nexus 7` (11-22) lands its sharpest verdict on the Mini's low-res non-retina display ("I can see pixels
+everywhere") via pixel obsession, in an even-handed buyer's guide; and the `$600 Gaming PC Giveaway`
+(12-13) dates a Duncan33303 collab, a warming Windows 8 first impression, and a **winter-break PC build
+(maybe a Hackintosh)** — confirming he's still a PC builder *and* a student alongside the Mac Pro.
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 571 → 579 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched (pass 9 just recompiled to v9; this batch's ★★ material
+queues for pass 10).
+
+Synthesis notes: (1) ★★ **"Hardware outran software / ahead of its time is its biggest weakness / content
+optimization"** (Nexus 10) + **"battery should be the next big thing"** (the essay) → `persona/beliefs.md`
++ tech-industry-commentary hub, as the dated origin of the ecosystem-lag belief and the battery companion
+to "better, not bigger." (2) ★★ **Production history: the nifty-fifty as first video lens + gorilla pod +
+the founded Google+ YouTuber community** → `persona/biography.md` + production-filmmaking hub. (3) ★
+**"you don't own the device until you've voided the warranty"** → the vivid control-over-your-device line.
+(4) ★ **Cleanest anti-benchmark demonstration** (Nexus 4) → worked example for the real-world-over-
+benchmarks position. (5) ★ **"think about what you do on your phone"** + root-into-SuperNexus advice →
+buyer's-guide + control-over-software reinforcing citations. (6) ★ Biography: still on Verizon (rooted
+S3), still a PC builder + student (winter-break build), Windows 8 first impression, Thanksgiving 2012.
+Debt: 1 ingest batch since synthesis pass 9 (checkpoint at 10).
+
 ## [2026-07-23] lint | synthesis pass 9 — the full 2012 origin year (500→571 L2)
 
 Stage S. Drained the ten-batch debt accumulated since pass 8 — ten @mkbhd batches covering the **full

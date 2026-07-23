@@ -450,6 +450,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-11-16 — [[2012-11-16-yt-nCVygTgQKUs|Nexus 10 Unboxing & First Impressions!]] ★ · tech-reviews, consumer-tech-culture _(studio back post-Sandy; request-driven pipeline; privacy discipline)_
 - 2012-11-19 — [[2012-11-19-yt-yRaIjn6q9Jo|LG Optimus G Review! (Nexus 4 Comparison)]] ★ · smartphones, tech-reviews, consumer-tech-culture _(difference-only comparison; "you're basically right")_
 - 2012-11-20 — [[2012-11-20-yt-RvfjuYUe6-w|Nexus 4 Unboxing & First Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(content-saturation self-awareness; request-driven review)_
+- 2012-11-22 — [[2012-11-22-yt-bJOGQ_SJ8Dc|iPad Mini vs Nexus 7!]] ★ · tech-reviews, smartphones, consumer-tech-culture _(iPad Mini low-res display "biggest flaw"; even-handed buyer's guide)_
+- 2012-11-27 — [[2012-11-27-yt-zFOnOLXrMBQ|Google Nexus 4 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("best value / best Nexus to date"; cleanest anti-benchmark demo)_
+- 2012-11-29 — [[2012-11-29-yt-xVlzDdxaaaE|Nexus 4 vs Galaxy S3 vs Galaxy Nexus!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("think about what you do on your phone"; root-into-SuperNexus advice)_
+- 2012-12-03 — [[2012-12-03-yt-IysmRC4aAFc|Google Nexus 10 Review!]] ★★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(LANDMARK: "ahead of its time is its biggest weakness"; content-optimization)_
+- 2012-12-06 — [[2012-12-06-yt-q1zZ8cGF1OI|Retina Displays vs Battery Life!]] ★★ · tech-industry-commentary, smartphones, consumer-tech-culture _(LANDMARK: battery should be the next big thing; "hardware outran software")_
+- 2012-12-08 — [[2012-12-08-yt-uO0Q7SMZvfg|Rooting & Jailbreaking: Explained!]] ★ · smartphones, consumer-tech-culture, content-strategy _("you don't own the device until you've voided the warranty")_
+- 2012-12-13 — [[2012-12-13-yt-FFuePFTf9LQ|$600 Gaming PC Giveaway!]] ★ · creator-business, consumer-tech-culture, production-filmmaking _(Duncan33303 collab; Windows 8; winter-break PC build)_
+- 2012-12-16 — [[2012-12-16-yt-gfPNNdY1Fjs|8 Holiday Gifts for a YouTuber!]] ★★ · production-filmmaking, creator-business, consumer-tech-culture _(LANDMARK production history: nifty-fifty = first video lens; founded top-15 G+ YouTuber community)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -612,4 +620,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_571 videos ingested (L2) so far._
+_579 videos ingested (L2) so far._
