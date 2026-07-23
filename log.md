@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Jul 28–Aug 23, 8/8 ingested (the "Perfect Smartphone" one-critical-flaw doctrine + the RX100 IV + Note 5)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 809→**817 L2**.
+
+**Doctrine landmark.** `On the 'Perfect Smartphone'` (08-23) ★★ — a philosophical essay that's the
+**canonical statement of his one-critical-flaw doctrine + the "Big Four" framework** (performance /
+battery / display / camera) + the idea that we now **"measure smartphones by what's wrong with them, not
+what's right."** The perfect phone doesn't exist and never will (the definition keeps evolving); the flaw
+ladder (S6→G4→Nexus 6→Moto X Play→OnePlus 2→Note 5→"I'll just get an iPhone") explains hype, comparison
+videos, and dream-phone videos.
+
+**Production/gear.** `Sony RX100 IV Review: Pocket 4K!` (08-06) ★ — best-hybrid-pocket-camera but honestly
+**not the perfect-YouTube-camera** (5-min 4K overheating, slow AF, no audio-in); "you don't need a $1,000
+camera to start." `Jaybird X2` (08-18) ★ — favorite Bluetooth earbuds + the red-and-black "Fire" colorway.
+
+**Method + review anchors.** `Moto X Style Impressions!` (07-29) ★ — **camera-skepticism / verify-the-
+DxOMark-score-yourself**. `Moto G 2015 Review!` (08-07) ★ — **grade-on-the-price-tier** ("forgive the
+omissions, it's not a flagship"; Motorola's real flagship). `Five OnePlus 2 Impressions!` (07-28) ★ —
+1080p-good-for-battery + the 810 doesn't overheat. `Note 5 Impressions!` (08-14) ★ — "slippery as hell,"
+feel-in-hand-is-my-least-favorite (look-vs-hold). `OnePlus 2 Unboxing` (08-12) — the new-phone-setup ritual.
+
+Synthesis notes: net-new for the next checkpoint — (1) the **CANONICAL one-critical-flaw doctrine + the "Big Four" framework + "measure phones by what's wrong"** (On the Perfect Smartphone) → beliefs/tech-industry-commentary as a headline framework (supersedes the terser 2013 one-critical-flaw note); (2) the **RX100 IV best-hybrid-but-not-perfect-YouTube-camera** (overheating honesty) + "don't need a $1000 camera to start" → production-filmmaking; (3) minor: camera-skepticism/verify-DxOMark (Moto X Style), grade-on-the-price-tier (Moto G), 1080p-good-for-battery (OnePlus 2), feel-first/slippery (Note 5), red-and-black "Fire" (Jaybird). All ★-flagged inline; do not inline-promote (4 batches since synthesis pass 12).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Jun 16–Jul 24, 8/8 ingested (the MAINGEAR Mac-Pro→Windows editing-rig move + audio-literacy + a camera-comparison seed)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 801→**809 L2**.
