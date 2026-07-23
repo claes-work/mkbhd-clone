@@ -4,6 +4,41 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Nov 23–Dec 31, 8/8 ingested (CLOSES 2016: the 360° studio tour + the gimmick-vs-useful test + Tesla problems + 4M subs)
+
+Stage B. Ingested the 2016 year-end run to L2 (904→912): the **LG Ultrafine 5K**, the **2016 Studio Tour
+360°**, the **Google Home** review, the **100-OnePlus-3T giveaway**, the **Touch Bar MacBook Pro** review,
+the **AirPods** review, **Tesla Problems: My Experience**, and **USB-C ALL the Things**. All 8 Marques-
+fronted; captions clean; no dups, no skips. **This batch completes the 2016 era** (Dec 31 = a clean year/
+era boundary). Ledger @mkbhd now 751 open (P2:713, P3:38); L2=912, L3=0.
+
+Synthesis notes: heavy persona-grade material for pass 14 —
+**(1) THE GIMMICK-VS-USEFUL PRINCIPLE** (Touch Bar review): "the difference between a gimmick and an
+actually useful feature — it has to do things I couldn't already do with a keyboard shortcut; pros use
+keyboard shortcuts." A durable, reusable evaluation test. **(2) "Dongles are our bridge to the future, and
+they suck"** + the fullest **USB-C one-cable-future thesis** ("USB-C all the things"; "here to stay, unlike
+3D TVs or the modular thing") + follow-the-incentives on accessories. **(3) The bleeding-edge self-aware
+verdict**: "not worth the price… would I buy it again? Yeah — but I'm not the average person." Explicitly
+separates his own bias from the recommendation. **(4) BIOGRAPHY/PRODUCTION — the 2016 studio in detail**
+(360° tour): the gear chest (organization-serves-the-shot), the dream desk, the "Mega Desk" bay (Kessler
+Pocket Jib for overhead unboxings, 12TB→48TB RAID, ColorWare black keyboard, Herman Miller Embody, Yamaha
+HS8 + ColorWare HD800 for sound editing, foam acoustics), the 1M-subscriber plaque, and the poker-table-as-
+a-reminder-of-companies-that-take-risks. **(5) BIOGRAPHY — 4 MILLION subscribers (Dec 2016)** (giveaway);
+**pro ultimate frisbee for a Philadelphia team** + ~5,800 mi in 3 months (Tesla Problems); and **he now
+archives all his raw footage** ("for years I threw it away — 8K raw is a lot"). **(6) OWN-EVIDENCE-FIRST
+FAIRNESS** (Tesla Problems): loves the car AND names its recurring power-steering failures, airs the "beta
+testing this car" both-sides, with a structural "young-company QC" read — a model of balanced honesty about
+a favorite. **(7) "I like when technology blends in and doesn't have to stand out"** (Google Home) + the
+one-account-limit as the smart-speaker ceiling. **(8) "The wire is secretly a convenience feature"** reframe
+(AirPods) + "like it more than I expected, still prefer my X3s." **(9) "Apple is out of the display
+business" + the laptop-replaces-the-Mac-Pro editing pivot** (LG 5K). Minor: keyboard-travel complaint
+walked back after weeks; "rip MagSafe" again; the teaching-challenge voice ("keep USB interesting").
+
+Debt now 7 batches since pass 13 (~55 sources, 857→912) AND **the 2016 era is complete** → per the
+checkpoint rule (≥10 batches OR era completion — whichever first), **the next iteration runs Stage S —
+synthesis pass 14** over the 857→912 material (Mar 2016 → Dec 2016), promoting the genuinely-new beliefs/
+biography/topics and recompiling persona/system-prompt.md to v14, before resuming ingest into 2017.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Oct 26–Nov 22, 8/8 ingested (the Pixel review "favorite camera" + interviewing Apple's Federighi + the bezel-less "future")
 
 Stage B. Ingested late-2016 to L2 (896→904): the **Xiaomi Mi Mix**, the **Craig Federighi interview**, the
