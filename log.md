@@ -4,6 +4,35 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 May 20–Jun 7, 8/8 ingested (the SETUP TOUR 2014 / RED-4K landmark + the no-cases doctrine + the QHD display doctrine)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 713→**721 L2**.
+
+**Production landmark — Setup Tour 2014** (`MKBHD Setup Tour 2014!`, 05-31). Documents the **jump to the
+RED Scarlet (4K)** as the main camera ("the past couple of videos have been in 4K… that's thanks to this
+guy"), with the **trash-can Mac Pro that "runs the show"** now driving twin **Asus PQ321Q 4K displays**,
+a Sennheiser MKH416 → Focusrite Scarlet 2i2 audio chain, iKey M505-V2 monitors, Philips Hue lighting, and
+a wide camera/lens kit (Canon C100, Panasonic GH4, Sony RX100, Fuji X100s, Sigma 18–35 f/1.8). Biography:
+he's a **student in an apartment**, has a **100k silver plaque** and notes the **million-plaque is "more
+than a year late,"** and shows the new-logo business cards. ★★ (supersedes the early-2013 workstation).
+
+**Doctrine landmarks.** `The Problem with Phone Cases!` (06-02) ★★ is an early full statement of the
+**no-cases doctrine** — specs-converge → design-is-how-you-pick → **skins-not-cases** (dbrand / DecalGirl
+/ SlickWraps), Otterbox only when real protection is needed; ties directly to the dbrand partnership.
+`LG G3 QHD Display Review!` (06-07) ★ is the canonical **pixel-density-vs-viewing-distance / retina-effect**
+statement ("north of 300 ppi you can't discern pixels") plus the display **diminishing-returns** question
+("why bother with QHD?"). `LG G3 Impressions!` (05-27) ★ adds the **hardware-ahead-of-content /
+content-catches-up** framing (Droid-DNA parallel) on the first QHD phone.
+
+**Reinforcing.** `OnePlus One Review!` (05-20) ★ — the full flagship-killer/value-tier verdict ("a miracle
+piece of hardware for the price," but "lives or dies on CyanogenMod" + a home-button-delay con).
+`Curved TVs: Explained!` (05-24) ★ — the Explained! format + immersion-only-good-until-distracting (why 3D
+died) + "4K is not a fad." `iOS 8 Features & Impressions!` (06-04) ★ — copying-goes-both-ways, "removing
+bricks from the Walled Garden," and a HealthKit "something wearable" hint reinforcing the Apple-Watch
+prediction. `The iPhone 6 Model!` (05-25) — low-yield dummy-leak coverage (source-critical, battery-vs-thinness).
+
+Synthesis notes: net-new for the next checkpoint — (1) the **Setup Tour 2014** RED-Scarlet/4K + trash-can-Mac-Pro/4K-displays studio rig (production-filmmaking + biography landmark, supersedes the early-2013 workstation); (2) the **no-cases / skins-not-cases doctrine** stated in full, with its specs-converge→design-as-differentiator reasoning (beliefs + appearance carrying-habits); (3) the canonical **retina-effect / pixel-density-vs-viewing-distance** statement + the display **diminishing-returns** framing; (4) the **hardware-ahead-of-content** display-adoption framing (pairs with the 4K-adoption thesis). All ★-flagged inline; do not inline-promote (2 batches since pass 11, checkpoint at 10).
+
 ## [2026-07-23] lint | synthesis pass 11 — Aug 2013 → May 2014 (643→713 L2): wearables, 4K, the value-tier doctrine, and the origin of the car beat
 
 Stage S. Drained the seven-batch debt accumulated since pass 10 (643→713 L2), covering **Aug 2013 → May
