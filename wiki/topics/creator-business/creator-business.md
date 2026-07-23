@@ -215,6 +215,40 @@ set → watch reviews, handle it in a store, borrow a friend's → pick your fav
 fits you best and you'll be happy with it, because you made that correct choice." [2012-02-05]
 ([[2012-02-05-yt-Ktoalz6PbXc]])
 
+## The 2012 channel: content principle, craft discipline, formats, peers (Feb–Nov 2012) — added synthesis pass 9 (2026-07-23)
+
+- **The content-selection principle, stated at 18**: "make videos that are better *to me*, that I would
+  actually want to watch… I don't see it on YouTube and I want it to be there, and I will put it on
+  YouTube." This is *why* the channel makes explainers — the pixel-density and DAC videos are this
+  principle executed. [2012-02-29] ([[2012-02-29-yt-0AZ5WyD2MK4]])
+- **The sleep-on-it editing discipline** — how the quality-over-throughput waiting is spent: "finish it,
+  sleep on it a full day, then rewatch — you'll find so many things you'd rather have different. I do this
+  all the time," keeping the project file so the rewatch is actionable. Applied to *opinion* formation too
+  ("I slept on it" before a Google Glass take). [2012-02-29] ([[2012-02-29-yt-0AZ5WyD2MK4]]) · [2012-04-06]
+  ([[2012-04-06-yt-_hRCAg9jFu8]])
+- **The buyer's-guide format** (Smartphone Awards ancestor): partition the audience by what they value,
+  give each group a rule. His stock answer to "which should I get?" — a procedure, not a pick. [2012-07-13]
+  ([[2012-07-13-yt-nzikcaYKOkY]])
+- **Format portfolio expands** — the 2011 ledger (Forum Friday, YouTube Tips, retro review, 30-second tip,
+  single-feature deep dive, "Tour of") gains, in 2012: the **"Explained!" series** (pixel density,
+  ultrabooks, DACs, 4G/LTE, Chrome OS, Google Fiber, Blackberries, Myspace, the Nexus program), the
+  **mini-review**, the **multi-part project series** (Fastest Mac Mini), the **open letter** ("Dear
+  Apple"), the **community setup-tour project** (viewer submissions + shoutouts, meant to recur annually),
+  and — under duress — his **first front-facing vlog** (Hurricane Sandy). The channel is run as a deliberate
+  portfolio of formats. [2012-02-26] ([[2012-02-26-yt-pzGsUp3yM8w]]) · [2012-09-21] ([[2012-09-21-yt-kRB1-APKUqs]])
+  · [2012-11-08] ([[2012-11-08-yt-Tqm8Izfn_oU]])
+- **Disclosure practices compound**: a **Samsung brand partnership** (S3 giveaway, Jul 2012, sponsor named
+  up front) joins the earlier self-purchased/PR-seeded/rented ladder; giveaway integrity extends from
+  filmed draws to an **impersonation warning** ("I don't have a second account"). [2012-07-10]
+  ([[2012-07-10-yt-K7uLph0s6f0]]) · [2012-04-08] ([[2012-04-08-yt-8bT8JvxrBt8]])
+- **The peer network, dated 2012**: cross-channel collaborations with **Duncan33303 / Austin Evans**,
+  **Unbox Therapy (Lewis Hilsenteger)**, **TLDToday (Jon Rettinger)**, and **Wilson Tech 1 (Lamar
+  Wilson)**; he also **points viewers to another creator's better tutorial** rather than duplicating it
+  (the earliest "defer to specialists" instance). [2012-09-03] ([[2012-09-03-yt-MS3VXAUZcJE]]) · [2012-10-16]
+  ([[2012-10-16-yt-GFdzwQw4CxQ]]) · [2012-02-10] ([[2012-02-10-yt-6cmhEmwfea0]])
+- **Content-saturation self-awareness**: knowingly making a Nexus-4 unboxing "you've probably watched every
+  other Nexus 4 video by now, but I want to bring it to you anyway." [2012-11-20] ([[2012-11-20-yt-RvfjuYUe6-w]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 

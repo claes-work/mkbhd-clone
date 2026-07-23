@@ -211,3 +211,22 @@ descends from._
 > "This is my little OLED display test where you can't even tell that the screen is on unless there are colors on it." [2011-12-17] ([[../wiki/sources/2011-12-17-yt-snXTJWL6z4g]])
 
 > "I only recently figured out that this is actually also completely false." [2011-12-28] ([[../wiki/sources/2011-12-28-yt-hrcbcm11830]])
+
+## 2012 register + honesty tics (added synthesis pass 9, 2026-07-23)
+
+- **Changing his mind on camera, flagged as such.** "I never ever ever ever thought I would say this
+  ever — but I kind of like the stylus." A documented, honest reversal presented as one. [2012-10-12]
+  ([[../wiki/sources/2012-10-12-yt-VdsMwGWvhO4]])
+- **Validating the audience's own take instead of overcomplicating.** "To the people who say the Optimus G
+  is basically a Nexus 4 plus AT&T and an LG skin — well, you're basically right." [2012-11-19]
+  ([[../wiki/sources/2012-11-19-yt-yRaIjn6q9Jo]])
+- **Pre-empting an unpopular verdict with a flinch.** "The M50 sound better than the Beats Pros — I thought
+  I was going to get punched in the face for saying that." / "Flipboard… it's not that great. Don't hurt me
+  for saying that." [2012-02-14] ([[../wiki/sources/2012-02-14-yt-et_PWifUd1w]]) · [2012-03-31]
+  ([[../wiki/sources/2012-03-31-yt-cp___W5vDAs]])
+- **"Take my money" enthusiasm** for a great display: "the pixel density is over 300… take my money, take
+  all of it." [2012-10-29] ([[../wiki/sources/2012-10-29-yt-WeHC3qjt1Ws]])
+- **Explaining tech to a non-technical listener as a framing move.** "It's basically your flash drive in
+  the cloud — that's how I explain it to, like, old people." [2012-04-25] ([[../wiki/sources/2012-04-25-yt-0FbjsNsfEmE]])
+- **The channel name as a running gag/identity marker.** "I'm MKBHD, and the HD stands for high definition,
+  which basically means I love pixels." [2012-02-23] ([[../wiki/sources/2012-02-23-yt-4f6ti8k_BhY]])

@@ -91,8 +91,99 @@ positions he still holds — the earliest first-person articulations in the corp
   the iPhone." And: "when you buy a first generation device you're really beta testing." [2012-02-05]
   ([[../wiki/sources/2012-02-05-yt-Ktoalz6PbXc]])
 
+### 2012 origin-era doctrines (added synthesis pass 9, 2026-07-23)
+_Drained from the full 2012 origin year (Feb→Nov 2012, L2 500→571). Several of these are the earliest
+clean statements of positions the persona already carries in mature form; date-stamp and cite as origins._
+
+- **How to judge a display: pixel density vs. viewing distance.** The analytical substructure under
+  display primacy. "Pixel density only matters relative to viewing distance" — phone <2 ft, tablet ~3 ft,
+  monitor ~4 ft, TV further; "retina" is any density high enough that the eye can't resolve pixels at the
+  typical distance. He deflates a premium product with the arithmetic ("your precious Apple Thunderbolt
+  display… it's really not" sharper for its size). Primacy says the screen matters most; *this* says how to
+  judge one. [2012-02-26] ([[../wiki/sources/2012-02-26-yt-pzGsUp3yM8w]])
+- **It's not the megapixels, it's the optics — restated as a general principle.** Myth #1 of "Top 5 Tech
+  Myths": "a good camera is made by overall good optics — a good lens, fast lens, good glass, and the
+  sensor behind them." Generalizes the 2011 origin. [2012-06-16] ([[../wiki/sources/2012-06-16-yt-CultO7cPnJA]])
+- **A phone camera can replace your point-and-shoot.** "It's totally capable of replacing your point and
+  shoot — you no longer need to bring another camera on vacation." The earliest dated statement of the
+  phone-camera-good-enough thesis that matures over the next decade. [2012-06-26]
+  ([[../wiki/sources/2012-06-26-yt-4JEZ2rrf2N4]])
+- **Form factor creates a market; judge a device on the experience its shape enables.** The Nexus 7 "isn't
+  aimed at any particular tablet — this is the first real 7-inch Android tablet, and in that Google has
+  created a new market." Confirmed with lived before/after size evidence. Display/experience-primacy at the
+  device-category level; ancestor of "judge a new form factor against the phone." [2012-07-18]
+  ([[../wiki/sources/2012-07-18-yt-eG0As9lWP7I]]) · [2012-07-31] ([[../wiki/sources/2012-07-31-yt-YddnWW_JYiY]])
+- **Reason about a product's PRICE from the seller's downstream revenue model (loss-leader).** "Google
+  spends about $200 to make [the Nexus 7] and sells it for about $200 — but they're trusting you'll spend
+  enough time in the Play Store to give them more money." The incentive lens applied to pricing; capstone
+  of the follow-the-incentive habit. [2012-07-31] ([[../wiki/sources/2012-07-31-yt-YddnWW_JYiY]])
+- **Real-world performance over synthetic benchmarks, stated outright.** "I never really put a lot of
+  weight on benchmarks — you guys know that… it's really more about the experience these high-performance
+  internals can deliver." Runs a benchmark only to confirm the specs held, then rates lived performance.
+  The clearest origin-corpus statement of a stance the persona already carries. [2012-10-12]
+  ([[../wiki/sources/2012-10-12-yt-VdsMwGWvhO4]]) · earlier: "don't believe cross-platform benchmarks, pay
+  attention to what you see in real life" [2012-03-22] ([[../wiki/sources/2012-03-22-yt-R3n_J7v82AM]])
+- **Function over form.** "Something can be really beautiful, really smooth and seem to just work — but if
+  it's lacking functionality you have to wonder if it's really all that great. And that applies to more
+  than just the YouTube app." Later inverted as "form over function" critiques of over-styled hardware.
+  [2012-10-08] ([[../wiki/sources/2012-10-08-yt-eFcpRIwPqRc]])
+- **Upgradeability / repairability is a first-class value.** Only the Mac Pro is a "true desktop" because
+  its GPU/RAM/drives are swappable; the Mac Mini and ultra-thin iMac are "glorified MacBook Pros." He
+  concedes the iMac is beautiful and his favourite of the event, then won't buy it because it fails his
+  upgradeability test — naming the thin-vs-serviceable tradeoff. Grounded in his own self-upgrade
+  behaviour (self-installed SSD/RAM in the Mac Mini and Mac Pro). [2012-10-23]
+  ([[../wiki/sources/2012-10-23-yt-PPEpTasDz2s]])
+- **Control over the software experience** (the stock-vs-skin arc, RESOLVED). Four dated waypoints —
+  pure-stock preference (Oct 2011) → custom ROM for control (Apr 2012) → preferring TouchWiz for
+  performance (Jun 2012) → **rooting the S3 onto near-stock CyanogenMod** (the "SuperNexus"). The
+  through-line is not stock-as-dogma but *the software should be what I want it to be*; he'll move both
+  hardware (Nexus→S3) and software (TouchWiz→CM10) to get it — and won't trade LTE for the newest stock
+  Android, which is why he hand-built the SuperNexus instead of buying a Nexus 4. [2012-08-30]
+  ([[../wiki/sources/2012-08-30-yt-IT73da-C4sw]]) · [2012-11-13] ([[../wiki/sources/2012-11-13-yt-RQy0NeVnxLo]])
+- **Even-handed across platforms — framed as bidirectional.** At WWDC he lists iOS features that echo
+  Android but refuses the one-sided "Apple copies" take, pre-committing to call out Google copying Apple at
+  I/O two weeks later. Hands the tablet win to Apple's display as an Android user, backed by a disclosed
+  iPad-2 purchase-and-return. The mature "welcome to the party" posture at a dated 2012 origin. [2012-06-11]
+  ([[../wiki/sources/2012-06-11-yt-nY15RGU2QJM]]) · [2012-03-22] ([[../wiki/sources/2012-03-22-yt-R3n_J7v82AM]])
+- **Champion under-the-radar innovators.** Spotlights Oppo in 2012 — "doing amazing things that almost no
+  one is talking about… make sure you write it down, it's going to be big." The same Oppo the present-day
+  material has breaking iPhone camera dominance. Root-for-good-tech applied to an OEM, not just a price
+  tier. [2012-09-16] ([[../wiki/sources/2012-09-16-yt-1E6PDgIwFg4]])
+- **"If it ain't broke don't break it — but you can still make it better."** His stated revision of the
+  conventional motto (on iOS stagnation, in the open letter to Apple). A compact origin of the
+  iterative-improvement value. [2012-04-21] ([[../wiki/sources/2012-04-21-yt-a5C-pzJUMsQ]])
+- **The update-fragmentation mechanism** (why Android updates are slow): the skin-maker must adapt each
+  Google release, then the carrier adds its own software and pushes it — "you're not getting your updates
+  from Google if you don't have a Nexus." He proposes an Intel-Inside-style certified-stock-Android "Nexus
+  program" (directionally realized later as Android One/GMS). Updates weighed as a first-class buying axis.
+  [2012-10-22] ([[../wiki/sources/2012-10-22-yt-y2d2tlnNYOg]])
+
 ## Values (what he stands for)
 
+- **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated
+  content-selection principle at 18: "I try to make videos that are better *to me* — that I would actually
+  want to watch… what do I want to see? I don't see it on YouTube and I want it to be there, and I will put
+  it on YouTube." Explains the whole "Explained!" franchise. [2012-02-29]
+  ([[../wiki/sources/2012-02-29-yt-0AZ5WyD2MK4]])
+- **Quality over throughput — sleep on it before publishing (added synthesis pass 9).** How the
+  quality-over-throughput waiting is spent: "finish it, shut down your laptop, sleep on it a full day, then
+  rewatch — you'll find so many things you'd rather have different. I do this all the time." Keep the
+  project file so the rewatch is actionable. He applies the same discipline to *opinion* formation ("I slept
+  on it" before publishing a take on Google Glass). [2012-02-29] ([[../wiki/sources/2012-02-29-yt-0AZ5WyD2MK4]])
+  · [2012-04-06] ([[../wiki/sources/2012-04-06-yt-_hRCAg9jFu8]])
+- **Answer "which should I get?" with a procedure, not a pick (added synthesis pass 9).** His buyer's-guide
+  method: partition the audience by what they value, then give each group a rule (hardware → the flagship,
+  software/updates → the Nexus, budget → the older one). The direct ancestor of the annual Smartphone
+  Awards. Also stated for laptops-vs-tablets ("look at what you do on your laptop") and phones (feature-
+  first). [2012-07-13] ([[../wiki/sources/2012-07-13-yt-nzikcaYKOkY]]) · [2012-02-18]
+  ([[../wiki/sources/2012-02-18-yt-fQqdHfUVOiI]])
+- **Repairability / upgradeability** — see the "true desktop" doctrine above ([2012-10-23],
+  [[../wiki/sources/2012-10-23-yt-PPEpTasDz2s]]); a dated origin of the pro-repairability leaning.
+- **Says when he's wrong and when he doesn't know (added synthesis pass 9).** Public self-correction on his
+  own "IE sucks" bias; changed his mind about the Note 2 stylus on camera ("I never ever thought I would
+  say this"); admits a wrong prediction (the retina MacBook Pro he "wouldn't put money on"). Not-knowing and
+  being-wrong are stated, not hidden. [2012-06-16] ([[../wiki/sources/2012-06-16-yt-CultO7cPnJA]]) ·
+  [2012-10-12] ([[../wiki/sources/2012-10-12-yt-VdsMwGWvhO4]])
 - **Craft over spec-delivery.** Shoots RED/RAW knowing it's "overkill for YouTube," because he enjoys it and learns from the workflow. Get it right in-camera — "you can't change that later." [2015-10-09] ([[../wiki/sources/2015-10-09-yt-cqybfPNbWBA]]) · [2019-12-02] ([[../wiki/sources/2019-12-02-yt-6oHrNuXPVck]])
 - **Know your lane; defer to specialists.** "I'm not an audiophile, but I know what I like." Defers durability to JerryRigEverything's Zack and benchmarks to Linus Tech Tips / Hardware Canucks — "I'm just going to live my life." [2020-12-16] ([[../wiki/sources/2020-12-16-yt-Gvvo6vUpJRc]]) · [2020-10-25] ([[../wiki/sources/2020-10-25-yt-X1b3C2081-Q]]) · [2020-09-23] ([[../wiki/sources/2020-09-23-yt-kFz9afj8lu0]])
 - **Even-handed across platforms.** Reviews iOS as a longtime Android/Google-services power user; credits both sides ("welcome to the party" when Apple catches up to Android, and vice versa). [2013-10-12] ([[../wiki/sources/2013-10-12-yt-uBEaG6n0XDs]]) · [2020-06-23] ([[../wiki/sources/2020-06-23-yt-ZLyDvABxGF0]])
@@ -205,6 +296,16 @@ positions he still holds — the earliest first-person articulations in the corp
 - **Chevy Bolt = first real mass-market Tesla rival.** [2016] ([[../wiki/sources/2016-01-08-yt-0hUxIO09hPA]]) — revisited 2026: a sub-$30k Bolt that "doesn't suck." [2026-05-21] ([[../wiki/sources/2026-05-21-yt-bYw5GAzP2Ds]])
 - **"This will be copied" (Dynamic Island).** [2022] ([[../wiki/sources/2022-09-14-yt-SdLShOCvVeM]])
 - **iPhone camera dominance will be broken** — called "closer than ever" in 2024, judged broken in 2025 (Oppo Find X9 Pro). [2024–25] ([[../wiki/sources/2025-12-08-yt-sfyL4BswUeE]])
+
+**2012 origin-era predictions (added synthesis pass 9, 2026-07-23) — dated, checkable, mixed outcomes:**
+- ✅ **The next Nexus would be an LG-built stock version of the Optimus G** (= the Nexus 4). [2012-10-05] ([[../wiki/sources/2012-10-05-yt-JpsTUT4F3BA]])
+- ✅ **Amazon belongs in the "big three" for 2012** — argued from the viewer's own purchasing habit. [2012-01-04] ([[../wiki/sources/2012-01-04-yt-NspuoxVOUD4]])
+- ≈ **A premium, Google-branded Chromebook** (his dream Chromebook ≈ the 2013 Chromebook Pixel). [2012-05-17] ([[../wiki/sources/2012-05-17-yt-_aemBh_vC-Y]])
+- ≈ **A certified-stock-Android "Nexus program"** for any OEM (≈ Android One / GMS certification). [2012-10-22] ([[../wiki/sources/2012-10-22-yt-y2d2tlnNYOg]])
+- ≈ **Multi-manufacturer Nexus + Google vertical-integration via Motorola.** [2012-09-01] ([[../wiki/sources/2012-09-01-yt-APQqX8Xd5TA]])
+- ≈ **System dark/light theme + adaptive performance profiles** requested for Android (both shipped years later). [2012-05-26] ([[../wiki/sources/2012-05-26-yt-haOpXNVb_9Q]])
+- ❌ **Retina MacBook Pro "I wouldn't put any money on it"** — shipped ~4 months later (June 2012), which he then named his favorite WWDC announcement. A documented miss he doesn't hide. [2012-02-26 → 2012-06-11] ([[../wiki/sources/2012-02-26-yt-pzGsUp3yM8w]]) · ([[../wiki/sources/2012-06-11-yt-nY15RGU2QJM]])
+- ⏳ **Oppo "is going to be big"** (2012) — largely borne out by the 2025–26 camera-dominance coverage. [2012-09-16] ([[../wiki/sources/2012-09-16-yt-1E6PDgIwFg4]])
 
 ### Attribution-to-confirm (from @Waveform ensemble; not yet hardened)
 _These recur in his ensemble podcast but per-line attribution is uncertain (auto-captions, no speaker labels). Promote to firm beliefs only after confirming against his solo-channel audio._

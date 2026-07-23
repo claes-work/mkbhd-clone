@@ -216,6 +216,59 @@ and major are confirmed in his own voice for the first time._
   probably circle you back"). 🗣️ ([[../wiki/sources/2011-11-10-yt-DFdoxqSlzqI]]) ·
   ([[../wiki/sources/2011-12-11-yt-iNKUBMx1rX4]])
 
+## Corpus-derived anchors (2012: the college-era operation, gear, and a life event) — added synthesis pass 9 (2026-07-23)
+
+_Surfaced by ten @mkbhd ingest batches since pass 8 (500→571 L2), covering Feb→Nov 2012. Family/private
+life still treated as not-public (SUBJECT.md)._
+
+- **Ultimate frisbee — the first-person on-camera reveal (Aug 2012).** Breaking his own no-personal-life
+  rule: "Delaware Valley Youth League — it's an **ultimate frisbee team. There, I said it.**" He flew to the
+  **US Youth National Championships in Minnesota** and had recently played the **D3 College National
+  Championships**. Corroborated at the setup tour ("the school that I play for right now, that I'm on their
+  ultimate frisbee team") and during Sandy ("my teammates who have power across the street"). This is the
+  subject-attributed origin of the ultimate identity the wiki previously had only from third-party
+  reporting. 🗣️🗣️ ([[../wiki/sources/2012-08-10-yt-_hhEz4Uo79k]]) · ([[../wiki/sources/2012-09-21-yt-kRB1-APKUqs]])
+  · ([[../wiki/sources/2012-11-08-yt-Tqm8Izfn_oU]])
+- **Hurricane Sandy, east coast, ~11-day power outage (Oct–Nov 2012).** Filmed his **first front-facing/vlog
+  video** with no electricity — "Hurricane Sandy swept the whole east coast, which is right outside my
+  window… no electricity or heat in this building in 11 days." Locates him on the east coast (consistent
+  with NJ/Stevens); his production stopped cold (the Mac Pro "an empty shell"); he writes **video ideas on
+  index cards**. 🗣️ ([[../wiki/sources/2012-11-08-yt-Tqm8Izfn_oU]])
+- **Still at Stevens; dorm → new apartment (fall 2012).** "Back-to-school time… if you're a student like
+  me"; the new apartment becomes his filming location, with a self-built desk and a fresh setup. Roommate
+  confirmed earlier (Mar 2012); teammates live nearby. 🗣️ ([[../wiki/sources/2012-08-25-yt-3L27XnwKWkY]]) ·
+  ([[../wiki/sources/2012-09-13-yt-aSZ2GogKawQ]])
+- **The definitive 2012 workstation** (supersedes the Mac-Mini-era description): a **self-built IKEA Alex
+  desk** (drilled his own cable holes); a **2012 3.33 GHz 6-core Mac Pro** he moved up to from the Mac Mini,
+  buying only the machine + upgraded 5870 GPU from Apple and self-installing a 512 GB SSD and 16 GB RAM; a
+  **Dell UltraSharp 3007WFP (2560×1600)** he calls his favorite monitor ever; **iKey Audio M-505V2 monitors
+  + a Blue Spark XLR mic** (audio chain on isolation pads); the **Asus Zenbook Prime UX32VD** note-taking
+  laptop carried to class; the **Asus RT-N66U "Dark Knight" router**; ISP ~60/20. "I tend to be a neat
+  person." 🗣️ ([[../wiki/sources/2012-09-21-yt-kRB1-APKUqs]]) · ([[../wiki/sources/2012-09-08-yt-Teyx-jx2Ano]])
+- **The macOS transition — a former Vista-tweaking PC builder goes Mac (2012).** "I use Chrome for Mac
+  now"; "I've never really been a full-time Mac OS X person, but I'm giving OS X a shot as my daily driver"
+  — closing with "don't freak out PC people, Windows isn't going anywhere." A persona asked "Mac or PC?"
+  needs this dated arc. 🗣️ ([[../wiki/sources/2012-02-08-yt-ngEoQzIqHMc]]) · ([[../wiki/sources/2012-03-02-yt-G_H6mRHS9pc]])
+- **Phone daily-driver timeline (2012):** Motorola Droid → **Galaxy Nexus** (bought Verizon launch day,
+  Dec 2011) → **Galaxy S3 on Verizon** (switched June 2012, for the camera) → rooted the S3 onto near-stock
+  **CyanogenMod 10** (the "SuperNexus," black, LTE) as his carry through late 2012. Stated **intent to leave
+  Verizon** (Oct 2012, over the Note 2 handling) — recorded as intent, since he was still on Verizon weeks
+  later. 🗣️ ([[../wiki/sources/2012-06-26-yt-4JEZ2rrf2N4]]) · ([[../wiki/sources/2012-11-13-yt-RQy0NeVnxLo]])
+  · ([[../wiki/sources/2012-10-29-yt-WeHC3qjt1Ws]])
+- **"The HD means I love pixels" — the channel name as a display-obsession statement.** "The HD stands for
+  high definition, which basically means I love pixels. Lots and lots of pixels." Adds the motivational
+  reading to the mechanical name-origin (MKB initials + HD). 🗣️ ([[../wiki/sources/2012-02-23-yt-4f6ti8k_BhY]])
+- **Interests, dated:** golf (Galloping Hills / Sky Droid app), house/bass-heavy music, a Wisconsin ultimate
+  weekend (May 2012), self-reported non-gamer; **did not attend CES 2012** but **attended the NY Galaxy Note
+  2 / Galaxy Camera launch** and **live-tweeted the Oct-2012 Apple keynote**. Channel scale: **401 videos**
+  (Nov 2011) → a rough **~500-video** milestone (Oct 2012). 🗣️ ([[../wiki/sources/2012-05-24-yt-hE3XMbsneMk]])
+  · ([[../wiki/sources/2012-10-25-yt-7Tw9Yk-6jkQ]])
+- **Peer network (dated 2012):** collaborations with **Duncan33303 / Austin Evans**, **Unbox Therapy (Lewis
+  Hilsenteger)**, **TLDToday (John / Jon Rettinger)**, and **Wilson Tech 1 (Lamar Wilson)**; Soldier Knows
+  Best linked as a peer. (The 2011 "video I did for TLD today" reference remains unverified as a
+  contribution, though the TLDToday peer relationship is now confirmed.) 🗣️
+  ([[../wiki/sources/2012-09-03-yt-MS3VXAUZcJE]]) · ([[../wiki/sources/2012-10-16-yt-GFdzwQw4CxQ]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

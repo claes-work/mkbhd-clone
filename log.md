@@ -4,6 +4,61 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] lint | synthesis pass 9 — the full 2012 origin year (500→571 L2)
+
+Stage S. Drained the ten-batch debt accumulated since pass 8 — ten @mkbhd batches covering the **full
+2012 origin year (Feb→Nov 2012, age 18)**, 500→**571 L2**. The driver again printed "caught up" (the
+documented prose-vs-checklist quirk); the manual tally + `Synthesis notes:` lines were trusted, as in
+passes 7–8, and the quirk re-flagged in the state file.
+
+This was a rich span: 2012 is where many positions the persona already carries in mature form get their
+earliest clean, dated statements, and where the biography fills in substantially.
+
+Promotions:
+- **`persona/beliefs.md`** — new "2012 origin-era doctrines" subsection: display-judging-by-viewing-
+  distance (the substructure under display primacy); camera-replaces-your-point-and-shoot; form-factor-
+  creates-a-market; **loss-leader pricing** (reason about price from the seller's downstream revenue);
+  **real-world-over-benchmarks** stated outright; **function-over-form**; **upgradeability** ("true
+  desktop"); the **stock-vs-skin arc RESOLVED** as control-over-software (the SuperNexus); bidirectional
+  even-handedness; champion-underdog-innovators (Oppo); "if it ain't broke don't break it, but you can
+  still make it better"; the update-fragmentation mechanism. Four new **Values** (make-what-you'd-watch,
+  sleep-on-it, the buyer's-guide procedure, says-when-wrong). A **2012 predictions ledger** (LG-Nexus-4 ✅,
+  Amazon big-three ✅, Chromebook-Pixel ≈, certified-stock-Android ≈, multi-manufacturer-Nexus ≈,
+  Android-dark-theme ≈, retina-MacBook-Pro ❌, Oppo ⏳).
+- **`persona/biography.md`** — the ultimate-frisbee first-person reveal (Delaware Valley Youth League → US
+  Youth Nationals + D3 College Nationals); Hurricane Sandy (east-coast, 11-day outage, first vlog);
+  the definitive 2012 workstation (self-built desk, 6-core Mac Pro, Dell 3007WFP, iKey/Blue-Spark);
+  the macOS transition; the phone daily-driver timeline (Galaxy Nexus → S3 → SuperNexus) + stated intent
+  to leave Verizon; "the HD means I love pixels"; the 2012 peer network.
+- **`persona/voice.md`** — 2012 register + honesty tics (changed-mind-on-camera, "you're basically right",
+  pre-empt-the-unpopular-verdict flinch, "take my money", explain-to-old-people framing).
+- **`wiki/topics/tech-reviews`** — "the 2012 methodology matures": real-world-over-benchmarks, reduce-to-
+  the-single-differentiator, negative-with-its-own-defeaters, difference-only comparison, conditional-
+  verdict-backed-by-evidence (+ its payoff), the buyer's-guide framework, function-over-form/repairability,
+  pixel-density-vs-viewing-distance.
+- **`wiki/topics/tech-industry-commentary`** — "the incentive lens applied across 2012": designed-by-
+  lawyers, loss-leader pricing, category-as-marketing (ultrabooks, "4G"), update-fragmentation, the
+  true-desktop critique, bidirectional even-handedness, the Oppo long-arc.
+- **`wiki/topics/creator-business`** — "the 2012 channel": the content-selection principle (make what
+  you'd want to watch), the sleep-on-it editing discipline, the buyer's-guide format, the expanded format
+  portfolio (Explained! / mini-review / project series / open letter / community setup-tour project /
+  first vlog), compounding disclosure practices (Samsung partnership, impersonation warning), and the 2012
+  peer network (Duncan33303/Austin Evans, Unbox Therapy/Lewis, TLDToday/Jon Rettinger, Wilson Tech 1).
+
+`persona/system-prompt.md` recompiled **v8→v9** (500→571 sources) with an expanded teenage-doctrines
+block. `pipeline/synthesis-state.md` high-water mark advanced to 571 L2; `index.md` system-prompt line
+bumped to v9.
+
+Deliberately **not** promoted: the long tail of Nexus/Android product coverage, platform tours (Myspace,
+Google+, Twitter), and unboxings — already captured as L2 source pages, nothing genuinely new beyond the
+reinforcing citations folded above. Two items remain quarantined/flagged: the 2011 "video I did for TLD
+today" contribution (TLDToday peer relationship now confirmed, the specific contribution still unverified)
+and the July-2012 "shock and awe" upload-gap event (unexplained; not interpreted).
+
+Synthesis notes: none (this IS the synthesis pass). Debt reset to 0; next checkpoint at ~10 further ingest
+batches or an era completion. Open threads for the next ingest window: the promised full Galaxy Nexus /
+Nexus 4 / Nexus 10 reviews and the "why I don't trust benchmarks" video (all forecast in 2012 uploads).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Oct 25–Nov 20, 8/8 ingested
 
 Stage B. **Sixteenth consecutive clean batch, eleventh zero-loss**: 8 ingested, 0 skipped, 0 no-captions,

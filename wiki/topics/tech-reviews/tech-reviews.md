@@ -231,6 +231,41 @@ anything." [2011-09-30] ([[2011-09-30-yt-dTPZ2tuyWFw]])
 > are **both** announced on camera as "YouTube tips episode number five." Use publication dates, not the
 > series numbering, to order this material.
 
+## The 2012 methodology matures (Feb–Nov 2012) — added synthesis pass 9 (2026-07-23)
+The origin methodology (disclosed baseline; split verdicts; promise→delivery) hardens across 2012 into
+several reusable review moves that recur throughout his career:
+- **Real-world performance over synthetic benchmarks — stated outright.** "I never really put a lot of
+  weight on benchmarks… it's really more about the experience these high-performance internals can deliver"
+  (runs one only to confirm the specs held). Earlier: "don't believe cross-platform benchmarks, pay
+  attention to what you see in real life," where he reports an honest tie rather than manufacturing a
+  winner. [2012-10-12] ([[2012-10-12-yt-VdsMwGWvhO4]]) · [2012-03-22] ([[2012-03-22-yt-R3n_J7v82AM]])
+- **Reduce the decision to the single real differentiator.** "There is only one real reason you buy this
+  over the UX31 — it's not the specs, not the battery, not the backlit keyboard — it's the display."
+  [2012-09-08] ([[2012-09-08-yt-Teyx-jx2Ano]])
+- **A negative verdict paired with its own defeaters.** "The trackpad… no, it's just bad" — immediately
+  followed by "I don't know if it was just mine, or maybe I'm a mouse-and-keyboard kind of guy," and an
+  argument for why the flaw is disqualifying *for that class* (an ultraportable removes the spare-mouse
+  workaround). [2012-03-05] ([[2012-03-05-yt-1Ij-_XD8tXQ]])
+- **The difference-only comparison.** Reviewing a near-clone (LG Optimus G) as "everything different from
+  the Nexus 4," and validating the audience's own summary: "you're basically right." [2012-11-19]
+  ([[2012-11-19-yt-yRaIjn6q9Jo]])
+- **A conditional verdict backed by evidence, not a promise** — and its documented payoff. "Best Android
+  tablet once it gets Jelly Bean," grounded in the Nexus 7 (same chip family) *already* running it well;
+  three months later the update lands and he confirms it. A nuance on "never buy for a promised future
+  update": demonstrated-elsewhere ≠ merely-promised. [2012-07-23] ([[2012-07-23-yt-ddI-ZZwFclc]]) ·
+  [2012-10-01] ([[2012-10-01-yt--gqjCVTXBeM]])
+- **The buyer's-guide decision framework** (Smartphone Awards ancestor): partition the audience by what
+  they value, give each group a rule (hardware → the flagship; software/updates → the Nexus; budget → the
+  older one). Also for laptops-vs-tablets ("look at what you do on your laptop") and phones (feature-first).
+  → [[../creator-business/creator-business|Creator Business hub]]. [2012-07-13] ([[2012-07-13-yt-nzikcaYKOkY]])
+- **Function over form / repairability as review lenses.** "Beautiful and smooth but lacking functionality
+  isn't really all that great" (YouTube app); only the Mac Pro is a "true desktop" because its components
+  are swappable (upgradeability withheld from the thin-but-sealed iMac). → both are `persona/beliefs.md`
+  values. [2012-10-08] ([[2012-10-08-yt-eFcpRIwPqRc]]) · [2012-10-23] ([[2012-10-23-yt-PPEpTasDz2s]])
+- **How to judge a display: pixel density vs. viewing distance** — the analytical substructure under
+  display primacy; deflates a premium panel's perceived sharpness with arithmetic. [2012-02-26]
+  ([[2012-02-26-yt-pzGsUp3yM8w]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

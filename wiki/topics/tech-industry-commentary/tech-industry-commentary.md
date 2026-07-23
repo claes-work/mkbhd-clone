@@ -107,6 +107,34 @@ are kind of just on their tail… and eventually you've got OLED TVs everywhere.
 mechanism: competition "is what's going to have companies pitting against each other and trying to
 undercut prices." [2012-01-27] ([[2012-01-27-yt-me5_s4sCA2A]])
 
+## The incentive lens applied across 2012 (Feb–Nov 2012) — added synthesis pass 9 (2026-07-23)
+The "follow the incentive, not the output" habit reaches its most varied and specific applications:
+- **A physical object's shape explained by a legal filing.** The Galaxy S III looks the way it does because
+  of Apple's April-2011 lawsuit — he quotes the infringement claims verbatim and maps each to a design
+  change ("designed by lawyers in California"). The capstone demonstration that his "why does it look like
+  that?" instinct is research-driven. [2012-05-05] ([[2012-05-05-yt-cBSp1j5tPyU]])
+- **A product's PRICE explained by the seller's downstream revenue (loss-leader).** "Google spends ~$200
+  to make [the Nexus 7] and sells it for ~$200 — trusting you'll spend enough in the Play Store." Also read
+  ad inventory into unreleased free surfaces (Glass, the Google+ white space). [2012-07-31]
+  ([[2012-07-31-yt-YddnWW_JYiY]]) · [2012-04-06] ([[2012-04-06-yt-_hRCAg9jFu8]])
+- **A product CATEGORY as a marketing artifact.** Ultrabooks are "Intel's marketing project to compete with
+  the MacBook Air" — then the MacBook Air and Chromebook both fail the spec; "4G" has "no widely accepted
+  definition," so carriers "stamp a 4G sign on their HSPA+ network — who's going to argue?" [2012-03-09]
+  ([[2012-03-09-yt-zGXJm2QE5Do]]) · [2012-06-04] ([[2012-06-04-yt-wiWXQEkO5ws]])
+- **Android's update-fragmentation mechanism.** The skin-maker must adapt each Google release, then the
+  carrier adds its own software and pushes it — "you're not getting your updates from Google if you don't
+  have a Nexus." He proposes an Intel-Inside-style certified-stock-Android "Nexus program" (≈ Android
+  One/GMS). [2012-10-22] ([[2012-10-22-yt-y2d2tlnNYOg]])
+- **The "true desktop" critique.** Only the Mac Pro has swappable components; the thin iMac trades
+  serviceability for beauty → [[../../../persona/beliefs|beliefs]] (repairability). [2012-10-23]
+  ([[2012-10-23-yt-PPEpTasDz2s]])
+- **Even-handedness, framed as bidirectional copying.** Lists iOS features echoing Android but pre-commits
+  to calling out Google copying Apple at I/O — and hands the tablet win to Apple's display as an Android
+  user (backed by a disclosed iPad-2 buy-and-return). [2012-06-11] ([[2012-06-11-yt-nY15RGU2QJM]])
+- **Long-arc watch: Oppo.** "Doing amazing things almost no one is talking about… it's going to be big"
+  (2012) → the company the present-day material has breaking iPhone camera dominance. [2012-09-16]
+  ([[2012-09-16-yt-1E6PDgIwFg4]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

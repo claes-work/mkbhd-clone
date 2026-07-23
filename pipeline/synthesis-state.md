@@ -6,41 +6,34 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **ten real ingest batches since pass 7 (500 L2 sources)** — synthesis passes
-1–2 (133 L2), pass 3's 9 batches (through L2=202), pass 4's 10 batches (through L2=274), pass 5's
-10 batches (through L2=349), pass 6's five real @mkbhd batches (through L2=386) plus two zero-yield
-and three stage-orientation-only entries, pass 7's ten real @mkbhd batches (2010 origin long tail
-Apr 2010 → Sep 2011, through L2=454), PLUS **pass 8's ten batches (2026-07-22): one @Waveform
-fresh-upload single + nine @mkbhd batches covering Sep 2011 → Feb 2012, through L2=500** (which
-also spans the sign-in/bot-check blocker's resolution — five stage-orientation-only entries before
-it cleared carried no new material).
-Covers every `wiki/sources/` page that was L2 as of 2026-07-22 at the 500-source mark.
+Synthesized through: **ten real ingest batches since pass 8 (571 L2 sources)** — passes 1–8 through
+L2=500, PLUS **pass 9's ten @mkbhd batches (2026-07-23) covering the full 2012 origin year Feb→Nov 2012
+(L2 500→571)**.
+Covers every `wiki/sources/` page that was L2 as of 2026-07-23 at the 571-source mark.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_None currently — **synthesis pass 8 (2026-07-22)** drained the ten-batch debt accumulated since
-pass 7 (454→500 L2). Promotions: `wiki/topics/tech-reviews` (the methodology STATED then
-demonstrated — the "perspective"/disclosed-baseline doctrine, four worked examples, the
-promise→delivery cycle, and four new analytical moves), `wiki/topics/tech-industry-commentary`
-(the incentive-structure lens in four dated instances + the steel-man + Apple-as-catalyst),
-`wiki/topics/creator-business` (the four-rung disclosure ladder, filmed-draw verifiability,
-quality-over-throughput, the six-format portfolio table, collaboration mechanics, dated growth
-milestones, the buying framework), `persona/beliefs.md` (new "Origin doctrines, stated outright at
-17–18" subsection + four values + a dated 2011–2012 positions block with a bloatware
-position-change watch-item), `persona/biography.md` (the double-sourced 1993-12-03 birth date,
-first-person Stevens + major, dorm-room era, 401 videos / 20k subs, After Effects, Droid Dog, first
-camcorder, the three-monitor workstation, the macOS transition, golf/frisbee/house-music markers,
-no CES 2012), and `persona/voice.md` (the date-scoped 2011–2012 comedic register, teaching moves,
-"shooter", a retired-catchphrase quarantine, and seven new voice-bank quotes).
-`persona/system-prompt.md` recompiled **v7→v8** (454→500 sources). Next checkpoint is due whenever
-≥~10 more ingest batches accumulate (or a channel/era completes) since this pass._
+_None currently — **synthesis pass 9 (2026-07-23)** drained the ten-batch debt accumulated since pass 8
+(500→571 L2), covering the full 2012 origin year. Promotions: `persona/beliefs.md` (a "2012 origin-era
+doctrines" subsection — display-judging-by-viewing-distance, camera-replaces-point-and-shoot,
+form-factor-creates-a-market, loss-leader pricing, real-world-over-benchmarks, function-over-form,
+upgradeability, the stock-vs-skin RESOLUTION as control-over-software, bidirectional even-handedness,
+champion-underdog-innovators, "don't break it but make it better", update-fragmentation; four new Values
+— make-what-you'd-watch, sleep-on-it, buyer's-guide-procedure, says-when-wrong; a 2012 predictions
+ledger), `persona/biography.md` (the ultimate-frisbee reveal, Hurricane Sandy, the definitive 2012
+workstation, the macOS transition, the phone daily-driver timeline, the 2012 peer network),
+`persona/voice.md` (2012 register + honesty tics), `wiki/topics/tech-reviews` (the 2012 methodology-
+matures section), `wiki/topics/tech-industry-commentary` (the incentive lens applied across 2012 —
+designed-by-lawyers, loss-leader, category-as-marketing, update-fragmentation, even-handedness, Oppo
+long-arc), and `wiki/topics/creator-business` (the 2012 content principle / sleep-on-it / buyer's-guide /
+format portfolio / disclosure / peer network). `persona/system-prompt.md` recompiled **v8→v9** (500→571
+sources). Next checkpoint at ~10 more ingest batches or an era completion._
 
-_**Driver quirk (still unfixed, still worked around):** `synthesis_batch.py status/prepare` reads
-`- [ ]` checklist bullets from this section and therefore printed "no pending checkpoints —
-synthesis is caught up" while a ten-batch debt was manifestly due. Pass 8 did what pass 7 did:
-trusted the manual tally + the explicit `Synthesis notes:` lines in `log.md` over the driver's
-printed count. Worth fixing the driver or switching this section to real checklist syntax._
+_**Driver quirk (still unfixed, worked around):** `synthesis_batch.py status/prepare` reads `- [ ]`
+checklist bullets and prints "caught up" while a debt is due; passes 7–9 trusted the manual tally + the
+`Synthesis notes:` lines in `log.md`. Worth fixing the driver or switching this section to real checklist
+syntax._
 
 ## Ingest infra notes (archived — PO-token gate history, not synthesis debt)
 _Kept for operational continuity across ingest iterations; this is about caption-fetch
