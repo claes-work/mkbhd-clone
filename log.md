@@ -4,6 +4,40 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Aug 2–Sep 18, 8/8 ingested (the CANONICAL five-pillars framework + the iPhone-7 jack era + the 16GB campaign WINS)
+
+Stage B. Ingested fall 2016 to L2 (880→888): the **Note 7** impressions, **2016 Nexus Hype**, the
+**iPhone 7 Plus** dummy, the **ZTE Axon 7**, **Android 7.0 Nougat**, the **Hasselblad True Zoom** mod, the
+**iPhone 7** 10-new-things, and the **iPhone 7 Headphone Roundup**. All 8 solo/Marques-fronted →
+persona-eligible; no dups, no skips. One caption-quality flag: the **iPhone 7 impressions
+(yt-uVRcbo9_OdA)** captions are heavily ASR-garbled (English, not a foreign-language mistranslation) —
+ingested with figures corrected from context and a ⚠️ caption note on the page; RE-FETCH CANDIDATE.
+Ledger @mkbhd now 775 open (P2:737, P3:38); L2=888, L3=0.
+
+Synthesis notes: strong, persona-grade material for the next checkpoint (pass 14) —
+**(1) THE FIVE PILLARS — canonical statement** (ZTE Axon 7): "my five pillars of a great smartphone, which
+I judge all smartphones by whether they're $850 or $350 — great build quality, display, performance,
+battery, camera. Nail those five and you're set." The definitive articulation of his review rubric; also
+"the battery pillar is flexible — fast/wireless/swappable charging can substitute." **(2) "Good phones
+got cheap and cheap phones got good"** — his optimistic counter to the "smartphones are boring" narrative.
+**(3) THE 16GB CAMPAIGN PAYS OFF** (iPhone 7): "they killed the 16GB version finally — now 32GB base at
+the same price." The literal win for the long-running 16GB-needs-to-die stance, mirroring the anti-thin/S7
+vindication pattern. **(4) The jet-black-don't-buy / matte-black-love taste split** (iPhone 7) — refines
+the black-hardware preference with a gloss-vs-matte distinction; "Apple recommends a case, which I think
+is lame." **(5) Follow-the-incentives market analysis** (headphone roundup): "Apple dropping the jack is
+great news for headphone makers — a huge new market that didn't exist before"; plus the flat **anti-dongle**
+stance and the **two-ports (2× Lightning / 2× USB-C) charge-and-listen wish**. **(6) The OLED-iPhone wish**
+(7 Plus dummy) — a forecast that lands a year early with the 2017 iPhone X; the **read-a-phone-from-its-
+industrial-design** habit. **(7) "The iPhone and the Nexus shape our vision of the future each year"** +
+**"it's ridiculous we have to mention a headphone jack as a feature"** (Nexus hype). **(8) The Pixar
+Geri's-Game→Toy-Story-2 "gen-1 proof-of-concept matures" analogy** (Hasselblad mod) — a signature cross-
+domain explanatory device — delivered inside a rare unhedged **"don't buy this"** verdict; Moto Mods
+thesis reaffirmed. **(9) "A good gimmick, not a trash feature"** fairness lens + the **"one phone I can
+just recommend" heuristic** + Samsung's first USB-C phone (Note 7). **(10) daily-use-over-feature-list**
+review method + empirical-humility (Android 7.0). ⚠️ CONTRADICTION WATCH: the Note 7 impressions are
+POSITIVE and PRE-RECALL — the battery-fire recall breaks within weeks; flag the contradiction when the
+recall video is ingested. Debt now 6 batches since pass 13 (pass 14 checkpoint approaching at ~10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Jun 14–Jul 29, 7/8 ingested + 1 skip (the biography roots surface: his FIRST-EVER review + the two-SIM daily-driver system + "I hate carrier exclusives")
 
 Stage B. Ingested summer 2016 to L2 (873→880): the **WWDC 2016** recap, the **Batman S7 Edge** unboxing,
