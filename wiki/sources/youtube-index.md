@@ -571,6 +571,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-01-19 — [[2014-01-19-yt-_ibTYAxssQw|Samsung Galaxy Note 3: Revisited!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(control-over-software make-it-stock-without-rooting; anti-TouchWiz; no-cases/no-screen-protectors habit; TouchWiz-slows-operation-and-updates fragmentation; wants CyanogenMod)_
 - 2014-01-21 — [[2014-01-21-yt-MVyA-T2lNNk|New Mac Pro Performance Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(8-core-vs-12-core single-vs-multi-thread balance, van-vs-18-wheeler; benchmarks-valid-where-not-gamed contrast with Note-3; project continuity; Adobe Premiere)_
 - 2014-01-25 — [[2014-01-25-yt-dYzlWWa8dCU|Top 5 Wearable Tech! (Early 2014)]] ★★ · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(LANDMARK wearable survey — post-iPhone incentive read; first-gen "very beta" framing; PRESCIENT Apple/Google-smartwatch-by-end-2014 prediction; Pebble #1 focus-beats-breadth; Oculus first-try non-gamer/VR)_
+- 2014-01-29 — [[2014-01-29-yt-EtKa0ORwaU0|Setup Tour Project 2014!]] ★ · content-strategy, creator-business, production-filmmaking _(community-collaboration "largest tech collab"; learn-from-others-setups value; brevity craft; own setup tour to follow)_
+- 2014-01-31 — [[2014-01-31-yt-KBXTLLFgDeo|Google Sells Motorola: Explained!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(three-perspectives incentive method; brand-equity; patents-were-the-prize; favored-OEM-tension pushed Samsung away; Motorola-CEO interview access; Nest contrast)_
+- 2014-02-07 — [[2014-02-07-yt-qauddPrHLqU|Bright Red Google Nexus 5!]] ★ · smartphones, consumer-tech-culture, content-strategy _(red-and-black bias strongest statement; red = MKBHD-brand/banner color "MKBHD-edition"; Stormtrooper contrast)_
+- 2014-02-08 — [[2014-02-08-yt-r5TvTH3GOdc|HTC M8: What to Expect!]] · smartphones, consumer-tech-culture, tech-industry-commentary _(HTC One as build-quality standard-setter; onscreen-buttons prediction; confirmed-vs-rumored discipline; low yield)_
+- 2014-02-08 — [[2014-02-08-yt-8QF3qJ0U5K0|Samsung Galaxy S5: What to Expect!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(calibrated-probability predictions 65-75%/5%; incremental-vs-revolutionary safe-bet; reasoned-but-wrong fingerprint-scanner miss; leak-culture)_
+- 2014-02-12 — [[2014-02-12-yt-fKDuVDZqQ1c|1,000,000!]] ★★ · content-strategy, creator-business, consumer-tech-culture _(MILESTONE — first upload to over 1M subscribers, Feb 2014; make-videos-I'd-watch mission; feedback-drives-improvement; still-in-college; "just getting started")_
+- 2014-02-15 — [[2014-02-15-yt-y5DyEYuvF3o|Audio Technica ATH-M50X Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(successor to best-under-$200; removable-cable upgrade; "if it ain't broke, don't fix it" sound; M50 = long-term monitoring/editing default; honest upgrade advice)_
+- 2014-02-20 — [[2014-02-20-yt-RwnSX-3ncSA|New Mac Pro Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(perspective-disclosure atypical-buyer full-time+production; the upgradeable-vs-expandable distinction hammered; thermal-core teach; Adobe-not-optimized honest; golden-rule-adjacent "has a future, come back to me in 2018")_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -732,4 +740,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_689 videos ingested (L2) so far._
+_697 videos ingested (L2) so far._

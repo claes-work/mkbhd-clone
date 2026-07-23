@@ -4,6 +4,41 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 origin Jan 29–Feb 20, 8/8 ingested (the 1M-subscriber milestone + Mac Pro full review + Google-sells-Motorola)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 689→**697 L2**.
+
+**Biography milestone.** `1,000,000!` (02-12) marks his **first upload to over one million subscribers**
+(Feb 2014) — a key dated point on the channel-growth timeline, with the make-videos-I'd-watch mission
+restated as "the number one goal" and a still-in-college datum ("or go to class").
+
+**Workstation landmark.** `New Mac Pro Review` (02-20) completes the Mac-Pro arc with an explicit
+**perspective-disclosure** (an atypical buyer using it full-time AND for production), the **upgradeable-vs-
+expandable distinction** hammered ("if you can't do it through Thunderbolt, this machine is not for you"),
+honest "Adobe isn't optimized yet" caveats, and a golden-rule-adjacent verdict ("not a good buy now, but
+it's got a future — come back to me in 2018").
+
+**Incentive analysis.** `Google Sells Motorola Explained` (01-31) is a strong three-perspectives read
+(Lenovo/Motorola/Google) — brand-equity, the **patents-were-the-real-prize** insight, the **favored-OEM
+tension** (Motorola-as-favorite pushed Samsung away from Android), plus a clip from his **Motorola-CEO
+interview** (industry access).
+
+**Reinforcing.** `Bright Red Nexus 5` (02-07) draws the clearest link yet between his red-and-black bias
+and his brand ("the red = my MKBHD channel-banner color… the MKBHD-edition Nexus 5"). `Galaxy S5 What to
+Expect` (02-08) shows his calibrated-probability prediction habit (with a reasoned-but-wrong fingerprint-
+scanner miss). `ATH-M50x Review` (02-15) confirms the M50 as his long-term monitoring/editing default +
+the "if it ain't broke" motto. `Setup Tour Project 2014` (01-29) is a community-collaboration call.
+`HTC M8 What to Expect` (02-08) is low-yield.
+
+Attribution: all 8 solo (the Motorola-CEO clip is context).
+
+Synthesis notes: ★★ items for the next checkpoint — the **1M-subscriber milestone** (channel-growth
+timeline → `persona/biography.md`) and the **Mac Pro perspective-disclosure + upgradeable-vs-expandable +
+golden-rule-adjacent** verdict (beliefs/production). Also: the **Google-sells-Motorola three-perspectives
+incentive method** (+ favored-OEM tension + patents-as-prize), the **red = MKBHD-brand-color** appearance
+datum, and the **calibrated-probability prediction** habit. Debt now **7 ingest batches** since synthesis
+pass 10.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 origin Jan 9–25, 7/8 ingested + 1 skipped (the Tesla/EV origin + Mac Pro workstation + wearables)
 
 Stage B. **7 ingested, 1 skipped (music-only captions), 0 no-captions, 0 dup.** 682→**689 L2**.
