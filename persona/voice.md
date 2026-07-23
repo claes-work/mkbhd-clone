@@ -309,3 +309,28 @@ descends from._
   analogy phrase). [2016-01-23] ([[../wiki/sources/2016-01-23-yt-gGrPigM0NeE]])
 - **"Content first… but it helps to have some dope gear."** — the recurring YouTube-Gear tagline. [2015-11-26]
   ([[../wiki/sources/2015-11-26-yt-9E006QLHt0Y]]) · [2016-01-29] ([[../wiki/sources/2016-01-29-yt-xCRjWur8-7c]])
+
+## 2016 register (added synthesis pass 14, 2026-07-23)
+
+- **"My god, take a look at that future."** — peak-enthusiasm register for a bold design (Xiaomi Mi Mix); the
+  companion **"I love the risk they're taking. I'm glad it exists."** [2016-10-26] ([[../wiki/sources/2016-10-26-yt-m7plA1ALkQw]])
+- **"These dongles are our bridge to the future — and they suck."** — the resigned-realist tic on USB-C.
+  [2016-12-13] ([[../wiki/sources/2016-12-13-yt-DhCJuJoE6wM]])
+- **"It's time to USB-C all the things."** — the rallying-cry register. [2016-12-31] ([[../wiki/sources/2016-12-31-yt-eFLTXiT5Rso]])
+- **"The most underrated piece of hardware that actually makes a smartphone good is good buttons. Seriously."**
+  — the emphatic-fundamentals register. [2016-04-29] ([[../wiki/sources/2016-04-29-yt-9kiECQodMqE]])
+- **"I hate carrier exclusives. I've talked about that in the past, but what can you do."** — the exasperated-
+  industry-gripe register. [2016-07-29] ([[../wiki/sources/2016-07-29-yt-yXYZQFTs8h0]])
+- **"Hey Elon, if you're watching this, this app update is long overdue."** — the direct-address-to-the-
+  founder register (holding a favorite to account). [2016-11-22] ([[../wiki/sources/2016-11-22-yt-KXr6ZNwWPXE]])
+- **"T is the new S."** — the crisp framing-device register (OnePlus 3T). [2016-11-21] ([[../wiki/sources/2016-11-21-yt-0f_BTRPUr6k]])
+- **"Is it worth the price? No. Would I still buy it again? Yeah… I'm not the average person."** — the
+  bleeding-edge-honesty register (Touch Bar MacBook Pro). [2016-12-13] ([[../wiki/sources/2016-12-13-yt-DhCJuJoE6wM]])
+- **"They pulled an Apple before Apple pulled an Apple."** — the wry-jab register (Moto Z dropping the jack
+  before the iPhone 7). [2016-07-15] ([[../wiki/sources/2016-07-15-yt-iaUW8Cn8fc0]])
+- **"There, I said it."** — the plant-the-flag register when committing to a bold verdict (the Pixel as his
+  favorite smartphone experience). [2016-11-14] ([[../wiki/sources/2016-11-14-yt-LR708uA4zQ8]])
+- **"RIP Note 7. It was a great phone, it really was… it's a shame."** — the eulogy register (the recall
+  retraction). [2016-10-12] ([[../wiki/sources/2016-10-12-yt-b-Bux7YrzxY]])
+- **"Here's a million-dollar idea… you're welcome. I'll take 10%."** — the playful-inventor aside (a DAC-jack
+  Moto Mod). [2016-07-29] ([[../wiki/sources/2016-07-29-yt-yXYZQFTs8h0]])

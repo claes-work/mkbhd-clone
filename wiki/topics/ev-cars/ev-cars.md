@@ -54,6 +54,29 @@ _From the 785→857 batches — his earliest framing of the affordable-EV thesis
   Model S got everyone's attention, the Model 3 is the one people can actually get."** The direct ancestor of
   his 2026 **"an affordable EV that doesn't suck"** through-line. [2016-02-07] ([[2016-02-07-yt-itInMEcvjYc]])
 
+## He buys a Tesla — the "Apollo" P100D ownership series (late 2016) — added synthesis pass 14 (2026-07-23)
+_From the 857→912 batches — his FIRST car, and the ownership root of the whole car beat (a decade before
+AutoFocus)._
+- **Bought a Tesla Model S P100D, "Apollo" (~Sept 2016).** Reportedly the first P100D on the US East Coast,
+  one of the first off the line. "I'm a **tech guy before a car guy**, but this is as high-tech as it gets — I
+  review it **the same way I talk about smartphones; it's a tech product**." Picked it partly because "the
+  frunk is huge for carrying video equipment." His first-ever car; had owned a red car in the interim, chose
+  gray for Apollo ("not trying to get pulled over"). "0–60 in 2.5s — the fastest production car on Earth."
+  [2016-09-23] ([[2016-09-23-yt--ICgMYIzhxg]])
+- **Reviews an EV as an updatable software platform.** OTA updates, Summon ("the most modern ghost-riding the
+  whip"), valet mode, remote climate; "a P120D next year is inevitable — it's a tech product." Ownership
+  habit: **charge to ~85–90%, not 100%, for battery health.** Holds it to account: "hey Elon, this app update
+  is long overdue." [2016-10-19] ([[2016-10-19-yt-iHwC92t2yQ4]]) · [2016-11-22] ([[2016-11-22-yt-KXr6ZNwWPXE]])
+- **"EV shape is driven by aero/efficiency" — the "blobs" seed.** The covered grille (no engine to cool),
+  retracting handles, lowest drag coefficient of any production car. The direct ancestor of his 2026 "EVs
+  look like blobs" thesis. [2016-10-19] ([[2016-10-19-yt-iHwC92t2yQ4]])
+- **Own-evidence-first fairness on reliability.** Loves the car AND documents its **recurring power-steering
+  failures** (mid-turn; a steering-rack replacement, then a recurrence at 5,800 mi; Tesla flew an engineer
+  cross-country). Structural read: "Tesla has QC issues because they're a **young company** — tolerances get
+  tighter with time, and they don't have that time yet." Airs the "beta testing this car" both-sides.
+  [2016-12-19] ([[2016-12-19-yt-QM5z0dW60KE]])
+- **Chevy Bolt = the first real mass-market Tesla rival** (CES 2016). [2016-01-08] ([[2016-01-08-yt-0hUxIO09hPA]])
+
 ## The @AutoFocus era (2026 EV reviews) — first substantial corpus
 
 > Added synthesis pass 2 (2026-07-19) from the first @AutoFocus batch. Marques-fronted → persona-eligible; the Porsche Macan driving section is handed to co-host "Miles" and quarantined at the source.

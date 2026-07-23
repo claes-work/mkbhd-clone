@@ -360,6 +360,31 @@ _From the 785→857 batches — this is where his review method is stated as an 
 - **Grippy-build = no-case-needed** (Moto X Pure, BlackBerry Priv), and best-cheap-phone / OLED-love
   (OnePlus X). [2015-09-25] ([[2015-09-25-yt-gM_gTtll7FE]]) · [2015-12-01] ([[2015-12-01-yt-fgK-bxZIG-o]])
 
+## The method sharpens into reusable tests (2016) — added synthesis pass 14 (2026-07-23)
+_From the 857→912 batches (Mar–Dec 2016) — the frameworks get canonical statements and the review method
+crystallizes into durable, reusable tests._
+- **The five pillars — canonical.** "My five pillars, which I judge all phones by whether they're $850 or
+  $350: build, display, performance, battery, camera." Applied explicitly to a budget phone (ZTE Axon 7);
+  the **battery pillar is flexible** (fast/wireless/swappable charging can substitute). [2016-08-17]
+  ([[2016-08-17-yt-ptni6tRrU54]])
+- **The gimmick-vs-useful test.** A new feature earns its keep only if it does something **you couldn't
+  already do with a keyboard shortcut** (Touch Bar) — vs. "a good gimmick, not a trash feature" (the Note 7
+  iris scanner). [2016-12-13] ([[2016-12-13-yt-DhCJuJoE6wM]]) · [2016-08-02] ([[2016-08-02-yt-ObDkWUm10OQ]])
+- **"Good buttons" = the most underrated hardware** (HTC 10) — tactility over specs. [2016-04-29]
+  ([[2016-04-29-yt-9kiECQodMqE]])
+- **Substance over first impressions.** "A phone you have to actually USE to understand how good it is"
+  (Pixel); "you don't buy a phone just because it's pretty" (Moto Z); daily-use-over-feature-list
+  (Android 7.0). [2016-11-14] ([[2016-11-14-yt-LR708uA4zQ8]]) · [2016-07-15] ([[2016-07-15-yt-iaUW8Cn8fc0]])
+- **Camera judgment: processing beats the sensor, and the blind test decides.** The Pixel is his new favorite
+  camera "because of the image processing (HDR+)"; backed by a **blind test on Twitter** (Pixel vs iPhone 7
+  Plus) — the direct ancestor of the annual Blind Camera Test — and "does it make me say wow." [2016-11-14]
+  ([[2016-11-14-yt-LR708uA4zQ8]])
+- **Champion-the-underrated (continued).** The HTC 10 ("the complete package… surprised how underrated") and
+  the LG V20 ("their most underrated phone"). [2016-04-29] ([[2016-04-29-yt-9kiECQodMqE]]) · [2016-10-02]
+  ([[2016-10-02-yt--7q4lqhvlVQ]])
+- **Update-in-public.** The Note 7 arc: cautiously-positive review → full retraction when the replacements
+  also caught fire. [2016-09-27] ([[2016-09-27-yt-lV70CxFlx7w]]) · [2016-10-12] ([[2016-10-12-yt-b-Bux7YrzxY]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

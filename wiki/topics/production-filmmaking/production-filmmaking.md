@@ -152,5 +152,22 @@ _From the 785→857 batches — his rig and his creator-advice format both level
   into many resolutions (even 4K = ~1/10 the original size); the "uploading → processing" workflow; the "720p
   HD" origin behind the HD in MKBHD. [2015-05-18] ([[2015-05-18-yt-4CJvasYJP6o]])
 
+## The 2016 studio, the editing-rig pivot, and archiving raw — added synthesis pass 14 (2026-07-23)
+_From the 857→912 batches (Mar–Dec 2016) — the furnished studio gets toured and the workflow matures._
+- **The 2016 studio (360° tour).** The **gear chest** (organization-serves-the-shot), the **"Mega Desk"**
+  production/editing bay — a custom-oversized NextDesk Air Pro sit-stand, dual ASUS 4K displays, a 12→48 TB
+  RAID, ColorWare black keyboard, Herman Miller Embody, ColorWare Sennheiser HD800 + Yamaha HS8 for **sound
+  editing as much as video** — the **Kessler Pocket Jib Pro** for overhead unboxing shots, and acoustic foam
+  throughout. → `persona/biography.md`. [2016-11-26] ([[2016-11-26-yt-tXp-_3jvKsI]])
+- **The editing-rig pivot: laptop replaces the Mac Pro.** "Apple is out of the display business… the Mac Pro
+  is dead — as a Final Cut editor I kind of have to get on board with this laptop setup" (a maxed 15" MacBook
+  Pro + two LG 5K displays). Editing on a laptop is "crazy," but portable. [2016-11-23] ([[2016-11-23-yt-Snzshdl3hHI]])
+  · [2016-12-13] ([[2016-12-13-yt-DhCJuJoE6wM]])
+- **Workflow change: now archiving all raw footage.** "For years I threw away the raw footage — 8K raw is a
+  lot — now I keep it all" (a 48 TB RAID). A candid production-practice shift. [2016-12-31]
+  ([[2016-12-31-yt-eFLTXiT5Rso]])
+- **The producer's eye applied to a space.** Reviews the Google NYC popup store (A−) by its lighting — "the
+  LED beam doubles as a huge softbox." [2016-11-18] ([[2016-11-18-yt-iuOslAj9-5A]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

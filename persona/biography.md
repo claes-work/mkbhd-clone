@@ -459,6 +459,50 @@ on-camera facts recorded._
   where he might move); has cousins **John and RJ**; and his **birthday is mid-January**. 🗣️ [2015-05-11]
   ([[../wiki/sources/2015-05-11-yt-Qfd8nck5cP4]]) · [2015-07-18] ([[../wiki/sources/2015-07-18-yt-orPHNS-0CZI]])
 
+## Corpus-derived anchors (Mar 2016 – Dec 2016: the studio fills up, 4 million subscribers, and the Tesla) — added synthesis pass 14 (2026-07-23)
+
+_Surfaced by seven @mkbhd ingest batches since pass 13 (857→912 L2), covering Mar 2016 → Dec 2016 — the new
+studio gets furnished and toured, he crosses 4M subscribers, buys his first car (a Tesla), and his rig/
+workflow mature. Only self-disclosed, on-camera facts recorded._
+
+- **4 million subscribers (Dec 2016).** "The logistics of shipping a physical thing to 4 million people is a
+  nightmare… all 4 million of you are incredibly important." Up from 3M in late 2015. 🗣️ [2016-12-05]
+  ([[../wiki/sources/2016-12-05-yt-Y6tzhAg0fQQ]])
+- **Bought his first car — a Tesla Model S P100D, "Apollo" (~Sept 2016).** Took delivery of what Tesla told
+  him was "the first P100D on the East Coast," one of the first off the assembly line; named it **Apollo**.
+  He'd wanted a Tesla for years ("my dream car" — he'd done a factory tour and test drives before owning
+  one), disclosed he'd **never owned a car before** this, and had **owned a red car** in the interim
+  ("I already had a red car" — he chose gray for Apollo to "fly under the radar"). Drove ~5,800 miles in the
+  first 3 months. 🗣️ [2016-09-23] ([[../wiki/sources/2016-09-23-yt--ICgMYIzhxg]]) · [2016-10-19]
+  ([[../wiki/sources/2016-10-19-yt-iHwC92t2yQ4]]) · [2016-12-19] ([[../wiki/sources/2016-12-19-yt-QM5z0dW60KE]])
+- **The Tesla's power-steering problems (late 2016).** Apollo suffered **recurring power-steering failures**
+  mid-turn (first at <200 miles → a 12-day steering-rack replacement; again at 5,800 miles); Tesla escalated
+  it (flying an engineer from California to New Jersey). He documented it honestly as an ownership reality.
+  🗣️ [2016-12-19] ([[../wiki/sources/2016-12-19-yt-QM5z0dW60KE]])
+- **The 2016 studio, furnished and toured (in 360°).** The now-full studio: a **gear chest** (IKEA-built,
+  camera gear + review devices organized off-surface), the **"dream desk,"** the **"Mega Desk"** production/
+  editing bay (a custom-oversized NextDesk Air Pro sit-stand, dual ASUS 4K displays, a **12 TB → 48 TB RAID**,
+  a ColorWare black keyboard, a **Herman Miller Embody** chair, ColorWare Sennheiser HD800 + Yamaha HS8 for
+  **sound editing as much as video editing**, and the 2013 trash-can Mac Pro), the **Kessler Pocket Jib Pro**
+  for overhead unboxing shots, acoustic foam throughout, and a **4K OLED TV** (cord-cutter; streaming/VR
+  testing only). Keeps a **poker table** as a reminder of companies that take design risks. The **1-million-
+  subscriber plaque** is on display. 🗣️ [2016-11-26] ([[../wiki/sources/2016-11-26-yt-tXp-_3jvKsI]])
+- **The channel's origin laptop, disclosed: an HP Pavilion DV7.** In his Craig Federighi interview he says
+  "I started my YouTube channel on this laptop, the HP Pavilion DV7 — a great laptop at the time; the webcam
+  made the videos." (Complements the 2009 Motorola Droid = his first-ever *review*.) 🗣️ [2016-10-28]
+  ([[../wiki/sources/2016-10-28-yt-gWoqwCGQIM0]])
+- **Interviewing top industry execs — rising access.** Landed an exclusive interview with **Apple's SVP of
+  software engineering, Craig Federighi**, about the Touch Bar MacBook Pros — a marker of his growing
+  industry standing. 🗣️ [2016-10-28] ([[../wiki/sources/2016-10-28-yt-gWoqwCGQIM0]])
+- **Workflow change: he now archives all his raw footage.** "For years I was NOT doing that — I just kept the
+  final file and threw away all the raw footage, because 8K raw is a lot. Now I'm going to keep it all" (on a
+  48 TB RAID). A production-practice shift. Also began the experiment of **replacing the trash-can Mac Pro
+  with a maxed 15" MacBook Pro + two LG 5K displays** for mobile Final Cut editing. 🗣️ [2016-12-31]
+  ([[../wiki/sources/2016-12-31-yt-eFLTXiT5Rso]]) · [2016-11-23] ([[../wiki/sources/2016-11-23-yt-Snzshdl3hHI]])
+- **Pro ultimate frisbee — now for a Philadelphia team (2016).** "I play for the pro team based out of
+  Philadelphia now — a long drive a couple times a week" (a factor in his heavy Tesla mileage). 🗣️
+  [2016-12-19] ([[../wiki/sources/2016-12-19-yt-QM5z0dW60KE]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

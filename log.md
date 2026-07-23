@@ -4,6 +4,53 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] lint | synthesis pass 14 — Mar 2016 → Dec 2016 (857→912 L2): the frameworks get their canonical tests, he buys a Tesla, and the critiques flatten out
+
+Stage S. Drained the seven-batch debt accumulated since pass 13 (857→912 L2), covering **Mar 2016 → Dec
+2016** (triggered by the 2016-era completion). The year the review method crystallizes into durable, reusable
+tests and the industry-critique lenses get their flat statements.
+
+Promotions:
+- **`persona/beliefs.md`** — a "2016 doctrines (pass 14)" subsection: the **five pillars — canonical**
+  (build/display/performance/battery/camera, judged the same at $850 or $350; battery pillar flexible); the
+  **gimmick-vs-useful test** ("must do what a keyboard shortcut can't"); **"good buttons = the most underrated
+  hardware"**; **substance over first impressions** ("a phone you have to USE to understand" / impressions ≠
+  verdict / daily-use-over-feature-list); **camera judgment = processing beats the sensor + the blind test**
+  (Pixel/HDR+; the Blind-Camera-Test ancestor); **"dongles are our bridge to the future and they suck" / USB-C
+  one-cable thesis / "here to stay unlike 3D TVs or modular"**; **follow-the-incentives**; **"modular tech is
+  the best tech" + environmental + Moto Mods = best execution "modification not modular"**; **"I hate carrier
+  exclusives"**; **"I love companies that take crazy design gambles" / anti-"phones are boring"**; **own-
+  evidence-first fairness + update-in-public** (Note 7 retraction; loving-yet-critiquing the Tesla); **bleeding-
+  edge honesty** ("not worth it / I'd buy it again — I'm not the average person"); **"I like when technology
+  blends in"**; **review-a-car-like-a-gadget** ("tech guy before a car guy"; EV-shape=aero; charge-to-85–90%);
+  **"Apple is a hardware company first" / "Google has passed Siri"**; **"the wire is secretly a convenience
+  feature."** Plus a **2016 predictions ledger** (dual-cameras ✅, Apple-kills-16GB ✅, OLED-iPhone ⏳→✅ [iPhone
+  X], Assistant-headlines-Pixel ✅, USB-C-here-to-stay ✅, P120D-inevitable ⏳).
+- **`persona/biography.md`** — a "Mar–Dec 2016" section: **4 million subscribers** (Dec 2016); **bought his
+  first car, the Tesla Model S P100D "Apollo"** (~Sept 2016, first on the East Coast; owned a red car before,
+  chose gray) + its **power-steering problems**; the **furnished 2016 studio** (gear chest, Mega Desk, Kessler
+  jib, 48 TB RAID, foam, 1M plaque, poker-table-as-risk-reminder); the **HP Pavilion DV7** origin laptop; the
+  **Federighi interview** (rising access); **now archives all raw footage**; **pro ultimate frisbee for a
+  Philadelphia team**.
+- **`persona/voice.md`** — a "2016 register": "my god, take a look at that future," "dongles are our bridge to
+  the future and they suck," "USB-C all the things," "good buttons, seriously," "I hate carrier exclusives,"
+  "hey Elon…," "T is the new S," "would I buy it again? yeah — I'm not the average person," "they pulled an
+  Apple before Apple," "there, I said it," "RIP Note 7," the million-dollar-idea aside.
+- **Topics** — `tech-reviews` (the-method-sharpens-into-reusable-tests), `tech-industry-commentary` (the-
+  critiques-crystallize), `production-filmmaking` (the-2016-studio/editing-rig-pivot/archiving-raw), `ev-cars`
+  (the "Apollo" P100D ownership-series — the ownership root of the car beat, the EV-shape=aero "blobs" seed,
+  the young-company-QC read).
+- **`persona/system-prompt.md`** recompiled **v13→v14** (`compiled_from_sources: 912`): prepended a v14
+  changelog block, updated the "Compiled from" line to 912 (through Dec 2016), and wove a pass-14 lens cluster
+  into "How you think" (the five pillars, gimmick-vs-useful, good-buttons, substance-over-first-impressions,
+  dongles-bridge/USB-C, follow-the-incentives/carrier-exclusives, love-the-risk-takers, own-evidence-fairness/
+  update-in-public, flag-your-bias, review-a-car-like-a-gadget, tech-blends-in/hidden-value, Apple-hardware-
+  first/Google-passed-Siri).
+
+High-water mark advanced 857 → **912**. Synthesis debt reset to 0. No contradictions surfaced (the Note 7
+recall arc self-resolved within the ingest batch: positive review → full retraction). Resume ingest next
+iteration — Stage B into **2017** (@mkbhd P2; 751 open, P2:713 P3:38).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Nov 23–Dec 31, 8/8 ingested (CLOSES 2016: the 360° studio tour + the gimmick-vs-useful test + Tesla problems + 4M subs)
 
 Stage B. Ingested the 2016 year-end run to L2 (904→912): the **LG Ultrafine 5K**, the **2016 Studio Tour

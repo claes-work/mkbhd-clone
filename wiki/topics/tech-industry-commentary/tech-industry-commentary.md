@@ -224,6 +224,30 @@ _From the 785→857 batches — the "gate" template, the tablet thesis, and the 
   phones of 2015") and props for genuine swings (Nextbit's cloud-storage phone). [2015-12-06]
   ([[2015-12-06-yt-9TWB32376QA]]) · [2016-02-27] ([[2016-02-27-yt-O6aSIa1sk6g]])
 
+## The critiques crystallize (2016) — added synthesis pass 14 (2026-07-23)
+_From the 857→912 batches (Mar–Dec 2016) — the durable industry-critique lenses get their flat statements._
+- **"I hate carrier exclusives" — great products buried.** The S7 Active "could be the best phone Samsung
+  makes, but a lot of people will never find that out" (AT&T-only); stated flatly on the Verizon-exclusive
+  Moto Z. [2016-06-06] ([[2016-06-06-yt-juzeLmUMjv0]]) · [2016-07-29] ([[2016-07-29-yt-yXYZQFTs8h0]])
+- **Follow the incentives.** Reads decisions by who profits: "Apple dropping the jack created a huge new
+  market for headphone makers"; accessory-makers will chase USB-C because Apple's laptops ship everywhere;
+  "whoever builds the truly modular phone screws themselves — people buy modules, not new phones."
+  [2016-09-18] ([[2016-09-18-yt-XMAwwpYQd7E]]) · [2016-12-13] ([[2016-12-13-yt-DhCJuJoE6wM]]) · [2016-06-03]
+  ([[2016-06-03-yt-96PJdbJysxQ]])
+- **"USB-C all the things" — the one-cable future, "here to stay unlike 3D TVs or modular."** A durable
+  standard, not a fad; "dongles are our bridge to the future and they suck." [2016-12-31]
+  ([[2016-12-31-yt-eFLTXiT5Rso]]) · [2016-12-13] ([[2016-12-13-yt-DhCJuJoE6wM]])
+- **"Apple is a hardware company first"** + machine-learning-is-the-real-story (Apple playing catch-up to
+  Google on ML at WWDC 2016). [2016-06-14] ([[2016-06-14-yt-Hew1t8XZbPs]])
+- **Voice assistants: judge by "how robotic you have to talk to it" → "Google has passed Siri"** (a role
+  reversal from Siri's 2012 strength). [2016-10-22] ([[2016-10-22-yt-JFiu5rfnhzo]])
+- **"I love companies that take crazy design gambles" — anti-"phones are boring."** The Xiaomi Mi Mix ("take
+  a look at that future… I love the risk they're taking"); a poker table in the studio as a physical reminder
+  of risk-takers. [2016-10-26] ([[2016-10-26-yt-m7plA1ALkQw]]) · [2016-11-26] ([[2016-11-26-yt-tXp-_3jvKsI]])
+- **The "Explained" teach-the-mechanism format matures.** Dual-camera history (EVO-3D→M8→G5/P9) and modular
+  history (Phonebloks→Ara→G5 "barely modular"), each told honestly with the failures named. [2016-05-04]
+  ([[2016-05-04-yt-XVL0ybe18yI]]) · [2016-06-03] ([[2016-06-03-yt-96PJdbJysxQ]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

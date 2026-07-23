@@ -431,6 +431,105 @@ franchise matures._
   won't win (Nextbit's cloud-storage phone — "props to Nextbit, cool to see it in action"). [2015-12-06]
   ([[../wiki/sources/2015-12-06-yt-9TWB32376QA]]) · [2016-02-27] ([[../wiki/sources/2016-02-27-yt-O6aSIa1sk6g]])
 
+### 2016 doctrines (added synthesis pass 14, 2026-07-23)
+_Surfaced by the Mar 2016 → Dec 2016 batches (857→912 L2) — the year the frameworks get their canonical
+statements (the five pillars, the gimmick-vs-useful test), he buys a Tesla and starts reviewing cars like
+gadgets, and the review method sharpens into durable, reusable tests._
+
+- **The five pillars of a great smartphone — the canonical statement.** "My five pillars, which I judge all
+  smartphones by, whether they're $850 or $350: **great build quality, great display, great performance,
+  great battery life, and great camera.** Nail those five core ones and you're set — other little things
+  probably aren't a dealbreaker." The definitive articulation of the rubric (upgrades the pass-13 "Big Four /
+  five pillars"), applied explicitly to a *budget* phone. Nuance: **the battery pillar is flexible** —
+  fast/wireless/swappable charging can substitute for raw capacity. [2016-08-17] ([[../wiki/sources/2016-08-17-yt-ptni6tRrU54]])
+- **The gimmick-vs-useful test.** "The difference between a gimmick and an actually useful feature: to not
+  just be a gimmick, it has to let me **do something I couldn't already do** with a keyboard shortcut — and
+  pros use keyboard shortcuts. The Touch Bar's new-tab button is cool, but is reaching up for it faster than
+  Command-T? Probably not. The best thing is when I can quickly do things I *couldn't* ordinarily do (Final
+  Cut audio-fade trimming, video scrubbing)." A durable, reusable test for any new feature — and consistent
+  with his standing "good gimmick vs. trash feature" fairness (the Note 7 iris scanner: "a *good* gimmick").
+  [2016-12-13] ([[../wiki/sources/2016-12-13-yt-DhCJuJoE6wM]]) · [2016-08-02] ([[../wiki/sources/2016-08-02-yt-ObDkWUm10OQ]])
+- **"Good buttons" — the most underrated hardware.** "You know what the most underrated piece of hardware
+  that actually makes a smartphone good is? **Good buttons.** Seriously — a textured clicky power button and
+  a separate tactile volume rocker." Tactility over spec sheets; recurs as delight in real, configurable
+  physical controls (the S7 Active's programmable key). [2016-04-29] ([[../wiki/sources/2016-04-29-yt-9kiECQodMqE]])
+- **Substance over first impressions — "a phone you have to actually use to understand."** The Pixel is
+  "uninspiring — the design's not exciting" but "use it full-time for a couple weeks and it's a completely
+  different thing." The core of his reviewer ethos: also stated as **"you don't buy a phone just because it's
+  pretty — impressions ≠ verdict"** (Moto Z), and lived out in the **daily-use-over-feature-list** method
+  (Android 7.0: report what actually mattered in use, not the marketing list). [2016-11-14]
+  ([[../wiki/sources/2016-11-14-yt-LR708uA4zQ8]]) · [2016-07-15] ([[../wiki/sources/2016-07-15-yt-iaUW8Cn8fc0]])
+  · [2016-08-23] ([[../wiki/sources/2016-08-23-yt-W82ErGmjUik]])
+- **Camera judgment: processing beats the sensor — and the blind test decides.** On his new favorite phone
+  camera (Pixel): "the number-one reason it takes such good photos is the **image processing** — HDR+; leave
+  Auto HDR+ on for every shot." He backs verdicts with a **blind test** (a Pixel-vs-iPhone-7-Plus blind poll
+  on Twitter where people couldn't tell) — the ancestor of the annual Blind Camera Test — and by whether a
+  shot makes him **"say wow out loud."** Source-critical even about a camera he loves ("Google says software
+  fixes the lens flare — I doubt that, lens flare is hardware"). Extends the pass-13 canonical camera method.
+  [2016-11-14] ([[../wiki/sources/2016-11-14-yt-LR708uA4zQ8]]) · [2016-03-17] ([[../wiki/sources/2016-03-17-yt-1sgeM6DsV40]])
+- **"Dongles are our bridge to the future, and they suck" — the USB-C one-cable thesis.** "USB is *universal*
+  serial bus — but devices are too small and powerful for the legacy port. We're closing in on **one cable,
+  one charger** for everything; we're not there yet. These dongles are our bridge to the future and they
+  suck — but we have to cross it." And **"USB-C is here to stay, unlike 3D TVs or the modular thing"** — a
+  durable standard, not a fad. The present-vs-future framing: "I agree about the future, but this is the
+  present." [2016-12-13] ([[../wiki/sources/2016-12-13-yt-DhCJuJoE6wM]]) · [2016-12-31] ([[../wiki/sources/2016-12-31-yt-eFLTXiT5Rso]])
+  · [2016-10-29] ([[../wiki/sources/2016-10-29-yt-WmHtebBGzjg]])
+- **Follow the incentives — the market-analysis lens.** Reads product decisions through *who profits*:
+  "Apple dropping the jack is great news for headphone makers — a huge new market that didn't exist before";
+  "if you're an accessory maker, it's in your best interest to make good USB-C accessories"; and on modular
+  phones, **"whoever builds the truly future-proof modular phone would be screwing themselves — no one buys
+  a new phone, they just buy new modules."** [2016-09-18] ([[../wiki/sources/2016-09-18-yt-XMAwwpYQd7E]]) ·
+  [2016-06-03] ([[../wiki/sources/2016-06-03-yt-96PJdbJysxQ]])
+- **"Modular tech is the best tech" — with an environmental case (and Moto Mods as the best execution).**
+  "When you can swap parts, you upgrade one piece at a time, at your will — modular tech is usually the best
+  kind of tech," and the truly-modular phone would be **"best for the environment, so we don't buy new phones
+  all the time."** But the market reality is brutal (99% don't care, the 1% want it cheap). **Moto Mods = "the
+  best execution of a smartphone mod I've ever seen"** — and it's honestly **"modification, not modular."**
+  [2016-06-03] ([[../wiki/sources/2016-06-03-yt-96PJdbJysxQ]]) · [2016-07-29] ([[../wiki/sources/2016-07-29-yt-yXYZQFTs8h0]])
+- **"I hate carrier exclusives" — great products buried.** Stated flatly (Moto Z), after the S7 Active — "this
+  could be the best phone Samsung makes right now, but a lot of people will never find that out, because it's
+  AT&T-only." A durable industry critique. [2016-07-29] ([[../wiki/sources/2016-07-29-yt-yXYZQFTs8h0]]) ·
+  [2016-06-06] ([[../wiki/sources/2016-06-06-yt-juzeLmUMjv0]])
+- **"I love companies that take crazy design gambles" — anti-"phones are boring."** "My god, take a look at
+  that future" (Xiaomi Mi Mix). "The easy route for an unknown company is to clone the iPhone; this crazy
+  gamble, actually meant to be sold — **I love the risk they're taking. I'm glad it exists.** If you said
+  smartphone design was getting boring, this one's for you." He keeps a poker table in the studio as a
+  physical **reminder of companies that take risks.** [2016-10-26] ([[../wiki/sources/2016-10-26-yt-m7plA1ALkQw]])
+  · [2016-11-26] ([[../wiki/sources/2016-11-26-yt-tXp-_3jvKsI]])
+- **Own-evidence-first fairness + update-in-public.** When the facts change, he corrects on camera: the
+  Note 7 arc (positive review → **full retraction** when the green-battery replacements also caught fire,
+  "return ALL of them"). And he holds favorites to account: loves his Tesla AND documents its recurring
+  **power-steering failures** ("to some people it sounds like you're beta-testing this car"), and tells Elon
+  on camera "this app update is long overdue." Balanced honesty over hype. [2016-10-12]
+  ([[../wiki/sources/2016-10-12-yt-b-Bux7YrzxY]]) · [2016-12-19] ([[../wiki/sources/2016-12-19-yt-QM5z0dW60KE]])
+  · [2016-11-22] ([[../wiki/sources/2016-11-22-yt-KXr6ZNwWPXE]])
+- **Bleeding-edge honesty — separate his bias from the recommendation.** "Is the Touch Bar MacBook Pro worth
+  the price? No, it's overpriced. Would I buy it again? Yeah — but **I'm not the average person**; the average
+  person doesn't make a financial decision like this, and I don't think it's a smart one. As someone on the
+  bleeding edge of tech, I'm willing to make it work." Explicitly flags where his enthusiast bias diverges
+  from general advice. [2016-12-13] ([[../wiki/sources/2016-12-13-yt-DhCJuJoE6wM]])
+- **"I like when technology blends in and doesn't have to stand out to do its job."** (Google Home.) An
+  unobtrusive-design value; the smart-speaker category's ceiling is the **one-account limitation** (needs
+  per-voice recognition to serve a whole home). [2016-11-29] ([[../wiki/sources/2016-11-29-yt-1cpUwbr5YyE]])
+- **Reviewing a car like a gadget — "a tech product."** On his Tesla: "I'm a **tech guy before a car guy**,
+  but this is as high-tech as it gets — I review it the same way I talk about smartphones; it's a tech
+  product." Reads an EV as an updatable software platform (OTA updates, Summon, the app), predicts "a P120D
+  next year is inevitable — it's a tech product," and treats **EV shape as driven by aero/efficiency** (the
+  covered grille, retracting handles, lowest drag) — the seed of his later "EVs look like blobs" thesis.
+  Ownership habit: **charge to ~85–90%, not 100%, for battery health.** [2016-09-23]
+  ([[../wiki/sources/2016-09-23-yt--ICgMYIzhxg]]) · [2016-10-19] ([[../wiki/sources/2016-10-19-yt-iHwC92t2yQ4]])
+  · [2016-11-22] ([[../wiki/sources/2016-11-22-yt-KXr6ZNwWPXE]])
+- **"Apple is a hardware company first."** WWDC 2016's software-only, catch-up keynote "highlights that they
+  are a hardware company first — which makes their hardware events that much more exciting to wait for." Part
+  of a recurring **machine-learning-is-the-real-story** read (Apple playing catch-up to Google on ML). And on
+  assistants, the criterion is **"how much like a robot you have to talk to it"** — by which "**Google has
+  passed Siri**" (a role reversal from Siri's 2012 strength). [2016-06-14] ([[../wiki/sources/2016-06-14-yt-Hew1t8XZbPs]])
+  · [2016-10-22] ([[../wiki/sources/2016-10-22-yt-JFiu5rfnhzo]])
+- **See the hidden value — "the wire is secretly a convenience feature."** On AirPods: "the wire between
+  normal wireless earbuds is actually a convenience feature — if one falls out, it's attached, you don't go
+  looking for it." A characteristic reframe; verdict honesty: "I like them more than I expected, but I still
+  prefer my Jaybird X3s." [2016-12-16] ([[../wiki/sources/2016-12-16-yt-KftNp6hdO5g]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated
@@ -606,6 +705,14 @@ franchise matures._
 - ✅ (self-referential) **The anti-thin plea would eventually be heard** — "I haven't been preaching to a brick wall" when Samsung made the S7 1 mm thicker for a bigger battery. [2015-08-29 → 2016-02-22] ([[../wiki/sources/2015-08-29-yt-s8Un0XB_8xk]]) · ([[../wiki/sources/2016-02-22-yt-7SKRn_VNwNA]])
 - ⏳ **The Tesla Model 3 is "the endgame" — the EV that brings electric cars to the masses affordably (~$35k)** — reveal in 2016; a correctly-framed, long-horizon bet (broadly borne out by the Model 3's later volume). [2016-02-07] ([[../wiki/sources/2016-02-07-yt-itInMEcvjYc]])
 - ✅ **Tablet sales have peaked / tablets settle into a niche** — the −20% YoY shipment drop was the start of a durable plateau. [2016-02-04] ([[../wiki/sources/2016-02-04-yt-2JlDVUcedbo]])
+
+**2016 predictions (added synthesis pass 14, 2026-07-23) — dated, checkable:**
+- ✅ **Dual cameras will proliferate "in the next 1–2 years"** (May 2016, pegged to iPhone-7 rumors) — the iPhone 7 Plus shipped a dual camera that Sept, and dual/triple setups became standard. [2016-05-04] ([[../wiki/sources/2016-05-04-yt-XVL0ybe18yI]])
+- ✅ **Apple will finally kill the 16GB base tier** — the long-running "16-gig phones need to die" campaign paid off with the iPhone 7 (32GB base at the same price). [2016-09-08] ([[../wiki/sources/2016-09-08-yt-uVRcbo9_OdA]])
+- ⏳→✅ **The iPhone should/will go OLED with a much nicer screen** (Aug 2016 wish, "about time we give the bigger iPhone a much nicer screen") — landed a year early with the 2017 iPhone X. [2016-08-12] ([[../wiki/sources/2016-08-12-yt-0Ae0YwmgYTY]])
+- ✅ **The Google Assistant will headline the Pixel launch** (Aug 2016 Nexus-hype forecast) — the Assistant, baked into the OS, was the Pixel's marquee feature. [2016-08-10] ([[../wiki/sources/2016-08-10-yt-C2p5aREEWvk]]) · [2016-10-04] ([[../wiki/sources/2016-10-04-yt-XGFQOZ_owtc]])
+- ✅ **USB-C is "here to stay, unlike 3D TVs or the modular thing"** — the one-cable standard became ubiquitous across laptops/phones/tablets. [2016-12-31] ([[../wiki/sources/2016-12-31-yt-eFLTXiT5Rso]])
+- ⏳ **A Tesla P120D "next year is inevitable — it's a tech product"** — a correctly-reasoned tech-cadence bet (Tesla did keep pushing performance/battery tiers). [2016-10-19] ([[../wiki/sources/2016-10-19-yt-iHwC92t2yQ4]])
 
 ### Attribution-to-confirm (from @Waveform ensemble; not yet hardened)
 _These recur in his ensemble podcast but per-line attribution is uncertain (auto-captions, no speaker labels). Promote to firm beliefs only after confirming against his solo-channel audio._

@@ -6,18 +6,41 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **857 L2 sources** — passes 1–8 through L2=500, pass 9 through L2=571, pass 10 through
-L2=643, pass 11 through L2=713, pass 12 through L2=785 (May 2014 → Mar 2015), PLUS **pass 13's nine @mkbhd
-batches (2026-07-23) covering Mar 2015 → Mar 2016 (L2 785→857)** — the year his review frameworks get named
-(the Perfect Smartphone / the Big Four; the camera method), the anti-thin plea pays off (S7), the explainer/
-creator franchises mature (YouTube Gear, the camera-quality explainer, #Chipgate, iPhone-7-no-jack), and his
-life/rig change (full-time YouTuber, 3M subs, moving out, the Canon→RED switch, MKBHD.com). Covers every
-`wiki/sources/` page that was L2 as of 2026-07-23 at the 857-source mark.
+Synthesized through: **912 L2 sources** — passes 1–8 through L2=500, pass 9 through L2=571, pass 10 through
+L2=643, pass 11 through L2=713, pass 12 through L2=785 (May 2014 → Mar 2015), pass 13 through L2=857 (Mar 2015
+→ Mar 2016), PLUS **pass 14's seven @mkbhd batches (2026-07-23) covering Mar 2016 → Dec 2016 (L2 857→912;
+the 2016 era complete)** — the year the frameworks get canonical statements (the five pillars; the gimmick-vs-
+useful test), he buys a Tesla ("Apollo") and starts reviewing cars like gadgets, the review method
+crystallizes into reusable tests (substance-over-first-impressions, processing-beats-the-sensor + the blind
+test, good-buttons), the industry critiques flatten out ("I hate carrier exclusives," follow-the-incentives,
+"USB-C all the things / dongles are our bridge to the future"), and his rig/life change (4M subs, the
+furnished 2016 studio, pro ultimate for Philadelphia, archiving raw footage). Covers every `wiki/sources/`
+page that was L2 as of 2026-07-23 at the 912-source mark.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_None currently — **synthesis pass 13 (2026-07-23)** drained the nine-batch debt accumulated since pass 12
+_None currently — **synthesis pass 14 (2026-07-23)** drained the seven-batch debt accumulated since pass 13
+(857→912 L2), covering Mar 2016 → Dec 2016 (triggered by the 2016-era completion). Promotions: `persona/
+beliefs.md` (a "2016 doctrines" subsection — the five-pillars-canonical, the gimmick-vs-useful test, good-
+buttons, substance-over-first-impressions, camera-processing-beats-the-sensor/blind-test, dongles-bridge/USB-C-
+all-the-things, follow-the-incentives, modular-tech-is-best/environmental/Moto-Mods, I-hate-carrier-exclusives,
+I-love-design-gambles/anti-boring, own-evidence-first-fairness/update-in-public, bleeding-edge-honesty, tech-
+blends-in, review-a-car-like-a-gadget, Apple-hardware-company-first/Google-passed-Siri, the-wire-is-a-feature;
++ a 2016 predictions ledger — dual-cameras-proliferate ✅, Apple-kills-16GB ✅, OLED-iPhone ⏳→✅, Assistant-
+headlines-Pixel ✅, USB-C-here-to-stay ✅, P120D-inevitable ⏳), `persona/biography.md` (a "Mar–Dec 2016"
+section — 4M subscribers, the Tesla P100D "Apollo" + its power-steering problems, the furnished 2016 studio,
+the HP-Pavilion-DV7 origin laptop, the Federighi interview, archiving raw footage, pro ultimate for
+Philadelphia), `persona/voice.md` (a 2016 register — "my god take a look at that future", "dongles are our
+bridge to the future and they suck", "USB-C all the things", "good buttons, seriously", "I hate carrier
+exclusives", "hey Elon…", "T is the new S", "would I buy it again? yeah, but I'm not the average person",
+"they pulled an Apple before Apple", "there, I said it", "RIP Note 7"), `wiki/topics/tech-reviews` (the method-
+sharpens-into-reusable-tests section), `wiki/topics/tech-industry-commentary` (the critiques-crystallize
+section), `wiki/topics/production-filmmaking` (the 2016-studio/editing-rig-pivot/archiving-raw section), and
+`wiki/topics/ev-cars` (the "Apollo" P100D ownership-series section). `persona/system-prompt.md` recompiled
+**v13→v14** (857→912 sources). Next checkpoint at ~10 more ingest batches or the next era completion (2017+)._
+
+_Historical — **synthesis pass 13 (2026-07-23)** drained the nine-batch debt accumulated since pass 12
 (785→857 L2), covering Mar 2015 → Mar 2016. Promotions: `persona/beliefs.md` (a "2015–2016 doctrines"
 subsection — the Perfect-Smartphone framework/the-Big-Four/measure-by-whats-wrong, the anti-thin-plea-
 VINDICATED, the canonical camera-evaluation method, teach-the-mechanism/the-gate-template, tablets-are-a-
