@@ -4,6 +4,32 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Jun 16–Jul 24, 8/8 ingested (the MAINGEAR Mac-Pro→Windows editing-rig move + audio-literacy + a camera-comparison seed)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 801→**809 L2**.
+
+**Production/workflow landmark.** `MAINGEAR Shift Supercomputer: Part 1!` (07-01) ★★ — the start of his
+potential **switch from the trash-can Mac Pro to a custom Windows editing rig**: "right now I edit all my
+videos on one of these [Mac Pro] — I think it's time to give an upgrade a shot" (i7-5960X 8-core @ 4.5 GHz,
+dual GTX 980 SLI). Biography hint: waiting on "a new place" to set it up (moving). `Open Back Headphones:
+Explained!` (06-24) ★ — audio-literacy / know-your-domain (closed vs open back, soundstage vs sound-leak,
+judge-by-environment), completing the M70x/R70x thread.
+
+**Method anchors.** `OnePlus 2 Camera Review!` (07-15) ★ — **disclosure ethics** ("test, don't promote")
+and a **multi-phone camera comparison** (LG G4 / S6 / iPhone 6+ / OnePlus One) that seeds his future "giant
+comparison" — a **Blind-Camera-Test / Smartphone-Awards precursor** (current ranking: S6 > G4).
+`GoPro Hero 4 Session Review!` (07-24) ★ — **who-is-this-for? + one-upped-by-its-sibling** (the same-price
+Hero 4 Silver is better) + image-quality-over-form-factor. `iPod Touch 2015 Review!` (07-18) ★ — who-is-
+this-for ("wants an iPhone but can't have one").
+
+**Reinforcing.** `Top 5 Smartphones Under $300!` (06-16) ★ — the value-compresses-over-time thesis ("$300
+today rivals $600–700 from 3–4 years ago"; OnePlus One #1) + spec-skepticism (no felt 4 GB-vs-3 GB
+difference). `Top 5 Upcoming Tech! (Mid 2015)` (07-04) ★ — his S6-Edge daily-driver's "worst thing is the
+battery life" (anti-thinness). `Material Design for Samsung Galaxy S6!` (06-25) — control-over-software /
+theming (fix TouchWiz aesthetics toward Nexus).
+
+Synthesis notes: net-new for the next checkpoint — (1) the **MAINGEAR Mac-Pro→Windows editing-rig move** + the "moving to a new place" biography hint → production-filmmaking/biography; (2) **audio-literacy** (open vs closed back, judge-by-environment) completing the headphones thread → production-filmmaking/beliefs; (3) the **camera-comparison / disclosure-ethics** seed (Blind-Camera-Test/Smartphone-Awards precursor; S6 > G4 ranking) → tech-reviews/creator-business; (4) minor: value-compresses-over-time + spec-skepticism, who-is-this-for + one-upped-by-its-sibling (GoPro Session, iPod Touch), S6-Edge-battery-worst-thing. All ★-flagged inline; do not inline-promote (3 batches since synthesis pass 12).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 May 14–Jun 11, 8/8 ingested (the Apple Watch review + YouTube Processing explained + the "beautiful but don't buy it" MacBook)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 793→**801 L2** (crossed 800).
