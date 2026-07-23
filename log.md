@@ -4,6 +4,45 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Jun 7–Jul 4, 8/8 ingested (MKBHD Update 9.0 FAQ biography + platform-strategy analysis)
+
+Stage B. **Twenty-fourth consecutive clean batch, nineteenth zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 627→**635 L2**.
+
+**Biography landmark — the Update 9.0 FAQ.** `MKBHD Update 9.0` (07-01), his first numbered update in
+nearly a year, adds concrete biography: a behind-the-scenes **workflow + style overhaul** ("I felt my
+video-making was inefficient"), a camera upgrade to the **Canon 5D Mark III** ("easily the favorite tool
+in my bag"), academic status **junior** (business/technology), the stated reason he **doesn't use iPhones**
+("I don't find the same level of customization — I like to make my phone my own"; notes he tried the iPhone
+5 briefly), a **racing-sims-only / no-console** gaming habit, and a one-phone pick (Galaxy Note 2 for
+battery). These feed the accumulated-biography debt for the system-prompt recompile.
+
+**Platform-strategy analysis.** `How Google is Taking Back Android` (06-07) is the **rolling-release**
+insight — Google decoupling core apps into the Play Store to bypass carrier update-gatekeeping (the
+update-fragmentation mechanism + a pointed Verizon critique). `2013 Mac Pro: Explained` (06-11) closes his
+own Mac-Pro/Hackintosh arc and sharpens the **upgradeability critique** (soldered internals, Thunderbolt-
+as-external-clutter) plus a design-as-marketing read of the cylinder. `Where iOS 7 Features Come From`
+(06-13) is a **copying-goes-both-ways / bidirectional even-handedness** piece — refuses the "iOS copied
+Android" narrative, traces every feature to its real origin, and extends good faith to iOS.
+
+**Reinforcing.** `Galaxy Mega Review` (06-23) adds the **"vote with your wallet" product-as-experiment**
+market framing. `13" MacBook Air 2013 Review` (06-25) restates the **retina-withholding-to-protect-the-
+MacBook-Pro-line incentive critique** and confirms his personal retina MacBook Air. `5 True Facts about
+Google X` (06-19) marks an early **AI-as-next-paradigm** interest. `Top 5 Fastest Discontinued Tech`
+(07-04) is a low-yield planned-obsolescence listicle.
+
+Attribution: all 8 solo. Duncan33303, TLDToday, and Steve Jobs/Picasso appear as context.
+
+Synthesis notes: ★★ biography promotion from `Update 9.0` — the **Canon 5D Mark III** camera upgrade
+(production timeline), **junior in college**, the **why-no-iPhone = customization** reason, the **racing-
+sims-only / no-console** gaming habit, and the **Note 2 one-phone pick** — promote across
+`persona/biography.md`. Also promotable: the **rolling-release / update-fragmentation** analysis and the
+**upgradeability critique** (2013 Mac Pro), the **copying-goes-both-ways even-handedness** (iOS 7 — to
+`persona/beliefs.md`, companion to the WWDC-Google-copies-Apple pre-commitment), the **retina-withholding
+incentive critique**, and the **"vote with your wallet"** market framing. Debt now **8 ingest batches**
+since synthesis pass 9 (checkpoint at 10 — **pass 10 in ~2 batches**; the accumulated Five-Facts +
+Update-9.0 biography facts make the system-prompt recompile at that checkpoint substantial).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin May 8–Jun 4, 8/8 ingested (Beats-Audio consumer-education landmark + flagship comparisons + rumor-culture rants)
 
 Stage B. **Twenty-third consecutive clean batch, eighteenth zero-loss**: 8 ingested, 0 skipped,

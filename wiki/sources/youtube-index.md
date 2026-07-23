@@ -506,6 +506,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-05-27 — [[2013-05-27-yt-aYtAdCDOCfU|LG Optimus G Pro Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("Note 2.5"; competition-drives-us-forward; change-to-improve-not-just-change; "so LG"; not-my-daily-driver)_
 - 2013-05-31 — [[2013-05-31-yt-BygqMgC3W10|Top 5 Most Overhyped Tech!]] ★ · consumer-tech-culture, tech-industry-commentary, content-strategy _(nuanced "hype is not always bad"; iPad overhyped-yet-successful; rumor-culture critique; Daft Punk RAM music-taste)_
 - 2013-06-04 — [[2013-06-04-yt-yR0ZGltMUTM|What's on my Android Phone 2013!]] ★ · consumer-tech-culture, content-strategy, production-filmmaking _(no-daily-driver explained — two phone lines Verizon+AT&T; standardized test-phone treatment; golf-app corroboration; "MKBHD on every network"; app stack)_
+- 2013-06-07 — [[2013-06-07-yt-H9HH0vqb4q8|How Google is Taking Back Android!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(rolling-release / Play-Store-decoupling insight; update-fragmentation mechanism; Verizon-blocks-updates critique)_
+- 2013-06-11 — [[2013-06-11-yt-WxWLVwBqAOc|2013 Mac Pro: Explained!]] ★ · production-filmmaking, consumer-tech-culture, tech-industry-commentary _(closes his Mac-Pro/Hackintosh arc; upgradeability critique — soldered, Thunderbolt-as-expansion; design-as-marketing cylinder read; "Darth Vader's trash can")_
+- 2013-06-13 — [[2013-06-13-yt-QrM25jqhXdA|Where iOS 7 Features Come From!]] ★ · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(copying-goes-both-ways bidirectional even-handedness; tech-history tracing; good-artists-copy Picasso/Jobs; "welcome to the party, iOS users")_
+- 2013-06-19 — [[2013-06-19-yt-4i3oKEg6o9g|5 True Facts about Google X!]] · consumer-tech-culture, tech-industry-commentary _(early AI-as-next-paradigm interest, prescient; moonshot/futurism enthusiasm; investor-incentive-secrecy note; low yield)_
+- 2013-06-23 — [[2013-06-23-yt-zb5Wp_i8oQo|Samsung Galaxy Mega Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(vote-with-your-wallet product-as-experiment framing; honest big-screen advantages; pixel-person caveat; wait-for-Note-3)_
+- 2013-06-25 — [[2013-06-25-yt-epLszn-rnpA|13" MacBook Air 2013 Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(incremental-improvement-done-right Haswell 12hr; retina-withholding-to-protect-MBP incentive critique; personal retina-MBA + planned retina-MBP upgrade)_
+- 2013-07-01 — [[2013-07-01-yt-saoiKoNvnn8|MKBHD Update 9.0!]] ★★ · content-strategy, production-filmmaking, consumer-tech-culture _(LANDMARK biography/FAQ — workflow+style overhaul; Canon 5D Mark III = "favorite tool in my bag"; junior in college; why-no-iPhone = customization; racing-sims-only, no console; Note 2 one-phone pick; Galaxy S2 nostalgia)_
+- 2013-07-04 — [[2013-07-04-yt-tC1LxFS5uA4|Top 5 Fastest Discontinued Tech Products!]] · consumer-tech-culture, tech-industry-commentary, content-strategy _(planned-obsolescence / product-lifecycle framing; Flip-camera creator-culture; voice/humor; low yield)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -668,4 +676,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_627 videos ingested (L2) so far._
+_635 videos ingested (L2) so far._
