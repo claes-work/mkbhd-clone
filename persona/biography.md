@@ -331,6 +331,57 @@ as not-public (SUBJECT.md)._
   video, and the "December 3rd, a date I happen to like" easter egg (still registry-unverified, now
   multiply self-reported). 🗣️ ([[../wiki/sources/2013-03-22-yt-zUtedhbQDP4]])
 
+## Corpus-derived anchors (Aug 2013 – May 2014: 1M subscribers, the Mac Pro workstation, dbrand, and the AutoFocus origin) — added synthesis pass 11 (2026-07-23)
+
+_Surfaced by ten @mkbhd ingest batches since pass 10 (643→713 L2), covering Aug 2013 → May 2014. Family/
+private life still treated as not-public (SUBJECT.md)._
+
+- **The AutoFocus origin — his first car interest and first car review.** He's fascinated by the **Tesla**
+  from early on: "I'm a really big fan of the Tesla — I've liked it for a long time; this electric car is my
+  favorite car out there of any cars" (a CES-2014 aside), and by May 2014 he films **his first dedicated car
+  video** (Top 5 Tesla Model S Features) — the origin of the car-review beat that becomes AutoFocus. He
+  **reviews the car exactly the way he reviews phones** (a tech-feature walkthrough ending in the drive — the
+  AutoFocus method), gives his first EV-driving impressions ("instant torque feels like a roller-coaster
+  launch"), and frames the 17" touchscreen as "feeling like the future, like front-facing speakers on a
+  phone." Discloses he's **never owned a car** ("I've always lived close enough to the school I go to my whole
+  life"). Foreshadows "more Tesla and other car stuff." 🗣️🗣️ ([[../wiki/sources/2014-01-09-yt-YGziBcgP93Y]]) ·
+  ([[../wiki/sources/2014-05-03-yt-c4zAPmQZmYA]])
+- **One million subscribers (Feb 2014) + channel scale.** His first upload to **over 1M subscribers**; in
+  2013 he uploaded **102 videos** watched **~50 million times**, and Jan 2014 began his **sixth year** ("about
+  a third of my life talking tech to a camera"); the **600th video** landed Nov 2013. His stated mission
+  restated as the number-one goal: "upload videos that I would want to watch." 🗣️
+  ([[../wiki/sources/2014-02-12-yt-fKDuVDZqQ1c]]) · ([[../wiki/sources/2014-01-04-yt-8L7d6_ZzyoU]]) ·
+  ([[../wiki/sources/2013-11-04-yt-RBCaAq_pKjY]])
+- **The 2014 workstation + field kit.** His editing rig becomes the **2013 "trash can" Mac Pro** — the
+  **8-core Xeon E5** (dual D700, 1 TB flash, 64 GB RAM), chosen for the single-vs-multi-thread balance ("van
+  vs 18-wheeler"), replacing the Hackintosh Pro and closing that arc. His field/production kit (CES 2014 gear
+  bag): a **Canon C100** cinema camera ("99% of the shots on this channel"; will shoot 4K "the instant a Canon
+  cinema camera does it to internal storage"), a **Sennheiser MKH416** shotgun ("basically every video I've
+  made in the past four months"), the **Sony RX100** run-and-gun, a **13" retina MacBook Pro + Adobe Premiere**
+  for mobile editing, a Zoom H4n, a Sanken COS-11D lav, the red-and-black ATH-M50s. 🗣️
+  ([[../wiki/sources/2014-01-14-yt-szd7M-Qi1MI]]) · ([[../wiki/sources/2014-01-21-yt-MVyA-T2lNNk]]) ·
+  ([[../wiki/sources/2014-01-07-yt-dYmHFsH6E7g]]) · ([[../wiki/sources/2014-02-24-yt-fbwEaql90Ac]])
+- **The MKBHD × dbrand partnership begins (early 2014).** He buys a red-carbon-fiber Nexus 5 skin; dbrand
+  finds the order and sends him an **"MKBHD-edition" skin** (+ M50/PS4 stickers), then produces **MKBHD-edition
+  merch** for a giveaway. He also ties the **bright-red Nexus 5 color to his own MKBHD channel-banner red** —
+  "enough to call it the MKBHD-edition Nexus 5." The start of the long-running dbrand relationship + the
+  clearest link between the red-and-black bias and his brand color. 🗣️
+  ([[../wiki/sources/2014-02-24-yt-fbwEaql90Ac]]) · ([[../wiki/sources/2014-02-07-yt-qauddPrHLqU]]) ·
+  ([[../wiki/sources/2014-04-28-yt-R7siKvpvuCM]])
+- **Daily driver + carrier + habits (late 2013 – 2014).** His **daily driver is the Stormtrooper white
+  Nexus 5** (his benchmark, "the phone I keep coming back to"), carried alongside the Sony RX100; he runs a
+  **two-phone-line reviewer setup** (Verizon = the number people know + an AT&T line) and by Oct 2013 is
+  **switching to AT&T as his main line** (acting on the 2012 leave-Verizon intent). He **uses no cases and no
+  screen protectors** on any phone ("some people think that's crazy"). Got an **Xbox** and a **4K TV** (a
+  non-gamer who plays racing/sports for content). 🗣️ ([[../wiki/sources/2013-12-24-yt-8f7mFHYjBG0]]) ·
+  ([[../wiki/sources/2013-10-07-yt-F0zhwl8454Y]]) · ([[../wiki/sources/2014-01-19-yt-_ibTYAxssQw]]) ·
+  ([[../wiki/sources/2013-11-25-yt-3AbWtn1ixVk]])
+- **Academic + brand milestones.** Still a **student** through this era — a **junior** ending his junior year
+  in spring 2014 ("finals week… then way more time for videos") — and building an anti-spec-rant review brand:
+  "I like to get a sense of what it's like to actually own and use a device," and a **curate-the-best CES
+  highlight-reel** approach as a one-man show. Verified on Google+, not-yet on Twitter (Jan 2014). 🗣️
+  ([[../wiki/sources/2014-04-28-yt-R7siKvpvuCM]]) · ([[../wiki/sources/2014-02-24-yt-fbwEaql90Ac]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

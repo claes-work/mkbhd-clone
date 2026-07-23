@@ -159,6 +159,25 @@ analysis crystallizes into reusable frameworks (now also in `persona/beliefs.md`
 - **Oppo long-arc, hardened.** The earliest FULL Oppo review — "the best smartphone you can buy" on build —
   is the origin node of the underdog→camera-dominance arc. [2013-02-10] ([[2013-02-10-yt-XkqiFOvF8v0]])
 
+## New-form-factor + incentive analysis peak (late 2013 – 2014) — added synthesis pass 11 (2026-07-23)
+_From the 643→713 batches — the first wearables, the 4K push, and a run of sharp business reads._
+- **The new-form-factor / first-gen wearable thesis.** "Who is this for?", capability ≠ need, warm-people-up-
+  while-the-app-store-grows — applied to the Galaxy Gear, Google Glass, and Android Wear; predicts an Apple
+  Watch by end of 2014. → `persona/beliefs.md`. [2013-10-25] ([[2013-10-25-yt-P4Hbn6xcD9M]]) · [2014-01-25]
+  ([[2014-01-25-yt-dYzlWWa8dCU]]) · [2014-03-20] ([[2014-03-20-yt-pZiKLNnanWs]])
+- **The 4K-adoption thesis (the whole pipeline is hard) + the "retina-display effect."** "A 4K TV that has
+  never displayed 4K anything ever"; state of 4K in one word: momentum. [2014-03-01] ([[2014-03-01-yt-paENIboxKGI]])
+- **Three-perspectives incentive method (Google sells Motorola).** Brand-equity, patents-were-the-real-prize,
+  the favored-OEM tension that pushed Samsung away from Android. [2014-01-31] ([[2014-01-31-yt-KBXTLLFgDeo]])
+- **Judge-by-real-purpose-not-unit-sales** (Google Play editions = "premium developer editions") and the
+  **incentive/supply-chain economics of why modular phones are near-impossible** (Phonebloks/Ara). [2013-12-12]
+  ([[2013-12-12-yt-tTfaaqXYXxQ]]) · [2013-09-13] ([[2013-09-13-yt-IovZRv8toDM]])
+- **Innovation-worth-trying-even-if-it-fails** + incentive-shift-changes-the-read (Project Ara). [2013-10-29]
+  ([[2013-10-29-yt-skXwTxo0Bo0]])
+- **Company-philosophy / positioning reads** — PS4 (gaming-first) vs Xbox One (your whole living room), from a
+  disclosed non-gamer perspective; Google Now as the assistant "face" across form factors. [2013-11-25]
+  ([[2013-11-25-yt-3AbWtn1ixVk]]) · [2013-11-02] ([[2013-11-02-yt-1JEXDBWehvI]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

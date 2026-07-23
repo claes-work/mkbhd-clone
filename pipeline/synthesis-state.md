@@ -6,32 +6,37 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **nine real ingest batches since pass 9 (643 L2 sources)** — passes 1–8 through
-L2=500, pass 9 through L2=571 (full 2012 origin year), PLUS **pass 10's nine @mkbhd batches (2026-07-23)
-covering the late-2012 Nexus season + the full 2013 origin year Nov 2012→Aug 2013 (L2 571→643)**.
-Covers every `wiki/sources/` page that was L2 as of 2026-07-23 at the 643-source mark.
+Synthesized through: **713 L2 sources** — passes 1–8 through L2=500, pass 9 through L2=571 (full 2012
+origin year), pass 10 through L2=643 (late-2012 Nexus season + the full 2013 origin year Nov 2012→Aug
+2013), PLUS **pass 11's seven @mkbhd batches (2026-07-23) covering Aug 2013 → May 2014 (L2 643→713)** —
+1M subscribers, the trash-can Mac Pro workstation, the dbrand partnership, the first wearables, the 4K
+push, and the origin of the car beat. Covers every `wiki/sources/` page that was L2 as of 2026-07-23 at
+the 713-source mark.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_None currently — **synthesis pass 10 (2026-07-23)** drained the nine-batch debt accumulated since pass 9
-(571→643 L2), covering Nov 2012 → Aug 2013 (the late-2012 Nexus season + the full 2013 origin year).
-Promotions: `persona/beliefs.md` (a "2013 origin-era doctrines" subsection — geeks-vs-consumers,
-value-via-software, optics-over-megapixels canonical, Beats-EQ consumer-education, price-must-match-value,
-copying-goes-both-ways, one-critical-flaw verdict, buy-by-your-values, upgradeability-sharpened,
-rolling-release, anti-entitlement, Halo-product, 4K viewing-distance quantified, perspective-disclosure,
-Oppo long-arc origin; + a 2013 predictions ledger — Chromebook-Android-apps ✅, 1080p-iPhone ✅, GS4-1080p
-✅, 4K-diffusion ≈, dream-Chromebook resolved), `persona/biography.md` (a "Nov 2012–Aug 2013" section —
-the Five-Facts self-disclosure incl. NJ Hammerheads/6'3"/house-music/anti-desktop origin, first CES 2013,
-the definitive early-2013 workstation + desk, the Canon 5D Mark III, sophomore→junior, the no-daily-driver
-two-phone-line reviewer setup, 4th birth-year corroboration), `persona/voice.md` (2013 register —
-"Stormtrooper", "Legos for adults", "stay geeky", "Magic Mouse — just no", "OCD like me"),
-`persona/appearance.md` (the "inverted Stormtrooper" earliest matched black-and-white studio aesthetic),
-`wiki/topics/tech-reviews` (the 2013 verdict-frameworks + hands-on-evidence section), and
-`wiki/topics/tech-industry-commentary` (the incentive lens sharpens across 2013 — geeks-vs-consumers,
-value-via-software, rolling-release, segmentation/cannibalization, anti-entitlement, consumer-education,
-even-handedness, Oppo hardened). `persona/system-prompt.md` recompiled **v9→v10** (571→643 sources). Next
-checkpoint at ~10 more ingest batches or an era completion._
+_None currently — **synthesis pass 11 (2026-07-23)** drained the seven-batch debt accumulated since pass 10
+(643→713 L2), covering Aug 2013 → May 2014 (1M subscribers, the trash-can Mac Pro workstation, the dbrand
+partnership, the first wearables, the 4K push, and the origin of the car beat). Promotions:
+`persona/beliefs.md` (a "2013–2014 doctrines" subsection — first-gen wearable thesis, 4K-adoption/retina-
+display-effect, highest-end-low-end/value-forces-tradeoffs/flagship-killer, anti-benchmark-ethics,
+upgradeable≠expandable, three-perspectives incentive method, innovation-worth-trying, perspective-
+disclosure, ambient-computing prediction, design-as-a-reason-to-buy; + a 2013–2014 predictions ledger —
+Apple-Watch ✅, Oppo-2K ✅, S5-S4S ✅/fingerprint-scanner ❌, Google-Now-as-face ≈), `persona/biography.md`
+(an "Aug 2013 – May 2014" section — 1M subscribers Feb 2014, the 8-core trash-can Mac Pro + C100/MKH416/
+RX100/Premiere field kit, the MKBHD×dbrand partnership, the Stormtrooper Nexus 5 + no-cases habit, the
+Tesla first-car-video/never-owned-a-car/AutoFocus origin), `persona/voice.md` (2014 register — "dope",
+"instabuy territory", "go pedal"/"frunk", "feels like the future", "Galaxy S4S. Dare I say it?"),
+`persona/appearance.md` (red = the MKBHD brand color, in his own words; the dbrand MKBHD-edition skin),
+`wiki/topics/tech-reviews` (franchises + methodology mature — Smartphone-Awards ancestors, four-axis camera
+test, highest-end-low-end value, stops single-device scores, anti-benchmark ethics, design-as-a-reason,
+the car beat opens), `wiki/topics/tech-industry-commentary` (new-form-factor + incentive analysis peak —
+wearable thesis, 4K-adoption, three-perspectives Motorola sale, judge-by-real-purpose, modular-phone
+economics, innovation-worth-trying, PS4-vs-Xbox positioning), and `wiki/topics/ev-cars` (the origin of the
+car beat, 2014 — Tesla first-car-video, reviews-a-car-like-a-phone, AutoFocus origin). `persona/system-
+prompt.md` recompiled **v10→v11** (643→713 sources). Next checkpoint at ~10 more ingest batches or an era
+completion._
 
 _**Driver quirk (still unfixed, worked around):** `synthesis_batch.py status/prepare` reads `- [ ]`
 checklist bullets and prints "caught up" while a debt is due; passes 7–9 trusted the manual tally + the

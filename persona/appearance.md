@@ -37,4 +37,13 @@ mark every entry's evidence type.
   2013. 🗣️ [2013-01-23] ([[../wiki/sources/2013-01-23-yt-Rd89JLYsoOI]]) · [2013-02-02]
   ([[../wiki/sources/2013-02-02-yt-Wm4jH01Sluc]])
 
+- **Red = the MKBHD brand color, in his own words (added synthesis pass 11, 2026-07-23).** On the bright-red
+  Nexus 5: "I am a huge fan of the contrast between red and black — I have a soft spot for those colors… the
+  red the Nexus 5 matches most closely is the red on the **MKBHD YouTube channel banner** — I think that's
+  enough for me to call it the MKBHD-edition Nexus 5." The clearest on-record link between the personal red-
+  and-black bias and his brand color (he draws the line himself; causation to the later crimson studio brand
+  still deliberately left open). Around the same time the **MKBHD × dbrand** partnership begins — dbrand makes
+  him a custom red-carbon-fiber "MKBHD-edition" skin (+ M50/PS4 stickers) and branded merch. 🗣️ [2014-02-07]
+  ([[../wiki/sources/2014-02-07-yt-qauddPrHLqU]]) · [2014-02-24] ([[../wiki/sources/2014-02-24-yt-fbwEaql90Ac]])
+
 _(the rest — grooming, wardrobe, on-camera setting over time — needs watched-video samples; still empty)_

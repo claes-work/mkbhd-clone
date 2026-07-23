@@ -287,6 +287,28 @@ _From the 571→643 L2 batches. The 2013 origin year adds several reusable revie
 - **Perspective-disclosure / fair-shot** on a platform he doesn't use (Windows Phone, from a Google-user
   baseline). [2013-07-10] ([[2013-07-10-yt-CntfUc_Sd1c]])
 
+## Franchises + methodology mature (late 2013 – 2014) — added synthesis pass 11 (2026-07-23)
+_From the 643→713 batches — the recurring formats and the value/scoring doctrine take shape._
+- **Smartphone-Awards ancestors.** The year-end **Top 5 Smartphones of 2013** (deliberately *unordered* —
+  "didn't feel right picking a #1" — judged by what each phone *changed*) and the four-axis **Top 5 Smartphone
+  Cameras** (sharpness / color / video / control, scored /10) are the direct ancestors of the Smartphone
+  Awards and the Blind Camera Test. [2013-12-21] ([[2013-12-21-yt-BZjIsZwgKfo]]) · [2013-10-16]
+  ([[2013-10-16-yt-OMb-jXlkNwY]])
+- **Grade-on-the-price-tier, sharpened.** The **"highest-end low-end device"** framing (Moto G) and the
+  **value-forces-tradeoffs** analysis (Nexus 5: "$700 specs in a $350 phone — the speaker and camera are the
+  shortcuts"). → `persona/beliefs.md` value doctrine. [2013-12-08] ([[2013-12-08-yt-KFD0Nm2dOHw]]) · [2013-11-08]
+  ([[2013-11-08-yt-1dg2UIzIt4s]])
+- **Methodology evolution — he stops giving single-device numerical scores** ("if I was still giving
+  ratings…"), while keeping scores in *comparison* content (the camera test). [2013-09-06]
+  ([[2013-09-06-yt-fsOxwsFF50c]]) · [2013-10-16] ([[2013-10-16-yt-OMb-jXlkNwY]])
+- **Anti-benchmark becomes an ethics stand** — "done showing benchmarks on Samsung devices" (they game them) —
+  yet benchmarks stay valid on a workstation where they aren't gamed (the Mac Pro). [2013-10-02]
+  ([[2013-10-02-yt-9NSBB-kFDGQ]]) · [2014-01-21] ([[2014-01-21-yt-MVyA-T2lNNk]])
+- **Design-as-a-reason-to-buy when specs converge** ("go try the M8 in a store, you'll like holding it").
+  [2014-04-09] ([[2014-04-09-yt-pwsPZi_JRrA]])
+- **The car beat opens — reviews a car like a phone** (Tesla Model S) → [[../ev-cars/ev-cars|EVs & Cars hub]].
+  [2014-05-03] ([[2014-05-03-yt-c4zAPmQZmYA]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

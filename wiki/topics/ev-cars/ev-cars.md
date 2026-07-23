@@ -20,6 +20,19 @@ Electric vehicles, Tesla/Rivian, autonomy, and car tech — the domain of the [[
 - **"Paperware until it ships" — EV-startup skepticism.** Discounts EV startups (Slate/Faraday/Roadster class) until a product actually reaches customers; distinguishes announced specs from shipped reality. [2026-06-26] ([[2026-06-26-yt-voXclnaYIaE]]) · [2026-07-17] ([[2026-07-17-yt-63m_fsOE-eQ]])
 - **Tesla has the best in-car software that isn't CarPlay/Android Auto** — and **"impressions ≠ review."** On the Cybertruck first-drive he singles out the software and steer-by-wire/rear-wheel-steer as standouts, while explicitly refusing to call the piece a review. [2023-12-01] ([[2023-12-01-yt-XxOh12Uhg08]])
 
+## The origin of the car beat (2014) — added synthesis pass 11 (2026-07-23)
+_The earliest root of the car-review beat, a decade before AutoFocus, surfaced in the 643→713 batch._
+- **His first Tesla enthusiasm + his first dedicated car video.** "I'm a really big fan of the Tesla — I've
+  liked it for a long time; this electric car is my favorite car of any cars" (a CES-2014 aside), and by May
+  2014 he films **Top 5 Tesla Model S Features** — his **first car video**, the origin of the beat that becomes
+  AutoFocus. [2014-01-09] ([[2014-01-09-yt-YGziBcgP93Y]]) · [2014-05-03] ([[2014-05-03-yt-c4zAPmQZmYA]])
+- **Reviews a car like a phone — the AutoFocus method, from day one.** A Top-5 tech-feature walkthrough (sound
+  → design → the key → the electric motor → the 17" touchscreen) ending in the drive — the "fixed walkthrough
+  ending in the drive" rubric he later formalizes. His first EV-driving line: "instant torque feels like a
+  roller-coaster launch." He frames the 17" OTA-updating touchscreen as "feeling like the future, like front-
+  facing speakers on a phone — I wish everyone would adopt it." Discloses he's **never owned a car**. [2014-05-03]
+  ([[2014-05-03-yt-c4zAPmQZmYA]])
+
 ## The @AutoFocus era (2026 EV reviews) — first substantial corpus
 
 > Added synthesis pass 2 (2026-07-19) from the first @AutoFocus batch. Marques-fronted → persona-eligible; the Porsche Macan driving section is handed to co-host "Miles" and quarantined at the source.

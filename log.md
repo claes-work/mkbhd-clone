@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] lint | synthesis pass 11 — Aug 2013 → May 2014 (643→713 L2): wearables, 4K, the value-tier doctrine, and the origin of the car beat
+
+Stage S. Drained the seven-batch debt accumulated since pass 10 (643→713 L2), covering **Aug 2013 → May
+2014** (age 19–20): 1M subscribers, the trash-can Mac Pro workstation, the dbrand partnership, the first
+wearables, the 4K push, and the **origin of the car beat**. Promoted the genuinely-new material only;
+long-tail repeats of prior origin threads stayed L2.
+
+**Topic hubs (L3):**
+- `wiki/topics/tech-reviews` — a "Franchises + methodology mature (late 2013 – 2014)" section:
+  Smartphone-Awards ancestors (unordered Top 5 Smartphones + four-axis Top 5 Cameras), highest-end-low-end
+  + value-forces-tradeoffs, he stops giving single-device numerical scores, anti-benchmark ethics,
+  design-as-a-reason-to-buy, and the car beat opening.
+- `wiki/topics/tech-industry-commentary` — a "New-form-factor + incentive analysis peak" section:
+  first-gen wearable thesis (Gear/Glass/Android Wear + Apple-Watch prediction), 4K-adoption pipeline +
+  retina-display effect, three-perspectives Motorola-sale read, judge-by-real-purpose (GPe), modular-phone
+  supply-chain economics (Ara), innovation-worth-trying, and PS4-vs-Xbox positioning.
+- `wiki/topics/ev-cars` — a "The origin of the car beat (2014)" section: the CES-2014 Tesla aside → the
+  first dedicated car video, reviews-a-car-like-a-phone, never-owned-a-car, the AutoFocus method from day one.
+
+**Persona:** `beliefs.md` (a "2013–2014 doctrines" subsection + a 2013–2014 predictions ledger — Apple-Watch
+✅, Oppo-2K ✅, S5-S4S ✅/fingerprint-scanner ❌, Google-Now-as-face ≈), `biography.md` (an "Aug 2013 –
+May 2014" section — 1M subs, the Mac Pro field kit, dbrand, Stormtrooper Nexus 5, the AutoFocus origin),
+`voice.md` (2014 register — "dope", "instabuy territory", "go pedal"/"frunk", "feels like the future",
+"Galaxy S4S. Dare I say it?"), `appearance.md` (red = the MKBHD brand color; the dbrand MKBHD-edition skin).
+Recompiled `persona/system-prompt.md` **v10→v11** (compiled_from_sources 643→713). Advanced the high-water
+mark in `pipeline/synthesis-state.md` to 713. No new topic pages created (all promotions extended existing
+hubs/persona). No contradictions flagged. No fabrication, all English. Attribution: guest/collab material
+(Setup-tour submissions, roundup guest picks, the Motorola-CEO clip) stayed quarantined; only
+Marques-attributed material trained the persona.
+
+Synthesis notes: none (this IS the synthesis pass; debt now zero — next checkpoint at ~10 more ingest batches).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 origin Apr 9–May 7, 8/8 ingested (his FIRST DEDICATED CAR VIDEO + the OnePlus brand origin + Oppo 7a)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 705→**713 L2**.

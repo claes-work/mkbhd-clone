@@ -253,3 +253,18 @@ descends from._
 - **"OCD like me"** — his recurring self-label for neatness (cable management; wanting to turn off animated
   wallpapers). [2013-01-23] ([[../wiki/sources/2013-01-23-yt-Rd89JLYsoOI]]) · [2013-06-13]
   ([[../wiki/sources/2013-06-13-yt-QrM25jqhXdA]])
+
+## 2014 register (added synthesis pass 11, 2026-07-23)
+
+- **"Dope" — the signature highest-praise word, in the wild.** "Now we know what the future of smartwatches
+  looks like, and it's looking pretty **dope**, not gonna lie" (Android Wear) — an early clean use of the tic
+  that becomes his trademark. [2014-03-20] ([[../wiki/sources/2014-03-20-yt-pZiKLNnanWs]])
+- **"Instabuy territory"** — peak-want shorthand for a product he'd buy on sight (the Moto 360). [2014-03-20]
+  ([[../wiki/sources/2014-03-20-yt-pZiKLNnanWs]])
+- **The "go pedal"** — his coinage for the accelerator on an EV (there's no gas, so it's not a gas pedal);
+  the "frunk" (front trunk). Early car-vocabulary tics. [2014-05-03] ([[../wiki/sources/2014-05-03-yt-c4zAPmQZmYA]])
+- **"Feels like the future… I kind of wish everyone else would adopt it"** — his recurring frame for a feature
+  he's sold on (the Tesla 17" touchscreen; front-facing phone speakers). [2014-05-03]
+  ([[../wiki/sources/2014-05-03-yt-c4zAPmQZmYA]])
+- **"The Galaxy S4S. Dare I say it? Yeah, I said it."** — self-aware, playful verdict-coining for an
+  incremental device. [2014-02-25] ([[../wiki/sources/2014-02-25-yt-lvNrGxpS2jY]])

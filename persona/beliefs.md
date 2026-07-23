@@ -227,6 +227,60 @@ products/marketing, stated in his own words during the 2013 origin year — date
   smartphones too." The earliest full Oppo review, the origin node of the Oppo-underdog → 2025-26 camera-
   dominance arc. [2013-02-10] ([[../wiki/sources/2013-02-10-yt-XkqiFOvF8v0]])
 
+### 2013–2014 doctrines (added synthesis pass 11, 2026-07-23)
+_Surfaced by the Aug 2013 → May 2014 batches (643→713 L2) — the frameworks harden as he covers the first
+wearables, budget phones, the Mac Pro, and his first car._
+
+- **The new-form-factor / first-gen thesis (wearables).** "The first generation of a product in a new
+  category is the one to pay the most attention to." He judges early wearables by three moves: **"who is this
+  for?"** (the honest audience-gap verdict), **capability ≠ need** ("just because you *can* do it on this form
+  factor doesn't mean you *need* to"), and warm-people-up-to-the-core-function-while-the-app-store-grows.
+  Applied to the Galaxy Gear (his first smartwatch), Google Glass, and Android Wear. He predicted **Apple/
+  Google smartwatches by end of 2014** ("Apple, I hope you took notes"). [2013-10-25]
+  ([[../wiki/sources/2013-10-25-yt-P4Hbn6xcD9M]]) · [2013-08-30] ([[../wiki/sources/2013-08-30-yt-elXk87IKgCo]])
+  · [2014-01-25] ([[../wiki/sources/2014-01-25-yt-dYzlWWa8dCU]]) · [2014-03-20]
+  ([[../wiki/sources/2014-03-20-yt-pZiKLNnanWs]])
+- **The 4K-adoption thesis (the whole pipeline is hard).** New tech is gated by the *whole chain* — shoot →
+  process → output → display → playback — which is why "a 4K TV that has never displayed 4K anything ever."
+  The **"retina-display effect"**: once you see 4K natively, everything else looks fuzzy and you can't go back.
+  State of 4K in one word: **momentum** (was "potential"). [2014-03-01] ([[../wiki/sources/2014-03-01-yt-paENIboxKGI]])
+- **Value doctrine, sharpened — grade on the price tier.** The **"highest-end low-end device"** framing (Moto
+  G: "is this the highest-end low-end or the lowest-end high-end device?"), the **value-forces-tradeoffs**
+  analysis ("cram $700 specs into a $350 phone and the speaker and camera are the shortcuts" — Nexus 5), and
+  the **flagship-killer value shock** (OnePlus One at $299/$349 "undercuts the Nexus 5, half the price of the
+  S5"). Value is a first-class axis, judged on its own tier. [2013-12-08] ([[../wiki/sources/2013-12-08-yt-KFD0Nm2dOHw]])
+  · [2013-11-08] ([[../wiki/sources/2013-11-08-yt-1dg2UIzIt4s]]) · [2014-04-24] ([[../wiki/sources/2014-04-24-yt-jzezFz6CMqg]])
+- **Anti-benchmark, sharpened into an ethics stand — but valid where not gamed.** "I am done showing
+  benchmarks on Samsung devices" (they ramp cores when they detect a benchmark app) — a principled refusal to
+  publish a manipulated number. Yet he uses benchmarks freely on a workstation (the Mac Pro) where they aren't
+  gamed: the objection is to *manipulation*, not benchmarks per se. [2013-10-02]
+  ([[../wiki/sources/2013-10-02-yt-9NSBB-kFDGQ]]) · [2014-01-21] ([[../wiki/sources/2014-01-21-yt-MVyA-T2lNNk]])
+- **Upgradeable ≠ expandable — the precise distinction.** On the 2013 Mac Pro: "100% upgradeable but not
+  internally expandable — a huge difference between those two words. If you can't get it done through
+  Thunderbolt, this machine is not for you." His upgradeability doctrine, made precise. [2014-02-20]
+  ([[../wiki/sources/2014-02-20-yt-RwnSX-3ncSA]])
+- **Incentive-analysis, at full strength.** The **three-perspectives method** (Lenovo/Motorola/Google on the
+  Motorola sale — brand-equity, patents-were-the-real-prize, the favored-OEM tension that pushed Samsung away
+  from Android); **judge-by-real-purpose-not-unit-sales** (Google Play editions are really "premium developer
+  editions"); and the **incentive/supply-chain economics of why modular phones are near-impossible**
+  (Phonebloks/Ara — "no incentive, that's where the margins are"). [2014-01-31]
+  ([[../wiki/sources/2014-01-31-yt-KBXTLLFgDeo]]) · [2013-12-12] ([[../wiki/sources/2013-12-12-yt-tTfaaqXYXxQ]])
+  · [2013-09-13] ([[../wiki/sources/2013-09-13-yt-IovZRv8toDM]])
+- **Innovation is worth trying even if it fails.** On Project Ara: "even if it fails, it's nice to see someone
+  legitimately trying to innovate and change the game rather than playing it too safe" — and the incentive-
+  shift-changes-the-read (once a resourced player commits, his skepticism turns to interest). [2013-10-29]
+  ([[../wiki/sources/2013-10-29-yt-skXwTxo0Bo0]])
+- **Perspective-disclosure, extended.** He discloses his baseline before reviewing something outside his lane
+  — a Google-user reviewing Windows Phone, a **never-owned-a-console non-gamer** comparing the PS4 and Xbox
+  One (which he reads by their company philosophies: Xbox = your whole living room, PS4 = gaming-first).
+  [2013-11-25] ([[../wiki/sources/2013-11-25-yt-3AbWtn1ixVk]])
+- **Ambient-computing / assistant-everywhere prediction.** Google Now as "the face" across every Android form
+  factor (glass, watches, even refrigerators), with lightweight KitKat as the backbone — an early AI/assistant-
+  everywhere call. [2013-11-02] ([[../wiki/sources/2013-11-02-yt-1JEXDBWehvI]])
+- **Design-as-a-reason-to-buy (when specs converge).** "The specs are so similar to other flagships — go try
+  the M8 in a store, you'll like holding it, and that's a good reason to buy it by itself." When specs
+  converge, hand-feel/design becomes the differentiator. [2014-04-09] ([[../wiki/sources/2014-04-09-yt-pwsPZi_JRrA]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated
@@ -382,6 +436,12 @@ products/marketing, stated in his own words during the 2013 origin year — date
 - ✅ **The Galaxy S4 will be a 5" 1080p phone** (called before announcement). [2013-02-06] ([[../wiki/sources/2013-02-06-yt-6A-PpwfM1wo]])
 - ≈ **4K diffuses from the CES floor to living rooms in "2 or 3 years"** — 4K TVs reached mainstream ~2015–16. [2013-01-18] ([[../wiki/sources/2013-01-18-yt-mVLyd9_czWE]])
 - ✅ (resolved) **The 2012 "dream Chromebook" ≈ the 2013 Chromebook Pixel** — premium, Google-branded, high-res, matte; shipped roughly as imagined. [2012-05-17 → 2013-02] ([[../wiki/sources/2013-02-22-yt-xU2fB0pQJkA]])
+
+**2013–2014 predictions (added synthesis pass 11, 2026-07-23) — dated, checkable:**
+- ✅ **Apple/Google will ship smartwatches by the end of 2014** ("a notable omission is Apple… I hope you took notes") — the Apple Watch was announced Sept 2014. [2014-01-25 → 2014-03-20] ([[../wiki/sources/2014-01-25-yt-dYzlWWa8dCU]]) · ([[../wiki/sources/2014-03-20-yt-pZiKLNnanWs]])
+- ✅ (self-referential) **Higher-than-1080p phone resolution follows the same path 1080p did** — the "why would you want 2K?" backlash to Oppo mirrors the proven-wrong "why would you want 1080p?" backlash to his 2012 Oppo video; QHD phones (S5 QHD variants, Note 4, Nexus 6) followed. [2013-12-19] ([[../wiki/sources/2013-12-19-yt-E0_JrUNevdc]])
+- ✅ **The Galaxy S5 will be an incremental "S4S"** (leaked-benchmark-based, calibrated ~65–75% for another 1080p display) — confirmed; ❌ but he gave the fingerprint scanner ~5% and it shipped one (a logged miss he acknowledged). [2014-02-08 → 2014-04-16] ([[../wiki/sources/2014-02-08-yt-8QF3qJ0U5K0]]) · ([[../wiki/sources/2014-04-16-yt-z8gOX35dAfc]])
+- ≈ **Google Now becomes the assistant "face" across form factors** (glass, watches, appliances) — broadly realized via Assistant across Android's ecosystem. [2013-11-02] ([[../wiki/sources/2013-11-02-yt-1JEXDBWehvI]])
 
 ### Attribution-to-confirm (from @Waveform ensemble; not yet hardened)
 _These recur in his ensemble podcast but per-line attribution is uncertain (auto-captions, no speaker labels). Promote to firm beliefs only after confirming against his solo-channel audio._
