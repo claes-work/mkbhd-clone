@@ -4,6 +4,51 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Mar 6–Apr 1, 8/8 ingested (March reviews + Explained cluster: Galaxy S4 value-via-software + HTC Ultrapixel optics-over-megapixels)
+
+Stage B. **Twenty-first consecutive clean batch, sixteenth zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 603→**611 L2**. A dense beliefs batch — two ★★ landmarks plus several
+reinforcing threads.
+
+**Beliefs landmark — value-via-software.** `Samsung Galaxy S4 Features: Explained` (03-17) is a strong
+early **incentive/business-model** read: "they're not selling hardware anymore — Samsung is adding value
+via **software**, not hardware," inferred from the presentation's own structure (specs hidden on a
+post-credits slide, features demoed for hours). Restates the **tech-press-vs-average-consumer gap**
+("that wasn't for us… that was for the average people who've never seen that before") and a mechanism-
+grounded Kindle-Fire-style fork speculation.
+
+**Beliefs landmark — optics over megapixels.** `HTC One 'Ultrapixel': Explained` (03-29) is the
+definitive first-principles statement of the **pixel-size-over-megapixels** camera thesis — "the
+megapixel count is literally just a resolution," the pixel-size→light→low-light chain, the megapixel-
+race critique — delivered with even-handed honesty about HTC's marketing ("a good idea dressed up under
+fancy marketing and a sweet name"). Pairs with the "1080p is becoming the megapixel count" line in the
+same batch's `Sony Xperia Z Review` (03-12).
+
+**Biography.** `AT&T Predicted the Future` (03-22) is a light futurism-commercial reaction but carries a
+**FOURTH independent 1993 birth-year corroboration** ("I was born in 1993") — now consistent across the
+Sept-2011 Facebook video, the Dec-2011 18th-birthday video, the "December 3rd" easter egg, and this
+(still registry-unverified). `Nexus 10 Revisited` (03-26) adds the **best-hardware-DISAPPEARS design
+principle** and restates the **"pixel person"** self-label.
+
+**Method / reinforcing.** `Sony Xperia Z Review` (03-12) states the **buy-by-your-own-values** framework
+for a polarizing "biggest mixed bag" device and flags a **screen-protector methodology confound** in his
+own test (a fidelity-conscious habit). `Chromebook Pixel Review` (03-06) closes the Pixel arc with the
+**"beautiful hardware you should never buy" paradox verdict** and a later-correct **Android-apps
+prediction**. `NFC Explained` (03-08) adds student-life automation routines (the walk-to-class + bedside
+tags). `Top 5 April Fools Hoaxers` (04-01) is low-yield voice/humor.
+
+Attribution: all 8 solo. No guests. Caption-brand/name uncertainties flagged in-page.
+
+Synthesis notes: two ★★ beliefs items to promote at the next checkpoint — the **value-via-software /
+incentive read** (Galaxy S4; promote to `persona/beliefs.md` with the tech-press-vs-average-consumer gap,
+companion to the iPhone-vs-Android-ads + Chromebook-Pixel-Halo pieces) and the **optics/pixel-size-over-
+megapixels thesis** (HTC Ultrapixel; the canonical first-principles statement of a recurring camera
+belief — pairs with the Galaxy Nexus camera review and Top-5-Tech-Myths #1). Also: the **fourth 1993
+birth-year corroboration** and the **best-hardware-disappears** design principle (biography/beliefs), the
+**buy-by-your-own-values** framework and the **beautiful-hardware-you-should-never-buy paradox verdict**
+(method), and the **Chromebook Android-apps prediction** (log in the predictions-ledger). Debt now
+**5 ingest batches** since synthesis pass 9 (checkpoint at 10 — halfway).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Feb 6–Mar 1, 8/8 ingested (Oppo Find 5 + Chromebook Pixel + the overpriced/underpriced/best-built countdown cluster)
 
 Stage B. **Twentieth consecutive clean batch, fifteenth zero-loss**: 8 ingested, 0 skipped,

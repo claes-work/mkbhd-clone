@@ -482,6 +482,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-02-22 — [[2013-02-22-yt-xU2fB0pQJkA|The Chromebook Pixel: Explained!]] ★★ · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(LANDMARK — Halo-product thesis; hardware-first strategy; incentive/business-model reasoning; dream-Chromebook callback)_
 - 2013-02-26 — [[2013-02-26-yt-CP5LB1eQff0|Chromebook Pixel Unboxing & First Impressions!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(minimalist-design taste; request-driven review pipeline; verdict-held discipline)_
 - 2013-03-01 — [[2013-03-01-yt-83Y31z3ZI2A|Top 5 Best Built Tech!]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(materials literacy Gorilla-Glass/aluminum PSI; build-quality-as-axis; Nokia 3310; Oppo Find 5 mention)_
+- 2013-03-06 — [[2013-03-06-yt-6d0lEMp8Vtk|Chromebook Pixel Review!]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(beautiful-hardware-you-should-never-buy paradox verdict; Android-apps prediction; closes Pixel arc)_
+- 2013-03-08 — [[2013-03-08-yt-qp5il7yhM4Y|Top 5 NFC Features: Explained!]] ★ · consumer-tech-culture, smartphones, tech-industry-commentary _(walk-to-class + bedside automation routines; champions underrated tech; Google Wallet anecdote)_
+- 2013-03-12 — [[2013-03-12-yt-GlhXpHULwys|Sony Xperia Z Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(biggest-mixed-bag; buy-by-your-values framework; 1080p-is-the-new-megapixel-count; screen-protector methodology disclaimer)_
+- 2013-03-17 — [[2013-03-17-yt-PGXhG82HRX0|Samsung Galaxy S4 Features: Explained!]] ★★ · smartphones, tech-industry-commentary, consumer-tech-culture _(LANDMARK — value-via-software-not-hardware thesis; tech-press-vs-average-consumer gap; Kindle-Fire fork speculation)_
+- 2013-03-22 — [[2013-03-22-yt-zUtedhbQDP4|AT&T Predicted the Future!]] ★★ · consumer-tech-culture, tech-industry-commentary _(FOURTH independent 1993 birth-year corroboration; tech-prediction/futurism interest)_
+- 2013-03-26 — [[2013-03-26-yt-o9PT9HDXZWs|Google Nexus 10: Revisited!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(best-hardware-disappears design principle; "pixel person" self-label; front-facing-speakers + back-material taste)_
+- 2013-03-29 — [[2013-03-29-yt-ul3lgaU_lbY|HTC One 'Ultrapixel': Explained!]] ★★ · smartphones, tech-industry-commentary, production-filmmaking _(LANDMARK — optics/pixel-size-over-megapixels thesis from first principles; megapixel-race critique)_
+- 2013-04-01 — [[2013-04-01-yt-Py6g_FheJWI|Top 5 Internet April Fool's Day Hoaxers!]] · consumer-tech-culture, content-strategy _(voice/humor register geek-appreciation; low yield)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -644,4 +652,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_603 videos ingested (L2) so far._
+_611 videos ingested (L2) so far._
