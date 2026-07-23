@@ -458,6 +458,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-12-08 — [[2012-12-08-yt-uO0Q7SMZvfg|Rooting & Jailbreaking: Explained!]] ★ · smartphones, consumer-tech-culture, content-strategy _("you don't own the device until you've voided the warranty")_
 - 2012-12-13 — [[2012-12-13-yt-FFuePFTf9LQ|$600 Gaming PC Giveaway!]] ★ · creator-business, consumer-tech-culture, production-filmmaking _(Duncan33303 collab; Windows 8; winter-break PC build)_
 - 2012-12-16 — [[2012-12-16-yt-gfPNNdY1Fjs|8 Holiday Gifts for a YouTuber!]] ★★ · production-filmmaking, creator-business, consumer-tech-culture _(LANDMARK production history: nifty-fifty = first video lens; founded top-15 G+ YouTuber community)_
+- 2012-12-17 — [[2012-12-17-yt-NyoM_i1jJZc|Best Tablets of 2012!]] ★ · tech-reviews, consumer-tech-culture, creator-business _(collaborative roundup, MIXED attribution; Nexus 10 his pick)_
+- 2012-12-21 — [[2012-12-21-yt-iwaW6HR9dw4|Hackintosh Pro Project! [Part 1]]] ★ · production-filmmaking, consumer-tech-culture, tech-industry-commentary _(macOS transition confirmed; "true desktop" + price justify a Hackintosh)_
+- 2012-12-25 — [[2012-12-25-yt-6PEmKUBtWlk|What's on my Android Phone 2012!]] ★ · consumer-tech-culture, content-strategy, creator-business _(make-TouchWiz-look-stock; "I pay for apps if they're good")_
+- 2012-12-28 — [[2012-12-28-yt-8gca3uud87c|Samsung Galaxy Camera Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(mixed verdict where the CORE function fails; "swung and missed"; wait for v2)_
+- 2012-12-30 — [[2012-12-30-yt-PAs6yQUCkno|Using Google Now: Explained!]] ★ · consumer-tech-culture, smartphones, tech-industry-commentary _(dated privacy tradeoff — flag vs later views; daily user)_
+- 2013-01-03 — [[2013-01-03-yt-YginQUkrJ50|Samsung Galaxy Note 2: Revisited!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(daily driver 2 months + most popular review ever; "stay geeky my friends")_
+- 2013-01-07 — [[2013-01-07-yt-tRyEYlvb66I|NVIDIA Project SHIELD at CES 2013!]] ★★ · consumer-tech-culture, tech-industry-commentary, smartphones _(LANDMARK biography: FIRST CES attendance)_
+- 2013-01-09 — [[2013-01-09-yt-SEXiPc3q1tg|Huawei Ascend Mate Size Comparison at CES 2013!]] · smartphones, consumer-tech-culture, tech-industry-commentary _(CES 2013 floor clip; big-phone interest)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -620,4 +628,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_579 videos ingested (L2) so far._
+_587 videos ingested (L2) so far._

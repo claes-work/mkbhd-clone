@@ -4,6 +4,58 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012–2013 origin Dec 17–Jan 9, 8/8 ingested (crosses into 2013 + first CES)
+
+Stage B. **Eighteenth consecutive clean batch, thirteenth zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 579→**587 L2**. Crosses into 2013, closing the 2012 origin year and opening 2013
+with his first CES.
+
+**Biography landmark — first CES attendance.** `NVIDIA Project SHIELD at CES 2013` (01-07) opens "I'm in
+Las Vegas for CES 2013" — his **first CES on record**, and a clean contrast with a year earlier when he
+told viewers "if you're going to CES, put up videos because I want to see it" and watched from home. He
+reads the NVIDIA keynote as **Apple-style stagecraft** ("a classic Apple keynote… wrapped up with a 'one
+more thing'"), covering Tegra 4 and Project SHIELD. The Huawei Ascend Mate clip (01-09) corroborates the
+CES trip.
+
+**Device timeline + biography detail.** `Note 2 Revisited` (01-03) confirms the **Galaxy Note 2 as his
+daily driver for two months** and notes it **became his most popular review video ever**. It also yields
+a **~6'2" height** self-report (the wiki carries ~6'3" elsewhere — reconcile as ~6'2–6'3"), a rare
+**family reference** (his mom on camera, as context), the **"stay geeky, my friends"** sign-off, and a
+crisp restatement of the stock-vs-skin resolution. `Hackintosh Pro Part 1` (12-21) **confirms the macOS
+transition** ("I've been using a Mac Pro for the past couple of months for my video production") and
+re-runs the **"true desktop"/upgradeability reasoning + price** to justify building a Hackintosh over any
+shipping Mac — the upgradeability and value doctrines driving a personal decision; "home for the
+holidays" dates the student pattern.
+
+**Method/values nodes.** `Galaxy Camera Review` (12-28) is a clean **mixed verdict where the core
+function fails** — great connectivity and manual UI, but weak image quality ("Samsung swung and missed"),
+resolved by weighting the primary purpose heavily; the Note 2 "kept up shot for shot" (reinforcing
+camera-replaces-your-point-and-shoot), and he recommends waiting for the sequel. `What's on my Android
+2012` (12-25) is control-over-software expressed through a home screen ("make TouchWiz look stock" without
+rooting) plus a small value — "**I tend to pay for apps if they're good.**" `Best Tablets 2012` (12-17) is
+a mixed-attribution collaborative roundup (four peers quarantined) with the Nexus 10 as his pick.
+
+**One flagged, date-scoped position.** `Using Google Now Explained` (12-30) carries a **2012 privacy
+tradeoff stance** — "you're being tracked by a bunch of different companies anyway, so it's nice that at
+least Google gives you something back, and it's free" — which may **contrast with his later privacy
+views**. Recorded as a dated, potentially-superseded position, flagged for a position-change check.
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 579 → 587 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **First CES attendance (CES 2013)** → `persona/biography.md` (a career milestone;
+contrast with the not-attending-CES-2012 baseline). (2) ★ **Note 2 daily driver + most-popular-review
+milestone + ~6'2" height** → biography (reconcile the height with ~6'3"). (3) ★ **macOS transition
+confirmed + Hackintosh build** (true-desktop + price reasoning applied personally) → biography /
+production hub. (4) ★ **Mixed verdict where the core function fails** (Galaxy Camera) → review-methodology
+thread; recommend-waiting-for-v2 first-gen skepticism. (5) ★ **"I pay for apps if they're good"** +
+make-a-skin-look-stock → values / control-over-software. (6) ★★-flag **2012 privacy tradeoff stance** →
+`persona/beliefs.md` as a dated, potentially-superseded position — flag for a position-change check
+against later sources. (7) ★ Voice: "stay geeky, my friends" sign-off; the stranger-magnet bit. (8) ★
+Peer network: another mixed-attribution collab (TLDToday, Wilson Tech 1, Unbox Therapy). Debt: 2 ingest
+batches since synthesis pass 9 (checkpoint at 10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Nov 22–Dec 16, 8/8 ingested
 
 Stage B, first batch after synthesis pass 9. **Seventeenth consecutive clean batch, twelfth zero-loss**:
