@@ -4,6 +4,34 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 May 14–Jun 11, 8/8 ingested (the Apple Watch review + YouTube Processing explained + the "beautiful but don't buy it" MacBook)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 793→**801 L2** (crossed 800).
+
+**Explainer landmark.** `YouTube Processing: Explained!` (05-18) ★★ — a **creator/production +
+consumer-education** landmark on how his own platform works: processing transcodes each upload into many
+resolutions, **adaptive-bitrate streaming** swaps you by connection, and even 4K on YouTube is "~1/10 the
+original file size." Biography: "when I first started uploading, the max was 720p — every MKBHD video was
+720p HD back in the day" (the HD in MKBHD).
+
+**Verdict landmark.** `2015 Macbook Review!` (06-11) ★★ — "**a beautiful, awesome machine, but you
+probably shouldn't buy it**" (a Halo-product echo of the Chromebook Pixel), rescued by **judging it in the
+right category** — a tablet replacement, in which frame the single USB-C port and mushy keyboard stop
+bothering him. Best laptop speakers he's heard; first-gen caveat.
+
+**Wearable arc completes.** `Apple Watch Review!` (05-14) ★ — the **it's-an-accessory** verdict
+(notifications are the core; apps "smooth but not fast"; no third-party watch faces = "Apple lockdown";
+wait-for-v2). `10 Apple Watch Questions: Answered!` (05-27) ★ — apps-slow-because-non-native; "you don't
+need a case for the Apple Watch."
+
+**Reinforcing.** `LG G4 Review!` (05-24) ★ — "mostly pros"; removable-battery + microSD "an endangered
+species"; camera the standout. `Top 5 Android Marshmallow Features!` (05-29) ★ — Google-Now-on-Tap
+"borderline genius" + Google-Now-far-ahead-of-Siri/Cortana; Doze standby-battery-love; per-app-permissions.
+`HTC One M9+ (& S6 Plus!)` (06-03) ★ — "Plus is the new Prime" (market variants). `Iron Man S6 Edge`
+(06-05) — a collector novelty (low yield).
+
+Synthesis notes: net-new for the next checkpoint — (1) the **YouTube-Processing / adaptive-bitrate** explainer + the "720p HD" origin (the HD in MKBHD) → production-filmmaking/creator-business/biography; (2) the **"beautiful but you probably shouldn't buy it" + judge-it-in-the-right-category (tablet-replacement)** MacBook verdict (Halo-product echo) → beliefs; (3) the **Apple-Watch it's-an-accessory / apps-slow-because-non-native** verdict completing the wearable arc + no-cases restated → beliefs/wearable thread; (4) minor: Google-Now-far-ahead + Doze standby-love (Marshmallow), removable-battery-endangered (G4), "Plus is the new Prime" (M9+). All ★-flagged inline; do not inline-promote (2 batches since synthesis pass 12).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Apr 1–May 11, 8/8 ingested (GRADUATION → full-time YouTuber + the S6/M9 full reviews)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 785→**793 L2**.
