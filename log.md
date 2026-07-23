@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 7) — 2017 Aug 4–Sep 1, 7/7 ingested (the Voice Assistant Battle + the Essential-vs-V30 foil + "year of the bezels")
+
+Stage B. Ingested Aug 2017 to L2 (960→967): the **Voice Assistant Battle 2017**, the **iPhone 8** dummy,
+**USB-C All The Things Pt 2**, the **Note 8** impressions, **2017 vs Bezels**, the **Essential Phone** review,
+and the **LG V30** Top-5. 7/7 solo/Marques-fronted → persona-eligible; captions clean; no dups. **Batch note**:
+the driver auto-marked the 8th selection — the **Ask MKBHD V19 Q&A (yt-sdw_jquVZe0, 2017-08-10)** — via its
+title-eyeball; I did NOT skip it (Ask-MKBHD Q&As are valuable persona/biography material, not a promo/joke),
+so it remains OPEN (L0) as a re-include candidate for a future batch. Ledger @mkbhd now 695 open (P2:657,
+P3:38); L2=967, L3=0. (Debt now 7 batches since pass 14.)
+
+Synthesis notes (for pass 15) —
+**(1) The controlled-comparison methodology** (Voice Assistant Battle, a 4-way): "even playing field — same
+latest software, same questions/phrasing, same Wi-Fi," with three tiers (baseline factual → conversation →
+deep actions). Verdict: "they're all still chasing Google" (Alexa the worst); the rapping-coda maps each to
+its personality. **(2) A model negative verdict — great hardware undone by ONE fatal flaw** (Essential Phone
+"Save Your Money"): genuinely great titanium/ceramic hardware + clean stock software, but a bad camera + a
+laggy camera app sink it — "if you want a reason not to buy this, link them to this part"; + the caveat
+**"I've never seen a camera go from not-good to really-good on software updates alone."** **(3) The
+deliberate foil — "checks every box"** (LG V30, "the opposite of the Essential") + a rare **"I really don't
+mind this skin"** + the **Cine (Log) video mode "speaks my production language"** (his RAW/log-grading
+enthusiasm) + fingerprint-in-the-middle-done-right. **(4) Follow-the-incentives: competition drives standards
+adoption** (USB-C Pt 2 PSA — phones raced to USB-C, mice didn't (the MX Master still micro-USB); the
+Apple-declare-it-and-remove-the-old-port model). **(5) "2017 = the year of the disappearing bezels"** (the
+name-the-year's-trend framing) + the teach-the-mechanism on how each maker handles the unavoidable front
+sensors + cheap-got-good. **(6) Note-8 = the Note-7 redemption** + both-lenses-OIS (an edge over the iPhone)
++ the big-hands-bias empathy check + trust-the-track-record on a ~$1,000 phone. **(7) First notch read**
+(iPhone 8 dummy) + the iPhone-screen-to-body-ratio-weakness framing. Next synthesis checkpoint (pass 15) is
+due at ~10 batches — **now at 7 batches / ~110 sources since pass 13** (wait: since pass 14 = 857... no —
+pass 14 closed at 912; since then 920→928→936→944→952→960→967 = 7 batches / 55 sources). Pass 15 at ~3 more
+batches or the next era boundary (the iPhone X / fall-2017 flagship reviews are imminent).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Jul 3–Aug 2, 8/8 ingested (the Tesla Model 3 drive (met Elon) + the RED Hydrogen phone + "why I switched to RED")
 
 Stage B. Ingested July 2017 to L2 (952→960): the **iPhone 8** rumor roundup, the **RED Hydrogen One**
