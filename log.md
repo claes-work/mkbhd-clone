@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Feb 17–Mar 21, 8/8 ingested (the matte-black identity + "Dear Apple" + the "poor use of space" rant)
+
+Stage B. Ingested spring 2017 to L2 (920→928): the **State of 4K 2017 (in 8K)**, the **BeatsX**, the **LG
+G6** Top-5, **Dear Apple 2017**, the **Colored AirPods** (Dope Tech), **Inside Lucid Air**, the **HTC U
+Ultra rant**, and the **RED iPhone 7** unboxing. All 8 solo/Marques-fronted → persona-eligible; captions
+clean; no dups, no skips. Ledger @mkbhd now 735 open (P2:697, P3:38); L2=928, L3=0. (Debt now 2 batches
+since pass 14.)
+
+Synthesis notes (for pass 15) —
+**(1) APPEARANCE — the matte-black obsession + red-and-black identity, in force.** "Matte black is the GOAT"
+(Colored AirPods); "the matte black iPhone 7 is the best colorway of any iPhone ever" (Dear Apple); the RED
+iPhone is "the most photogenic phone I've seen in a long time" and "could be a full-on MKBHD Edition red-and-
+black masterpiece with a black front." Plus **paint > skins** reasoning and the **self-aware, escalating
+"matte black everything… but I'm not obsessed or anything, right?" comedic riff** (voice). **(2) The "Dear
+Apple" wishlist format** (a recurring genre): matte-black-all-the-things, **USB-C-the-iPhone** ("Apple users
+have never known one charger for laptop and phone"), **refresh-the-Mac-Pro**, and **wireless-charging-in-the-
+next-iPhone** (~4th time asking — lands with the iPhone 8/X later in 2017). BIOGRAPHY inside it: **he's a
+Final Cut Pro editor who switched from a PC + Premiere**, tied to the 4-year-old trash-can Mac Pro. **(3) The
+one-lens teardown method — "poor use of space"** (HTC U Ultra) — take one lens and apply it relentlessly
+across every subsystem, landing a rare full **"skip this one"** with named alternatives; still fair about
+the good camera. **(4) know-who-it's-for + name-the-incentive** (BeatsX: "the best Beats ever, in the bang-
+for-buck-for-Beats category"; not-sweatproof "so Beats can point you to another pair they sell for working
+out"). **(5) rooting-for-competition + "the future car is a ride, not just a drive"** (Lucid Air: "luxury
+EVs are the future of luxury"; names Tesla's weak spot as its interior; source-critical about pre-production
+demos — the FF91/Lucid pair reinforces the show-car skepticism / "I'm glad someone's trying" balance).
+**(6) high-tech-vs-bleeding-edge content-pipeline gap** (State of 4K/8K: "8K screens exist but almost no 8K
+content — that's the difference"; "if you're buying a 4K TV now it should be 4K"; the slow TV upgrade cycle).
+**(7) The tall 18:9 bezel-trend** arriving mainstream (LG G6, post-modular reset). Next synthesis checkpoint
+(pass 15) at ~10 batches or the next era boundary.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Jan 5–Feb 11, 8/8 ingested (2017 begins: CES autonomy + the camera lineage + the long-term-review format)
 
 Stage B. First batch of the 2017 era, to L2 (912→920): the **Self-Driving Mercedes** (CES), the **Faraday
