@@ -4,6 +4,41 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Oct 19–Nov 8, 8/8 ingested (first smartwatch + Project Ara + the Nexus 5)
+
+Stage B. **Twenty-eighth consecutive clean batch, twenty-third zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 659→**667 L2**.
+
+**Landmark — the smartwatch-coverage origin.** `Samsung Galaxy Gear Review` (10-25) is his FIRST
+smartwatch review and a key wearable-thread node: "the first generation of a product in a new category is
+the one to pay the most attention to," the honest **"who is this for?"** polarizing verdict, and the
+**form-factor thesis** ("just because you *can* do it on this form factor doesn't mean you *need* to") —
+echoing his Google Glass read that early wearables warm people up to the core functionality while the app
+store grows. Compatibility (Samsung-only) is the one-critical-flaw.
+
+**Beliefs.** `Motorola Ara Impressions` (10-29) — Project Ara, the Google/Motorola-backed follow-up to
+Phonebloks — shows the **incentive shift** flipping his read (once a resourced player commits, skepticism
+turns to interest) and states the **innovation-worth-trying-even-if-it-fails** value. `How Google Now is
+Taking Over` (11-02) is a **prescient ambient-computing prediction** — Google Now as "the face" across
+every Android form factor (glass, watches, fridges), with KitKat as the lightweight backbone; an early
+AI-interest node. `Nexus 5 Review` (11-08) is a clean **value-forces-tradeoffs** analysis ($700 specs in a
+$350 phone → the speaker + camera are the shortcuts) with the "league of its own at its price" verdict;
+he bought the white one, **"The Stormtrooper phone."**
+
+**Reinforcing.** `Curved Displays Explained` (10-19) teaches curved-glass-vs-display + curved≠flexible and
+restates vote-with-your-wallet / infancy-is-expensive. `Xperia Z1` (10-21) restates the design-vs-rugged
+contradiction + display-primacy one-critical-flaw. `Nexus 5 Black vs White` (11-04) marks the **600th-video
+milestone**. `KitKat Features` (11-01) is low-yield.
+
+Attribution: all 8 solo. Sundar Pichai and Matias Duarte quoted as sources.
+
+Synthesis notes: two ★★/★ items worth a note at the next checkpoint — the **Galaxy Gear first-smartwatch /
+form-factor thesis** (the smartwatch-coverage origin; extends the new-form-factor wearable thread toward
+the Humane AI Pin — to `persona/beliefs.md`) and the **Google-Now-as-the-face ambient-computing
+prediction** (a prescient AI/assistant-everywhere call — log in the predictions ledger). Also: the
+**Project-Ara innovation-worth-trying** value, the **value-forces-tradeoffs** Nexus 5 analysis, and the
+**600th-video milestone** (biography). Debt now **3 ingest batches** since synthesis pass 10.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Sep 9–Oct 16, 8/8 ingested (Note 3 review + Phonebloks + the Smartphone-Awards camera-test ancestor)
 
 Stage B. **Twenty-seventh consecutive clean batch, twenty-second zero-loss**: 8 ingested, 0 skipped,

@@ -539,6 +539,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-10-07 — [[2013-10-07-yt-F0zhwl8454Y|Google Nexus 5: What to Expect!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(minimalist-design taste; Nexus-pricing; Verizon critique; SWITCHING to AT&T main line — acts on Oct-2012 intent; leak-culture)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2013-10-16 — [[2013-10-16-yt-OMb-jXlkNwY|Top 5 Best Smartphone Cameras!]] ★ · smartphones, tech-reviews, production-filmmaking _(four-axis scoring methodology = Blind-Camera-Test / Smartphone-Awards ancestor; "best camera is the one you have with you"; disclosed video-weighting bias; skin-tone accuracy)_
+- 2013-10-19 — [[2013-10-19-yt-z6dkNLn9br0|Curved Display Smartphones: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary, smartphones _(teach-the-tech curved-glass-vs-display + curved-vs-flexible; vote-with-your-wallet experiment; infancy-is-expensive adoption thesis)_
+- 2013-10-21 — [[2013-10-21-yt-hUgOgMCKXqs|Sony Xperia Z1 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(design-vs-rugged contradiction, IP58 sacrifices; display-viewing-angles one-critical-flaw; megapixel-myth 20MP≠top-5)_
+- 2013-10-25 — [[2013-10-25-yt-P4Hbn6xcD9M|Samsung Galaxy Gear Review!]] ★★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(LANDMARK first smartwatch — first-gen-in-a-new-category-deserves-most-scrutiny; "who is this for?" polarizing verdict; form-factor thesis capability≠need; compatibility one-critical-flaw; smartwatch-coverage origin)_
+- 2013-10-29 — [[2013-10-29-yt-skXwTxo0Bo0|Motorola Ara Impressions!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(Project Ara; incentive-shift-changes-the-read once a big co is behind Phonebloks; innovation-worth-trying-even-if-it-fails; new-form-factor/risk-reward)_
+- 2013-11-01 — [[2013-11-01-yt-f7TD3Z03l2I|Top 5 Android 4.4 Kitkat Features!]] · consumer-tech-culture, tech-industry-commentary, smartphones _(defends 0.1-update-as-substantial; teach-the-tech host-card-emulation; low-memory-footprint strategic; low yield)_
+- 2013-11-02 — [[2013-11-02-yt-1JEXDBWehvI|How Google Now is Taking Over!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(PRESCIENT ambient-computing / assistant-across-form-factors prediction — Google Now as "the face" on glass/watches/fridges; AI-interest node; Pichai next-billion)_
+- 2013-11-04 — [[2013-11-04-yt-RBCaAq_pKjY|Google Nexus 5: Black vs White!]] · smartphones, consumer-tech-culture, content-strategy _(600th-video milestone; attention-to-detail material differences; Stormtrooper look; low yield)_
+- 2013-11-08 — [[2013-11-08-yt-1dg2UIzIt4s|Google Nexus 5 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(value-forces-tradeoffs — $700 specs in a $350 phone = speaker+camera shortcuts; league-of-its-own at its price; "The Stormtrooper phone" his white unit; camera-fixable-via-software; stock/KitKat)_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -700,4 +708,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_659 videos ingested (L2) so far._
+_667 videos ingested (L2) so far._
