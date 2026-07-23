@@ -4,6 +4,40 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013–2014 origin Dec 17–Jan 8, 8/8 ingested (year-end awards + Update 10.0 + CES 2014 production landmark)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup** (zero-loss resumes; the batch crosses into 2014).
+674→**682 L2**.
+
+**Biography + production landmarks.** `MKBHD Update 10.0` (01-04) is a channel milestone — **102 videos /
+~50M views in 2013, his sixth year** ("about a third of my life talking tech to a camera") — plus his
+**CES highlight-reel / curate-the-best-over-cover-everything** one-man-show philosophy (vs team-staffed
+blogs) and a Google+-verified-not-yet-Twitter status. `CES 2014 Gear Bag Tour` (01-07) is a **production-
+timeline landmark**: the camera **upgraded to the Canon C100** (from the 5D Mark III), the Sennheiser
+MKH416 shotgun ("basically every video I've made in the past four months"), the RX100 run-and-gun, and a
+13" retina MacBook Pro + **Adobe Premiere** editing rig — the most complete field-kit snapshot to date.
+
+**Beliefs.** `Oppo Find 7 Rant` (12-19) is a strong Oppo-arc node — champions Oppo as the risk-taking
+**icebreaker** and, tellingly, uses his **own validated 2012 1080p prediction** to rebut the 2K-display
+skeptics (the resolution-is-more-than-visible-pixels principle + "don't complain in the infancy").
+`Top 5 Smartphones of 2013` (12-21) is a **Smartphone-Awards precursor** (deliberately unordered, judge-by-
+what-it-changed) that reveals his daily driver (the Stormtrooper Nexus 5).
+
+**Reinforcing.** `Nexus 5 Revisited` (12-24) confirms the Nexus 5 as his benchmark + the rolling-release
+payoff (updates fixed the camera/battery). `Lumia 1520` (12-17) — pixel-love-drove-the-purchase + breadth-
+of-taste + "IE is actually good." `Top 5 Tablets Collab` (01-03, MIXED attribution) — Nexus 10 for media
+consumption. `4K Cameras at CES 2014` (01-08) — the shooting-vs-displaying-4K content-scarcity thesis.
+
+Attribution: all solo except the Tablets collab (guest picks quarantined). TLDToday + Unbox Therapy cited
+as peers.
+
+Synthesis notes: ★★ biography/production items for the next checkpoint — the **Update 10.0 milestone data**
+(102 videos / 50M views / sixth year + the CES highlight-reel editorial philosophy) and the **Canon C100
+camera upgrade + 2014 field kit** (production-timeline; supersedes the 5D Mark III as his main camera) →
+`persona/biography.md`. Also: the **Oppo self-referential-validated-prediction / champion-the-icebreaker**
+node (Oppo arc), the **Smartphone-Awards-precursor** year-end format (→ tech-reviews franchises), and the
+**Stormtrooper Nexus 5 daily-driver benchmark**. Debt now **5 ingest batches** since synthesis pass 10.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Nov 14–Dec 12, 7/8 ingested + 1 skipped (iPad Air + Moto G budget-landmark + Google Play Editions)
 
 Stage B. **Twenty-ninth batch — 7 ingested, 1 skipped (garbled captions), 0 no-captions, 0 dup.**

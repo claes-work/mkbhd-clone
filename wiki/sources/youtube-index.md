@@ -555,6 +555,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-12-05 — Oppo N1 Review! (CyanogenMod Phone) — _skipped: garbled auto-captions (machine-translated Korean/nonsense), no usable English transcript; retry if clean captions appear_
 - 2013-12-08 — [[2013-12-08-yt-KFD0Nm2dOHw|Motorola Moto G Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(BUDGET LANDMARK — "highest-end low-end device" framing; grade-on-the-price-tier value; cut-every-corner; camera-vs-a-$179-point-and-shoot; Dennis Woodside CEO-interview access)_
 - 2013-12-12 — [[2013-12-12-yt-tTfaaqXYXxQ|Google Play Editions: Explained!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(incentive analysis — judge-by-real-purpose-not-sales; "premium developer editions"; fragmentation; "geeks like me love them")_
+- 2013-12-17 — [[2013-12-17-yt-lVPAfntOfmc|Nokia Lumia 1520 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(favorite Windows Phone 2013; pixel-love drove purchase, first 1080p WP; near-flawless hardware; IE-is-actually-good even-handedness; breadth-of-taste; got-an-Xbox)_
+- 2013-12-19 — [[2013-12-19-yt-E0_JrUNevdc|Oppo Find 7 Rant!]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(Oppo-arc champion-the-icebreaker; self-referential VALIDATED 2012 1080p prediction; resolution-is-more-than-visible-pixels; dont-complain-in-the-infancy)_
+- 2013-12-21 — [[2013-12-21-yt-BZjIsZwgKfo|Top 5 Smartphones of 2013!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(Smartphone-Awards precursor — unordered, judge-by-what-it-changed; daily-driver reveal Stormtrooper Nexus 5; breadth-of-taste)_
+- 2013-12-24 — [[2013-12-24-yt-8f7mFHYjBG0|Nexus 5: Revisited! (What's on my Phone)]] ★ · smartphones, consumer-tech-culture, production-filmmaking _(daily-driver benchmark; rolling-release payoff — updates fixed camera+battery; personal home-screen DashClock/Google Tasks+Calendar; ART runtime; carries RX100)_
+- 2014-01-03 — [[2014-01-03-yt-Rrm4isCQDkQ|Top 5 Tablets (Early 2014) Collab!]] · consumer-tech-culture, tech-reviews, creator-business _(MIXED attribution — guest picks quarantined; Nexus 10 pick for media-consumption + front-facing-speakers; collaborative-roundup format)_
+- 2014-01-04 — [[2014-01-04-yt-8L7d6_ZzyoU|MKBHD Update 10.0! (CES 2014)]] ★★ · content-strategy, creator-business, consumer-tech-culture _(MILESTONE — 102 videos / ~50M views in 2013, sixth year "a third of my life talking tech to a camera"; the CES highlight-reel / curate-the-best one-man-show philosophy; Google+-verified-not-Twitter)_
+- 2014-01-07 — [[2014-01-07-yt-dYmHFsH6E7g|CES 2014 Gear Bag Tour!]] ★★ · production-filmmaking, consumer-tech-culture, creator-business _(PRODUCTION-TIMELINE landmark — Canon C100 upgrade from the 5D Mark III; Sennheiser MKH416 shotgun; RX100 run-and-gun; 13" retina MacBook Pro + Adobe Premiere; 3-phone carry; lightweight-but-capable)_
+- 2014-01-08 — [[2014-01-08-yt-L6RW1KaNuL0|4K Cameras at CES 2014!]] ★ · production-filmmaking, consumer-tech-culture, tech-industry-commentary _(shooting-vs-displaying-4K content-scarcity; CES-floor-expensive-but-comes-down; production-gear literacy C500/1DC/FS700/4K-Handicam)_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -716,4 +724,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_674 videos ingested (L2) so far._
+_682 videos ingested (L2) so far._
