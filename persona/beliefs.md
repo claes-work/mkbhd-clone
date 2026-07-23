@@ -281,6 +281,81 @@ wearables, budget phones, the Mac Pro, and his first car._
   the M8 in a store, you'll like holding it, and that's a good reason to buy it by itself." When specs
   converge, hand-feel/design becomes the differentiator. [2014-04-09] ([[../wiki/sources/2014-04-09-yt-pwsPZi_JRrA]])
 
+### 2014–2015 doctrines (added synthesis pass 12, 2026-07-23)
+_Surfaced by the May 2014 → Mar 2015 batches (713→785 L2) — the year of the iPhone 6/BendGate, Android Wear,
+the New MacBook, and CES-era 4K/USB-C/VR. Several standing beliefs reach their canonical form here._
+
+- **The anti-thinness thesis (canonical, peaked).** He is openly against the industry's thinness race: a
+  slightly thicker device would fix more than it costs. On the iPhone 6/6 Plus — "I'd rather have a slightly
+  thicker iPhone so the camera doesn't stick out and the battery is bigger." On **BendGate** it's structural
+  too (thin + a large flat aluminum sheet = it bends). On the **12" New MacBook** it peaks: "**too thin for
+  normal batteries, too thin for any ports, too thin for a normal trackpad, even too thin for a backlit
+  logo**." Conversely the thick Droid Turbo (3900 mAh) vindicates it. [2014-09-19]
+  ([[../wiki/sources/2014-09-19-yt-XSf33i8njNU]]) · [2014-09-24] ([[../wiki/sources/2014-09-24-yt-s3QcOSyD38M]])
+  · [2015-03-10] ([[../wiki/sources/2015-03-10-yt-GttoIyB_lEQ]]) · [2014-12-24] ([[../wiki/sources/2014-12-24-yt-26C_O6hDMjQ]])
+- **Form-over-function, named.** When a device trades real capability for looks, say so: the New MacBook —
+  "people won't buy it for the power; they'll buy it for how pretty it looks, and then deal with all the
+  adapters and sacrifices." (A first-gen product also earns a **first-gen caveat** — "keep the second-gen in
+  mind, because Apple already has.") [2015-03-10] ([[../wiki/sources/2015-03-10-yt-GttoIyB_lEQ]])
+- **Teach the mechanism, refuse the hysteria.** Explain the physics, contextualize the outrage, don't dunk.
+  **BendGate**: a soft aluminum sheet with no magnesium chassis bends under abnormal force; it's not the only
+  phone that bends; 10M sold ≠ a recall. **Sapphire**: he replaces his own loose knife-scratch test with a
+  Mohs-scale **sandpaper test** (a public self-correction) and finds the iPhone 6 panel is a sapphire
+  *composite*, not pure — pre-empting Apple's "indestructible" hype. [2014-09-24]
+  ([[../wiki/sources/2014-09-24-yt-s3QcOSyD38M]]) · [2014-07-19] ([[../wiki/sources/2014-07-19-yt-b7ANcWQEUI8]])
+- **Don't review off the spec sheet — vertical integration wins.** "A 1.4 GHz dual-core / 1 GB iPhone 6
+  performs like a 2.5 GHz / 3 GB phone — thank Apple's vertical integration and the A8." Raw numbers mislead;
+  integration delivers. Companion: **OIS is hardware, and hardware beats software stabilization** (the iPhone
+  6 Plus "low-light beast"), and **image processing / big pixels beat raw megapixels** (the iPhone 6 as the
+  HTC-UltraPixel / Samsung-megapixel middle ground; he'd take an 8 MP big-pixel sensor over 20 MP). [2014-10-09]
+  ([[../wiki/sources/2014-10-09-yt-61TAqY03xwk]]) · [2014-10-20] ([[../wiki/sources/2014-10-20-yt-Wwp9eaVVW_8]])
+  · [2015-01-24] ([[../wiki/sources/2015-01-24-yt-7hXjxLrDf5I]])
+- **Grade honestly: on a curve, and less harshly on the fixable.** He'll assign an explicit letter grade and
+  disclose the curve ("battery: C+ absolute, B+ among QHD phones; Note 4 gets the A+"), frames a mid-tier
+  phone's weak points as **"a trade-off, not a flaw"** of its price, and is **"less harsh on things I believe
+  can be fixed with software updates."** And **benchmarks-higher ≠ performs-better** (the Nexus 6 benchmarks
+  high but stutters pushing QHD). [2014-11-15] ([[../wiki/sources/2014-11-15-yt-RoAPTdvgAJg]]) · [2014-09-19]
+  ([[../wiki/sources/2014-09-19-yt-BK3YvlOFRTg]])
+- **Stock-Android restraint is a virtue — anti-"change for the sake of change."** "So many companies add value
+  via software, but the adjustments are sometimes just change for the sake of change… Motorola has done
+  basically none of these." Near-stock → top-tier real-world performance on mid specs (Moto X 2014). The
+  purest expression of his **control-over-software** value: after the OnePlus/Cyanogen split he **flashed CM12
+  + the Franco kernel himself** — "that's the beauty of Android: if you get impatient, you can just go do it."
+  [2014-09-19] ([[../wiki/sources/2014-09-19-yt-BK3YvlOFRTg]]) · [2015-02-24] ([[../wiki/sources/2015-02-24-yt-UUBDiUy2824]])
+- **Judge by real purpose — including audio.** Studio monitors (ATH-M70x) have a **flat frequency response**
+  that "to the untrained ear sounds bass-light or tinny, but is exactly what you want when mixing" — don't
+  call them "better" than the colored M50x, name the *job*. "I'm not an audiophile, but I know what I like" —
+  and he mixes his own videos on them. [2015-02-17] ([[../wiki/sources/2015-02-17-yt-3yoAj-PRsZ0]])
+- **The ecosystem, not the tech, decides adoption.** New tech takes off only when the **content ecosystem**
+  fills in — VR "will take off when there's a lot of VR to look at, like 3D TV would have only made it if
+  people made 3D videos" (which they didn't); but VR has a **"wow" first-demo factor** 3D TV lacked. Same
+  lens powers the **4K-adoption thesis** (2014 "quietly the best year yet for 4K" as *shooting* and *watching*
+  both got easy and prices commoditized — his Asus PQ321Q fell $3,500→$1,500 in a year), and **OLED is the
+  future** (TV + phones). Definitional companion: **VR replaces reality; AR augments it** (HoloLens/Glass = AR).
+  [2015-03-28] ([[../wiki/sources/2015-03-28-yt-i4Zt3JZejbg]]) · [2015-01-26] ([[../wiki/sources/2015-01-26-yt-aJinPXrOZYk]])
+  · [2015-01-15] ([[../wiki/sources/2015-01-15-yt-t8eKwFESN8s]])
+- **USB-C is the future — "the key is the U, it's Universal."** Non-proprietary (unlike Thunderbolt/Lightning),
+  reversible, 100 W / 10 Gbps, backwards-compatible — "it's going to be everywhere; anywhere you see a USB
+  port now, expect a USB-C port soon." [2015-03-13] ([[../wiki/sources/2015-03-13-yt-ZrZISyPucMg]])
+- **Anti-brand-halo / even-handedness (canonical).** Judge the product as if the logo weren't there: on the
+  Apple Watch — "if you took the Apple logo off and imagined Samsung made it… you might have laughed it off
+  the stage. But because it's an Apple Watch, we're willing to give it a shot." Yet **competition from Apple
+  raises the whole field** — "once Apple gets into things, that's what gets the competition going and makes
+  better products for us." [2014-09-11] ([[../wiki/sources/2014-09-11-yt-nxM-rac7vb4]]) · [2014-12-15]
+  ([[../wiki/sources/2014-12-15-yt-Zh2wtbNrlyw]])
+- **Champion the risk-taker — "I'm glad it exists."** He roots for bold attempts even when they won't sell and
+  aren't for him — the bezelless Sharp Aquos Crystal ("I like when manufacturers take risks like this… I'm
+  glad they took that risk"), the Dell Venue 8 ("taking risks is good"), the S6 Edge going "from a weird
+  experiment to a full-fledged flagship." [2014-10-18] ([[../wiki/sources/2014-10-18-yt-opVgMDtBecA]]) ·
+  [2015-02-14] ([[../wiki/sources/2015-02-14-yt-KG9E5LaI8bk]]) · [2015-03-01] ([[../wiki/sources/2015-03-01-yt-KrxrzzTUPD8]])
+- **The ideal phone (Dream Smartphone 2014), and value-mismatch.** His picks map his values: front-facing
+  speakers, a big battery over thinness, "**screen size is not phone size**," pure stock Android, image-
+  processing over sharpening, and **no gimmicks — "but if it's in the phone, it better work, otherwise it's
+  just taking up space."** And **price must match the build/value delivered** — the Nexus 9 "should be $300,
+  not $400." Judge a phone by the **look-vs-hold** gap (the S6 photographs plain but is "one of the best-
+  feeling Samsungs in a while"). [2014-11-12] ([[../wiki/sources/2014-11-12-yt-lMGggUDolRI]]) · [2014-12-01]
+  ([[../wiki/sources/2014-12-01-yt-vE-P7zzCCsU]]) · [2015-03-01] ([[../wiki/sources/2015-03-01-yt-TtLHiiXyERA]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated
@@ -442,6 +517,13 @@ wearables, budget phones, the Mac Pro, and his first car._
 - ✅ (self-referential) **Higher-than-1080p phone resolution follows the same path 1080p did** — the "why would you want 2K?" backlash to Oppo mirrors the proven-wrong "why would you want 1080p?" backlash to his 2012 Oppo video; QHD phones (S5 QHD variants, Note 4, Nexus 6) followed. [2013-12-19] ([[../wiki/sources/2013-12-19-yt-E0_JrUNevdc]])
 - ✅ **The Galaxy S5 will be an incremental "S4S"** (leaked-benchmark-based, calibrated ~65–75% for another 1080p display) — confirmed; ❌ but he gave the fingerprint scanner ~5% and it shipped one (a logged miss he acknowledged). [2014-02-08 → 2014-04-16] ([[../wiki/sources/2014-02-08-yt-8QF3qJ0U5K0]]) · ([[../wiki/sources/2014-04-16-yt-z8gOX35dAfc]])
 - ≈ **Google Now becomes the assistant "face" across form factors** (glass, watches, appliances) — broadly realized via Assistant across Android's ecosystem. [2013-11-02] ([[../wiki/sources/2013-11-02-yt-1JEXDBWehvI]])
+
+**2014–2015 predictions (added synthesis pass 12, 2026-07-23) — dated, checkable:**
+- ✅ **The Amazon Fire Phone won't last — "I'd be surprised if we saw a version two next year"** (the Facebook/HTC-First precedent) — the Fire Phone was discontinued in 2015, no successor. [2014-06-19] ([[../wiki/sources/2014-06-19-yt-6trOg2IK2Zg]])
+- ✅ **USB-C is the future — "it's going to be everywhere; anywhere you see a USB port now, expect a USB-C port soon"** — borne out across laptops/phones/tablets by the late 2010s. [2015-03-13] ([[../wiki/sources/2015-03-13-yt-ZrZISyPucMg]])
+- ✅ **"The second generation of this thin MacBook will have more than one USB-C port — quote me"** — later MacBooks/MacBook Pros added multiple USB-C/Thunderbolt ports. [2015-03-13] ([[../wiki/sources/2015-03-13-yt-ZrZISyPucMg]])
+- ⏳ **VR's fate hinges on content** ("it might not happen, like 3D TV, unless there's a lot of VR to look at" — but it has a "wow" factor 3D TV lacked) — an open, correctly-framed bet as of 2015. [2015-03-28] ([[../wiki/sources/2015-03-28-yt-i4Zt3JZejbg]])
+- ✅ (dated earlier) **The Apple-Watch-by-end-of-2014 call landed** (Sept 2014) — see the 2013–2014 block; the Sept-2014 impressions confirm it, with the anti-brand-halo caveat. [2014-09-11] ([[../wiki/sources/2014-09-11-yt-nxM-rac7vb4]])
 
 ### Attribution-to-confirm (from @Waveform ensemble; not yet hardened)
 _These recur in his ensemble podcast but per-line attribution is uncertain (auto-captions, no speaker labels). Promote to firm beliefs only after confirming against his solo-channel audio._

@@ -33,6 +33,19 @@ _The earliest root of the car-review beat, a decade before AutoFocus, surfaced i
   facing speakers on a phone — I wish everyone would adopt it." Discloses he's **never owned a car**. [2014-05-03]
   ([[2014-05-03-yt-c4zAPmQZmYA]])
 
+## The car beat continues (CES 2015 / early 2015) — added synthesis pass 12 (2026-07-23)
+_From the 713→785 batches — a year after the first Tesla Model S video, the car interest keeps growing._
+- **"Who'd have thought the coolest booth at CES would be a car company?"** BMW's CES 2015 booth: the i8
+  hybrid, **inductive wireless charging** for the car, OLED taillights / laser headlights, and an **i3 that
+  drives itself and summons from a smartwatch** — "surreal sitting in the backseat of a car driving itself
+  with no one else in it." An early autonomy/car-tech impression. [2015-01-11] ([[2015-01-11-yt-_z9q096Lhj0]])
+- **Tesla Model X (CES 2015).** "I've talked a lot about Tesla since I showed the Model S in this booth last
+  year." Falcon-wing doors, three rows, and a **refined interior answering the Model S's biggest complaint**
+  (a nicer screen bezel, steering-wheel touchscreens replacing knobs). [2015-01-15] ([[2015-01-15-yt-t8eKwFESN8s]])
+- **BMW i8 (birthday shoot, 6K).** He visited BMW HQ "after class on my birthday" and shot the i8 in **6K** —
+  "one of the most badass hybrid cars in the world." A biography + production node in the growing car beat.
+  [2015-02-01] ([[2015-02-01-yt-nnODX_VEp2c]])
+
 ## The @AutoFocus era (2026 EV reviews) — first substantial corpus
 
 > Added synthesis pass 2 (2026-07-19) from the first @AutoFocus batch. Marques-fronted → persona-eligible; the Porsche Macan driving section is handed to co-host "Miles" and quarantined at the source.

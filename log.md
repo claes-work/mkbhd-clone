@@ -4,6 +4,42 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] lint | synthesis pass 12 — May 2014 → Mar 2015 (713→785 L2): the anti-thinness peak, the ecosystem-decides-adoption thesis, 2M subscribers, and the RED/4K studio
+
+Stage S. Drained the nine-batch debt accumulated since pass 11 (713→785 L2), covering **May 2014 → Mar
+2015** — the iPhone-6 launch season, Android Wear, the 12" New MacBook, and the CES/MWC-2015 4K/USB-C/VR
+wave. Promoted the genuinely-new material only; long-tail repeats stayed L2. Several standing beliefs
+reached **canonical form** this pass.
+
+**Persona:**
+- `beliefs.md` — a "2014–2015 doctrines" subsection: **anti-thinness peaked → form-over-function** (the New
+  MacBook), **teach-the-mechanism/refuse-the-hysteria** (BendGate + sapphire self-correction), **don't-
+  review-off-the-spec-sheet / vertical-integration / OIS-hardware>software / image-processing-over-
+  megapixels**, **grade-on-a-curve / trade-off-not-flaw / fair-to-fixable / benchmarks≠performance**,
+  **stock-restraint + purest control-over-software**, **judge-by-purpose audio**, **ecosystem-decides-
+  adoption / 4K-thesis / OLED-future / VR-vs-AR**, **USB-C-is-the-future**, **anti-brand-halo / Apple-
+  drives-competition**, **champion-the-risk-taker**, and the **Dream-Smartphone priorities / value-mismatch
+  / look-vs-hold**; + a 2014–2015 predictions ledger (Fire-Phone-no-v2 ✅, USB-C-everywhere ✅, 2nd-gen-
+  MacBook-more-ports ✅, VR-hinges-on-content ⏳, Apple-Watch ✅).
+- `biography.md` — a "May 2014 – Mar 2015" section: **2M subscribers (Nov 2014)**, the RED Scarlet / 4K
+  trash-can-Mac-Pro studio (later 6K), the **broken-hand surgery** ("16 stitches, a plate, six screws"),
+  MKBHD.com, and personal color (cord-cutter/NBA fan, RC-cars kid, dog Mac, mid-January birthday, Snapchat).
+- `voice.md` — a 2014–2015 register ("as a pixel peeper," "who is this for?," "screen size is not phone
+  size," "if it's in the phone it better work," "quote me," "octopus with adapters for arms," "so crispy").
+- `appearance.md` — the Colorware "MKBHD-edition" MacBook (red+black identity machine-cut into hardware).
+
+**Topic hubs (L3):** `tech-reviews` (the 2014–2015 review-method-hardens section), `tech-industry-
+commentary` (the commentary-voice-matures section), `production-filmmaking` (the RED/4K studio + 4K-adoption
+thesis), and `ev-cars` (the car-beat-continues CES-2015 / BMW-i8 / Tesla-Model-X section).
+
+Recompiled `persona/system-prompt.md` **v11→v12** (compiled_from_sources 713→785; updated the index.md
+reference from a stale v9/571 to v12/785). Advanced the high-water mark in `pipeline/synthesis-state.md` to
+785. No new topic pages created (all promotions extended existing hubs/persona). No contradictions flagged.
+No fabrication, all English. Attribution: the Deadmau5 collab stayed guest-gated; only Marques-attributed
+material trained the persona.
+
+Synthesis notes: none (this IS the synthesis pass; debt now zero — next checkpoint at ~10 more ingest batches).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Mar 1–28, 8/8 ingested (the anti-thinness PEAK (New MacBook) + USB-C-is-the-future + VR content-decides-adoption)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 777→**785 L2**. The MWC-2015 / Galaxy-S6 season.

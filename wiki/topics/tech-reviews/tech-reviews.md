@@ -309,6 +309,33 @@ _From the 643→713 batches — the recurring formats and the value/scoring doct
 - **The car beat opens — reviews a car like a phone** (Tesla Model S) → [[../ev-cars/ev-cars|EVs & Cars hub]].
   [2014-05-03] ([[2014-05-03-yt-c4zAPmQZmYA]])
 
+## The 2014–2015 review method hardens — added synthesis pass 12 (2026-07-23)
+_From the 713→785 batches (iPhone 6 / Android Wear / New MacBook / MWC 2015). Several method rules reach
+canonical form._
+- **Anti-thinness → form-over-function.** The recurring stand against the thinness race, peaking on the 12"
+  New MacBook ("too thin for batteries / ports / trackpad / logo… people won't buy it for the power, they'll
+  buy it for how pretty it looks"), stated on the iPhone 6/6+ and BendGate, and vindicated by the thick Droid
+  Turbo (3900 mAh). → `persona/beliefs.md`. [2015-03-10] ([[2015-03-10-yt-GttoIyB_lEQ]]) · [2014-09-19]
+  ([[2014-09-19-yt-XSf33i8njNU]]) · [2014-12-24] ([[2014-12-24-yt-26C_O6hDMjQ]])
+- **Don't review off the spec sheet — vertical integration + real image processing.** "A 1.4 GHz / 1 GB
+  iPhone 6 performs like a 2.5 GHz / 3 GB phone — thank Apple's vertical integration and the A8"; **OIS
+  hardware beats software stabilization** (iPhone 6+ "low-light beast"); **image processing / big pixels beat
+  megapixels** (the HTC-UltraPixel / Samsung-megapixel middle ground). [2014-10-09] ([[2014-10-09-yt-61TAqY03xwk]])
+  · [2014-10-20] ([[2014-10-20-yt-Wwp9eaVVW_8]])
+- **Grade honestly.** Explicit letter grades disclosed on a curve (Nexus 6 battery "C+ absolute / B+ among
+  QHD phones"); weak points on a mid-tier phone are "a trade-off, not a flaw"; **less harsh on software-
+  fixable flaws**; and **benchmarks-higher ≠ performs-better**. [2014-11-15] ([[2014-11-15-yt-RoAPTdvgAJg]])
+- **Look-vs-hold + don't-judge-from-the-press-room.** Judge a phone by the in-hand experience, not photos
+  (the S6 "one of the best-feeling Samsungs in a while"); refuse a camera verdict from bad press-room lighting
+  — go out, shoot, "pixel peep" the full review. [2015-03-01] ([[2015-03-01-yt-TtLHiiXyERA]]) · [2015-03-03]
+  ([[2015-03-03-yt-QXF3tUfvuLU]])
+- **Judge-by-purpose extends to audio.** Studio monitors' flat response is "exactly what you want when mixing"
+  — don't call them "better" than colored consumer cans, name the job (ATH-M70x, which he mixes his own videos
+  on). → [[../production-filmmaking/production-filmmaking|Production hub]]. [2015-02-17] ([[2015-02-17-yt-3yoAj-PRsZ0]])
+- **Champion the risk-taker + value-mismatch.** "I'm glad it exists" for bold attempts (Sharp bezelless, Dell
+  Venue 8); price must match the build/value delivered (Nexus 9 "should be $300, not $400"). [2014-10-18]
+  ([[2014-10-18-yt-opVgMDtBecA]]) · [2014-12-01] ([[2014-12-01-yt-vE-P7zzCCsU]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

@@ -113,5 +113,22 @@ platform-awareness.
 ## Creator-origin narrative
 - Marques locates his own filmmaking/camera obsession in the 1984 JVC GR-C1 camcorder — "even though I didn't start making my videos until 25 years after this camera came out, I still owe a lot of what I do now to this." → see [[../consumer-tech-culture/consumer-tech-culture|Consumer Tech Culture hub]] and [[../../../persona/biography|biography]]. [2019-12-02] ([[2019-12-02-yt-kMtN9KJHn5Y]])
 
+## The RED/4K studio + the 4K-adoption thesis (2014–2015) — added synthesis pass 12 (2026-07-23)
+_From the 713→785 batches — the production rig levels up and the "State of 4K" franchise crystallizes._
+- **The RED Scarlet / 4K jump (Setup Tour 2014).** He moved his main camera to the **RED Scarlet (4K)** with a
+  Sigma 18–35 f/1.8; the **trash-can Mac Pro drives twin Asus PQ321Q 4K displays** through a Sennheiser MKH416
+  → Focusrite Scarlet 2i2 chain (iKey monitors, Philips Hue). Wider kit: Canon C100, Panasonic GH4, Sony
+  RX100, Fuji X100s. By early 2015 he's shooting **6K** (the BMW i8). Edits in **Adobe Premiere Pro (~95%)**;
+  mixes his own audio. [2014-05-31] ([[2014-05-31-yt-Ij9njxJUyUQ]]) · [2014-08-24] ([[2014-08-24-yt-EC00YntB7LQ]])
+  · [2015-02-01] ([[2015-02-01-yt-nnODX_VEp2c]])
+- **The 4K-adoption thesis (annual "State of 4K").** "2014 was quietly the best year yet for 4K" — *shooting*
+  and *watching* both got easy, and prices commoditized (his Asus PQ321Q monitors fell $3,500→$1,500 in a
+  year; the 5K iMac for editing; Netflix + YouTube delivery). The pipeline maturing at once is the whole point.
+  → `persona/beliefs.md`. [2015-01-26] ([[2015-01-26-yt-aJinPXrOZYk]])
+- **Creator-gear advice + judge-by-purpose audio.** The RX100 II/III is his **"best camera to start a YouTube
+  channel"** recommendation (over a DSLR); studio monitors (ATH-M70x) are for a *job* (flat-response mixing),
+  not "better" than colored consumer cans — and he mixes his own videos on them. [2014-08-16]
+  ([[2014-08-16-yt-9HtGhNUtW-E]]) · [2015-02-17] ([[2015-02-17-yt-3yoAj-PRsZ0]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

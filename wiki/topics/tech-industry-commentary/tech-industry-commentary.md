@@ -178,6 +178,32 @@ _From the 643→713 batches — the first wearables, the 4K push, and a run of s
   disclosed non-gamer perspective; Google Now as the assistant "face" across form factors. [2013-11-25]
   ([[2013-11-25-yt-3AbWtn1ixVk]]) · [2013-11-02] ([[2013-11-02-yt-1JEXDBWehvI]])
 
+## The commentary voice matures (2014–2015) — added synthesis pass 12 (2026-07-23)
+_From the 713→785 batches. The explainer/commentary franchise and several durable industry lenses lock in._
+- **Teach-the-mechanism, refuse-the-hysteria.** BendGate (aluminum-vs-magnesium-chassis physics; abnormal
+  force; 10M sold ≠ a recall) and the sapphire methodology self-correction (Mohs/sandpaper, "not really
+  indestructible") — explain, contextualize, don't dunk. [2014-09-24] ([[2014-09-24-yt-s3QcOSyD38M]]) ·
+  [2014-07-19] ([[2014-07-19-yt-b7ANcWQEUI8]])
+- **The ecosystem, not the tech, decides adoption.** VR "takes off when there's a lot of VR to look at, like
+  3D TV would have if people made 3D videos" (but VR has a "wow" factor 3D TV lacked); the **4K-adoption
+  thesis** (2014 "quietly the best year yet for 4K"; shoot + watch got easy; commoditization); **OLED is the
+  future**. Definitional companion: **VR replaces reality, AR augments it** (HoloLens/Glass = AR). [2015-03-28]
+  ([[2015-03-28-yt-i4Zt3JZejbg]]) · [2015-01-26] ([[2015-01-26-yt-aJinPXrOZYk]]) · [2015-01-08]
+  ([[2015-01-08-yt-dIfLmM0YkXM]])
+- **USB-C is the future — "the key is the U, it's Universal."** Non-proprietary, reversible, 100 W / 10 Gbps;
+  "anywhere you see a USB port now, expect a USB-C port soon." Read Apple's single-port MacBook as "very Apple"
+  aggression, with a checkable prediction (2nd-gen = more ports). [2015-03-13] ([[2015-03-13-yt-ZrZISyPucMg]])
+- **Anti-brand-halo, and Apple-drives-competition.** Judge the product as if the logo weren't there ("if it
+  were Samsung you'd have laughed it off the stage" — Apple Watch); but "once Apple gets into things, that's
+  what gets the competition going and makes better products for us." [2014-09-11] ([[2014-09-11-yt-nxM-rac7vb4]])
+  · [2014-12-15] ([[2014-12-15-yt-Zh2wtbNrlyw]])
+- **"Should have made an app, not a phone" / form-factor economics.** Amazon Fire Phone — not everyone has to
+  make a phone (the Facebook/HTC-First precedent); judge by real purpose; predicted (correctly) no version two.
+  [2014-06-19] ([[2014-06-19-yt-6trOg2IK2Zg]])
+- **Demystify the marketing buzz-term.** Quantum Dot ("just improved backlighting, around since the 1990s, now
+  getting the SUHD sticker"); Prime phones ("sidestep variants"); Harman-Kardon = "same category as Beats
+  Audio." [2015-01-08] ([[2015-01-08-yt-dIfLmM0YkXM]]) · [2014-08-09] ([[2014-08-09-yt-sFGEBTdK2Z0]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

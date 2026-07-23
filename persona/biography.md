@@ -382,6 +382,44 @@ private life still treated as not-public (SUBJECT.md)._
   highlight-reel** approach as a one-man show. Verified on Google+, not-yet on Twitter (Jan 2014). 🗣️
   ([[../wiki/sources/2014-04-28-yt-R7siKvpvuCM]]) · ([[../wiki/sources/2014-02-24-yt-fbwEaql90Ac]])
 
+## Corpus-derived anchors (May 2014 – Mar 2015: 2 million subscribers, the RED/4K studio, a broken hand, and the website) — added synthesis pass 12 (2026-07-23)
+
+_Surfaced by nine @mkbhd ingest batches since pass 11 (713→785 L2), covering May 2014 → Mar 2015 — the
+iPhone-6 launch season, his senior year, and the run to 2M subscribers. Family/private life still treated
+per policy; only self-disclosed, on-camera facts are recorded._
+
+- **Two million subscribers (Nov 2014), and the 2014 scale.** He crossed **1M and then 2M subscribers within
+  2014** ("1.99 million… about to be 2 million" in Nov 2014). His 2014 year-in-review: **93 videos, 130M+
+  views, ~7-min average length, and over 1,000 years of cumulative human watch time.** The 100k YouTube
+  "silver play button" plaque arrived a couple months before the May-2014 Setup Tour; the 1M plaque was
+  "more than a year late." 🗣️ [2014-05-31] ([[../wiki/sources/2014-05-31-yt-Ij9njxJUyUQ]]) · [2014-11-20]
+  ([[../wiki/sources/2014-11-20-yt-aEDJkbSJKP0]]) · [2015-01-01] ([[../wiki/sources/2015-01-01-yt-arlvHJnfFKI]])
+- **The RED Scarlet / 4K studio (Setup Tour 2014).** He moved to the **RED Scarlet (4K)** as his main camera
+  (Sigma 18–35 f/1.8), with the **trash-can Mac Pro "running the show"** driving twin **Asus PQ321Q 4K
+  displays** + a Sennheiser MKH416 → Focusrite Scarlet 2i2 audio chain, iKey monitors, and Philips Hue
+  lighting; wider kit includes the Canon C100, Panasonic GH4, Sony RX100, and Fuji X100s. By early 2015 he was
+  also shooting **6K** (the BMW i8). He edits in **Adobe Premiere Pro (~95% of the time)** and mixes his own
+  audio (ATH-M70x). 🗣️ [2014-05-31] ([[../wiki/sources/2014-05-31-yt-Ij9njxJUyUQ]]) · [2014-08-24]
+  ([[../wiki/sources/2014-08-24-yt-EC00YntB7LQ]]) · [2015-02-01] ([[../wiki/sources/2015-02-01-yt-nnODX_VEp2c]])
+- **A broken hand, and surgery (Fall 2014).** He **broke his dominant (writing) hand playing ultimate
+  frisbee** in Sept 2014 — "not trying to bend a phone like some people thought" — which delayed the iPhone 6
+  reviews and cut his cadence for weeks; surgery followed: **"16 stitches, a plate, and six screws."** 🗣️
+  [2014-09-26] ([[../wiki/sources/2014-09-26-yt-3kYDVzwcwcg]]) · [2014-11-20] ([[../wiki/sources/2014-11-20-yt-aEDJkbSJKP0]])
+- **The "best video, not first video" ethic + MKBHD.com.** His stated creator resolution: **"I'd rather be
+  the best video than the first video," "make every new video my best work."** In early 2015 the **MKBHD.com**
+  website was in progress ("taken longer than I thought — I want to get it right"). 🗣️ [2014-09-26]
+  ([[../wiki/sources/2014-09-26-yt-3kYDVzwcwcg]]) · [2015-01-01] ([[../wiki/sources/2015-01-01-yt-arlvHJnfFKI]])
+- **Personal-life datapoints (self-disclosed).** A **cord-cutter** ("I don't pay for a cable subscription at
+  all") and **NBA fan** (watches via NBA League Pass, Chromecasting to his TV); an **RC-cars kid** growing up
+  (revealed flying drones with Deadmau5); has a **dog named Mac**; his **birthday is ~mid-January** (he visited
+  BMW HQ "after class on my birthday"); started using **Snapchat (@MKBHD)** in early 2015; still a **student**
+  (senior-year finals/crunch through the period). 🗣️ [2014-12-18] ([[../wiki/sources/2014-12-18-yt-CjYPLWcgAOE]])
+  · [2015-02-10] ([[../wiki/sources/2015-02-10-yt-UJ9Lbao6j-c]]) · [2015-02-01] ([[../wiki/sources/2015-02-01-yt-nnODX_VEp2c]])
+- **The MKBHD × dbrand partnership + the Colorware "MKBHD-edition" gear** continue as his brand's physical
+  expression (custom red-carbon-fiber skins; a matte-black + cherry-red-hinge MacBook with a backlit MKBHD
+  logo — durability holding up as of Nov 2014). 🗣️ [2014-07-04] ([[../wiki/sources/2014-07-04-yt-W8BfirN9z94]])
+  · [2014-11-20] ([[../wiki/sources/2014-11-20-yt-aEDJkbSJKP0]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

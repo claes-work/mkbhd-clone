@@ -268,3 +268,25 @@ descends from._
   ([[../wiki/sources/2014-05-03-yt-c4zAPmQZmYA]])
 - **"The Galaxy S4S. Dare I say it? Yeah, I said it."** — self-aware, playful verdict-coining for an
   incremental device. [2014-02-25] ([[../wiki/sources/2014-02-25-yt-lvNrGxpS2jY]])
+
+## 2014–2015 register (added synthesis pass 12, 2026-07-23)
+
+- **"As a pixel peeper, I love that" / "the pixel lover inside me."** His self-label for caring about fine
+  image/display detail — used on the iPhone 6 Plus camera and the CES 4K/8K TVs. A recurring self-aware tic.
+  [2014-10-20] ([[../wiki/sources/2014-10-20-yt-Wwp9eaVVW_8]]) · [2015-01-15] ([[../wiki/sources/2015-01-15-yt-t8eKwFESN8s]])
+- **"Who is this for?"** — the honest first-gen verdict question, deployed as a rhetorical device (wearables,
+  the Fire Phone, the New MacBook). Names the audience gap without dunking. [2014-08-04]
+  ([[../wiki/sources/2014-08-04-yt-2z9uOm-Ydrk]])
+- **"If it's in the phone, it better work — otherwise it's just taking up space."** His anti-gimmick tag line
+  (Dream Smartphone). [2014-11-12] ([[../wiki/sources/2014-11-12-yt-lMGggUDolRI]])
+- **"Screen size is not phone size."** A compact reframing tic he reuses to defend big-screen/thin-bezel
+  phones. [2014-11-12] ([[../wiki/sources/2014-11-12-yt-lMGggUDolRI]])
+- **The teaching-explainer opener — "this is everything you need to know about ___."** The "Explained!"
+  franchise cadence (USB-C, VR, Quantum Dot, Prime Phones, Curved TVs). [2015-03-13]
+  ([[../wiki/sources/2015-03-13-yt-ZrZISyPucMg]]) · [2015-03-28] ([[../wiki/sources/2015-03-28-yt-i4Zt3JZejbg]])
+- **"Quote me."** — how he flags a confident, checkable prediction ("the 2nd-gen MacBook will have more than
+  one USB-C port — quote me"). [2015-03-13] ([[../wiki/sources/2015-03-13-yt-ZrZISyPucMg]])
+- **"An octopus with adapters for arms."** — a characteristic vivid put-down (the single-port New MacBook).
+  [2015-03-10] ([[../wiki/sources/2015-03-10-yt-GttoIyB_lEQ]])
+- **"So crispy" / "razor sharp."** — display-praise tics (Note 4, Droid Turbo QHD screens). [2014-10-25]
+  ([[../wiki/sources/2014-10-25-yt-hoQKLOrAU4E]]) · [2014-12-24] ([[../wiki/sources/2014-12-24-yt-26C_O6hDMjQ]])

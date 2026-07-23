@@ -46,4 +46,13 @@ mark every entry's evidence type.
   him a custom red-carbon-fiber "MKBHD-edition" skin (+ M50/PS4 stickers) and branded merch. 🗣️ [2014-02-07]
   ([[../wiki/sources/2014-02-07-yt-qauddPrHLqU]]) · [2014-02-24] ([[../wiki/sources/2014-02-24-yt-fbwEaql90Ac]])
 
+- **Red-and-black brand identity, now machine-cut into hardware (added synthesis pass 12, 2026-07-23).** He
+  designed a **Colorware custom MacBook Pro**: matte ("tuxedo") black with a **cherry-red hinge accent** and a
+  machine-cut, **backlit MKBHD logo** replacing Apple's — "you guys already know I like red and black… a legit
+  MKBHD-edition MacBook." Chosen *understated by design* (bright-red is "cool for a week, then you have to take
+  it to class"), and characteristically source-critical about its own paint durability (which held up per a
+  Nov-2014 check). Extends the dbrand red-and-black thread from a skin to a permanently-branded device; the
+  causal line to the later crimson studio brand still deliberately left open. 🗣️ [2014-07-04]
+  ([[../wiki/sources/2014-07-04-yt-W8BfirN9z94]]) · [2014-11-20] ([[../wiki/sources/2014-11-20-yt-aEDJkbSJKP0]])
+
 _(the rest — grooming, wardrobe, on-camera setting over time — needs watched-video samples; still empty)_
