@@ -4,6 +4,62 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Oct 25–Nov 20, 8/8 ingested
+
+Stage B. **Sixteenth consecutive clean batch, eleventh zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
+0 dup. 563→**571 L2**. Two ★★ (a biography life-event and the fullest expression of a documented value),
+plus the Nexus-4/10 launch season.
+
+**Biography landmark — Hurricane Sandy.** `MKBHD Hurricane Sandy Update!` (11-08) is his **first-ever
+front-facing/vlog video**, filmed with no electricity: "Hurricane Sandy swept the whole east coast of
+the United States — which is right outside my window — and it killed the power. There hasn't been
+electricity or heat in this building in 11 days." A dated life event that also (a) locates him on the
+east coast (consistent with NJ/Stevens), (b) shows his production dependence on the home studio (the
+Mac Pro "an empty shell"), and (c) yields two persona details: he writes **video ideas on index cards**,
+and he's been charging gadgets at his **neighbor/teammates'** place across the street — further
+ultimate-team living detail. The Google Nexus event was also a Sandy casualty ([[2012-10-29-yt-WeHC3qjt1Ws]]).
+
+**The control-over-software value at full strength.** `The SuperNexus Project!` (11-13) has him
+hand-building his ideal phone: a **black Verizon Galaxy S3, rooted on CyanogenMod 10**, with flashed
+Android 4.2 extras — getting stock software *and* better hardware *and* the LTE the Nexus 4 lacks.
+Rather than accept any single shipped phone, he assembles the exact hardware+software+network
+combination he wants, and confirms it as his daily driver. This is the vivid illustration of the
+stock-vs-skin resolution (control over the software, not stock-dogma) — plus a new wrinkle: he won't
+trade LTE for the newest stock Android, which is *why* he built this instead of buying a Nexus 4.
+
+Supporting: `Nexus 4/10 First Look` (10-29) has him state intent to **leave Verizon** ("after all this
+crap with the Galaxy Note 2" — recorded as intent, since he's still on Verizon weeks later), anchors the
+Nexus 4's $300-unlocked price against the $650 S3 and $800 iPhone 5, and raves about the Nexus 10 display
+(pixel obsession). `Galaxy Camera Hands-on` (10-25) shows his instinct for a **novel category** (he spent
+the NY Note 2 launch on the odd Android camera instead) and reserves the verdict for real footage.
+`Android 4.2 Top-5` (11-15) restates polish-as-a-quality-axis, makes an honest "half-baked" call on the
+new lock-screen widgets, and teaches Photo Sphere technique. `LG Optimus G Review` (11-19) is a
+**difference-only comparison** ("everything different from the Nexus 4") that validates the audience's
+own summary ("you're basically right"). The two unboxings (Nexus 10, Nexus 4) confirm the studio is back
+online post-Sandy, restate the request-driven review pipeline as method, and add a candid
+content-saturation aside ("you've probably watched every other Nexus 4 video by now, but I want to bring
+it to you anyway").
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 563 → 571 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **Hurricane Sandy (east coast, 11-day outage, first vlog, index-card backlog,
+teammates nearby)** → `persona/biography.md` as a dated life event + location + habit anchors.
+(2) ★★ **The SuperNexus** → update the control-over-software beliefs entry with the DIY-ideal-phone
+illustration and the LTE-refusal wrinkle. (3) ★ **Leaving Verizon** (stated intent, Oct 2012) → carrier
+timeline, flagged as intent. (4) ★ Value analysis via competitor price anchors ($300 vs $650 vs $800) +
+Nexus 10 display rave → reinforcing beliefs citations. (5) ★ **Difference-only comparison review** +
+"you're basically right" → method/humility notes. (6) ★ **Request-driven review pipeline stated as
+method** + on-camera privacy discipline → supporting method/values. (7) ★ Polish-as-quality restated;
+Photo Sphere teaching tip. (8) ★ Content-saturation self-awareness; intrigued-by-novel-category instinct.
+(9) ★ Biography: S3-on-CM10 "Super Nexus" daily driver, studio back post-Sandy, ~500-video milestone.
+**Debt: 9 ingest batches since synthesis pass 8 — the synthesis checkpoint fires on the next batch.** The
+queued ★★ material is large: upgradeability, anti-benchmark, function-over-form, loss-leader pricing, the
+ultimate-frisbee reveal, Hurricane Sandy, the definitive workstation, the stock-vs-skin resolution +
+SuperNexus, earliest-Oppo, the buyer's-guide framework, the update-fragmentation mechanism, and the
+methodology worked examples/promise-delivery pairs.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Oct 1–23, 8/8 ingested
 
 Stage B. **Fifteenth consecutive clean batch, tenth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,

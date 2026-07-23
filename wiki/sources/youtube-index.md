@@ -442,6 +442,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-10-18 — [[2012-10-18-yt-2No-AEasdz8|Samsung Galaxy Note 2 vs Galaxy S3!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("thumbs-on-screen" big-display argument; testing daily-driver switch)_
 - 2012-10-22 — [[2012-10-22-yt-y2d2tlnNYOg|A Google Nexus Program: Explained!]] ★★ · tech-industry-commentary, smartphones, consumer-tech-culture _(update-fragmentation mechanism via incentives; certified-stock-Android proposal)_
 - 2012-10-23 — [[2012-10-23-yt-PPEpTasDz2s|On Apple's New 2012 Desktops!]] ★★ · tech-industry-commentary, production-filmmaking, consumer-tech-culture _(LANDMARK: upgradeability as a first-class value; "true desktop")_
+- 2012-10-25 — [[2012-10-25-yt-7Tw9Yk-6jkQ|Samsung Galaxy Camera Hands-on!]] ★ · production-filmmaking, consumer-tech-culture, tech-reviews _(intrigued by the novel category; real-time sharing)_
+- 2012-10-29 — [[2012-10-29-yt-WeHC3qjt1Ws|Nexus 4 and Nexus 10 First Look!]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary _(leaving Verizon; $300-unlocked value anchors; Nexus 10 display rave)_
+- 2012-11-08 — [[2012-11-08-yt-Tqm8Izfn_oU|MKBHD Hurricane Sandy Update!]] ★★ · creator-business, consumer-tech-culture _(LANDMARK biography: Sandy, 11-day outage, first vlog; teammates across the street)_
+- 2012-11-13 — [[2012-11-13-yt-RQy0NeVnxLo|The SuperNexus Project!]] ★★ · smartphones, consumer-tech-culture, tech-reviews _(DIY ideal phone — black S3 on CM10 + LTE; fullest expression of control-over-software)_
+- 2012-11-15 — [[2012-11-15-yt-G43tYXIlUV4|Top 5 Android 4.2 Jellybean Features!]] ★ · smartphones, consumer-tech-culture, tech-reviews _(polish-as-quality; "half-baked" call; Photo Sphere teaching tip)_
+- 2012-11-16 — [[2012-11-16-yt-nCVygTgQKUs|Nexus 10 Unboxing & First Impressions!]] ★ · tech-reviews, consumer-tech-culture _(studio back post-Sandy; request-driven pipeline; privacy discipline)_
+- 2012-11-19 — [[2012-11-19-yt-yRaIjn6q9Jo|LG Optimus G Review! (Nexus 4 Comparison)]] ★ · smartphones, tech-reviews, consumer-tech-culture _(difference-only comparison; "you're basically right")_
+- 2012-11-20 — [[2012-11-20-yt-RvfjuYUe6-w|Nexus 4 Unboxing & First Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(content-saturation self-awareness; request-driven review)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -604,4 +612,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_563 videos ingested (L2) so far._
+_571 videos ingested (L2) so far._
