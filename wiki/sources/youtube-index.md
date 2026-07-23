@@ -426,6 +426,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-08-19 — [[2012-08-19-yt-_02K6efDLI0|Blackberries: Explained!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(data-driven market analysis; enterprise decomposition)_
 - 2012-08-25 — [[2012-08-25-yt-3L27XnwKWkY|Top 3 Gadgets of Summer 2012!]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(retina MBP / S3 / Nexus 7; updates-as-value axis)_
 - 2012-08-30 — [[2012-08-30-yt-IT73da-C4sw|CyanogenMod 10 on the Samsung Galaxy S3!]] ★★ · smartphones, consumer-tech-culture, tech-reviews _(RESOLVES the stock-vs-skin arc: S3 hardware + near-stock CM10 = control-over-software)_
+- 2012-09-01 — [[2012-09-01-yt-APQqX8Xd5TA|The Galaxy Nexus 2 Wishlist!]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(multi-manufacturer Nexus + vertical-integration predictions; Dec-3rd birthday easter egg)_
+- 2012-09-03 — [[2012-09-03-yt-MS3VXAUZcJE|GIVEAWAY: Fastest Mac Mini in the World!]] ★ · creator-business, consumer-tech-culture _(Unbox Therapy collab; Mac Mini→Mac Pro upgrade confirmed)_
+- 2012-09-08 — [[2012-09-08-yt-Teyx-jx2Ano|Asus Zenbook Prime Review!]] ★ · tech-reviews, production-filmmaking, consumer-tech-culture _("only one real reason: the display"; his college note-taking laptop)_
+- 2012-09-13 — [[2012-09-13-yt-aSZ2GogKawQ|The Setup Tour Project 2012!]] ★ · content-strategy, creator-business, consumer-tech-culture _(community-collaboration call-for-submissions; "learn from others' setups")_
+- 2012-09-16 — [[2012-09-16-yt-1E6PDgIwFg4|The Super-Retina Display Smartphone!]] ★★ · smartphones, tech-industry-commentary, consumer-tech-culture _(LANDMARK long-arc: earliest Oppo mention, "it's going to be big")_
+- 2012-09-21 — [[2012-09-21-yt-kRB1-APKUqs|The Setup Tour 2012!]] ★★ · production-filmmaking, consumer-tech-culture, creator-business _(LANDMARK: definitive 2012 workstation; Mac Pro; ultimate-frisbee corroborated)_
+- 2012-09-25 — [[2012-09-25-yt-hKvoHRAYyMc|New Myspace Design: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary _(good-website-vs-good-network distinction)_
+- 2012-09-29 — [[2012-09-29-yt-C-b9hmerTac|Top 5 Reasons Google+ is Awesome!]] ★ · consumer-tech-culture, content-strategy, tech-industry-commentary _(Google+ advocacy, date-scoped; "you're doing it wrong")_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -588,4 +596,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_547 videos ingested (L2) so far._
+_555 videos ingested (L2) so far._

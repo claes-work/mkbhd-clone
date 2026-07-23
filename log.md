@@ -4,6 +4,62 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Sep 1–29, 8/8 ingested
+
+Stage B. **Fourteenth consecutive clean batch, ninth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
+0 dup. 547→**555 L2**. Two ★★: a definitive workstation/biography document and a striking long-arc
+prediction.
+
+**Biography landmark — the definitive 2012 workstation.** `The Setup Tour 2012` (09-21) is the most
+detailed documentation of his workspace and gear anywhere in the origin corpus. His own setup: a
+**self-built IKEA Alex desk** (drilled his own cable-management holes), a **2012 3.33 GHz 6-core Mac
+Pro** he moved up to from the Mac Mini ("I'm aware there's a new Mac Pro coming out soon, but this will
+hold me over") — buying only the machine + GPU from Apple and self-installing a 512 GB SSD and 16 GB
+RAM — a **Dell UltraSharp 3007WFP (2560×1600)** he calls his favorite monitor ever, the **iKey M-505V2 +
+Blue Spark** audio chain on isolation pads, the **Zenbook Prime** note-taking laptop, and his
+**Galaxy S3 on CyanogenMod 10** daily driver. It also **corroborates ultimate frisbee on-camera again**
+("the disc — the design for the school that I play for right now, that I'm on their ultimate frisbee
+team"), states "I tend to be a neat person," and confirms the new apartment. This supersedes the
+three-monitor Mac-Mini-era workstation description and should become a consolidated gear entry in
+`persona/biography.md`.
+
+**Long-arc landmark — the earliest Oppo call.** `The Super-Retina Display Smartphone!` (09-16) is the
+first Oppo mention in the corpus: he spotlights "a phone manufacturer based in China… doing amazing
+things that almost no one is talking about," covers the Oppo Find 5 (world's first 1080p phone), and
+says "make sure you write it down, remember the name — **it's going to be big**." The wiki's present-day
+material has Oppo (Find X9 Pro) as the company that *broke iPhone camera dominance* and the "best phone
+in the world" in the 2026 @Waveform coverage. A dated, checkable **13+-year long-horizon call** that
+largely paid off — and a clean instance of his **championing under-the-radar innovators** (the
+root-for-good-tech value applied to an OEM rather than a price tier).
+
+Supporting nodes: the **next-Nexus wishlist** (09-01) predicts a **multi-manufacturer Nexus launch** and
+**Google vertical-integration via Motorola** (both directionally borne out), names the **camera** as his
+personal reason for switching to the S3, and drops a **December-3rd birthday easter egg** as its
+release-date guess. The **Zenbook Prime review** (09-08) reduces the buying decision to "**only one real
+reason: the display**" (characteristically the screen) and praises rare **upgradeable RAM/storage**. The
+**Setup Tour Project call** (09-13) documents a community-collaboration format and the rationale ("you
+learn things from other people's setups"). The **Mac Mini giveaway** (09-03) dates a collaboration with
+**Unbox Therapy (Lewis Hilsenteger)**. **Myspace Redesign** (09-25) lands a clean **good-website-vs-good-
+network** distinction; **Google+ Awesome** (09-29) is heavily date-scoped advocacy (platform dead 2019)
+with the reusable "if it feels like a wasteland you're doing it wrong" move.
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 547 → 555 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **The definitive 2012 workstation** → consolidated gear/setup entry in
+`persona/biography.md`, superseding the Mac-Mini-era description; ultimate-frisbee corroborated; "neat
+person" + buy-only-what-you-must-from-Apple as dated values. (2) ★★ **Earliest Oppo mention + "it's
+going to be big"** → predictions ledger + a biography/long-arc note connecting 2012 to the 2026
+camera-dominance-broken coverage; also reinforces the champion-underdog-innovators value. (3) ★ Nexus
+predictions (multi-manufacturer, Motorola vertical integration) → predictions ledger. (4) ★ **Reduce
+the decision to the single differentiator** (Zenbook) → review-methodology thread. (5) ★
+**Upgradeability as a plus** → dated origin of the pro-repairability leaning. (6) ★ **Community setup-tour
+project** + **Unbox Therapy collab** → creator-business/collaboration thread. (7) ★ **Good-website-vs-
+good-network** + **"you're doing it wrong"** → small method/voice notes. (8) ★ Biography: Mac Pro
+upgrade, self-built desk, Dell 3007WFP, Dark Knight router, college note-taking, Google+ daily user.
+Debt: 7 ingest batches since synthesis pass 8 (checkpoint at 10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Jul 23–Aug 30, 8/8 ingested
 
 Stage B. **Thirteenth consecutive clean batch, eighth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
