@@ -4,6 +4,31 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Jan 20–Feb 24, 8/8 ingested (the 4K-adoption thesis + control-over-software purest + a Deadmau5 collab)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 769→**777 L2**.
+
+**Thesis landmark.** `The State of 4K: Early 2015!` (01-26) ★★ — his annual 4K state-of-play, the
+clearest statement of the **4K-adoption thesis**: "2014 was quietly the best year yet for 4K" (both
+*shooting* and *watching* got easier), driven by **commoditization** (his Asus PQ321Q monitors fell
+$3,500→$1,500 in a year), the 5K iMac, cheap 4K cameras, and Netflix + YouTube delivery.
+
+**Doctrine anchors.** `OnePlus One & Cyanogenmod 12!` (02-24) ★ — the **purest control-over-software**
+datum: after the OnePlus/Cyanogen split he flashed CM12 + the Franco kernel himself — "that's the beauty
+of Android: if you get impatient, you can just go out and do it." `Audio Technica ATH-M70X Review!`
+(02-17) ★ — **judge-by-purpose / audio literacy** (studio monitors' flat response vs the M50x's colored
+sound — don't call one "better," name the job; he mixes his own videos on them). `HTC One M9: What to
+Expect!` (01-24) ★ — "if it ain't broke, don't fix it" + image-quality (big pixels) over megapixels.
+`Dell Venue 8 7000 Review!` (02-14) ★ — anti-thinness ("thicker for battery") + champion-the-risk-taker
+("glad Dell took the risk, taking risks is good").
+
+**Car-beat + biography.** `Fun with the BMW i8!` (02-01) ★ — a car-beat / AutoFocus-origin node (visited
+BMW HQ **on his birthday**, shot in 6K). `Exploring Drones with Deadmau5!` (02-10) ★ — a **guest collab**
+(Deadmau5 quarantined; `attribution: uncertain`) with biography color (RC-cars kid, never flown a drone).
+`What's on my Android! (Early 2015)` (01-20) — switches-phones-often → minimal setup; Snapchat @MKBHD.
+
+Synthesis notes: net-new for the next checkpoint — (1) the **4K-adoption thesis + commoditization** (State of 4K) → beliefs/production-filmmaking; (2) the **purest control-over-software / tinkerer** datum (flashes ROM+kernel himself; "the beauty of Android") → beliefs; (3) **judge-by-purpose / audio literacy** (studio-monitors-vs-consumer-sound; mixes his own videos) → production-filmmaking/beliefs; (4) car-beat node (BMW i8, birthday) → ev-cars/biography; (5) minor: "if it ain't broke"/image-quality-over-megapixels (M9), anti-thinness + champion-the-risk-taker (Dell), RC-cars-kid biography (Deadmau5, guest-gated). All ★-flagged inline; do not inline-promote (8 batches / ~64 videos since pass 11 — driver counter reads 2; **Stage S checkpoint due in ~2 more batches** at ~10/~80-100). Attribution: the Deadmau5 collab is guest-gated — only clearly-Marques lines train the persona.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Dec 1–2015 Jan 15, 8/8 ingested (year-end 2014 stats/2M subs + CES 2015 car-tech feeding the AutoFocus arc)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 761→**769 L2**. Crosses into 2015 (New Year + CES).

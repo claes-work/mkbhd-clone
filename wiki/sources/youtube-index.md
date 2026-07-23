@@ -653,6 +653,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2015-01-08 — [[2015-01-08-yt-dIfLmM0YkXM|Quantum Dot TVs: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(consumer-education/demystify — "just improved backlighting", existed since the 1990s, now branded; OLED-is-the-future-of-TV; CES 2015)_
 - 2015-01-11 — [[2015-01-11-yt-_z9q096Lhj0|BMW Tech at CES 2015!]] ★ · ev-cars, tech-industry-commentary, consumer-tech-culture _(car-beat / AutoFocus-origin arc; "coolest booth was a car company"; i8 hybrid; wireless car charging; OLED taillights / laser headlights; i3 self-driving / summon-from-a-smartwatch)_
 - 2015-01-15 — [[2015-01-15-yt-t8eKwFESN8s|CES 2015 Highlights!]] ★ · consumer-tech-culture, ev-cars, tech-industry-commentary _(OLED-is-my-next-TV; "the year of 4K" — shooting got easy, not just watching; Tesla Model X falcon-wing/refined-interior (car-beat continues); LG G Flex 2; Sharp bezelless)_
+- 2015-01-20 — [[2015-01-20-yt-9nTJlmsa_Bo|What's on my Android! (Early 2015)]] · consumer-tech-culture, creator-business, smartphones _(Nexus 6 daily/dbrand skin; switches-phones-often → minimal setup; Snapchat @MKBHD; student)_
+- 2015-01-24 — [[2015-01-24-yt-7hXjxLrDf5I|HTC One M9: What to Expect!]] ★ · smartphones, tech-industry-commentary, tech-reviews _("if it ain't broke, don't fix it" / iterative refinement; image-quality (big pixels) over 20MP; BoomSound; QHD-vs-battery; no-cases → skin)_
+- 2015-01-26 — [[2015-01-26-yt-aJinPXrOZYk|The State of 4K: Early 2015!]] ★★ · production-filmmaking, consumer-tech-culture, tech-industry-commentary _(the 4K-adoption thesis — "2014 was quietly the best year yet for 4K"; shoot AND watch easier; commoditization (Asus PQ321Q $3500→$1500); 5K iMac; Netflix + YouTube; annual format)_
+- 2015-02-01 — [[2015-02-01-yt-nnODX_VEp2c|Fun with the BMW i8!]] ★ · ev-cars, production-filmmaking, consumer-tech-culture _(car-beat / AutoFocus-origin node; visited BMW HQ on his BIRTHDAY (biography); shot in 6K; mostly B-roll)_
+- 2015-02-10 — [[2015-02-10-yt-UJ9Lbao6j-c|Exploring Drones with Deadmau5!]] ★ · production-filmmaking, consumer-tech-culture, creator-business _(GUEST COLLAB — Deadmau5 quarantined, attribution uncertain; biography RC-cars-kid / never-flown-a-drone; FPV/Oculus; off-format)_
+- 2015-02-14 — [[2015-02-14-yt-KG9E5LaI8bk|Dell Venue 8 7000 Review!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(anti-thinness "thicker for battery" + champion-the-risk-taker "glad Dell took the risk, taking risks is good"; best-in-class OLED; source-critical (shipping damage); not first-choice)_
+- 2015-02-17 — [[2015-02-17-yt-3yoAj-PRsZ0|Audio Technica ATH-M70X Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(judge-by-purpose / audio-literacy — studio monitors flat-response vs M50x colored; mixes his own videos on them; know-your-domain; "don't believe in burning-in headphones")_
+- 2015-02-24 — [[2015-02-24-yt-UUBDiUy2824|OnePlus One & Cyanogenmod 12!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(PUREST control-over-software — "the beauty of Android: if you get impatient you can just go do it"; OnePlus/Cyanogen split → Oxygen OS; flashed CM12 + Franco kernel himself)_
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
 - 2015-12-19 — [[2015-12-19-yt-UBuVR8_Mybw|Smartphone Awards: 2015!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -812,4 +820,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_769 videos ingested (L2) so far._
+_777 videos ingested (L2) so far._
