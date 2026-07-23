@@ -402,6 +402,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-04-25 — [[2012-04-25-yt-0FbjsNsfEmE|Google Drive vs Dropbox!]] ★ · consumer-tech-culture, content-strategy, creator-business _(cloud-first workflow; provisional revisable verdict)_
 - 2012-05-01 — [[2012-05-01-yt-dB_xQ2x5Ngo|Transformer Pad 300 vs Transformer Prime!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(prefers the cheaper one; plastic back as an engineering advantage)_
 - 2012-05-05 — [[2012-05-05-yt-cBSp1j5tPyU|Samsung Galaxy S III Design: Explained!]] ★★ · tech-industry-commentary, smartphones, consumer-tech-culture _(LANDMARK: "designed by lawyers in California")_
+- 2012-05-13 — [[2012-05-13-yt-yLZrBuNBQWc|HTC One X Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(CPU Spy real-clock reporting; stock-Android preference, tolerant)_
+- 2012-05-17 — [[2012-05-17-yt-_aemBh_vC-Y|Chrome OS: Explained!]] ★★ · consumer-tech-culture, tech-industry-commentary, production-filmmaking _("ahead of its time"; dream-Chromebook ≈ 2013 Pixel prediction)_
+- 2012-05-24 — [[2012-05-24-yt-hE3XMbsneMk|Sony NEX-VG20 Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(DSLR look + video AF; Wisconsin ultimate-frisbee anchor)_
+- 2012-05-26 — [[2012-05-26-yt-haOpXNVb_9Q|Android 5.0 Feature Wishlist!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(crowdsourced; system dark theme + performance profiles predicted)_
+- 2012-05-29 — [[2012-05-29-yt-gSimDdChHbE|iKey Audio M-505V2 Studio Monitors!]] ★ · production-filmmaking, tech-reviews, creator-business _(mini-review format origin; red-and-black as disclosed bias)_
+- 2012-06-04 — [[2012-06-04-yt-wiWXQEkO5ws|4G and LTE: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary, smartphones _(carrier marketing skepticism; quad-core+4G battery ceiling)_
+- 2012-06-11 — [[2012-06-11-yt-nY15RGU2QJM|Google Innovation at WWDC 2012!]] ★★ · tech-industry-commentary, consumer-tech-culture, smartphones _(copying-both-ways even-handedness; resolves the wrong retina-MBP prediction)_
+- 2012-06-16 — [[2012-06-16-yt-CultO7cPnJA|Top 5 Tech Myths!]] ★★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(LANDMARK: optics-not-megapixels as a general principle; IE self-correction)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -564,4 +572,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_523 videos ingested (L2) so far._
+_531 videos ingested (L2) so far._

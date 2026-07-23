@@ -4,6 +4,62 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin May 13–Jun 16, 8/8 ingested
+
+Stage B. **Eleventh consecutive clean batch, sixth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
+0 dup. 523→**531 L2**. A heavily explainer-driven window (four "Explained!" videos in five weeks),
+and the first batch of this run to cross into a new calendar day (2026-07-23).
+
+**`Top 5 Tech Myths!` (06-16) is the beliefs landmark of the batch.** Myth #1 restates
+**optics-not-megapixels as a general principle** rather than a per-review verdict — the cleanest early
+articulation of a signature position — and folds in the 2×/4× pixel-count correction from the
+pixel-density explainer. The video is threaded with his myth-correction-by-mechanism habit: Macs *can*
+get viruses, explained via **malware economics** ("who are you going to write it for? Windows, because
+Windows is on 92% of active computers" — the incentive lens applied to malware); the USB
+safely-eject myth reduced to "only dangerous mid-transfer"; and a **public self-correction** on his
+own "IE sucks" bias ("I've been a bit of a culprit for this one").
+
+**A wrong prediction resolves — honestly, if not flagged on camera.** At WWDC 2012 (06-11) Apple
+shipped the **Retina MacBook Pro** that he'd said in February he "wouldn't put any money on"
+([[2012-02-26-yt-pzGsUp3yM8w]]) — and he names it his favorite announcement of the show ("I'm a sucker
+for pixels"). The same video is a strong **even-handedness** node: he lists iOS 6 features that echo
+Android, but refuses the one-sided "Apple copies" take, pre-committing to call out Google copying Apple
+at I/O two weeks later. That bidirectional framing is stronger evidence of genuine balance than
+crediting after the fact, and it dates the "welcome to the party" posture to 2012.
+
+**`Chrome OS: Explained!` (05-17)** uses the format for a thesis: **"a little bit ahead of its time"** —
+a structural account of why a good product isn't selling, without calling it bad. It contains a
+strong, dated, near-hit **prediction**: his dream Chromebook (MacBook-Air form factor, premium,
+Google-branded, matte) is essentially the Chromebook Pixel that shipped in Feb 2013.
+
+The other "Explained!" entries reinforce documented threads: **4G/LTE (06-04)** applies the
+carrier-marketing-skepticism lens ("who's going to argue?") and ties the quad-core+4G battery ceiling
+explicitly back to the "better, not bigger" rant; **Android 5.0 Wishlist (05-26)** is crowdsourced and
+requests a **system dark/light theme** and **adaptive performance profiles** — both of which Android
+shipped years later — plus a correct self-corrected version-number call (4.1, not 5.0).
+
+Reviews: the **HTC One X (05-13)** reports the Tegra 3's *real operating envelope* via CPU Spy instead
+of its peak clock (measurement-honesty applied to a phone SoC) and restates the stock-Android
+preference in its tolerant form; the **Sony NEX-VG20 (05-24)** is loved for delivering the DSLR look
+*with* reliable video autofocus — solving his DSLR-video pain point — and carries a biography anchor
+(a Wisconsin **ultimate-frisbee** weekend, "2 to 1 Stevens"); and the **iKey M-505V2 (05-29)** launches
+a **mini-review format** and states red-and-black as a disclosed bias in its bluntest form.
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 523 → 531 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **Optics-not-megapixels as a general myth-busting principle** → reinforce the
+existing belief with this cleaner articulation. (2) ★★ **Even-handedness framed as bidirectional
+copying**, pre-committed → `persona/beliefs.md`/values, dated 2012. (3) ★★ **Retina MacBook Pro
+prediction resolved WRONG** → predictions ledger (a rare documented miss). (4) ★★ **"Ahead of its
+time"** as an explanatory frame + the **Chromebook Pixel near-hit prediction** → industry-commentary
+hub + predictions ledger. (5) ★ **Malware-economics / carrier-marketing** = further incentive-lens
+instances. (6) ★ **Android dark-theme + performance-profile requests** shipped years later → predictions
+ledger. (7) ★ **Mini-review format** → format ledger. (8) ★ Biography: Wisconsin ultimate weekend,
+Cyborg R.A.T. 9, Chromebook as secondary machine, "post videos a lot more often now that it is
+summertime." Debt: 4 ingest batches since synthesis pass 8 (checkpoint at 10).
+
 ## [2026-07-22] ingest | yt batch (@mkbhd, 8) — 2012 origin Apr 8–May 5, 8/8 ingested
 
 Stage B. **Tenth consecutive clean batch, fifth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
