@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Jul 3–Aug 2, 8/8 ingested (the Tesla Model 3 drive (met Elon) + the RED Hydrogen phone + "why I switched to RED")
+
+Stage B. Ingested July 2017 to L2 (952→960): the **iPhone 8** rumor roundup, the **RED Hydrogen One**
+explainer, the **Pixel 2** rumor roundup, the **Nest Cam IQ**, **Siri vs the Ads**, the **Tesla Model 3**
+impressions, the **RED Raven** kit, and the **RED Hydrogen prototype** hands-on. All 8 solo/Marques-fronted →
+persona-eligible; captions clean; no dups, no skips. Ledger @mkbhd now 703 open (P2:665, P3:38); L2=960,
+L3=0. (Debt now 6 batches since pass 14.)
+
+Synthesis notes (for pass 15) —
+**(1) LANDMARK EV/BIOGRAPHY — the Model-3 "EV for the masses" prediction VINDICATED.** Tesla invited him (as
+a Tesla owner/YouTuber) to **drive the Model 3 early and meet Elon Musk + Franz von Holzhausen** — the payoff
+of his Feb-2016 forecast. Elon's quote: "we've had great electric cars, we've had affordable electric cars,
+but they never really overlapped — this is that." Reads: **minimalism-serves-manufacturing** ("a minimalist
+dream car… the manufacturing process as simple as possible / as close to one SKU as possible"); the **button-
+vs-touchscreen boundary** ("there's a line between futuristic and where it'd just be better with a button" —
+cf. good-buttons); **made-for-autonomy** design rationale; "$44k/310mi = best cost-to-mile in an EV." Meta:
+rising access ("they invited a YouTuber, which is kind of funny"). **(2) PRODUCTION — the definitive RAW-video
+"why I switched to RED" explainer** (RED Raven kit): "RAW video makes color temp/ISO editable *metadata* —
+the number-one reason I switched to RED; there's literally a color-temperature slider in Final Cut." A
+cornerstone craft rationale. **(3) RED HYDROGEN — "my two worlds colliding"** (his camera brand makes a phone):
+"the target demographic is me — so I bought both," balanced with skepticism of the vague "holographic"
+marketing (Fire-Phone-4-years-better) and the RED-controls-the-accessory-market caveat; the prototype hands-on
+("a Moto Z had a baby with a tractor"; the display left him "at a loss for words… pretty impressed" but he was
+honest about the quirks — impressions ≠ review). **(4) hold-marketing-to-account / fact-check** (Siri vs the
+Ads): the Rock ad's Siri commands mostly only work inside Apple's own apps (Mail/Music, not Gmail/Spotify),
+and several are subtly staged — a media-literacy piece. **(5) Reasoned rumor-reads**: the fingerprint-under-
+glass three-options analysis (Apple-waits-and-does-it-better → Face ID) + trackable OLED/wireless-charging
+predictions (iPhone 8); the "polarizing features" (wireless charging + water resistance) buyer read (Pixel 2).
+**(6) smart-home biography**: a multi-product Nest user; the 4K-sensor-for-lossless-zoom teach-the-mechanism.
+Next synthesis checkpoint (pass 15) at ~4 more batches or the next era boundary.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Jun 3–Jul 1, 8/8 ingested (WWDC 2017 + the iMac-Pro "trap" + the 140TB studio + "copy the good stuff")
 
 Stage B. Ingested June 2017 to L2 (944→952): the **Tesla Project Loveday** entry, the **WWDC 2017** recap,
