@@ -4,6 +4,33 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Oct 3–Nov 6, 8/8 ingested (the iPhone 6s review + #Chipgate + the MKBHD.com launch)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 825→**833 L2**.
+
+**Website / creator landmark.** `Update 11.0: MKBHD.com!` (10-21) ★★ — the **MKBHD.com website launch** (a
+secondary hub for phone-camera photo samples, written tidbits, infographics, merch), and the most concrete
+statement yet of his **no-cases → skins** doctrine: a dbrand MKBHD store selling skins "in the exact
+configuration I would get — carbon fiber, red or black, with my cutouts." Also references his RED "**weapon**"
+camera and a planned gear list.
+
+**Explainer landmark.** `iPhone 6s #Chipgate: Explained!` (10-15) ★★ — another **teach-the-mechanism /
+refuse-the-hysteria** piece (joining BendGate + sapphire): the A9 is built by two makers (TSMC + Samsung),
+and the Geekbench battery test that started the panic is **worst-case (100% max load) and doesn't translate
+to real use** (~2–3% in reality). Ends with a Magic-Mouse-charging jab.
+
+**Review anchors.** `iPhone 6s Review!` (10-03) ★★ — the **BendGate fix** (7000-aluminum); **3D Touch is
+gimmicky-now-but-important-later**; **Live Photos "kind of is a gimmick"** (a demo for 3D Touch); the
+**"16GB needs to die"** storage rant; and warm-accurate-colors / **image-processing-over-sharpening**.
+`Nexus 6P Review!` (10-27) ★ — a rare **lived-up-to-the-hype** verdict (a favorite phone). `Moto 360 V2
+Review!` (10-13) ★ — candid **wearable-fatigue** ("less of a smartwatch guy than a year ago").
+
+**Reinforcing.** `OnePlus X` (10-29) ★ — "good phones are getting cheap" (value thesis). `Nexus 5X Review!`
+(11-06) ★ — the Stormtrooper-panda callback + Doze love. `Nexus 6P Unboxing` (10-19) — USB-C milestone +
+"I like big phones, I cannot lie."
+
+Synthesis notes: net-new for the next checkpoint — (1) the **MKBHD.com launch** + the concrete **no-cases→skins (carbon-fiber/red-or-black)** + RED "Weapon" camera (creator-business/biography/appearance); (2) **#Chipgate teach-the-mechanism + worst-case-benchmark-doesn't-translate** (anti-benchmark; another gate-explainer) → beliefs/tech-industry-commentary; (3) the **iPhone 6s** dated positions — 3D-Touch-gimmicky-now-important-later, Live-Photos-is-a-gimmick, **16GB-needs-to-die**, image-processing/accurate-warm-colors-over-sharpening → beliefs/tech-reviews; (4) minor: wearable-fatigue (Moto 360 v2), lived-up-to-the-hype (6P), good-phones-getting-cheap (OnePlus X), Stormtrooper-panda + Doze (5X). All ★-flagged inline; do not inline-promote (6 batches / ~48 videos since synthesis pass 12 — Stage S checkpoint due in ~4 more).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Aug 29–Sep 30, 8/8 ingested (the OnePlus 2 "five pillars" + the Sept-2015 launch season: iPhone 6s, Note 5, Nexus 6P)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 817→**825 L2**. The September-2015 launch season.
