@@ -474,6 +474,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-01-23 — [[2013-01-23-yt-Rd89JLYsoOI|Hackintosh Pro Project! [Part 3: The Build]]] · production-filmmaking, consumer-tech-culture, creator-business _("my OCD kicks in" neatness; silent build; inverted-Stormtrooper aesthetic)_
 - 2013-01-27 — [[2013-01-27-yt-N4fpYnzqHEM|Hackintosh Pro Project! [Part 4: The OSX Install]]] · production-filmmaking, consumer-tech-culture, creator-business _(credits sources by name; rebooted 40x; first-install-Chrome; daily driver)_
 - 2013-02-02 — [[2013-02-02-yt-Wm4jH01Sluc|Hackintosh Pro Project! [Part 5: The Finale!]]] ★★ · production-filmmaking, consumer-tech-culture, creator-business _(definitive 2013 workstation+desk setup; build-vs-buy case; "Legos for adults")_
+- 2013-02-06 — [[2013-02-06-yt-6A-PpwfM1wo|HTC Droid DNA: Revisited!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(one-critical-flaw verdict framework; best-display defense; Beats-Audio-is-just-EQ debunk; big-hands)_
+- 2013-02-10 — [[2013-02-10-yt-XkqiFOvF8v0|Oppo Find 5 Review!]] ★★ · smartphones, tech-reviews, tech-industry-commentary _(LANDMARK — earliest full Oppo review, long-arc; "best smartphone you can buy"; Stormtrooper; value-adding-skin nuance; 5:30am riser)_
+- 2013-02-13 — [[2013-02-13-yt-uj0S2rgmu-M|Top 5 Most Overpriced Tech!]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(price-must-match-value framework; HDMI-cable/text-plan first-principles debunks; Mac-Pro price-per-spec via Hackintosh; Beats #1)_
+- 2013-02-17 — [[2013-02-17-yt-MQ97Kymd6X0|Nexus 4 & Nexus 7 Giveaway! [CLOSED]]] · creator-business, consumer-tech-culture _(Duncan33303 + Wilson Tech 1 collab; low yield)_
+- 2013-02-19 — [[2013-02-19-yt-LkOC0gbNF20|Top 5 Most Underpriced Tech!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(ATH-M50 3yr-owned edits-on-them; T2i→T3i camera lineage; Nexus 7 race-to-the-bottom)_
+- 2013-02-22 — [[2013-02-22-yt-xU2fB0pQJkA|The Chromebook Pixel: Explained!]] ★★ · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(LANDMARK — Halo-product thesis; hardware-first strategy; incentive/business-model reasoning; dream-Chromebook callback)_
+- 2013-02-26 — [[2013-02-26-yt-CP5LB1eQff0|Chromebook Pixel Unboxing & First Impressions!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(minimalist-design taste; request-driven review pipeline; verdict-held discipline)_
+- 2013-03-01 — [[2013-03-01-yt-83Y31z3ZI2A|Top 5 Best Built Tech!]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(materials literacy Gorilla-Glass/aluminum PSI; build-quality-as-axis; Nokia 3310; Oppo Find 5 mention)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -636,4 +644,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_595 videos ingested (L2) so far._
+_603 videos ingested (L2) so far._

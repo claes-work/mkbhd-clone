@@ -4,6 +4,49 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Feb 6–Mar 1, 8/8 ingested (Oppo Find 5 + Chromebook Pixel + the overpriced/underpriced/best-built countdown cluster)
+
+Stage B. **Twentieth consecutive clean batch, fifteenth zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 595→**603 L2**. Two landmarks plus a three-video countdown cluster.
+
+**Long-arc landmark — the earliest FULL Oppo review.** `Oppo Find 5 Review` (02-10) delivers the review
+he'd teased in Sept 2012 ("write it down, it's going to be big") — "in the build quality department
+this is the **best smartphone you can buy**… a **Stormtrooper** of a smartphone." He champions a maker
+most viewers had never heard of (known then for Blu-ray players); this is the origin node of the
+**Oppo-underdog → 2026-camera-dominance** long arc. Also his 2nd documented preview→delivery cycle, a
+**value-adding-skin nuance** (skins that "add value, not just look different"), and a dated early-riser
+routine ("5:30 in the morning, don't ask").
+
+**Strategic-reasoning landmark.** `The Chromebook Pixel: Explained` (02-22) reads the $1,300 Pixel as a
+deliberate **Halo product** — Google addressing **hardware first** (on its own, not via OEMs) to kill
+the "Chromebooks = cheap plastic" association and shift the burden to Chrome OS + developers. Reads the
+product's PURPOSE over its unit sales (the same loss-leader/inspire-the-ecosystem logic as the Nexus 7),
+and roughly matches his own May-2012 "dream Chromebook" wish.
+
+**Method / beliefs.** The **countdown cluster** is a concentrated dose of his value doctrine:
+`Top 5 Overpriced` (02-13) states the **price-must-match-value** framework with first-principles debunks
+(HDMI cables = "a digital signal, same as a $3.50 Monoprice cable"; text-plan math "$1.25M per GB";
+carriers charging more for cheaper-to-run 4G), argues Mac-Pro-is-overpriced from his own $2,200
+Hackintosh, and puts Beats Pro at #1 ("made of metal but they sound like they're only made of metal") —
+the fashion-over-fidelity critique 15 months before the 2014 Beats video. `Top 5 Underpriced` (02-19)
+anchors gear (ATH-M50 owned ~3 years / edits on them / his review is the #1 Amazon review; T2i→T3i
+lineage). `Top 5 Best Built` (03-01) teaches materials literacy (Gorilla Glass PSI, the "unibody
+aluminum" caveat). `HTC Droid DNA Revisited` (02-06) states the **one-critical-flaw verdict framework**
+and debunks Beats Audio as "just changing an EQ."
+
+Attribution: all 8 solo. The Chromebook Pixel Explained video quotes two Google+ commenters as sources
+(names unreliable in captions) — third-party, quarantined. The giveaway names Duncan33303 + Wilson
+Tech 1 as collaborating peers (context).
+
+Synthesis notes: several ★★ for the next checkpoint — the **earliest full Oppo review** (promote to
+`persona/beliefs.md` as the champion-innovative-outsiders value + the Oppo long-arc node; note the
+2026-camera-dominance link) and the **Chromebook-Pixel Halo-product / hardware-first strategic read**
+(supporting citation for the incentive/business-model thread; ties to the May-2012 dream-Chromebook).
+Also promotable: the **price-must-match-value framework** with the justified-vs-unjustified-premium
+distinction, the **one-critical-flaw verdict framework**, and the **Beats fashion-over-fidelity critique**
+(extends the standing Beats-skepticism thread). Debt now **4 ingest batches** since synthesis pass 9
+(checkpoint at 10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Jan 10–Feb 2, 8/8 ingested (CES-2013 wrap + the 5-part Hackintosh Pro build)
 
 Stage B. **Nineteenth consecutive clean batch, fourteenth zero-loss**: 8 ingested, 0 skipped,
