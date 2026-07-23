@@ -522,6 +522,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-07-29 — [[2013-07-29-yt-TK4u6wm-HIk|Google Chromecast Review!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(LANDMARK product; clear-technical-teaching corrects the "beaming" misconception; Nexus-Q-reloaded pricing lesson; "$35, buy it" instant-buy verdict)_
 - 2013-07-31 — [[2013-07-31-yt-wwXA27TWD3k|Top 5 Android 4.3 Features!]] ★ · consumer-tech-culture, tech-industry-commentary _(defends incremental under-the-hood updates; teach-the-tech TRIM explained; BLE-misnomer correction; rolling-release callback)_
 - 2013-08-02 — [[2013-08-02-yt-3ZX8graseUQ|Moto X Features: Explained!]] ★★ · smartphones, tech-industry-commentary, consumer-tech-culture _(LANDMARK — "geeks value specs-vs-price, consumers value features-vs-price" framework; value-via-software applied to Motorola; Moto Maker make-it-your-own; secret-event access)_
+- 2013-08-06 — [[2013-08-06-yt-wEpMtf6nJco|Nexus 7 (2013) Review!]] ★ · consumer-tech-culture, tech-reviews, smartphones _(three-reasons; display-primacy; stock-Android-only tablet stance; value-critique "crappy camera broke $199"; textbooks main-tablet-switch)_
+- 2013-08-10 — [[2013-08-10-yt-CJTlB_S7ct0|Motorola Moto X Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(geeks-vs-consumers applied — recommend to switchers; good-experience-from-modest-specs; camera = biggest-disappointment one-critical-flaw; Moto Maker)_
+- 2013-08-13 — [[2013-08-13-yt-h3wKBfAIdzE|The Perfect Smartphone! (2013)]] ★ · smartphones, consumer-tech-culture, content-strategy _(Frankenstein/dream-phone format origin; best-of-breed taste snapshot; Nexus-priced pure-stock-Android ideal; bought Lumia 1020 for the camera)_
+- 2013-08-16 — [[2013-08-16-yt-lEjwyYOFwZg|Top 5 Best Headphones Under $200!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(ATH-M50 #1 diminishing-returns; Jaybird BlueBuds X "Stormtrooper" daily; red-and-black; Beats jab)_
+- 2013-08-20 — [[2013-08-20-yt-Fi1JUykQBKw|Nokia Lumia 1020 Review!]] ★ · smartphones, tech-reviews, production-filmmaking _(best-camera-period optics-love; teach-the-camera oversampling/reframe; display-shows-pixels one-critical-flaw; Windows-Phone tough-sell perspective-disclosure)_
+- 2013-08-23 — [[2013-08-23-yt-8yKXTr7KB40|5 Moto X Tips & Tricks!]] · smartphones, consumer-tech-culture, content-strategy _(Moto Maker customization; red-and-black deliberation "looks pink" honest aside; low yield)_
+- 2013-08-30 — [[2013-08-30-yt-elXk87IKgCo|Google Glass Explorer Edition: Explained!]] ★★ · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(LANDMARK wearable — new-form-factor/new-paradigm thesis; Explorer-Edition-not-final first-gen framing; "Android phone with no apps out of the box" analogy; owns it)_
+- 2013-09-06 — [[2013-09-06-yt-fsOxwsFF50c|Sony RX100 M2 Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(production-gear — CES footage/DSLR-intercut; practical-over-prestige gear argument; methodology-evolution STOPPED numerical scoring)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -684,4 +692,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_643 videos ingested (L2) so far._
+_651 videos ingested (L2) so far._

@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Aug 6–Sep 6, 8/8 ingested (Google Glass landmark + Perfect-Smartphone + flagship reviews)
+
+Stage B. **Twenty-sixth consecutive clean batch, twenty-first zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 643→**651 L2**. First ingest batch after synthesis pass 10.
+
+**Landmark — a new-form-factor node.** `Google Glass Explorer Edition: Explained` (08-30) frames Glass in
+his **form-factor taxonomy** (phone → tablet → smartwatch → glass), holds the **Explorer-Edition-is-not-
+the-final-product** first-gen discipline, and uses the "an Android phone with no apps out of the box — the
+developer army makes the category" analogy. A key early node in the long new-form-factor evaluation thread
+that runs to the Humane AI Pin ("smartphones are OP"). He owns the $1,500 unit.
+
+**Reinforcing (largely applications of pass-10 doctrines).** `Moto X Review` (08-10) applies the
+geeks-vs-consumers framework (recommend to switchers despite geek-underwhelm) and names the camera as the
+one-critical-flaw. `The Perfect Smartphone` (08-13) is the **dream/Frankenstein-phone** format origin — a
+best-of-breed taste snapshot ending on the Nexus-priced pure-stock-Android ideal. `Nexus 7 2013` (08-06)
+restates display-primacy + the stock-Android-only tablet stance + a value critique. `Lumia 1020` (08-20)
+is optics-love + a display-shows-pixels one-critical-flaw + a Windows-Phone tough-sell (perspective-
+disclosure). `Top 5 Headphones` (08-16) corroborates the Jaybird "Stormtrooper" daily + ATH-M50
+diminishing-returns + the Beats jab. `Sony RX100 M2` (09-06) is production-gear (CES footage, DSLR-
+intercut) + a **methodology-evolution marker: he's stopped giving numerical ratings** ("if I was *still*
+giving ratings… a rare 10/10"). `5 Moto X Tips` (08-23) is low-yield.
+
+Attribution: all 8 solo. TLDToday referenced (white ATH-M50) as context.
+
+Synthesis notes: mostly reinforcing (pass 10 just cleared the 2013 doctrines). Two items worth a fresh
+note at the next checkpoint — the **new-form-factor / first-gen Google-Glass framing** (a node on the
+wearable-evaluation thread toward the Humane AI Pin) and the **methodology-evolution marker** (he moved
+away from numerical scores — track against the origin-era scoring convention; the RX100 "if I was still
+giving ratings" line dates the shift to ~2013). Debt now **1 ingest batch** since synthesis pass 10.
+
 ## [2026-07-23] lint | synthesis pass 10 — the late-2012 Nexus season + full 2013 origin year (571→643 L2)
 
 Stage S. Drained the **nine-batch debt** accumulated since synthesis pass 9 (571→643 L2, covering Nov 2012
