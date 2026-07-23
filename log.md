@@ -4,6 +4,54 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Apr 5–May 3, 8/8 ingested (the "Five Facts About Me" biography drop + Galaxy S4 & HTC One flagship reviews)
+
+Stage B. **Twenty-second consecutive clean batch, seventeenth zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 611→**619 L2**. The richest self-disclosure source in the corpus plus two
+flagship reviews.
+
+**Biography landmark — the single densest self-disclosure to date.** `Five Facts About Me` (04-12) states,
+first-person and on camera: he's a **professional ultimate-frisbee player for the New Jersey Hammerheads**
+(playing 6–7 years); **"I'm 6'3", wingspan 6'7"-ish"** (this DEFINITIVELY resolves the ~6'2"/~6'3" height
+thread to **6'3"** — the Note-2-Revisited "~6'2"" is superseded); a golf **nine-handicap**; a **19-year-old
+sophomore** studying business/technology + information-systems + marketing ("I don't sleep at all",
+corroborating Stevens Tech); a lifelong **red-and-black** bias + lucky number 82; a former **anti-desktop,
+laptop-only** creator whose **first YouTube video was made on an HP Pavilion dv7t**; a heavy **house-music
+listener** and **self-described quiet/introvert** (Jaybird BlueBuds X daily, favorite artist Wolfgang
+Gartner); first phone the **LG Voyager**; **"after my first 100 videos I had 78 subscribers"**; started
+Jan 2009; and **"MKBHD stands for Marques K Brownlee High Definition, because I like pixels."**
+
+**Two flagship reviews.** `Samsung Galaxy S4 Review` (05-01) leads with an evidence-based structural read —
+**"the S4 is really a downsized reconstructed Note 2"** (from a teardown comparison most reviewers missed),
+awards it best-all-around smartphone camera, and repeats **function-over-gimmick** ("I turned the smart
+features off, I don't need them") and the **is-it-worth-the-upgrade / updates-as-value** framing.
+`HTC One Review` (05-03) crowns **BoomSound front-facing stereo speakers + display = "the best media-
+consumption experience I've had in my pocket,"** handles the UltraPixel camera's limits honestly, and drops
+a usage-pattern datum: **"I don't really have a daily driver anymore — I use different phones for different
+things."**
+
+**Reinforcing.** `Beyerdynamic Custom One Pro Review` (04-05) marks a gear transition (**new daily
+editing/listening headphones displacing the ATH-M50**) with a frequency-response GRAPH backing the bass-port
+claim (data-driven habit). `Oppo Find 5 Project Firefly` (04-17) is an exclusive first-look applying the
+value-via-software thesis across the industry (updates-as-value; change-to-make-it-better). `Top 5 1080p
+Smartphones` (04-18) adds open-platform-drives-innovation + a 1080p-iPhone prediction. `Google Babel
+Explained` (04-23) is a Google-fragmentation critique via a personal pain point. `5 True Facts about
+Android` (04-07) is low-yield trivia with an audience-demographics self-awareness note.
+
+Attribution: all 8 solo. TLDToday (John Rettinger) credited as the peer who introduced the Beyerdynamics;
+Wolfgang Gartner named as a favorite artist — both context.
+
+Synthesis notes: **HIGH-PRIORITY biography promotion** from `Five Facts About Me` — the New Jersey
+Hammerheads pro-frisbee fact, the definitive **6'3"** height (reconcile the thread), the 19yo-sophomore
+detail, the golf handicap, the anti-desktop→laptop→desktop hardware evolution (HP dv7t first-video machine),
+the house-music/Jaybird/Wolfgang-Gartner taste, the quiet-introvert self-description, the LG Voyager first
+phone, and the 78-subs-after-100-videos origin datum — promote across `persona/biography.md`, and tie the
+**MKBHD = "Marques K Brownlee High Definition, because I like pixels"** name origin to display-primacy in
+`persona/voice.md`/beliefs. Also: the HTC One **"no daily driver anymore"** usage transition (biography), the
+S4 **downsized-Note-2 structural-read** method, and the Beyerdynamic **new-primary-headphones** gear update.
+**These new first-person facts warrant a system-prompt recompile when synthesized.** Debt now **6 ingest
+batches** since synthesis pass 9 (checkpoint at 10 — pass 10 in ~4 batches).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Mar 6–Apr 1, 8/8 ingested (March reviews + Explained cluster: Galaxy S4 value-via-software + HTC Ultrapixel optics-over-megapixels)
 
 Stage B. **Twenty-first consecutive clean batch, sixteenth zero-loss**: 8 ingested, 0 skipped,

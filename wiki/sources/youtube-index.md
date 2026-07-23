@@ -490,6 +490,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-03-26 — [[2013-03-26-yt-o9PT9HDXZWs|Google Nexus 10: Revisited!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking _(best-hardware-disappears design principle; "pixel person" self-label; front-facing-speakers + back-material taste)_
 - 2013-03-29 — [[2013-03-29-yt-ul3lgaU_lbY|HTC One 'Ultrapixel': Explained!]] ★★ · smartphones, tech-industry-commentary, production-filmmaking _(LANDMARK — optics/pixel-size-over-megapixels thesis from first principles; megapixel-race critique)_
 - 2013-04-01 — [[2013-04-01-yt-Py6g_FheJWI|Top 5 Internet April Fool's Day Hoaxers!]] · consumer-tech-culture, content-strategy _(voice/humor register geek-appreciation; low yield)_
+- 2013-04-05 — [[2013-04-05-yt-LDBWrSENTps|Beyerdynamic Custom One Pro Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(new daily editing/listening headphones displaces ATH-M50; red-and-black bias disclosed; frequency-response-graph data-driven; TLDToday credit)_
+- 2013-04-07 — [[2013-04-07-yt-1gUQhN5joSQ|5 True Facts about Android!]] · consumer-tech-culture, tech-industry-commentary, content-strategy _(audience-demographics self-awareness; underrated-project disposition; tech-history trivia)_
+- 2013-04-12 — [[2013-04-12-yt-T88kUY9Q3es|Five Facts About Me!]] ★★ · consumer-tech-culture, content-strategy, production-filmmaking _(LANDMARK biography — pro ultimate-frisbee NJ Hammerheads; 6'3" def; 19yo sophomore business/tech; red-and-black; anti-desktop→laptop→desktop HP dv7t first-video machine; house music/Jaybird/Wolfgang Gartner; LG Voyager 1st phone; 78 subs after 100 videos; MKBHD = "Marques K Brownlee High Definition")_
+- 2013-04-17 — [[2013-04-17-yt-jZoh_QKnGbc|Oppo Find 5 Project Firefly!]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(exclusive first-look; value-via-software across industry; change-to-make-it-better; updates-as-value; Oppo relationship)_
+- 2013-04-18 — [[2013-04-18-yt-swXI_sl5m3I|Top 5 1080p Smartphones!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(pixel-person identity; open-platform-drives-innovation; honest need-vs-want; 1080p-iPhone prediction)_
+- 2013-04-23 — [[2013-04-23-yt-rIRpK7KAfM0|Google Babel: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary _(Google-fragmentation critique; personal-pain-point-as-content; iMessage availability comparison)_
+- 2013-05-01 — [[2013-05-01-yt-wXmzpFoHkfA|Samsung Galaxy S4 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(downsized-Note-2 evidence-based read; best-all-around-camera; function-over-gimmick turned-features-off; is-it-worth-upgrade + updates-as-value)_
+- 2013-05-03 — [[2013-05-03-yt-KF75-HPdUfY|HTC One Review!]] ★ · smartphones, tech-reviews, production-filmmaking _(BoomSound best-media-experience; UltraPixel honest trade-off; no-daily-driver-anymore transition; quick-over-fast; recommend-to-anyone)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -652,4 +660,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_611 videos ingested (L2) so far._
+_619 videos ingested (L2) so far._
