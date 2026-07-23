@@ -4,6 +4,30 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Aug 29–Sep 30, 8/8 ingested (the OnePlus 2 "five pillars" + the Sept-2015 launch season: iPhone 6s, Note 5, Nexus 6P)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 817→**825 L2**. The September-2015 launch season.
+
+**Doctrine anchor.** `OnePlus 2 Review!` (08-29) ★★ — the clearest **anti-thin / fill-the-body-with-battery**
+plea ("dear every manufacturer… feel free to fill the rest of the body with battery"), his **"five pillars
+of a great smartphone" framework** (performance, camera, display, battery, build), the **NFC-reverse-lights
+critique**, USB-C-inconvenient-now, and a "measure phones by what's wrong" callback to the Perfect Smartphone
+video.
+
+**Camera-shootout seed.** `iPhone 6s & 6s Plus Unboxing!` (09-22) ★ + `iPhone 6s Impressions!` (09-10) ★ —
+the iPhone camera **catches up to Android on 4K** (12 MP), a **BendGate fix** (7000-series aluminum — his
+own explainer landing in the product), 3D Touch, and an explicit announcement that a **best-smartphone-
+camera shootout** is coming "once we get the new Nexus" (a Smartphone-Awards / Blind-Camera-Test precursor).
+
+**Reinforcing.** `Nexus 6P & 5X Impressions!` (09-30) ★ — Marshmallow; the 6P "checks the boxes"; **USB-C-
+WITH-fast-charging "thank you"** (fixes the OnePlus 2 gripe). `Moto X Pure Review!` (09-25) ★ — grippy back
+= no-cases-needed + stereo front-facing speakers + fast-charging love. `Note 5 Review!` (09-18) ★ — the
+slipperiest-phone-of-all-time crown; skin-over-case. `Moto 360 2nd Gen` (09-02) ★ — flat-tire defense +
+the terrible-lighting joke. `iPad Pro Impressions!` (09-10) ★ — massive; the "nobody wants a stylus"
+Jobs-callback.
+
+Synthesis notes: net-new for the next checkpoint — (1) the **anti-thin/fill-with-battery** plea + the **"five pillars" framework** (Big Four + build) + the **NFC-reverse-lights** analogy (OnePlus 2 Review) → beliefs; (2) the **best-smartphone-camera-shootout** announcement (Smartphone-Awards/Blind-Camera-Test precursor) + iPhone-catches-up-on-4K + BendGate-fix-landed → tech-reviews/creator-business; (3) minor: skin-over-case/slipperiest-phone (Note 5), grippy-back-no-cases + front-facing-speakers (Moto X Pure), USB-C-with-fast-charging + checks-the-boxes (Nexus 6P), flat-tire-defense + Jobs-stylus-humor (voice). All ★-flagged inline; do not inline-promote (5 batches since synthesis pass 12).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Jul 28–Aug 23, 8/8 ingested (the "Perfect Smartphone" one-critical-flaw doctrine + the RX100 IV + Note 5)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 809→**817 L2**.
