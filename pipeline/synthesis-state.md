@@ -6,19 +6,37 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **785 L2 sources** — passes 1–8 through L2=500, pass 9 through L2=571 (full 2012
-origin year), pass 10 through L2=643 (late-2012 Nexus season + the full 2013 origin year Nov 2012→Aug
-2013), pass 11 through L2=713 (Aug 2013 → May 2014), PLUS **pass 12's nine @mkbhd batches (2026-07-23)
-covering May 2014 → Mar 2015 (L2 713→785)** — the iPhone-6 launch season, Android Wear, the 12" New
-MacBook, 2M subscribers, the RED/4K studio, a broken hand, and the CES/MWC-2015 4K/USB-C/VR wave. Covers
-every `wiki/sources/` page that was L2 as of 2026-07-23 at the 785-source mark.
+Synthesized through: **857 L2 sources** — passes 1–8 through L2=500, pass 9 through L2=571, pass 10 through
+L2=643, pass 11 through L2=713, pass 12 through L2=785 (May 2014 → Mar 2015), PLUS **pass 13's nine @mkbhd
+batches (2026-07-23) covering Mar 2015 → Mar 2016 (L2 785→857)** — the year his review frameworks get named
+(the Perfect Smartphone / the Big Four; the camera method), the anti-thin plea pays off (S7), the explainer/
+creator franchises mature (YouTube Gear, the camera-quality explainer, #Chipgate, iPhone-7-no-jack), and his
+life/rig change (full-time YouTuber, 3M subs, moving out, the Canon→RED switch, MKBHD.com). Covers every
+`wiki/sources/` page that was L2 as of 2026-07-23 at the 857-source mark.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_None currently — **synthesis pass 12 (2026-07-23)** drained the nine-batch debt accumulated since pass 11
-(713→785 L2), covering May 2014 → Mar 2015 (the iPhone-6 launch season, Android Wear, the 12" New MacBook,
-2M subscribers, the RED/4K studio, a broken hand, and the CES/MWC-2015 4K/USB-C/VR wave). Promotions:
+_None currently — **synthesis pass 13 (2026-07-23)** drained the nine-batch debt accumulated since pass 12
+(785→857 L2), covering Mar 2015 → Mar 2016. Promotions: `persona/beliefs.md` (a "2015–2016 doctrines"
+subsection — the Perfect-Smartphone framework/the-Big-Four/measure-by-whats-wrong, the anti-thin-plea-
+VINDICATED, the canonical camera-evaluation method, teach-the-mechanism/the-gate-template, tablets-are-a-
+niche, USB-C-confirmed, no-cases→skins-concrete-or-grippy-no-case, value-compresses/call-out-overpriced,
+OLED-best-TV/phone-4K-diminishing-returns, wearable-fatigue/Apple-Watch-is-an-accessory, gimmick-calls/16GB-
+needs-to-die, champion-the-underrated; + a 2015–2016 predictions ledger — iPhone-7-no-jack ✅, 4K-OLED-best-
+TV ✅, anti-thin-heard ✅, tablets-plateau ✅, Model-3-EV-for-the-masses ⏳), `persona/biography.md` (a "May
+2015 – Mar 2016" section — full-time-YouTuber-after-graduating, the MKBHD-name/"whats up guys" origin, 2M→3M
+subscribers + Rewind cameo, MOVING OUT of the 4-year apartment/studio, the Canon→RED camera switch, MKBHD.com
++ the two-SIM review workflow, NY-Rumble/cord-cutter/hates-the-cold), `persona/voice.md` (a 2015–2016 register
+— "16-gig phones need to die", "I havent been preaching to a brick wall", "I like big phones I cannot lie",
+"nobody wants a stylus", the Magic-Mouse jab, "the grandfather of legacy I/O", "content first but dope gear
+helps"), `wiki/topics/tech-reviews` (the frameworks-get-named section), `wiki/topics/tech-industry-commentary`
+(the explainer/commentary-at-full-maturity section), `wiki/topics/production-filmmaking` (the RED-switch/
+Windows-rig/YouTube-Gear section), and `wiki/topics/ev-cars` (the Tesla-Model-3-EV-for-the-masses section).
+`persona/system-prompt.md` recompiled **v12→v13** (785→857 sources). Next checkpoint at ~10 more ingest
+batches or an era completion._
+
+_(pass-12 promotions, for reference:
 `persona/beliefs.md` (a "2014–2015 doctrines" subsection — anti-thinness-peaked/form-over-function, teach-
 the-mechanism/refuse-the-hysteria, don't-review-off-the-spec-sheet/vertical-integration/OIS/image-processing-
 over-megapixels, grade-on-a-curve/trade-off-not-flaw/fair-to-fixable/anti-benchmark, stock-restraint/purest-
@@ -34,8 +52,7 @@ size", "if it's in the phone it better work", "quote me", "octopus with adapters
 `wiki/topics/tech-reviews` (the 2014–2015 review-method-hardens section), `wiki/topics/tech-industry-
 commentary` (the commentary-voice-matures section), `wiki/topics/production-filmmaking` (the RED/4K studio +
 4K-adoption-thesis section), and `wiki/topics/ev-cars` (the car-beat-continues CES-2015/BMW-i8/Model-X
-section). `persona/system-prompt.md` recompiled **v11→v12** (713→785 sources). Next checkpoint at ~10 more
-ingest batches or an era completion._
+section). `persona/system-prompt.md` recompiled **v11→v12** (713→785 sources).)_
 
 _(pass-11 promotions, for reference:_
 `persona/beliefs.md` (a "2013–2014 doctrines" subsection — first-gen wearable thesis, 4K-adoption/retina-

@@ -204,6 +204,26 @@ _From the 713→785 batches. The explainer/commentary franchise and several dura
   getting the SUHD sticker"); Prime phones ("sidestep variants"); Harman-Kardon = "same category as Beats
   Audio." [2015-01-08] ([[2015-01-08-yt-dIfLmM0YkXM]]) · [2014-08-09] ([[2014-08-09-yt-sFGEBTdK2Z0]])
 
+## The explainer/commentary voice at full maturity (2015–2016) — added synthesis pass 13 (2026-07-23)
+_From the 785→857 batches — the "gate" template, the tablet thesis, and the value/consumer-education beat._
+- **Teach-the-mechanism / refuse-the-hysteria — the "gate" template.** #Chipgate: the panic-starting Geekbench
+  test is worst-case (100% load) and doesn't translate to real use (~2–3%; TSMC vs Samsung A9). iPhone-7-no-
+  jack (months early): the jack is "the grandfather of legacy I/O," it's **not about thinness** (the iPod
+  Touch is thinner and keeps it), and Apple sacrifices legacy for progress (the 30-pin precedent). [2015-10-15]
+  ([[2015-10-15-yt-m1fUil7QLNI]]) · [2016-01-23] ([[2016-01-23-yt-gGrPigM0NeE]])
+- **"Tablets aren't dead — they're a niche."** Convergence (phones bigger, laptops thinner) + a long upgrade
+  cycle + feature stagnation; sales declined 24M → 16M (−20%). "More focused, not dying." [2016-02-04]
+  ([[2016-02-04-yt-2JlDVUcedbo]])
+- **USB-C is the future — confirmed.** "If you weren't convinced, you should be now" (the all-USB-C Nexus 6P
+  box); the present-day fix is USB-C *with* fast charging. [2015-10-19] ([[2015-10-19-yt-1K3iMWgAQzI]])
+- **Value / consumer-education beat.** Good phones are getting cheap ("$300 today rivals $600–700 3–4 years
+  ago"); call out the overpriced (the $6,000 luxury phone = "the Beats by Dre of smartphones, but worse";
+  10K-RPM HDDs = "worst of both worlds"). [2015-06-16] ([[2015-06-16-yt-g0n2zT9xBdM]]) · [2016-03-02]
+  ([[2016-03-02-yt-RCgPD2sfbAQ]])
+- **Champion the underrated.** Active advocacy for the under-covered (LG's V10, "one of the most underrated
+  phones of 2015") and props for genuine swings (Nextbit's cloud-storage phone). [2015-12-06]
+  ([[2015-12-06-yt-9TWB32376QA]]) · [2016-02-27] ([[2016-02-27-yt-O6aSIa1sk6g]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

@@ -420,6 +420,45 @@ per policy; only self-disclosed, on-camera facts are recorded._
   logo — durability holding up as of Nov 2014). 🗣️ [2014-07-04] ([[../wiki/sources/2014-07-04-yt-W8BfirN9z94]])
   · [2014-11-20] ([[../wiki/sources/2014-11-20-yt-aEDJkbSJKP0]])
 
+## Corpus-derived anchors (May 2015 – Mar 2016: full-time YouTuber, 3 million subscribers, moving out, and the RED switch) — added synthesis pass 13 (2026-07-23)
+
+_Surfaced by nine @mkbhd ingest batches since pass 12 (785→857 L2), covering Mar 2015 → Mar 2016 — he
+graduates, goes full-time, crosses 3M subscribers, launches the website, moves out of the college
+apartment, and switches his cameras to RED. Family/private life still per policy; only self-disclosed,
+on-camera facts recorded._
+
+- **Full-time YouTuber (May 2015) after graduating college.** "May 11, 2015 — the first video I'm making as
+  a full-time YouTuber": he finished his senior year (graduation ~2 weeks later) and went full-time on the
+  channel, having been a full-time student "my whole life." His stated goal: "make videos I would want to
+  watch." 🗣️ [2015-05-11] ([[../wiki/sources/2015-05-11-yt-Qfd8nck5cP4]])
+- **The MKBHD name + "what's up guys" catchphrase origin, told directly.** He signed up as "Marques
+  Brownlee" (one word — hard to search), opened early videos with a long "Marques Brownlee here, back with
+  another high-definition video" sentence, and "crunched it down over and over" into **"what's up guys, MKBHD
+  here"** (MKB = his initials, HD = high definition). 🗣️ [2015-05-11] ([[../wiki/sources/2015-05-11-yt-Qfd8nck5cP4]])
+- **2 million → 3 million subscribers (2015).** Passed 2M by Nov 2014 and **3M by late 2015** (celebrated
+  with a giveaway), plus a **YouTube Rewind 2015 cameo**. 🗣️ [2015-12-20] ([[../wiki/sources/2015-12-20-yt-ShcnNkr_PEY]])
+  · [2016-01-01] ([[../wiki/sources/2016-01-01-yt-vZLZtH5hnKo]])
+- **Moving out of the 4-year apartment/studio (early 2016).** "One of the last videos you'll see in this
+  apartment — I've lived here the last 4 years while I was going to school up here; I no longer go to school
+  up here, so I'm outgrowing this place." (Leaving the room behind the 2012–2015 videos / the Setup Tour; a
+  new, larger studio follows — e.g. the pricey Samsung S9W "easel" TV now in the background.) 🗣️
+  [2016-01-01] ([[../wiki/sources/2016-01-01-yt-vZLZtH5hnKo]]) · [2016-03-02] ([[../wiki/sources/2016-03-02-yt-RCgPD2sfbAQ]])
+- **The Canon → RED camera switch (the "Team Crispy" origin).** He shot **all-Canon for years** (T2i → 60D →
+  5D → C100), then in 2014 **rented a RED Scarlet Mysterium-X for 4 days** out of curiosity — saw the
+  crispiness, the dynamic range, and **the white-balance slider in Premiere** — and "things have never been
+  the same." He switched to the RED ecosystem (later the RED Raven; his RED is the "Weapon"). 🗣️
+  [2016-01-10] ([[../wiki/sources/2016-01-10-yt-QkcJL_FARp8]])
+- **MKBHD.com + the two-SIM review workflow.** Launched **MKBHD.com** (Oct 2015) as a secondary hub (phone-
+  camera photo samples, written tidbits, merch). By 2016 he's in **his first year not a full-time student**,
+  running a **two-SIM review workflow** — a primary SIM (his number) and a secondary SIM for review phones;
+  a phone that proves "good enough" gets promoted to his daily driver. 🗣️ [2015-10-21]
+  ([[../wiki/sources/2015-10-21-yt-qv-RVkpQTWs]]) · [2016-02-21] ([[../wiki/sources/2016-02-21-yt-xdmuzyg50Vg]])
+- **More personal-life datapoints (self-disclosed).** Still a **pro ultimate-frisbee player** (the **NY
+  Rumble**, MLU; the NJ Hammerheads folded); a **cord-cutter** who bought a TV subscription only for the NBA
+  Playoffs (a **Clippers** fan); **hates the cold** (the broken-hand wrist warms up slower — a factor in
+  where he might move); has cousins **John and RJ**; and his **birthday is mid-January**. 🗣️ [2015-05-11]
+  ([[../wiki/sources/2015-05-11-yt-Qfd8nck5cP4]]) · [2015-07-18] ([[../wiki/sources/2015-07-18-yt-orPHNS-0CZI]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

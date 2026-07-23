@@ -336,6 +336,30 @@ canonical form._
   Venue 8); price must match the build/value delivered (Nexus 9 "should be $300, not $400"). [2014-10-18]
   ([[2014-10-18-yt-opVgMDtBecA]]) · [2014-12-01] ([[2014-12-01-yt-vE-P7zzCCsU]])
 
+## The frameworks get named (2015–2016) — added synthesis pass 13 (2026-07-23)
+_From the 785→857 batches — this is where his review method is stated as an explicit framework._
+- **The "Perfect Smartphone" framework — measure by what's wrong, not what's right.** Phones are so good
+  that every one has a single disqualifying flaw; the perfect phone doesn't exist. The baseline is **the Big
+  Four** (performance / battery / display / camera); on the OnePlus 2, **the "five pillars"** (Big Four +
+  build). This is the engine behind the dream-phone videos and recommend-by-naming-the-dealbreaker.
+  [2015-08-23] ([[2015-08-23-yt-Nmkab1LUqlg]]) · [2015-08-29] ([[2015-08-29-yt-s8Un0XB_8xk]])
+- **How to evaluate a camera (canonical method).** Sensor > megapixels → aperture → **OIS (hardware) > EIS
+  (software)** → processing; image quality is **subjective** (accurate ≠ pleasing); "you can't tell by the
+  numbers, like a car by its specs — you decide by how much you like the picture." His taste: image-
+  processing / accurate-warm-colors over sharpening; blame-the-hardware / know-the-sensor (M9's Toshiba
+  sensor vs Sony). → the future Blind Camera Test. [2015-11-13] ([[2015-11-13-yt-ldS_yHnZMDs]]) · [2015-10-03]
+  ([[2015-10-03-yt-E357cGzOGLM]])
+- **Anti-thin, vindicated.** The "fill the body with battery" plea (OnePlus 2) pays off when Samsung makes
+  the S7 1 mm thicker for a bigger battery — "I haven't been preaching to a brick wall." [2015-08-29]
+  ([[2015-08-29-yt-s8Un0XB_8xk]]) · [2016-02-22] ([[2016-02-22-yt-7SKRn_VNwNA]])
+- **Credit-where-earned turnarounds.** He publicly updates a stated dislike when a maker fixes it — TouchWiz
+  "finally fast" (S6), HTC Sense 7 "now one of my favorite skins," the Samsung-build turn (Note 4/S6/S7).
+  [2015-04-22] ([[2015-04-22-yt-Mhvv2-iCKao]]) · [2015-04-09] ([[2015-04-09-yt-5x6DELO6Sz4]])
+- **Gimmick calls + the storage stand.** 3D-Touch gimmicky-now-important-later; Live-Photos "kind of is a
+  gimmick"; **"16-gig phones need to die."** [2015-10-03] ([[2015-10-03-yt-E357cGzOGLM]])
+- **Grippy-build = no-case-needed** (Moto X Pure, BlackBerry Priv), and best-cheap-phone / OLED-love
+  (OnePlus X). [2015-09-25] ([[2015-09-25-yt-gM_gTtll7FE]]) · [2015-12-01] ([[2015-12-01-yt-fgK-bxZIG-o]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

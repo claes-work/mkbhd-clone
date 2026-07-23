@@ -130,5 +130,27 @@ _From the 713→785 batches — the production rig levels up and the "State of 4
   not "better" than colored consumer cans — and he mixes his own videos on them. [2014-08-16]
   ([[2014-08-16-yt-9HtGhNUtW-E]]) · [2015-02-17] ([[2015-02-17-yt-3yoAj-PRsZ0]])
 
+## The RED switch, the Windows rig, and the YouTube Gear franchise (2015–2016) — added synthesis pass 13 (2026-07-23)
+_From the 785→857 batches — his rig and his creator-advice format both level up._
+- **The Canon → RED camera switch (the "Team Crispy" origin).** All-Canon for years (T2i → 60D → 5D → C100),
+  then **rented a RED Scarlet for 4 days** → the crispiness + dynamic range + **the white-balance slider in
+  Premiere** → "things have never been the same." He switched to the RED ecosystem (later the RED Raven; his
+  RED = the "Weapon"). → `persona/biography.md`. [2016-01-10] ([[2016-01-10-yt-QkcJL_FARp8]])
+- **The MAINGEAR Windows editing rig.** Began a potential move from the trash-can Mac Pro to a **custom
+  Windows PC** as his main editing machine (i7-5960X, dual GTX 980) — "I edit all my videos on one of these,
+  time to give an upgrade a shot." [2015-07-01] ([[2015-07-01-yt-9sTVbeq21dI]])
+- **The "YouTube Gear" franchise + content-first-but-gear-helps.** A creator-advice series ("it's not all
+  about the gear — content first — but quality, versatile working gear is surprisingly important"): the
+  **Blue Yeti** (his origin mic, used 3–5 years earlier) and the **iFootage Shark Slider** (+ a Manfrotto
+  502HD head) behind his signature moving/tracking shots. [2015-11-26] ([[2015-11-26-yt-9E006QLHt0Y]]) ·
+  [2016-01-29] ([[2016-01-29-yt-xCRjWur8-7c]])
+- **The camera-evaluation methodology + audio literacy.** How he judges cameras — sensor > megapixels,
+  aperture, OIS > EIS, processing; accurate-vs-pleasing is subjective (→ `tech-reviews`). And judge-by-
+  purpose audio: closed-back vs open-back, reference monitors (AKG K702, ATH-R70x), the underrated Grado.
+  [2015-11-13] ([[2015-11-13-yt-ldS_yHnZMDs]]) · [2015-06-24] ([[2015-06-24-yt-6RskGkGYtgg]])
+- **How YouTube actually works (YouTube Processing explainer).** Adaptive-bitrate transcoding of each upload
+  into many resolutions (even 4K = ~1/10 the original size); the "uploading → processing" workflow; the "720p
+  HD" origin behind the HD in MKBHD. [2015-05-18] ([[2015-05-18-yt-4CJvasYJP6o]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

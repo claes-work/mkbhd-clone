@@ -46,6 +46,14 @@ _From the 713→785 batches — a year after the first Tesla Model S video, the 
   "one of the most badass hybrid cars in the world." A biography + production node in the growing car beat.
   [2015-02-01] ([[2015-02-01-yt-nnODX_VEp2c]])
 
+## Tesla Model 3 — "the EV for the masses" (early 2016) — added synthesis pass 13 (2026-07-23)
+_From the 785→857 batches — his earliest framing of the affordable-EV thesis that becomes a 2026 through-line._
+- **The Model 3 is "the endgame."** "The Model S starts ~$70k, the Model X ~$80k; the Model 3 is supposed to
+  start at **$35k**. Getting the price down is big for Tesla and for EVs in general" (enabled by the
+  gigafactory). **"One of Tesla's biggest goals was to bring electric cars to the masses affordably — the
+  Model S got everyone's attention, the Model 3 is the one people can actually get."** The direct ancestor of
+  his 2026 **"an affordable EV that doesn't suck"** through-line. [2016-02-07] ([[2016-02-07-yt-itInMEcvjYc]])
+
 ## The @AutoFocus era (2026 EV reviews) — first substantial corpus
 
 > Added synthesis pass 2 (2026-07-19) from the first @AutoFocus batch. Marques-fronted → persona-eligible; the Porsche Macan driving section is handed to co-host "Miles" and quarantined at the source.

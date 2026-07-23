@@ -4,6 +4,41 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] lint | synthesis pass 13 — Mar 2015 → Mar 2016 (785→857 L2): the frameworks get named, the anti-thin plea pays off, and he goes full-time / moves out / switches to RED
+
+Stage S. Drained the nine-batch debt accumulated since pass 12 (785→857 L2), covering **Mar 2015 → Mar
+2016** — the year his review *frameworks* get named outright, the anti-thin plea is vindicated, the
+explainer/creator franchises mature, and his life/rig change. Promoted the genuinely-new material only.
+
+**Persona:**
+- `beliefs.md` — a "2015–2016 doctrines" subsection: **the "Perfect Smartphone" framework / the Big Four /
+  measure-by-what's-wrong**, the **anti-thin-plea VINDICATED**, the **canonical camera-evaluation method**
+  (sensor>megapixels/OIS>EIS/processing + accurate-vs-pleasing + the car-specs analogy), **teach-the-
+  mechanism / the "gate" template** (#Chipgate, iPhone-7-no-jack), **tablets-are-a-niche**, **USB-C-
+  confirmed**, **no-cases→skins-concrete / grippy-no-case**, **value-compresses / call-out-overpriced**,
+  **OLED-best-TV / phone-4K-diminishing-returns**, **wearable-fatigue / Apple-Watch-is-an-accessory**,
+  gimmick-calls / **16GB-needs-to-die**, champion-the-underrated; + a 2015–2016 predictions ledger
+  (iPhone-7-no-jack ✅, 4K-OLED-best-TV ✅, anti-thin-heard ✅, tablets-plateau ✅, Model-3-EV-for-the-masses ⏳).
+- `biography.md` — a "May 2015 – Mar 2016" section: **full-time YouTuber (May 2015) after graduating**, the
+  MKBHD-name / "what's up guys" origin, **2M → 3M subscribers** + a Rewind cameo, **moving out of the 4-year
+  apartment/studio**, the **Canon → RED camera switch**, MKBHD.com + the two-SIM review workflow, NY Rumble /
+  cord-cutter / hates-the-cold.
+- `voice.md` — a 2015–2016 register ("16-gig phones need to die," "I haven't been preaching to a brick wall,"
+  "I like big phones I cannot lie," "nobody wants a stylus," the Magic-Mouse jab, "the grandfather of legacy
+  I/O," "content first, but it helps to have some dope gear").
+
+**Topic hubs (L3):** `tech-reviews` (the frameworks-get-named section), `tech-industry-commentary` (the
+explainer/commentary-at-full-maturity section), `production-filmmaking` (the RED-switch / Windows-rig /
+YouTube-Gear section), and `ev-cars` (the Tesla-Model-3-EV-for-the-masses section).
+
+Recompiled `persona/system-prompt.md` **v12→v13** (compiled_from_sources 785→857; updated the index.md
+reference to v13/857). Advanced the high-water mark in `pipeline/synthesis-state.md` to 857. No new topic
+pages created (all promotions extended existing hubs/persona). No contradictions flagged. No fabrication,
+all English. Attribution: the Kobe interview stayed guest-gated; only Marques-attributed material trained
+the persona.
+
+Synthesis notes: none (this IS the synthesis pass; debt now zero — next checkpoint at ~10 more ingest batches).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Jan 29–Mar 2, 8/8 ingested (the anti-thin plea VINDICATED (S7) + the tablets-are-a-niche thesis)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 849→**857 L2**.

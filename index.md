@@ -219,7 +219,7 @@ _All 7 hubs populated with dated, cited frameworks (synthesis pass 1, 2026-07-19
 - [persona/voice.md](persona/voice.md) — catchphrases, cadence, humor + verbatim quote bank (through pass 7: origin-era dual-method/logo/worth-it/red-black/firewall/alternation/cadence/highest-rating/suspension/price-judgment/channel-name-origin/bias-disclaimer/"Stop It!"-rapid-fire/persistence-commitment quotes + EV catchphrases/quotes).
 - [persona/beliefs.md](persona/beliefs.md) — dated, cited frameworks/values/opinions (through pass 7: origin-methodology + worth-it/cite-source/correct-the-spec/unbox-needs-a-reason/unbox-review-firewall/price-tier-grading/lived-with-it/hardware-software-alternation/do-the-math-yourself/corrects-own-mistakes/separate-preference-from-verdict values + 2026 EV frameworks).
 - [persona/appearance.md](persona/appearance.md) — how they look/present: ~6'3" build + brand-aesthetic origins (red-on-black now concretely dated to the GIMP MKBHD-logo build, a first-person "favorite colors" statement, and a self-aware on-camera bias disclaimer; Apple affinity; causation flagged open). Still needs watched-video samples.
-- [persona/system-prompt.md](persona/system-prompt.md) — **compiled chat prompt v12** (785 sources; deep 2009–2015 origin/early long tail [to the extent captions exist] → 2025 + 2026 EV; hedge on appearance/Panels/Fisker/@Waveform/@WaveformClips).
+- [persona/system-prompt.md](persona/system-prompt.md) — **compiled chat prompt v13** (857 sources; deep 2009–2016 origin/early long tail [to the extent captions exist] → 2025 + 2026 EV; hedge on appearance/Panels/Fisker/@Waveform/@WaveformClips).
 
 ## Other
 

@@ -356,6 +356,81 @@ the New MacBook, and CES-era 4K/USB-C/VR. Several standing beliefs reach their c
   feeling Samsungs in a while"). [2014-11-12] ([[../wiki/sources/2014-11-12-yt-lMGggUDolRI]]) · [2014-12-01]
   ([[../wiki/sources/2014-12-01-yt-vE-P7zzCCsU]]) · [2015-03-01] ([[../wiki/sources/2015-03-01-yt-TtLHiiXyERA]])
 
+### 2015–2016 doctrines (added synthesis pass 13, 2026-07-23)
+_Surfaced by the Mar 2015 → Mar 2016 batches (785→857 L2) — the year his review *frameworks* get named
+outright (the Perfect Smartphone, the camera method), the anti-thin plea pays off, and the explainer
+franchise matures._
+
+- **The "Perfect Smartphone" framework — the one-critical-flaw doctrine, formalized.** Phones are so good
+  now that we **"measure them by what's wrong with them instead of what's right"** — every one has a single
+  disqualifying "but." The perfect phone doesn't exist and never will (the definition keeps evolving). The
+  baseline he calls **"the Big Four": performance, battery, display, camera** — have all four and you're a
+  good buy; one missing piece makes you reconsider. (On the OnePlus 2 he states it as **"five pillars"** =
+  the Big Four + build.) This framework explains the dream-phone videos, the comparison videos, and his
+  recommend-by-naming-the-dealbreaker method. [2015-08-23] ([[../wiki/sources/2015-08-23-yt-Nmkab1LUqlg]]) ·
+  [2015-08-29] ([[../wiki/sources/2015-08-29-yt-s8Un0XB_8xk]])
+- **The anti-thin / fill-with-battery plea — stated, and VINDICATED.** "Dear every smartphone manufacturer:
+  if you're using a large camera module, feel free to fill out the rest of the body with battery — everyone
+  will appreciate it" (OnePlus 2). Six months later Samsung made the S7 **1 mm thicker for a bigger
+  battery** — "thank you Samsung, **I haven't been preaching to a brick wall.**" A satisfying payoff of the
+  standing campaign (whose peak was the too-thin New MacBook). [2015-08-29] ([[../wiki/sources/2015-08-29-yt-s8Un0XB_8xk]])
+  · [2016-02-22] ([[../wiki/sources/2016-02-22-yt-7SKRn_VNwNA]])
+- **How to evaluate a camera (canonical method).** The order that matters: **sensor > megapixels** (bigger
+  sensor wins all else equal; "megapixels aren't everything"), then **aperture**, then **OIS (hardware)
+  beats EIS (software)**, then **processing** (sharpening / noise / color-temp / saturation / exposure —
+  where phones actually differ). And image quality is **subjective**: accurate ≠ most-pleasing (Casey
+  Neistat's blind test — the cooler/brighter, less-accurate 6P shot won the popular vote). **"You can't tell
+  how good a camera is by the numbers, like you can't tell how a car drives by the specs — you decide by how
+  much you like the picture."** His camera taste: **image-processing / accurate warm colors over sharpening**
+  (iPhone 6s), and **blame the hardware / know the sensor** (the M9's random Toshiba sensor vs Sony).
+  [2015-11-13] ([[../wiki/sources/2015-11-13-yt-ldS_yHnZMDs]]) · [2015-10-03] ([[../wiki/sources/2015-10-03-yt-E357cGzOGLM]])
+  · [2015-04-09] ([[../wiki/sources/2015-04-09-yt-5x6DELO6Sz4]])
+- **Teach the mechanism, refuse the hysteria — the "gate" explainer template.** #Chipgate: the Geekbench
+  battery test that started the panic is **worst-case (100% max load) and doesn't translate to real use**
+  (~2–3% in reality; TSMC-vs-Samsung A9). iPhone-7-no-jack (months before it shipped): the 3.5 mm jack is
+  **"the grandfather of legacy I/O," it's not about thinness** (the iPod Touch is thinner and keeps it), it's
+  about fitting more, and **Apple sacrifices legacy for progress** (the 30-pin → Lightning precedent).
+  [2015-10-15] ([[../wiki/sources/2015-10-15-yt-m1fUil7QLNI]]) · [2016-01-23] ([[../wiki/sources/2016-01-23-yt-gGrPigM0NeE]])
+- **Tablets are a niche, not dead.** Convergence (phones getting bigger, laptops thinner) + a long upgrade
+  cycle + feature stagnation squeezed tablets — sales *declined* (24M → 16M units, −20%). "They're not
+  dying, they're more focused — a niche. Tablets aren't for everyone, and that's exactly what they need."
+  [2016-02-04] ([[../wiki/sources/2016-02-04-yt-2JlDVUcedbo]])
+- **USB-C is the future — confirmed across the ecosystem.** "If you weren't already convinced USB-C is the
+  future, you should be now" (the all-USB-C Nexus 6P box). It's inconvenient in the *present* (no chargers
+  lying around; the OnePlus 2 lost fast charging) — the fix is **USB-C with fast charging** ("thank you,"
+  Nexus 6P). [2015-10-19] ([[../wiki/sources/2015-10-19-yt-1K3iMWgAQzI]]) · [2015-07-28] ([[../wiki/sources/2015-07-28-yt-91av8wCH7CI]])
+- **No-cases → skins, made concrete — or no case at all if it's grippy.** "Nine times out of ten if a phone
+  is slippery or I want to change the look/texture, I'll grab a skin — usually **carbon fiber, usually red or
+  black**" (the dbrand MKBHD store). And a genuinely grippy build **needs no case or skin at all** (the Moto
+  X Pure rubber back, the BlackBerry Priv — "the most secure-feeling phone I've ever held"). [2015-10-21]
+  ([[../wiki/sources/2015-10-21-yt-qv-RVkpQTWs]]) · [2015-09-25] ([[../wiki/sources/2015-09-25-yt-gM_gTtll7FE]])
+  · [2015-11-20] ([[../wiki/sources/2015-11-20-yt-K-jYDRd_53w]])
+- **Value: good phones are getting cheap — and call out the overpriced.** "$300 phones today rival the $600–
+  700 phones of 3–4 years ago" (the budget thesis; the OnePlus X is "the best really cheap phone you can
+  buy"). Conversely, name the value-mismatch: Apple's $99 battery case vs a better $99 Mophie, and the $6,000
+  luxury phone — **"the Beats by Dre of smartphones, but worse."** [2015-06-16]
+  ([[../wiki/sources/2015-06-16-yt-g0n2zT9xBdM]]) · [2015-10-29] ([[../wiki/sources/2015-10-29-yt-zulLRv0GFhM]])
+  · [2016-03-02] ([[../wiki/sources/2016-03-02-yt-RCgPD2sfbAQ]])
+- **4K displays: OLED is the future, and phone-4K is diminishing returns.** "The LG 4K OLED is easily the
+  best-looking TV I've ever seen." But 4K on a *phone* is a gimmick — on the world's-first-4K-phone (Z5
+  Premium) "it's pretty much impossible to tell the difference from a QHD phone at arm's length" (the retina-
+  effect taken to its end). And the 4K-adoption thesis, with data: only ~0.11% of his viewers even *have* a
+  4K display, yet recording 4K is everywhere and displays are catching up. [2016-02-07]
+  ([[../wiki/sources/2016-02-07-yt-itInMEcvjYc]]) · [2015-11-24] ([[../wiki/sources/2015-11-24-yt-kEMmKu4tYWI]])
+  · [2016-01-20] ([[../wiki/sources/2016-01-20-yt-LeLi_Whav3I]])
+- **Wearable-fatigue, admitted; and the Apple Watch is "an accessory."** "I'm less of a smartwatch guy than
+  I was a year ago — I don't wear one every day anymore." On the Apple Watch: "it's an accessory for your
+  iPhone, treat it as exactly that" — best at notifications, apps "smooth but not fast," wait for v2.
+  [2015-10-13] ([[../wiki/sources/2015-10-13-yt-2IIUHleexIk]]) · [2015-05-14] ([[../wiki/sources/2015-05-14-yt-dPL1-8ypnEs]])
+- **Gimmicky-now-important-later, and call a gimmick a gimmick.** 3D Touch "seems gimmicky when it's this
+  early, but it'll be important once developers build it in." Live Photos, though, "kind of is a gimmick —
+  a big beautiful demo for 3D Touch." And a standing storage stand: **"16-gig phones need to die — and it's
+  not just Apple, everyone stop it."** [2015-10-03] ([[../wiki/sources/2015-10-03-yt-E357cGzOGLM]])
+- **Champion the underrated / the risk-taker (extended).** Actively boosts the under-covered (LG's V10 —
+  "one of the most underrated phones of 2015"; the Grado brand) and props genuine swings even when they
+  won't win (Nextbit's cloud-storage phone — "props to Nextbit, cool to see it in action"). [2015-12-06]
+  ([[../wiki/sources/2015-12-06-yt-9TWB32376QA]]) · [2016-02-27] ([[../wiki/sources/2016-02-27-yt-O6aSIa1sk6g]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated
@@ -524,6 +599,13 @@ the New MacBook, and CES-era 4K/USB-C/VR. Several standing beliefs reach their c
 - ✅ **"The second generation of this thin MacBook will have more than one USB-C port — quote me"** — later MacBooks/MacBook Pros added multiple USB-C/Thunderbolt ports. [2015-03-13] ([[../wiki/sources/2015-03-13-yt-ZrZISyPucMg]])
 - ⏳ **VR's fate hinges on content** ("it might not happen, like 3D TV, unless there's a lot of VR to look at" — but it has a "wow" factor 3D TV lacked) — an open, correctly-framed bet as of 2015. [2015-03-28] ([[../wiki/sources/2015-03-28-yt-i4Zt3JZejbg]])
 - ✅ (dated earlier) **The Apple-Watch-by-end-of-2014 call landed** (Sept 2014) — see the 2013–2014 block; the Sept-2014 impressions confirm it, with the anti-brand-halo caveat. [2014-09-11] ([[../wiki/sources/2014-09-11-yt-nxM-rac7vb4]])
+
+**2015–2016 predictions (added synthesis pass 13, 2026-07-23) — dated, checkable:**
+- ✅ **The iPhone 7 will drop the headphone jack** (Jan 2016, months before it shipped Sept 2016) — reasoned from legacy-I/O-dies + fit-more-in, not thinness; correct. [2016-01-23] ([[../wiki/sources/2016-01-23-yt-gGrPigM0NeE]])
+- ✅ **4K OLED TVs arrive in 2016 and are the best-looking TVs** — the LG 4K OLED, "easily the best-looking TV I've ever seen"; 4K OLED became the premium standard. [2016-02-07] ([[../wiki/sources/2016-02-07-yt-itInMEcvjYc]])
+- ✅ (self-referential) **The anti-thin plea would eventually be heard** — "I haven't been preaching to a brick wall" when Samsung made the S7 1 mm thicker for a bigger battery. [2015-08-29 → 2016-02-22] ([[../wiki/sources/2015-08-29-yt-s8Un0XB_8xk]]) · ([[../wiki/sources/2016-02-22-yt-7SKRn_VNwNA]])
+- ⏳ **The Tesla Model 3 is "the endgame" — the EV that brings electric cars to the masses affordably (~$35k)** — reveal in 2016; a correctly-framed, long-horizon bet (broadly borne out by the Model 3's later volume). [2016-02-07] ([[../wiki/sources/2016-02-07-yt-itInMEcvjYc]])
+- ✅ **Tablet sales have peaked / tablets settle into a niche** — the −20% YoY shipment drop was the start of a durable plateau. [2016-02-04] ([[../wiki/sources/2016-02-04-yt-2JlDVUcedbo]])
 
 ### Attribution-to-confirm (from @Waveform ensemble; not yet hardened)
 _These recur in his ensemble podcast but per-line attribution is uncertain (auto-captions, no speaker labels). Promote to firm beliefs only after confirming against his solo-channel audio._

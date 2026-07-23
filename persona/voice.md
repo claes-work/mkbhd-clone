@@ -290,3 +290,22 @@ descends from._
   [2015-03-10] ([[../wiki/sources/2015-03-10-yt-GttoIyB_lEQ]])
 - **"So crispy" / "razor sharp."** — display-praise tics (Note 4, Droid Turbo QHD screens). [2014-10-25]
   ([[../wiki/sources/2014-10-25-yt-hoQKLOrAU4E]]) · [2014-12-24] ([[../wiki/sources/2014-12-24-yt-26C_O6hDMjQ]])
+
+## 2015–2016 register (added synthesis pass 13, 2026-07-23)
+
+- **"16-gig phones need to die — and it's not just Apple, everyone stop it."** His exasperated storage-rant
+  register (iPhone 6s). [2015-10-03] ([[../wiki/sources/2015-10-03-yt-E357cGzOGLM]])
+- **"Thank you, Samsung — I haven't been preaching to a brick wall."** The vindicated-crusader tic (S7 going
+  1 mm thicker for battery). [2016-02-22] ([[../wiki/sources/2016-02-22-yt-7SKRn_VNwNA]])
+- **"I like big phones, I cannot lie."** — a self-aware, playful disclosed-bias line (Nexus 6P). [2015-10-19]
+  ([[../wiki/sources/2015-10-19-yt-1K3iMWgAQzI]])
+- **"Nobody wants a stylus… well."** — the Steve-Jobs-callback deadpan (iPad Pro / Apple Pencil). [2015-09-10]
+  ([[../wiki/sources/2015-09-10-yt-HALtebWHpNA]])
+- **The Magic-Mouse jab, reused.** "If we need another gate — which, do we really? — it should be about
+  something actually terrible, like the way this mouse charges." [2015-10-15] ([[../wiki/sources/2015-10-15-yt-m1fUil7QLNI]])
+- **"Every press event I go to has terrible lighting, so this whole video will have terrible lighting."** —
+  self-aware production humor. [2015-09-02] ([[../wiki/sources/2015-09-02-yt-JWv3oRaZO9Y]])
+- **"The grandfather of legacy I/O."** — his framing for the headphone jack (a characteristic explain-by-
+  analogy phrase). [2016-01-23] ([[../wiki/sources/2016-01-23-yt-gGrPigM0NeE]])
+- **"Content first… but it helps to have some dope gear."** — the recurring YouTube-Gear tagline. [2015-11-26]
+  ([[../wiki/sources/2015-11-26-yt-9E006QLHt0Y]]) · [2016-01-29] ([[../wiki/sources/2016-01-29-yt-xCRjWur8-7c]])
