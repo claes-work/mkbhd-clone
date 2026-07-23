@@ -4,6 +4,66 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Oct 1–23, 8/8 ingested
+
+Stage B. **Fifteenth consecutive clean batch, tenth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
+0 dup. 555→**563 L2**. Four ★★ this batch — a values landmark, a methodology landmark, and two strong
+industry-analysis pieces.
+
+**Values landmark — upgradeability.** `On Apple's New 2012 Desktops!` (10-23) states the
+repairability/upgradeability value at length: only the Mac Pro is a "**true desktop**" because its
+GPU/RAM/drives are swappable; the Mac Mini and the new ultra-thin iMac are "**glorified MacBook
+Pros**" (mobile parts in desktop bodies). Crucially he concedes the iMac is "beautiful, no one can
+disagree" and his *favorite* of the event — then declines to buy it because it fails his upgradeability
+test, naming the thin-vs-serviceable tradeoff explicitly. This is the dated origin of the
+pro-repairability leaning the persona shows later, grounded in his own self-upgrade behavior.
+
+**Methodology landmark — anti-benchmark.** The `Galaxy Note 2 Review` (10-12) states the real-world-
+over-synthetic position outright: "**I never really put a lot of weight on benchmarks — you guys know
+that — and I might do a video about why**… it's really more about the experience." He runs Quadrant
+only to confirm the specs held, then rates lived performance "a 10 out of 10." The clearest origin-
+corpus statement of a stance already in the persona (defers benchmarks to specialists). Same video: he
+**changes his mind about the stylus on camera** ("I never ever thought I would say this") and runs an
+adversarial battery test ("I tried to kill it… unsuccessfully").
+
+**Function over form.** `Top 3 YouTube App Missing Features!` (10-08) closes on a generalizable
+principle: "something can be beautiful, smooth and seem to just work — but if it's lacking
+functionality you have to wonder if it's really all that great, and that applies to more than just the
+YouTube app." Plus **feature parity (mobile == desktop) as the app-quality bar**, used to praise
+Google+ two weeks earlier and criticize YouTube here.
+
+**Industry analysis.** `A Google Nexus Program: Explained!` (10-22) explains the Android **update-
+fragmentation mechanism** via incentives — the skin-maker must adapt each Google update, then the
+carrier adds its own software and pushes it, "so you're not getting your updates from Google if you
+don't have a Nexus" — and proposes an Intel-Inside-style **certified-stock-Android program** (directionally
+realized later as Android One/GMS). Supporting: `LG Nexus Rumors` (10-05) makes the **correct Nexus-4
+prediction** (an LG Optimus G with stock Android) off a clean "good hardware, bad skin" LG
+decomposition; `Transformer Infinity gets Jellybean` (10-01) is the **payoff of his July conditional
+verdict** (the evidence-backed "best once it gets JB" forecast lands); the `Note 2 vs S3` (10-18) adds
+the "thumbs-on-screen" big-display argument and dates a testing daily-driver switch S3→Note 2; and the
+`iPhone 5 / Note 2 giveaway` (10-16) **confirms TLDToday = John (Jon Rettinger)** as a close peer.
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 555 → 563 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **Upgradeability/repairability as a first-class value** ("true desktop", thin-
+vs-serviceable tradeoff) → `persona/beliefs.md`, dated 2012, grounded in his self-upgrade behavior.
+(2) ★★ **Anti-benchmark / real-world-performance stated outright** → `persona/beliefs.md` + review-
+methodology thread; flag the promised "why benchmarks" video for a later window. (3) ★★ **Function over
+form** (beauty without functionality isn't good) → `persona/beliefs.md`, explicitly generalized.
+(4) ★★ **Update-fragmentation-via-incentives** mechanism → tech-industry-commentary hub (cleaner than
+the 2012-02-05 version). (5) ★ **Feature parity (mobile==desktop)** as an app-quality bar. (6) ★
+Predictions ledger: correct LG-Nexus-4 call; the certified-stock-Android proposal; the
+Infinity-Jelly-Bean conditional-verdict payoff. (7) ★ **Changed-mind-on-camera (stylus)** — intellectual-
+honesty instance. (8) ★ **TLDToday/Jon Rettinger peer confirmed** — partially resolves the 2011 flag
+(peer relationship confirmed; the specific 2011 contribution still unverified). (9) ★ Biography:
+testing daily-driver switch S3→Note 2; live-tweeted the Oct-2012 Apple keynote. Debt: 8 ingest batches
+since synthesis pass 8 (checkpoint at 10) — **the next synthesis checkpoint is two batches away**, and
+the queued ★★ material is again substantial (upgradeability, anti-benchmark, function-over-form,
+loss-leader pricing, ultimate-frisbee reveal, the definitive workstation, stock-vs-skin resolution,
+earliest-Oppo, the buyer's-guide framework, the promise→delivery pairs).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Sep 1–29, 8/8 ingested
 
 Stage B. **Fourteenth consecutive clean batch, ninth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,

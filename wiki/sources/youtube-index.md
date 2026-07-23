@@ -434,6 +434,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-09-21 — [[2012-09-21-yt-kRB1-APKUqs|The Setup Tour 2012!]] ★★ · production-filmmaking, consumer-tech-culture, creator-business _(LANDMARK: definitive 2012 workstation; Mac Pro; ultimate-frisbee corroborated)_
 - 2012-09-25 — [[2012-09-25-yt-hKvoHRAYyMc|New Myspace Design: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary _(good-website-vs-good-network distinction)_
 - 2012-09-29 — [[2012-09-29-yt-C-b9hmerTac|Top 5 Reasons Google+ is Awesome!]] ★ · consumer-tech-culture, content-strategy, tech-industry-commentary _(Google+ advocacy, date-scoped; "you're doing it wrong")_
+- 2012-10-01 — [[2012-10-01-yt--gqjCVTXBeM|Transformer Pad Infinity gets Jellybean!]] ★ · consumer-tech-culture, tech-reviews _(the July conditional verdict pays off)_
+- 2012-10-05 — [[2012-10-05-yt-JpsTUT4F3BA|LG Nexus Rumors!]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(CORRECT Nexus-4 prediction; "good hardware, bad skin" LG read)_
+- 2012-10-08 — [[2012-10-08-yt-eFcpRIwPqRc|Top 3 YouTube App Missing Features!]] ★★ · content-strategy, consumer-tech-culture, tech-industry-commentary _(LANDMARK: function-over-form; feature-parity as the quality bar)_
+- 2012-10-12 — [[2012-10-12-yt-VdsMwGWvhO4|Samsung Galaxy Note 2 Review!]] ★★ · smartphones, tech-reviews, consumer-tech-culture _(LANDMARK: anti-benchmark/real-world-performance stated; changed mind on the stylus)_
+- 2012-10-16 — [[2012-10-16-yt-GFdzwQw4CxQ|GIVEAWAY: iPhone 5 OR Galaxy Note 2!]] ★ · creator-business, consumer-tech-culture _(TLDtoday/Jon Rettinger peer confirmed; even-handed structure)_
+- 2012-10-18 — [[2012-10-18-yt-2No-AEasdz8|Samsung Galaxy Note 2 vs Galaxy S3!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("thumbs-on-screen" big-display argument; testing daily-driver switch)_
+- 2012-10-22 — [[2012-10-22-yt-y2d2tlnNYOg|A Google Nexus Program: Explained!]] ★★ · tech-industry-commentary, smartphones, consumer-tech-culture _(update-fragmentation mechanism via incentives; certified-stock-Android proposal)_
+- 2012-10-23 — [[2012-10-23-yt-PPEpTasDz2s|On Apple's New 2012 Desktops!]] ★★ · tech-industry-commentary, production-filmmaking, consumer-tech-culture _(LANDMARK: upgradeability as a first-class value; "true desktop")_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -596,4 +604,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_555 videos ingested (L2) so far._
+_563 videos ingested (L2) so far._
