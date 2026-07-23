@@ -619,7 +619,15 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-08-09 — [[2014-08-09-yt-sFGEBTdK2Z0|Prime Phones: Explained!]] · smartphones, tech-industry-commentary, consumer-tech-culture _(sidestep variants — LTE-A/Cat6 for the South Korea market; consumer-education/demystify-the-marketing; not worth importing)_
 - 2014-08-16 — [[2014-08-16-yt-9HtGhNUtW-E|Sony RX100 MKIII Review!]] ★ · production-filmmaking, tech-reviews, creator-business _("best pocket camera ever made" (judge-in-category); flip LCD/EVF/24-70 f1.8; the best-camera-to-START-a-YouTube-channel advice; vlogger-ready)_
 - 2014-08-21 — [[2014-08-21-yt-PNp2IjVv3HI|NVIDIA Shield Tablet Review!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(know-your-lane/disclose-non-coverage — non-gamer reviews it as a stock-Android "Nexus 8", defers gaming to others; front-facing-speakers-should-be-standard; Google-Earth-benchmark; Tegra K1)_
+- 2014-08-24 — [[2014-08-24-yt-EC00YntB7LQ|What's on my Tech: 2014! (Back to School)]] · production-filmmaking, creator-business, consumer-tech-culture _(daily-driver OnePlus One + iPad mini Retina + Mac Pro/2×4K + Adobe Premiere 95%; student; biography/workflow datum)_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
+- 2014-09-03 — [[2014-09-03-yt-8tU-0Uxz6jw|Samsung Galaxy Note 4 Impressions!]] · smartphones, tech-reviews, consumer-tech-culture _(the Samsung-build TURNAROUND — "finally impressed, about damn time"; real aluminum; first Samsung OIS; judge-the-object-not-the-keynote)_
+- 2014-09-03 — [[2014-09-03-yt-uALVIcQXH4Q|Samsung Galaxy Note Edge Impressions!]] · smartphones, tech-industry-commentary, consumer-tech-culture _("Samsung let's-try-everything phones"; innovation-worth-trying "looks crazy now, might look normal later"; SDK make-or-break; honest unfinished-verdict)_
+- 2014-09-11 — [[2014-09-11-yt-nxM-rac7vb4|Apple Watch Impressions!]] ★★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(PREDICTION VALIDATED (Apple wearable by end of 2014); anti-brand-halo "if it were Samsung you'd have laughed it off the stage"; digital-crown skepticism; removable-band-standard praise; mixed feelings)_
+- 2014-09-15 — [[2014-09-15-yt-X8DOUSGGw10|Moto 360 Review!]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _("smartwatches not ready for prime time" BUT "the best one you can get"; buy if form-over-function; flat-tire defense; battery/perf honesty (throttle-wake diagnosis))_
+- 2014-09-19 — [[2014-09-19-yt-XSf33i8njNU|iPhone 6 Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(anti-thinness thesis "rather have a thicker iPhone" — protruding camera + small battery; rounded=slippery (foreshadows BendGate); "retina HD" ~720p, same ppi as 5S)_
+- 2014-09-19 — [[2014-09-19-yt-BK3YvlOFRTg|Moto X (2014) Review!]] ★ · smartphones, tech-reviews, tech-industry-commentary _(experience-over-specs; stock-Android restraint / anti-"change for the sake of change"; near-stock = top-3 performance; grade-on-price-tier "trade-off not flaw"; avoid-the-leather-back)_
+- 2014-09-24 — [[2014-09-24-yt-s3QcOSyD38M|iPhone 6 Plus #BendGate: Explained!]] ★★ · tech-industry-commentary, consumer-tech-culture, smartphones _(teach-the-mechanism — aluminum vs magnesium chassis; refuse-the-hysteria — abnormal force, not-the-only-phone, 10M sold = no recall; the anti-thinness thesis)_
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
@@ -780,4 +788,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_737 videos ingested (L2) so far._
+_745 videos ingested (L2) so far._

@@ -4,6 +4,33 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Aug 24–Sep 24, 8/8 ingested (the APPLE WATCH prediction validated + BendGate + the anti-thinness thesis)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 737→**745 L2**. The September-2014 launch season.
+
+**Prediction validated + a canonical doctrine.** `Apple Watch Impressions!` (09-11) ★★ — his 2013–14
+prediction (an Apple wearable by end of 2014) **pays off**, and the video contains a canonical
+**anti-brand-halo / even-handed** statement: "if you take the Apple logo off this and imagine Samsung
+made it… you might have laughed it off the stage — but because it's an Apple Watch, we're willing to give
+it a shot." Mixed verdict (digital-crown skepticism; less finger-friendly than Android Wear; personalization
++ removable-band-standard praise).
+
+**Industry-commentary landmark.** `iPhone 6 Plus #BendGate: Explained!` (09-24) ★★ — **teach-the-mechanism**
+(a large flat sheet of soft aluminum with no magnesium chassis, vs multi-part magnesium-chassis rivals) +
+**refuse-the-hysteria** (abnormal force; not the only phone that bends; 10M sold = no recall) + the recurring
+**anti-thinness thesis**. `iPhone 6 Impressions!` (09-19) ★ states that thesis cleanly ("I'd rather have a
+slightly thicker iPhone" — thinness → protruding camera + small battery + slippery).
+
+**Doctrine reinforcement.** `Moto X (2014) Review!` (09-19) ★ — experience-over-specs, **stock-Android
+restraint / anti-"change for the sake of change,"** near-stock = top-3 performance, grade-on-the-price-tier
+("a trade-off, not a flaw"). `Moto 360 Review!` (09-15) ★ — "smartwatches aren't ready for prime time" BUT
+"the best one you can get," buy-if-form-over-function. `Samsung Galaxy Note 4 Impressions!` (09-03) — the
+**Samsung-build turnaround** ("finally impressed, about damn time") + judge-the-object-not-the-keynote.
+`Galaxy Note Edge Impressions!` (09-03) — innovation-worth-trying + honest unfinished-verdict. `What's on my
+Tech: 2014!` (08-24) — daily-driver/workflow + student biography datum (OnePlus One, Mac Pro/4K, Premiere).
+
+Synthesis notes: net-new for the next checkpoint — (1) the **Apple-Watch prediction VALIDATED** (move to ✅ in the ledger) + the **anti-brand-halo "if it were Samsung you'd have laughed it off the stage"** even-handedness statement → beliefs; (2) the **anti-thinness thesis** ("rather have a thicker phone" — protruding camera + small battery + weaker structure), stated across the iPhone 6 impressions AND BendGate → beliefs; (3) **BendGate teach-the-mechanism + refuse-the-hysteria** (aluminum vs magnesium chassis; context defuses outrage) → beliefs/tech-industry-commentary; (4) **stock-Android restraint / anti-"change for the sake of change"** + experience-over-specs (Moto X 2014) → beliefs; (5) minor: Samsung-build turnaround, Moto 360 "best-but-not-ready/form-over-function", What's-on-my-Tech workflow. All ★-flagged inline; do not inline-promote (4 batches since pass 11 — driver counter reads 2; checkpoint at ~10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Jul 7–Aug 21, 8/8 ingested (the sapphire METHODOLOGY self-correction + the full Android Wear review + the "best camera to start a channel")
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 729→**737 L2**.
