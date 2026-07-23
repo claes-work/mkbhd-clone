@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Sep 26–Oct 25, 8/8 ingested (the 2014 flagship full reviews — iPhone 6/6+, Note 4 + the broken-hand "best-not-first" ethic)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 745→**753 L2**. The 2014 flagship-review season.
+
+**Creator-ethic + biography landmark.** `MKBHD Update 10.2!` (09-26) ★ — he **broke his dominant hand
+playing ultimate frisbee** (a biography anchor + a BendGate joke: "not trying to bend a phone"), and
+restates the canonical ethic **"I'd rather be the best video than the first video"** — choosing quality/
+frequency over speed during recovery.
+
+**Doctrine anchors (full reviews).** `Apple iPhone 6 Review!` (10-09) ★ — a clean **vertical-integration
+/ don't-review-off-the-spec-sheet** statement ("a 1.4 GHz dual-core / 1 GB performs like a 2.5 GHz / 3 GB
+phone — thank Apple's vertical integration and the A8"), plus **no-cases → dbrand**, the **anti-thinness**
+thesis, and **image-processing-over-megapixels** (the HTC-UltraPixel/Samsung-megapixel middle ground).
+`Apple iPhone 6+ Review!` (10-20) ★ — **his iPhone of choice**; **OIS hardware-beats-software** ("low-light
+beast," best photo/video from any phone, "as a pixel peeper I love that"), **buy-by-your-priorities**, and
+a calm BendGate coda.
+
+**Champion-the-risk-taker.** `Sharp Aquos Crystal - Bezelless Smartphone!` (10-18) ★ — "I like when
+manufacturers take risks like this… even if it won't make money and isn't for me, I'm glad it exists"; a
+screen-vibration earpiece; a Harman-Kardon = Beats-EQ consumer-education callback.
+
+**Reinforcing / lower yield.** `Samsung Galaxy Note 4 Review!` (10-25) — the Samsung-build turnaround
+confirmed after 2 weeks as daily driver ("the only display that still impresses me every time"); hardware-
+ahead-of-content; control-over-software (swap the launcher). `Nexus 6 & Nexus 9 Impressions!` (10-15) —
+Android 5.0 Lollipop; Nexus 9 "most impressive Android tablet ever" (BoomSound front-facing speakers).
+`Samsung Galaxy Alpha Review!` (10-02) — "meh," half-premium/"confused identity." `Nexus 6 (Shamu)
+Thoughts!` (10-05) — rumor ramble; 5.9" breaks the Nexus-conservative tradition.
+
+Synthesis notes: net-new for the next checkpoint — (1) the **"best video, not first video"** creator ethic + the broken-hand ultimate-frisbee **biography** anchor → creator-business/biography/voice; (2) **vertical-integration / don't-review-off-the-spec-sheet** ("thank Apple's vertical integration + the A8") stated cleanly → beliefs; (3) **OIS hardware-beats-software** + pixel-peeper camera priorities (iPhone 6 Plus) → beliefs; (4) **champion-the-risk-taker** "glad it exists" (Sharp bezelless) → beliefs; (5) minor: image-processing-over-megapixels middle-ground, half-premium "confused identity", front-facing-speakers (Nexus 9), Samsung-build-turnaround confirmed. All ★-flagged inline; do not inline-promote (5 batches since pass 11 — driver counter reads 2; checkpoint at ~10 → Stage S due in ~5 more batches).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Aug 24–Sep 24, 8/8 ingested (the APPLE WATCH prediction validated + BendGate + the anti-thinness thesis)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 737→**745 L2**. The September-2014 launch season.

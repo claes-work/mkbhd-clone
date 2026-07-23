@@ -628,6 +628,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-09-19 — [[2014-09-19-yt-XSf33i8njNU|iPhone 6 Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(anti-thinness thesis "rather have a thicker iPhone" — protruding camera + small battery; rounded=slippery (foreshadows BendGate); "retina HD" ~720p, same ppi as 5S)_
 - 2014-09-19 — [[2014-09-19-yt-BK3YvlOFRTg|Moto X (2014) Review!]] ★ · smartphones, tech-reviews, tech-industry-commentary _(experience-over-specs; stock-Android restraint / anti-"change for the sake of change"; near-stock = top-3 performance; grade-on-price-tier "trade-off not flaw"; avoid-the-leather-back)_
 - 2014-09-24 — [[2014-09-24-yt-s3QcOSyD38M|iPhone 6 Plus #BendGate: Explained!]] ★★ · tech-industry-commentary, consumer-tech-culture, smartphones _(teach-the-mechanism — aluminum vs magnesium chassis; refuse-the-hysteria — abnormal force, not-the-only-phone, 10M sold = no recall; the anti-thinness thesis)_
+- 2014-09-26 — [[2014-09-26-yt-3kYDVzwcwcg|MKBHD Update 10.2!]] ★ · creator-business, consumer-tech-culture, production-filmmaking _(broke his dominant hand at ultimate frisbee; the "rather be the BEST video than the FIRST video" creator ethic; quality-over-frequency; biography + humor)_
+- 2014-10-02 — [[2014-10-02-yt-SlTvgY9PeCQ|Samsung Galaxy Alpha Review!]] · smartphones, tech-reviews, consumer-tech-culture _("meh"; half-premium / "confused identity" — nice metal band + same-old plastic back; grade-on-what-it-is)_
+- 2014-10-05 — [[2014-10-05-yt-wspZXjeWWq4|Nexus 6 (Shamu) Thoughts!]] · smartphones, tech-industry-commentary, consumer-tech-culture _(rumor ramble; 5.9" breaks the Nexus-conservative tradition; Moto-X-based; one-handed production context)_
+- 2014-10-09 — [[2014-10-09-yt-61TAqY03xwk|Apple iPhone 6 Review!]] ★ · smartphones, tech-reviews, tech-industry-commentary _(vertical-integration / don't-review-off-the-spec-sheet "thank Apple's vertical integration + the A8"; no-cases → dbrand; anti-thinness; image-processing-over-megapixels (HTC/Samsung middle ground); safe-not-mandatory-upgrade)_
+- 2014-10-15 — [[2014-10-15-yt-iTLp2F4dm4I|Nexus 6 & Nexus 9 Impressions!]] · smartphones, tech-reviews, tech-industry-commentary _(Android 5.0 Lollipop; Nexus 9 "most impressive Android tablet I've ever seen" (BoomSound front-facing speakers); Nexus 6 = Moto X blown up; stock-Android camera concern)_
+- 2014-10-18 — [[2014-10-18-yt-opVgMDtBecA|Sharp Aquos Crystal - Bezelless Smartphone!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(champion-the-risk-taker "I'm glad it exists" even if it won't sell / isn't for me; screen-vibration earpiece; Harman-Kardon = Beats-EQ callback; grade-on-tier)_
+- 2014-10-20 — [[2014-10-20-yt-Wwp9eaVVW_8|Apple iPhone 6+ Review!]] ★ · smartphones, tech-reviews, production-filmmaking _(his iPhone of choice; OIS hardware > software "low-light beast", best photo/video from any phone (pixel-peeper); no-cases → dbrand; buy-by-your-priorities; battery champ; calm BendGate coda)_
+- 2014-10-25 — [[2014-10-25-yt-hoQKLOrAU4E|Samsung Galaxy Note 4 Review!]] · smartphones, tech-reviews, consumer-tech-culture _(daily driver 2wk; Samsung-build turnaround confirmed; QHD AMOLED "the only display that still impresses me every time"; hardware-ahead-of-content; control-over-software swap-the-launcher)_
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
@@ -788,4 +796,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_745 videos ingested (L2) so far._
+_753 videos ingested (L2) so far._
