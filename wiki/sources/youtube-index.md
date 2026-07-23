@@ -587,6 +587,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-03-25 — [[2014-03-25-yt-zSlt_2X8sPw|HTC One M8 Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(design-is-the-focus maker-strategy; duo-camera "doesn't even really work well, super artificial" honest; UltraPixel-continued validates prediction; BoomSound; verdict-discipline)_
 - 2014-03-26 — [[2014-03-26-yt-d7n34bkF-Ew|HTC One M8 Dot View Case!]] · smartphones, consumer-tech-culture, tech-reviews _(no-case preference "built so well it'll do fine naked"; well-designed-first-party-accessories; low yield)_
 - 2014-04-06 — [[2014-04-06-yt-pmnLca3FneU|The Setup Tour Project 2014!]] · content-strategy, creator-business, production-filmmaking _(MIXED / mostly-guest attribution — 1,232 viewer setups quarantined; community-collab-at-scale; his own setup tour is a SEPARATE video, flag for ingest)_
+- 2014-04-09 — [[2014-04-09-yt-pwsPZi_JRrA|HTC One M8 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(design-as-a-reason-to-buy-when-specs-converge "go try it in a store, you'll like holding it"; best-phone-you-can-buy; honest duo-camera; no-reservations)_
+- 2014-04-16 — [[2014-04-16-yt-z8gOX35dAfc|Samsung Galaxy S5 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("the Galaxy S4S" confirmed; TouchWiz is the main downside; explicit wish for a Google Play edition = stock-Android preference)_
+- 2014-04-19 — [[2014-04-19-yt-QahWCPNALDA|Oppo Find 7a Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(Oppo-arc build "reminds me exactly of the Find 5"; Color OS themer = make-it-your-own; the "50 MP" software-stitching DEBUNK; VOOC fast-charging; honest weak-standby)_
+- 2014-04-20 — [[2014-04-20-yt-Ew5ZzloH4Mg|HTC One M8 Google Play Edition Review!]] · smartphones, tech-reviews, consumer-tech-culture _(stock-Android preference; Verizon "most guilty" carrier-branding critique; updates-behind-Nexus; low yield)_
+- 2014-04-24 — [[2014-04-24-yt-jzezFz6CMqg|OnePlus One Impressions!]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(OnePlus BRAND ORIGIN, long-arc; value-shock "flagship killer" $299/$349 undercuts the Nexus 5; "why so cheap, what's the catch?" skepticism; CyanogenMod 11S control-over-software; champion-the-underdog)_
+- 2014-04-28 — [[2014-04-28-yt-R7siKvpvuCM|Giveaway: MKBHD Edition Nexus 5! [CLOSED]]] · creator-business, content-strategy, consumer-tech-culture _(dbrand partnership producing branded merch; junior-year-ending student milestone; "breaking out of the box" roadmap; impersonator/verified-checkmark warning)_
+- 2014-05-03 — [[2014-05-03-yt-c4zAPmQZmYA|Top 5 Tesla Model S Features!]] ★★ · ev-cars, production-filmmaking, consumer-tech-culture _(LANDMARK — his FIRST DEDICATED CAR VIDEO = the AutoFocus origin; "never actually owned a car, lives near school"; reviews-a-car-like-a-phone method; first EV-driving instant-torque; the 17" touchscreen "feels like the future"; foreshadows more car content)_
+- 2014-05-07 — [[2014-05-07-yt-EcMBuRX-EdU|Top 5 OnePlus One Features! (Cyanogenmod 11S)]] · smartphones, consumer-tech-culture, tech-industry-commentary _("for all intents and purposes it's a CyanogenMod phone" = control-over-software; final-exams May-2014 student; low yield)_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -748,4 +756,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_705 videos ingested (L2) so far._
+_713 videos ingested (L2) so far._

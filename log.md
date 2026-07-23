@@ -4,6 +4,41 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 origin Apr 9–May 7, 8/8 ingested (his FIRST DEDICATED CAR VIDEO + the OnePlus brand origin + Oppo 7a)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 705→**713 L2**.
+
+**Long-arc landmark — the AutoFocus origin.** `Top 5 Tesla Model S Features` (05-03) is his **first
+dedicated car video** — the origin of the car-review beat that becomes AutoFocus. He reviews the Model S
+exactly the way he reviews phones (a Top-5 tech-feature walkthrough ending in the drive — the AutoFocus
+method origin), states he's **never owned a car** ("always lived close enough to the school I go to my
+whole life"), gives his first EV-driving impressions ("instant torque feels like a roller-coaster
+launch"), and frames the 17" touchscreen as "feeling like the future… like front-facing speakers on a
+phone." Foreshadows "more car stuff." (Follows the Jan-2014 CES-Tesla enthusiasm; this is the first actual
+review.)
+
+**Brand-origin landmark.** `OnePlus One Impressions` (04-24) is his **first OnePlus coverage** (a long-arc
+brand) — the value-shock "flagship killer" ($299/$349 undercutting the Nexus 5), the "why so cheap, what's
+the catch?" skepticism, and the CyanogenMod-11S control-over-software partnership.
+
+**Reinforcing.** `Oppo Find 7a Review` (04-19) — Oppo-arc build consistency + a clean debunk of the "50 MP"
+software-stitching mode (law of diminishing returns) + VOOC fast-charging + honest weak-standby.
+`HTC One M8 Review` (04-09) — the design-as-a-reason-to-buy-when-specs-converge framing. `Galaxy S5 Review`
+(04-16) — "the Galaxy S4S" confirmed + a stock-Android/GPe wish. `M8 Google Play Edition` (04-20) — stock +
+carrier-branding critique. `Giveaway` (04-28) — the dbrand partnership producing branded merch + a junior-
+year-ending student milestone. `Top 5 OnePlus Features CM11S` (05-07) — control-over-software + final-exams.
+
+Attribution: all 8 solo (Josh/Android Authority credited as a peer for the OnePlus hands-on footage).
+
+Synthesis notes: ★★ items for the next checkpoint — the **first-dedicated-car-video / AutoFocus origin**
+(promote to `persona/biography.md`: never-owned-a-car, the reviews-a-car-like-a-phone method, the first
+EV-driving impressions — the car/EV timeline's first-review root) and the **OnePlus brand origin** (value-
+shock / flagship-killer; a long-arc brand). Also: the **50 MP software-stitching debunk** (spec-honesty),
+the **design-as-a-reason-to-buy** framing, and the **dbrand-merch + junior-year** biography data. Debt now
+**9 ingest batches** since synthesis pass 10 — **the next batch hits the 10-batch checkpoint → Stage S
+synthesis pass 11 next iteration** (the accumulated 2014 material: 1M subscribers, the Mac Pro workstation,
+the dbrand partnership, the Tesla/AutoFocus origin, OnePlus, the 4K/wearable theses).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 origin Feb 24–Apr 6, 8/8 ingested (dbrand-partnership origin + Android Wear + the 4K-adoption thesis)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 697→**705 L2**.
