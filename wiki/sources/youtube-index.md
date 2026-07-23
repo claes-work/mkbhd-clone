@@ -749,6 +749,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2016-04-08 — [[2016-04-08-yt-K_34vZ9haCk|MKBHD Update 13.0: The Studio!]] ★★ · production-filmmaking, creator-business _(BIOGRAPHY: first dedicated studio, separate from home, ends the ~5-yr apartment era; self-employment mortgage friction; comfort-zone growth; room acoustics as challenge #1)_
 - 2016-04-12 — [[2016-04-12-yt-5IJWckL5L84|HTC 10 Impressions!]] ★ · smartphones, tech-reviews _(de-duped-with-Google apps = the antidote to S7 bloat, "Bravo HTC"; metal-vs-glass brand-materials; BoomSound "a solution to a problem no one had"; USB-C)_
 - 2016-04-14 — [[2016-04-14-yt-FBWvXZP_frg|Google Live Cases: Super Custom!]] · smartphones, consumer-tech-culture _(the customization / one-of-a-kind device theme; NFC shortcut button; a rare case endorsement on precision+protection; art by Justin Maller — attribution)_
+- 2016-04-20 — [[2016-04-20-yt-wsN6AHN2FbM|NextDesk Review: Motorized Desk!]] · production-filmmaking, consumer-tech-culture _(gear/studio-setup; the ergonomics rule — standing height ~46–47" so arms are parallel; cable-management value; "everyday object as a production tool")_
+- 2016-04-22 — [[2016-04-22-yt-amP7GVlUv2I|2016 MacBook: Rose Gold Refresh!]] · laptops-computers, tech-reviews _("hardly a 2nd gen — a version 1.2"; the single-port + 480p-webcam pet peeves; "my phone has a 4K sensor, you could fit a 720p webcam" cross-device consistency arg)_
+- 2016-04-29 — [[2016-04-29-yt-9kiECQodMqE|HTC 10 Review!]] ★★ · smartphones, tech-reviews _(champion-the-underrated; "the most underrated hardware that makes a smartphone good is GOOD BUTTONS"; Sense 8 a fave skin; the camera is the one thing not to buy it for)_
+- 2016-05-04 — [[2016-05-04-yt-XVL0ybe18yI|Dual Camera Smartphones: Explained!]] ★ · smartphones, tech-industry-commentary _(teach-the-mechanism/"Explained"; EVO-3D-2011→M8→G5/P9 history told honestly; dual-cameras-will-proliferate prediction (iPhone 7 rumor))_
+- 2016-05-19 — [[2016-05-19-yt-mGojonPKBkY|Top 5 Google I/O 2016 Recap!]] ★ · tech-industry-commentary, smartphones _(earliest sustained voice-assistant take — Assistant + Google Home "the future / Star Trek computer"; Instant Apps the fave; Google-ships-overlapping-apps critique; Daydream VR)_
+- 2016-05-30 — [[2016-05-30-yt-GiNSOLpC1-Y|Jaybird Freedom: Best Wireless Earbuds?]] · audio-headphones, tech-reviews _(battery-honesty callout — "not fair to call this 8-hour, it's 4h"; app-tuned firmware EQ that follows the buds; anti-churn "you don't need to upgrade good headphones")_
+- 2016-06-03 — [[2016-06-03-yt-96PJdbJysxQ|Modular Smartphones: Explained!]] ★★ · smartphones, tech-industry-commentary _("modular tech is usually the best kind of tech"; Phonebloks→Ara→G5 "barely modular, 25%"; follow-the-incentives realism; the environmental/anti-e-waste arg)_
+- 2016-06-06 — [[2016-06-06-yt-juzeLmUMjv0|The Rugged Galaxy S7 Active!]] ★ · smartphones, tech-reviews _(built-like-a-tank "a case built into the phone"; 4,000 mAh fill-with-battery/"people just need battery"; the carrier-exclusivity-buries-great-products critique (AT&T))_
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
 - 2015-12-19 — [[2015-12-19-yt-UBuVR8_Mybw|Smartphone Awards: 2015!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -908,4 +916,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_865 videos ingested (L2) so far._
+_873 videos ingested (L2) so far._

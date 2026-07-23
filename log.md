@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Apr 20–Jun 6, 8/8 ingested (the "Explained" format + the modular/carrier-exclusivity critiques + "good buttons")
+
+Stage B. Ingested late-spring 2016 to L2 (865→873): the **NextDesk** studio-gear review, the **2016
+MacBook** rose-gold refresh, the **HTC 10** full review, two canonical **"Explained"** videos (**Dual
+Camera**, **Modular Smartphones**), the **Google I/O 2016** top-5 recap, the **Jaybird Freedom** earbuds,
+and the rugged **Galaxy S7 Active**. All 8 solo/Marques-fronted → persona-eligible; captions clean; no
+skips, no dups. Ledger @mkbhd now 791 open (P2:753, P3:38); L2=873, L3=0.
+
+Synthesis notes: genuinely-new, persona-grade beats for the next checkpoint (pass 14) —
+**(1) "Good buttons" doctrine**: "the most underrated piece of hardware that actually makes a smartphone
+good is good buttons" (HTC 10) — a signature tactility-over-specs criterion, reinforced by the S7
+Active's programmable custom key. **(2) Champion-the-underrated** in its cleanest form (the HTC 10 "the
+complete package… surprised how underrated it is"). **(3) The "Explained" teach-the-mechanism template**
+formalized across two videos — dual-camera (EVO-3D-2011→M8→G5/P9 history told honestly, "there's almost
+never two identical cameras") and modular ("modular tech is usually the best kind of tech"). **(4) A new
+industry critique — carrier exclusivity buries great products**: the S7 Active "could be the best phone
+Samsung makes right now, but a lot of people will never find that out" (AT&T-only). **(5) Follow-the-
+incentives realism**: why no company ships the truly fully-modular phone ("they'd be screwing themselves
+— no one buys a new phone, just new modules"), plus the environmental/anti-e-waste argument for
+modularity. **(6) Battery-honesty callout** (Jaybird "not fair to call this 8-hour, it's 4h") + **anti-
+churn** advice ("headphones don't become obsolete year after year — if yours are good, keep them").
+**(7) Cross-device consistency argument** (2016 MacBook: "my phone has a 4K sensor + OIS in this thin
+body, you could have fit a 720p webcam") reinforcing the anti-single-port/anti-480p-webcam MacBook thread.
+**(8) Fill-the-body-with-battery** reaffirmed (S7 Active 4,000 mAh, "people just need battery" —
+thickness is a feature). **(9) Earliest sustained voice-assistant/ambient-computing take** (Google
+Assistant + Home = "the future… like the computer from Star Trek"). **(10) A trackable prediction**:
+dual cameras proliferate "in the next 1–2 years." Minor: the "name the magnitude of the update" tic
+("version 1.2"); the cable-management/ergonomics studio-gear values; the Google-ships-overlapping-apps
+critique. Debt now 4 batches since pass 13.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Mar 9–Apr 14, 8/8 ingested (the anti-thin plea VINDICATED on the S7 + the studio era begins)
 
 Stage B. Ingested the spring-2016 flagship run to L2 (857→865): the **S7 trilogy** (biggest-flaws →
