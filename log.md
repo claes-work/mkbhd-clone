@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 origin Feb 24–Apr 6, 8/8 ingested (dbrand-partnership origin + Android Wear + the 4K-adoption thesis)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 697→**705 L2**.
+
+**Biography/production landmark.** `MKBHD Update 10.1` (02-24) surfaces the **MKBHD × dbrand partnership
+origin** (he bought a red-carbon-fiber skin, dbrand sent an "MKBHD-edition" skin + M50/PS4 stickers — the
+start of the long-running brand relationship), a stated production principle (**shoots 99% on a Canon C100**;
+"I'll shoot 4K the instant a Canon cinema camera does it to internal storage"), and the **anti-spec-rant
+review ethic** ("I like to get a sense of what it's like to actually own and use a device").
+
+**Beliefs.** `The State of 4K` (03-01) is his **fully-developed 4K-adoption thesis** — the whole pipeline is
+hard, "a 4K TV that has never displayed 4K anything ever," the **"retina-display effect,"** and state-in-one-
+word "momentum" (the video itself uploaded in 4K). `Android Wear` (03-20) is a strong wearable node — Moto 360
+"instabuy, a work of art," display-primacy applied to watches (LCD vs e-ink), circular-display excitement, and
+a continued **Apple-Watch prediction** ("Apple, I hope you took notes") — plus an early clean **"dope."**
+
+**Reinforcing.** `Galaxy S5 Impressions` (02-25) — "the Galaxy S4S" incremental verdict (validating his
+prediction) and an honest fingerprint-scanner-miss acknowledgment. `HTC One M8 Impressions` (03-25) —
+design-is-the-focus + honest duo-camera skepticism. `M8 Dot View Case` (03-26) — the no-case preference.
+`Top 5 Upcoming` (03-03) — low-yield preview. `Setup Tour Project 2014` compilation (04-06, MIXED/mostly-guest
+attribution — 1,232 viewer setups quarantined; his own setup tour is a SEPARATE video, flagged for ingest).
+
+Attribution: all solo except the Setup Tour compilation (guest content quarantined).
+
+Synthesis notes: ★★ items for the next checkpoint — the **MKBHD × dbrand partnership origin** + the **Canon
+C100 / wait-for-the-right-4K-tool** production principle + the **anti-spec-rant review ethic** (Update 10.1 →
+`persona/biography.md` + creator-business/tech-reviews methodology). Also: the **4K-adoption thesis (whole-
+pipeline-is-hard, retina-display-effect)**, the **Moto-360 / Apple-Watch-prediction / circular-display**
+wearable node, and the early **"dope"** voice datum. Flag: the **separate MKBHD 2014 setup tour** video (his
+own definitive workstation tour) for ingest when it surfaces. Debt now **8 ingest batches** since synthesis
+pass 10 (pass 11 in ~2 batches).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 origin Jan 29–Feb 20, 8/8 ingested (the 1M-subscriber milestone + Mac Pro full review + Google-sells-Motorola)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 689→**697 L2**.

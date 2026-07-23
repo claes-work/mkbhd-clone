@@ -579,6 +579,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-02-12 — [[2014-02-12-yt-fKDuVDZqQ1c|1,000,000!]] ★★ · content-strategy, creator-business, consumer-tech-culture _(MILESTONE — first upload to over 1M subscribers, Feb 2014; make-videos-I'd-watch mission; feedback-drives-improvement; still-in-college; "just getting started")_
 - 2014-02-15 — [[2014-02-15-yt-y5DyEYuvF3o|Audio Technica ATH-M50X Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(successor to best-under-$200; removable-cable upgrade; "if it ain't broke, don't fix it" sound; M50 = long-term monitoring/editing default; honest upgrade advice)_
 - 2014-02-20 — [[2014-02-20-yt-RwnSX-3ncSA|New Mac Pro Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(perspective-disclosure atypical-buyer full-time+production; the upgradeable-vs-expandable distinction hammered; thermal-core teach; Adobe-not-optimized honest; golden-rule-adjacent "has a future, come back to me in 2018")_
+- 2014-02-24 — [[2014-02-24-yt-fbwEaql90Ac|MKBHD Update 10.1!]] ★★ · content-strategy, production-filmmaking, creator-business _(MKBHD × dbrand PARTNERSHIP ORIGIN — red-carbon-fiber "MKBHD-edition" skin; shoots 99% on a Canon C100, waits-for-the-right-4K-tool; anti-spec-rant "I like to get a sense of what it's like to actually own and use a device"; 1,232 setup submissions; student)_
+- 2014-02-25 — [[2014-02-25-yt-lvNrGxpS2jY|Samsung Galaxy S5 Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("the Galaxy S4S" incremental verdict; acknowledges the fingerprint-scanner prediction MISS; band-aid-dimpled-back skepticism; heart-rate "good ad" incentive read)_
+- 2014-03-01 — [[2014-03-01-yt-paENIboxKGI|The State of 4K: Early 2014!]] ★ · production-filmmaking, consumer-tech-culture, tech-industry-commentary _(the whole-pipeline-is-hard / ecosystem-not-ready thesis "a 4K TV that has never displayed 4K anything ever"; the "retina-display effect"; state-in-one-word = momentum; uploaded in 4K)_
+- 2014-03-03 — [[2014-03-03-yt-D0mCG1BeZCo|Top 5 Upcoming Smartphones! (Early 2014)]] · smartphones, consumer-tech-culture, tech-industry-commentary _(tech-calendar rhythm; post-Lenovo Motorola philosophy-continuity question; low yield)_
+- 2014-03-20 — [[2014-03-20-yt-pZiKLNnanWs|Android Wear: State of Wearable Tech!]] ★ · consumer-tech-culture, tech-industry-commentary, smartphones _(Moto 360 round-watch "instabuy, a work of art"; display-primacy LCD-vs-e-ink; circular-display excitement; continued Apple-Watch prediction; early "dope" voice)_
+- 2014-03-25 — [[2014-03-25-yt-zSlt_2X8sPw|HTC One M8 Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(design-is-the-focus maker-strategy; duo-camera "doesn't even really work well, super artificial" honest; UltraPixel-continued validates prediction; BoomSound; verdict-discipline)_
+- 2014-03-26 — [[2014-03-26-yt-d7n34bkF-Ew|HTC One M8 Dot View Case!]] · smartphones, consumer-tech-culture, tech-reviews _(no-case preference "built so well it'll do fine naked"; well-designed-first-party-accessories; low yield)_
+- 2014-04-06 — [[2014-04-06-yt-pmnLca3FneU|The Setup Tour Project 2014!]] · content-strategy, creator-business, production-filmmaking _(MIXED / mostly-guest attribution — 1,232 viewer setups quarantined; community-collab-at-scale; his own setup tour is a SEPARATE video, flag for ingest)_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -740,4 +748,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_697 videos ingested (L2) so far._
+_705 videos ingested (L2) so far._
