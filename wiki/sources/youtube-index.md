@@ -741,6 +741,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2016-02-22 — [[2016-02-22-yt-7SKRn_VNwNA|Samsung Galaxy S7 & S7 Edge Impressions!]] ★★ · smartphones, tech-reviews, consumer-tech-culture _(the anti-thin plea VINDICATED — "Samsung made it 1 mm thicker for a bigger battery… thank you, I haven't been preaching to a brick wall"; a "Galaxy S6s" refinement; IP68; reduced camera bump)_
 - 2016-02-27 — [[2016-02-27-yt-O6aSIa1sk6g|Nextbit Robin Review: Unlimited Storage?]] ★ · smartphones, tech-reviews, consumer-tech-culture _(champion-the-risk-taker — "props to Nextbit, cool to see cloud storage in action" (even if microSD would've been a bigger hit); dual front-facing speakers; unlocked bootloader)_
 - 2016-03-02 — [[2016-03-02-yt-RCgPD2sfbAQ|Top 5 Most Overpriced Tech! (Pt 2)]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(value / consumer-education; the $6,000 luxury smartphone = "the Beats by Dre of smartphones, but worse" (paying-for-a-brand); the 10K-RPM HDD = worst-of-both-worlds; a new-studio note)_
+- 2016-03-09 — [[2016-03-09-yt-V2nPsyyme5I|Samsung Galaxy S7 Edge: Biggest Flaws!]] ★ · smartphones, tech-reviews _(the "biggest flaws" format — nitpick the great phone; the standing Samsung backwards-nav-bar gripe + TouchWiz bloat + skins-over-cases)_
+- 2016-03-10 — [[2016-03-10-yt-8bMbcNUM68U|Top 5 Android N Features! (Dev Preview)]] · smartphones, tech-industry-commentary _(names it "Android 6.1"; the double-tap app switcher; stock-vs-skin convergence; why an early dev preview matters)_
+- 2016-03-17 — [[2016-03-17-yt-1sgeM6DsV40|Samsung Galaxy S7 Review!]] ★★ · smartphones, tech-reviews _(ANTI-THIN VINDICATED — "thicker is the upgrade"; microSD prediction hit; waterproofing→worst-speaker tradeoff; "my favorite camera on any smartphone")_
+- 2016-03-28 — [[2016-03-28-yt-ZvPxjhTOEgM|Samsung Galaxy S7 Edge Review!]] ★ · smartphones, tech-reviews _(Edge-vs-regular; prefers the Edge; "big hands, big phones, power user" self-char; edge panels held back by no third-party support; praises lineup simplification)_
+- 2016-04-05 — [[2016-04-05-yt-Tx_lyy4-SeY|iPhone SE Review!]] ★ · smartphones, tech-reviews _("4-yr-old flagship outside, 8-month-old inside"; recycled-design critique; 16GB-needs-to-die verdict; the small-flagship demand)_
+- 2016-04-08 — [[2016-04-08-yt-K_34vZ9haCk|MKBHD Update 13.0: The Studio!]] ★★ · production-filmmaking, creator-business _(BIOGRAPHY: first dedicated studio, separate from home, ends the ~5-yr apartment era; self-employment mortgage friction; comfort-zone growth; room acoustics as challenge #1)_
+- 2016-04-12 — [[2016-04-12-yt-5IJWckL5L84|HTC 10 Impressions!]] ★ · smartphones, tech-reviews _(de-duped-with-Google apps = the antidote to S7 bloat, "Bravo HTC"; metal-vs-glass brand-materials; BoomSound "a solution to a problem no one had"; USB-C)_
+- 2016-04-14 — [[2016-04-14-yt-FBWvXZP_frg|Google Live Cases: Super Custom!]] · smartphones, consumer-tech-culture _(the customization / one-of-a-kind device theme; NFC shortcut button; a rare case endorsement on precision+protection; art by Justin Maller — attribution)_
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
 - 2015-12-19 — [[2015-12-19-yt-UBuVR8_Mybw|Smartphone Awards: 2015!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -900,4 +908,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_857 videos ingested (L2) so far._
+_865 videos ingested (L2) so far._

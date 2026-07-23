@@ -4,6 +4,33 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Mar 9–Apr 14, 8/8 ingested (the anti-thin plea VINDICATED on the S7 + the studio era begins)
+
+Stage B. Ingested the spring-2016 flagship run to L2 (857→865): the **S7 trilogy** (biggest-flaws →
+full review → Edge review), the **Android N dev preview** top-5, the **iPhone SE** review, the **HTC 10**
+impressions, **Google Live Cases**, and **MKBHD Update 13.0: The Studio**. All 8 solo/Marques-fronted →
+persona-eligible; captions clean; no skips, no dups. Live Cases art credited to Justin Maller
+(attribution-noted, not persona data). Ledger @mkbhd now 799 open (P2:761, P3:38); L2=865, L3=0.
+
+Synthesis notes: several genuinely-new, persona-grade beats for the next checkpoint (pass 14) —
+**(1) ANTI-THIN VINDICATED**: on the S7 he calls a phone getting *thicker* "the upgrade" (smaller camera
+bump + smaller home-button bump + a bigger 3,000 mAh battery), the literal payoff of the long
+anti-thinness campaign. **(2) A tracked-prediction hit**: the S7's returned microSD slot — "I threw that
+out in an older predictions video as an oddball that might happen, and you do actually have it now."
+**(3) "My favorite camera on any smartphone right now"** (S7 dual-pixel AF) with the confidence-of-the-
+shooter criterion driving the verdict, plus a balanced critique (overexposes in daylight; beaten by the
+6P in low light). **(4) Waterproofing tradeoff named honestly** — "the biggest downgrade of any speakers
+on a smartphone… blame that fully on the waterproofing." **(5) BIOGRAPHY — the studio era begins**: his
+first dedicated video space *separate from where he lives*, ending the ~5-year apartment era; a failed
+home purchase ("banks and the person that's self-employed"); comfort-zone growth framing; room acoustics
+("a 1.5–2 second echo") as challenge #1; behind-the-scenes on Snapchat/Twitter; daily driver = S7 Edge.
+**(6) Software: stock-vs-bloat position sharpens** — the S7 TouchWiz redundant-app complaint answered
+3 days later by the HTC 10's de-duped-with-Google apps ("Bravo HTC"). **(7) 16GB-needs-to-die** applied
+to the iPhone SE verdict; the **recycled-design** critique (a new form factor deserves a new design).
+**(8) Self-characterization**: "big hands, big phones, power user." **(9) metal-vs-glass** brand-materials
+framing (HTC metal / Samsung glass). Minor: the "name the magnitude of the update" tic ("Android 6.1");
+the customization/one-of-a-kind-device theme (Live Cases). Debt now 3 batches since pass 13.
+
 ## [2026-07-23] lint | synthesis pass 13 — Mar 2015 → Mar 2016 (785→857 L2): the frameworks get named, the anti-thin plea pays off, and he goes full-time / moves out / switches to RED
 
 Stage S. Drained the nine-batch debt accumulated since pass 12 (785→857 L2), covering **Mar 2015 → Mar
