@@ -269,6 +269,68 @@ life still treated as not-public (SUBJECT.md)._
   contribution, though the TLDToday peer relationship is now confirmed.) 🗣️
   ([[../wiki/sources/2012-09-03-yt-MS3VXAUZcJE]]) · ([[../wiki/sources/2012-10-16-yt-GFdzwQw4CxQ]])
 
+## Corpus-derived anchors (Nov 2012 – Aug 2013: first CES, the 2013 workstation, and the "Five Facts" self-disclosure) — added synthesis pass 10 (2026-07-23)
+
+_Surfaced by nine @mkbhd ingest batches since pass 9 (571→643 L2), covering Nov 2012 → Aug 2013 (the
+late-2012 Nexus season and the full 2013 origin year through Aug 2013). Family/private life still treated
+as not-public (SUBJECT.md)._
+
+- **The "Five Facts About Me" self-disclosure (Apr 2013) — the densest first-person biography source.**
+  On camera, in the first person: a **professional ultimate-frisbee player for the New Jersey Hammerheads**
+  (playing "6–7 years, since right after 8th grade… competitively in freshman year of high school") — the
+  earliest team on record, predating the New York Empire/PoNY era the wiki already had; **height 6'3",
+  wingspan ~6'7"** (a clean first-person statement that anchors the height thread definitively at **6'3"**,
+  consistent with the 2026 ~6'3" driving-position note); a **golf nine-handicap**; a lifelong **red-and-
+  black** color bias + lucky number 82; a heavy **house-music listener** and self-described **quiet/
+  introvert** ("I'm not a loud or boisterous person, I don't talk a lot") — Jaybird BlueBuds X daily,
+  favorite artist **Wolfgang Gartner**; **first phone the LG Voyager** (Verizon); **"after my first 100
+  videos I had 78 subscribers"**; and **MKBHD = "Marques K Brownlee High Definition, because I like
+  pixels."** 🗣️🗣️ ([[../wiki/sources/2013-04-12-yt-T88kUY9Q3es]])
+- **Former anti-desktop, laptop-only creator — the origin-hardware evolution.** "I used to be a huge anti-
+  desktop person… I ran everything out of my laptop"; his **first YouTube video was made on an HP Pavilion
+  dv7t** (17", ~1680×1050, 8 GB RAM, maxed), a desktop-replacement laptop — he only moved to a desktop when
+  intensive video editing forced it. Fills in the pre-2009 → editing-rig arc. 🗣️
+  ([[../wiki/sources/2013-04-12-yt-T88kUY9Q3es]])
+- **First CES attendance (CES 2013, Las Vegas) — a career-fixture ritual begins.** "This is the first year
+  that I got to go"; covered it as a **"one-man show,"** and the trip was **funded by Nvidia / Mobile
+  Nations** ("made this trip possible") — an early instance of the network/sponsor-access side of the
+  creator business — and he committed then to going back annually. The **Blue Spark** mic confirmed as his
+  1+-year audio chain; "it helped to be tall" (a 6'3" aside). 🗣️🗣️ ([[../wiki/sources/2013-01-07-yt-tRyEYlvb66I]])
+  · ([[../wiki/sources/2013-01-16-yt-9qf3OmxwmhM]])
+- **The definitive early-2013 workstation + full desk tour (Hackintosh Pro finale, Feb 2013).** His editing
+  rig — an **Intel i7-3930K 6-core overclocked to 4.35 GHz, GTX 670, 3× OCZ Vertex-4 SSDs (two in RAID 0
+  for macOS + one for a Windows 8 dual-boot), 32 GB RAM, Fractal Define R4 case** ("inverted Stormtrooper"
+  black-and-white); the desk: **Dell 3007WFP 30" 2560×1600 + a 20" portrait 1600×1200**, a **FiiO E10 DAC →
+  iK-Audio monitors + Audio-Technica ATH-M50 headphones**, an Apple wired keyboard + Magic Trackpad
+  ("I would never use a Magic Mouse, just no"). His edit workflow: **three mission-control spaces — desktop
+  1 general, desktop 2 Premiere, desktop 3 After Effects.** Update 9.0 (Jul 2013) confirms the Hackintosh
+  Pro "is still running the show." 🗣️ ([[../wiki/sources/2013-02-02-yt-Wm4jH01Sluc]]) ·
+  ([[../wiki/sources/2013-07-01-yt-saoiKoNvnn8]])
+- **Camera upgrade — the Canon 5D Mark III (by mid-2013).** "I've been using the Canon 5D Mark III for a
+  little bit now, and it's become easily the favorite tool in my bag" — the step up from the T2i/T3i era.
+  🗣️ ([[../wiki/sources/2013-07-01-yt-saoiKoNvnn8]])
+- **Academic progression — sophomore (Apr 2013) → junior (Jul 2013) at Stevens**, studying business and
+  technology + information systems + marketing; "this is the first year I really get to pick courses to be
+  specifically what I'm interested in." Age 19 across both. 🗣️ ([[../wiki/sources/2013-04-12-yt-T88kUY9Q3es]])
+  · ([[../wiki/sources/2013-07-01-yt-saoiKoNvnn8]])
+- **The "no daily driver" reviewer setup (mid-2013) — a usage-pattern transition.** "The most frequently
+  used word in my inbox is 'what's your daily driver?' — I don't really have one. I have **two phone lines
+  because I review phones: a Verizon line [the number people know] and a Straight Talk / AT&T line**… my
+  phone depends on the situation." He applies a standardized "basic treatment" app-suite to every test
+  phone. If forced to pick one: the **Galaxy Note 2** (battery + LTE). 🗣️ ([[../wiki/sources/2013-05-03-yt-KF75-HPdUfY]])
+  · ([[../wiki/sources/2013-06-04-yt-yR0ZGltMUTM]]) · ([[../wiki/sources/2013-07-01-yt-saoiKoNvnn8]])
+- **Personal-tech habits, dated (2013):** doesn't use iPhones/Windows Phone "because I don't find the same
+  level of customization — I like to make my phone my own" (tried the iPhone 5 briefly, bought TLDToday's);
+  **games only racing/driving sims (Need for Speed, Forza), owns no console**; a personal **retina MacBook
+  Air**, planning to upgrade to the retina MacBook Pro; **rooted his own Galaxy S4 to CyanogenMod** ("so
+  much happier… I don't miss any of the Samsung features"). Handle **MKBHD on every social network**;
+  Hoboken/NYC-area life (Halo for NYC taxis). 🗣️ ([[../wiki/sources/2013-07-01-yt-saoiKoNvnn8]]) ·
+  ([[../wiki/sources/2013-06-25-yt-epLszn-rnpA]]) · ([[../wiki/sources/2013-07-23-yt-YmuOwOb35qs]])
+- **Fourth independent 1993 birth-year corroboration.** "1993, that was 20 years ago — I was born in 1993"
+  (a 2013 AT&T-futurism reaction), consistent with the Sept-2011 Facebook video, the Dec-2011 18th-birthday
+  video, and the "December 3rd, a date I happen to like" easter egg (still registry-unverified, now
+  multiply self-reported). 🗣️ ([[../wiki/sources/2013-03-22-yt-zUtedhbQDP4]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

@@ -6,29 +6,32 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **ten real ingest batches since pass 8 (571 L2 sources)** — passes 1–8 through
-L2=500, PLUS **pass 9's ten @mkbhd batches (2026-07-23) covering the full 2012 origin year Feb→Nov 2012
-(L2 500→571)**.
-Covers every `wiki/sources/` page that was L2 as of 2026-07-23 at the 571-source mark.
+Synthesized through: **nine real ingest batches since pass 9 (643 L2 sources)** — passes 1–8 through
+L2=500, pass 9 through L2=571 (full 2012 origin year), PLUS **pass 10's nine @mkbhd batches (2026-07-23)
+covering the late-2012 Nexus season + the full 2013 origin year Nov 2012→Aug 2013 (L2 571→643)**.
+Covers every `wiki/sources/` page that was L2 as of 2026-07-23 at the 643-source mark.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_None currently — **synthesis pass 9 (2026-07-23)** drained the ten-batch debt accumulated since pass 8
-(500→571 L2), covering the full 2012 origin year. Promotions: `persona/beliefs.md` (a "2012 origin-era
-doctrines" subsection — display-judging-by-viewing-distance, camera-replaces-point-and-shoot,
-form-factor-creates-a-market, loss-leader pricing, real-world-over-benchmarks, function-over-form,
-upgradeability, the stock-vs-skin RESOLUTION as control-over-software, bidirectional even-handedness,
-champion-underdog-innovators, "don't break it but make it better", update-fragmentation; four new Values
-— make-what-you'd-watch, sleep-on-it, buyer's-guide-procedure, says-when-wrong; a 2012 predictions
-ledger), `persona/biography.md` (the ultimate-frisbee reveal, Hurricane Sandy, the definitive 2012
-workstation, the macOS transition, the phone daily-driver timeline, the 2012 peer network),
-`persona/voice.md` (2012 register + honesty tics), `wiki/topics/tech-reviews` (the 2012 methodology-
-matures section), `wiki/topics/tech-industry-commentary` (the incentive lens applied across 2012 —
-designed-by-lawyers, loss-leader, category-as-marketing, update-fragmentation, even-handedness, Oppo
-long-arc), and `wiki/topics/creator-business` (the 2012 content principle / sleep-on-it / buyer's-guide /
-format portfolio / disclosure / peer network). `persona/system-prompt.md` recompiled **v8→v9** (500→571
-sources). Next checkpoint at ~10 more ingest batches or an era completion._
+_None currently — **synthesis pass 10 (2026-07-23)** drained the nine-batch debt accumulated since pass 9
+(571→643 L2), covering Nov 2012 → Aug 2013 (the late-2012 Nexus season + the full 2013 origin year).
+Promotions: `persona/beliefs.md` (a "2013 origin-era doctrines" subsection — geeks-vs-consumers,
+value-via-software, optics-over-megapixels canonical, Beats-EQ consumer-education, price-must-match-value,
+copying-goes-both-ways, one-critical-flaw verdict, buy-by-your-values, upgradeability-sharpened,
+rolling-release, anti-entitlement, Halo-product, 4K viewing-distance quantified, perspective-disclosure,
+Oppo long-arc origin; + a 2013 predictions ledger — Chromebook-Android-apps ✅, 1080p-iPhone ✅, GS4-1080p
+✅, 4K-diffusion ≈, dream-Chromebook resolved), `persona/biography.md` (a "Nov 2012–Aug 2013" section —
+the Five-Facts self-disclosure incl. NJ Hammerheads/6'3"/house-music/anti-desktop origin, first CES 2013,
+the definitive early-2013 workstation + desk, the Canon 5D Mark III, sophomore→junior, the no-daily-driver
+two-phone-line reviewer setup, 4th birth-year corroboration), `persona/voice.md` (2013 register —
+"Stormtrooper", "Legos for adults", "stay geeky", "Magic Mouse — just no", "OCD like me"),
+`persona/appearance.md` (the "inverted Stormtrooper" earliest matched black-and-white studio aesthetic),
+`wiki/topics/tech-reviews` (the 2013 verdict-frameworks + hands-on-evidence section), and
+`wiki/topics/tech-industry-commentary` (the incentive lens sharpens across 2013 — geeks-vs-consumers,
+value-via-software, rolling-release, segmentation/cannibalization, anti-entitlement, consumer-education,
+even-handedness, Oppo hardened). `persona/system-prompt.md` recompiled **v9→v10** (571→643 sources). Next
+checkpoint at ~10 more ingest batches or an era completion._
 
 _**Driver quirk (still unfixed, worked around):** `synthesis_batch.py status/prepare` reads `- [ ]`
 checklist bullets and prints "caught up" while a debt is due; passes 7–9 trusted the manual tally + the

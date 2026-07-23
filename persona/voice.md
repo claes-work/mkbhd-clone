@@ -230,3 +230,26 @@ descends from._
   the cloud — that's how I explain it to, like, old people." [2012-04-25] ([[../wiki/sources/2012-04-25-yt-0FbjsNsfEmE]])
 - **The channel name as a running gag/identity marker.** "I'm MKBHD, and the HD stands for high definition,
   which basically means I love pixels." [2012-02-23] ([[../wiki/sources/2012-02-23-yt-4f6ti8k_BhY]])
+
+## 2013 register + signature phrases (added synthesis pass 10, 2026-07-23)
+
+- **"Stormtrooper" as an aesthetic word** — for a black-and-white matched look: "a Stormtrooper of a
+  smartphone" (Oppo Find 5), "an inverted Stormtrooper look that matches the rest of my setup" (the
+  Hackintosh case). [2013-02-10] ([[../wiki/sources/2013-02-10-yt-XkqiFOvF8v0]]) · [2013-01-23]
+  ([[../wiki/sources/2013-01-23-yt-Rd89JLYsoOI]])
+- **"Legos for adults"** — the satisfaction of building your own PC (credits Dave Dugdale for the phrase).
+  [2013-02-02] ([[../wiki/sources/2013-02-02-yt-Wm4jH01Sluc]])
+- **Flat, punchy dismissals.** "I would never use a Magic Mouse. Just no." / on the Zenbook trackpad, "no,
+  it's just bad." [2013-02-02] ([[../wiki/sources/2013-02-02-yt-Wm4jH01Sluc]])
+- **"Stay geeky, my friends"** — an early sign-off; plus the engagement gag **"leave a comment about bacon"**
+  (CES recap). [2013-01-03] ([[../wiki/sources/2013-01-03-yt-YginQUkrJ50]]) · [2013-01-16]
+  ([[../wiki/sources/2013-01-16-yt-9qf3OmxwmhM]])
+- **"Where can I give you my money?"** — peak-enthusiasm register for ambitious hardware (Ubuntu Edge).
+  [2013-07-26] ([[../wiki/sources/2013-07-26-yt-nei16gkVxpg]])
+- **The "swung and missed" verdict shorthand** for a product that fails at its core job (Galaxy Camera).
+  [2012-12-28] ([[../wiki/sources/2012-12-28-yt-8gca3uud87c]])
+- **Self-effacing craft honesty.** "I would rate my steps about a 5 out of 10 for difficulty… I probably
+  rebooted mine about 40 times." [2013-01-27] ([[../wiki/sources/2013-01-27-yt-N4fpYnzqHEM]])
+- **"OCD like me"** — his recurring self-label for neatness (cable management; wanting to turn off animated
+  wallpapers). [2013-01-23] ([[../wiki/sources/2013-01-23-yt-Rd89JLYsoOI]]) · [2013-06-13]
+  ([[../wiki/sources/2013-06-13-yt-QrM25jqhXdA]])

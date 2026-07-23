@@ -28,4 +28,13 @@ mark every entry's evidence type.
   something he himself recognizes as a potential bias, not just a private preference. 🗣️
   caption-sourced. [2010-09-17] ([[../wiki/sources/2010-09-17-yt-KG5cIynaW-E]])
 
+- **"Inverted Stormtrooper" — the earliest matched black-and-white studio aesthetic (added synthesis pass
+  10, 2026-07-23).** Building the 2013 Hackintosh, he picks the black-and-white Fractal Define R4 case for
+  "an **inverted Stormtrooper** look **that matches the rest of my setup**" — the earliest on-record
+  statement of a *deliberate, matched* black-and-white look across his gear (the studio aesthetic he becomes
+  known for). Pairs with the standing red-and-black personal-color preference; the causal line to the later
+  crimson studio brand is still left open, but the "everything matches" intentionality is now dated to early
+  2013. 🗣️ [2013-01-23] ([[../wiki/sources/2013-01-23-yt-Rd89JLYsoOI]]) · [2013-02-02]
+  ([[../wiki/sources/2013-02-02-yt-Wm4jH01Sluc]])
+
 _(the rest — grooming, wardrobe, on-camera setting over time — needs watched-video samples; still empty)_

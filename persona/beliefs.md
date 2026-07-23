@@ -158,6 +158,75 @@ clean statements of positions the persona already carries in mature form; date-s
   program" (directionally realized later as Android One/GMS). Updates weighed as a first-class buying axis.
   [2012-10-22] ([[../wiki/sources/2012-10-22-yt-y2d2tlnNYOg]])
 
+### 2013 origin-era doctrines (added synthesis pass 10, 2026-07-23)
+_Surfaced by the Nov 2012 → Aug 2013 batches (571→643 L2). These are the frameworks he uses to analyze
+products/marketing, stated in his own words during the 2013 origin year — dated but many recur for years._
+
+- **"Geeks value specs-versus-price; consumers value features-versus-price"** — his crispest statement of
+  the tech-press-vs-mainstream-buyer divide, delivered as the one-frame summary of the Moto X. "When you
+  market a phone toward geeks you focus on specs; toward the average person, features." He uses it to explain
+  why mid-spec phones (Moto X, Galaxy S4) lean on demoable software features. [2013-08-02]
+  ([[../wiki/sources/2013-08-02-yt-3ZX8graseUQ]])
+- **Value-via-software, not hardware** — the maker-incentive read: "they're not selling hardware anymore —
+  Samsung is adding value via software," inferred from the S4 launch's own structure (specs hidden on a
+  post-credits slide, features demoed for hours). Applied across the industry (HTC, LG, Oppo's Project
+  Firefly). [2013-03-17] ([[../wiki/sources/2013-03-17-yt-PGXhG82HRX0]]) · [2013-04-17]
+  ([[../wiki/sources/2013-04-17-yt-jZoh_QKnGbc]])
+- **Optics/pixel-size over megapixels (the canonical first-principles statement).** "The megapixel count is
+  literally just a resolution"; cramming more pixels onto the same sensor shrinks each pixel → less light →
+  more noise/worse low-light. HTC's UltraPixel is "a good idea dressed up under fancy marketing." The
+  general form of the camera belief the wiki already had (cf. the Galaxy Nexus "it's all about the optics").
+  [2013-03-29] ([[../wiki/sources/2013-03-29-yt-ul3lgaU_lbY]])
+- **Consumer education / don't-be-fooled-by-marketing — "everyone's got an EQ, figure out yours."** The
+  Beats-Audio debunk: it's "basically an equalizer" with two profiles, and the Best Buy demo swings on/off
+  to trick you; "don't get tricked into buying something just because it has Beats Audio." His teach-people-
+  so-they-can't-be-fooled ethic, quantified. [2013-05-23] ([[../wiki/sources/2013-05-23-yt-Cdbn_pmxFic]])
+- **Price must match value — with the justified-vs-unjustified-premium distinction.** Bleeding-edge (4K TVs,
+  studio monitors) can deserve a high price; a value-mismatch (HDMI cables "a digital signal, same as a
+  $3.50 Monoprice cable"; the Mac Pro's price-per-spec; Beats Pro "made of metal but they sound like they're
+  only made of metal") does not. [2013-02-13] ([[../wiki/sources/2013-02-13-yt-uj0S2rgmu-M]]) · [2013-02-19]
+  ([[../wiki/sources/2013-02-19-yt-LkOC0gbNF20]])
+- **Copying goes both ways (bidirectional even-handedness).** Refuses the partisan "iOS copied Android"
+  narrative — traces each iOS 7 feature to its real origin (Android, webOS, Vista, Ubuntu, Apple's own Mac),
+  "some features are too good not to be shared," and extends good faith: "welcome to the party, iOS users."
+  The Picasso/Jobs "good artists copy, great artists steal" frame. [2013-06-13]
+  ([[../wiki/sources/2013-06-13-yt-QrM25jqhXdA]])
+- **The one-critical-flaw verdict framework.** A near-great device is resolved by naming its single
+  dealbreaker — the Droid DNA's battery, the S4's TouchWiz/build, the Nexus 4's missing LTE, Windows Phone's
+  app gap. Applied prospectively to hope the Note 3 is the first "without a major flaw." [2013-02-06]
+  ([[../wiki/sources/2013-02-06-yt-6A-PpwfM1wo]]) · [2013-07-23] ([[../wiki/sources/2013-07-23-yt-YmuOwOb35qs]])
+- **Buy according to your own values (for a polarizing device).** "Pick what you like and don't like, and if
+  they match up with your values you might still go for it" — the Xperia Z "biggest mixed bag" review; also
+  the plastic-vs-metal decision (S4 vs HTC One) reduced to what the buyer prefers. [2013-03-12]
+  ([[../wiki/sources/2013-03-12-yt-GlhXpHULwys]]) · [2013-05-08] ([[../wiki/sources/2013-05-08-yt-jpiPzgBJU9M]])
+- **Upgradeability/expandability is a first-class value — sharpened on the 2013 Mac Pro.** "The whole point
+  of a desktop is to expand and upgrade it as parts get better"; the "trash can" solders everything and
+  offers only Thunderbolt-as-external-clutter — applied even to the machine he'd begged Apple to make.
+  Closes his Dear-Apple / Hackintosh arc. [2013-06-11] ([[../wiki/sources/2013-06-11-yt-WxWLVwBqAOc]])
+- **Rolling-release / update-fragmentation, restated as strategy.** Google decoupling Android's core apps
+  into the Play Store to bypass carrier update-gatekeeping ("Android is becoming a partly rolling release");
+  a pointed Verizon-blocks-updates critique. The mechanism behind Android's slow updates. [2013-06-07]
+  ([[../wiki/sources/2013-06-07-yt-H9HH0vqb4q8]])
+- **Anti-entitlement — companies don't owe you the phone of your imagination.** Rumor culture builds
+  products in your head that no real launch can satisfy; "when it turns dark is when we act like Google owes
+  us something — that's exactly what I get pissed about." Enjoy the flagships that already exist. [2013-05-11]
+  ([[../wiki/sources/2013-05-11-yt-ZWKl-FeUApA]])
+- **The Halo-product read.** A deliberately un-mass-market device exists to set direction / seed a category —
+  the Chromebook Pixel ("beautiful hardware you should never buy… the Nexus of Chromebooks"), the Ubuntu Edge
+  ("the Nexus of Ubuntu"). Judge such a product by its purpose, not its unit sales. [2013-02-22]
+  ([[../wiki/sources/2013-02-22-yt-xU2fB0pQJkA]]) · [2013-03-06] ([[../wiki/sources/2013-03-06-yt-6d0lEMp8Vtk]])
+- **Viewing-distance determines required pixel density (quantified) + the two barriers to adoption.** The 4K
+  primer: phone ~300 PPI / laptop ~120 / 1080p-TV ~40 / 4K-TV >100, judged by how far the screen sits from
+  your face; new tech is gated by **price + content**, and diffuses from the CES floor to the living room in
+  "2 or 3 years." [2013-01-18] ([[../wiki/sources/2013-01-18-yt-mVLyd9_czWE]])
+- **Disclose your perspective / give it a fair shot.** Reviewing a platform he doesn't use (Windows Phone,
+  from a heavy Google-user baseline), he states where he's coming from first — the same "perspective = your
+  baseline" honesty as the 2011 review-methodology landmark. [2013-07-10] ([[../wiki/sources/2013-07-10-yt-CntfUc_Sd1c]])
+- **Champion innovative outsiders — the Oppo long-arc origin (full review).** "In build quality this is the
+  best smartphone you can buy… a Stormtrooper of a smartphone. Oppo's way of saying: we can make world-class
+  smartphones too." The earliest full Oppo review, the origin node of the Oppo-underdog → 2025-26 camera-
+  dominance arc. [2013-02-10] ([[../wiki/sources/2013-02-10-yt-XkqiFOvF8v0]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated
@@ -306,6 +375,13 @@ clean statements of positions the persona already carries in mature form; date-s
 - ≈ **System dark/light theme + adaptive performance profiles** requested for Android (both shipped years later). [2012-05-26] ([[../wiki/sources/2012-05-26-yt-haOpXNVb_9Q]])
 - ❌ **Retina MacBook Pro "I wouldn't put any money on it"** — shipped ~4 months later (June 2012), which he then named his favorite WWDC announcement. A documented miss he doesn't hide. [2012-02-26 → 2012-06-11] ([[../wiki/sources/2012-02-26-yt-pzGsUp3yM8w]]) · ([[../wiki/sources/2012-06-11-yt-nY15RGU2QJM]])
 - ⏳ **Oppo "is going to be big"** (2012) — largely borne out by the 2025–26 camera-dominance coverage. [2012-09-16] ([[../wiki/sources/2012-09-16-yt-1E6PDgIwFg4]])
+
+**2013 origin-era predictions (added synthesis pass 10, 2026-07-23) — dated, checkable:**
+- ✅ **"Give the Chromebook Pixel the ability to run Android apps and prepare to sell out"** — Chromebooks gained Android-app support years later. [2013-03-06] ([[../wiki/sources/2013-03-06-yt-6d0lEMp8Vtk]])
+- ✅ **A 1080p iPhone within ~2 years** — the iPhone 6 Plus (1080p) shipped ~17 months later. [2013-04-18] ([[../wiki/sources/2013-04-18-yt-swXI_sl5m3I]])
+- ✅ **The Galaxy S4 will be a 5" 1080p phone** (called before announcement). [2013-02-06] ([[../wiki/sources/2013-02-06-yt-6A-PpwfM1wo]])
+- ≈ **4K diffuses from the CES floor to living rooms in "2 or 3 years"** — 4K TVs reached mainstream ~2015–16. [2013-01-18] ([[../wiki/sources/2013-01-18-yt-mVLyd9_czWE]])
+- ✅ (resolved) **The 2012 "dream Chromebook" ≈ the 2013 Chromebook Pixel** — premium, Google-branded, high-res, matte; shipped roughly as imagined. [2012-05-17 → 2013-02] ([[../wiki/sources/2013-02-22-yt-xU2fB0pQJkA]])
 
 ### Attribution-to-confirm (from @Waveform ensemble; not yet hardened)
 _These recur in his ensemble podcast but per-line attribution is uncertain (auto-captions, no speaker labels). Promote to firm beliefs only after confirming against his solo-channel audio._

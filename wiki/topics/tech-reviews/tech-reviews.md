@@ -266,6 +266,27 @@ several reusable review moves that recur throughout his career:
   display primacy; deflates a premium panel's perceived sharpness with arithmetic. [2012-02-26]
   ([[2012-02-26-yt-pzGsUp3yM8w]])
 
+## The 2013 methodology: verdict frameworks + hands-on evidence (Jan–Aug 2013) — added synthesis pass 10 (2026-07-23)
+_From the 571→643 L2 batches. The 2013 origin year adds several reusable review moves (also in
+`persona/beliefs.md`)._
+- **The one-critical-flaw verdict.** Resolve a near-great device by naming its single dealbreaker (Droid DNA
+  battery; Windows Phone app gap). [2013-02-06] ([[2013-02-06-yt-6A-PpwfM1wo]]) · [2013-07-10]
+  ([[2013-07-10-yt-CntfUc_Sd1c]])
+- **Decide-by-use-case comparison.** For two close flagships, give situational verdicts instead of one winner
+  (S4 vs HTC One — "put your money where your heart is"). [2013-05-08] ([[2013-05-08-yt-jpiPzgBJU9M]])
+- **Hands-on evidence over assertion.** The on-camera flex-and-listen build test; reporting the tie honestly.
+  [2013-05-08] ([[2013-05-08-yt-jpiPzgBJU9M]])
+- **Disclose confounds in your own test.** Flags a factory screen protector as a possible cause of the Xperia
+  Z's display issues rather than hiding it. [2013-03-12] ([[2013-03-12-yt-GlhXpHULwys]])
+- **Optics/pixel-size over megapixels, from first principles** (the UltraPixel explainer) — the general form
+  of the camera belief. [2013-03-29] ([[2013-03-29-yt-ul3lgaU_lbY]])
+- **The paradox verdict.** "Beautiful hardware you should never buy" (Chromebook Pixel) — quality-of-object
+  separated from buy-advice. [2013-03-06] ([[2013-03-06-yt-6d0lEMp8Vtk]])
+- **Clear-technical-teaching / correct-the-misconception.** The Chromecast "you're transferring the *action*,
+  not beaming content" explanation. [2013-07-29] ([[2013-07-29-yt-TK4u6wm-HIk]])
+- **Perspective-disclosure / fair-shot** on a platform he doesn't use (Windows Phone, from a Google-user
+  baseline). [2013-07-10] ([[2013-07-10-yt-CntfUc_Sd1c]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

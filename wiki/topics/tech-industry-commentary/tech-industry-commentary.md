@@ -135,6 +135,30 @@ The "follow the incentive, not the output" habit reaches its most varied and spe
   (2012) → the company the present-day material has breaking iPhone camera dominance. [2012-09-16]
   ([[2012-09-16-yt-1E6PDgIwFg4]])
 
+## The incentive lens sharpens across 2013 (Jan–Aug 2013) — added synthesis pass 10 (2026-07-23)
+_From the 571→643 L2 batches (Nov 2012 → Aug 2013). The 2013 origin year is where his incentive/marketing
+analysis crystallizes into reusable frameworks (now also in `persona/beliefs.md`)._
+- **The geeks-vs-consumers framework.** "Geeks value specs-versus-price; consumers value features-versus-
+  price" — the crisp Moto X summary that explains why mid-spec phones lean on demoable software features.
+  [2013-08-02] ([[2013-08-02-yt-3ZX8graseUQ]])
+- **Value-via-software as a business strategy.** "They're not selling hardware anymore" (Galaxy S4),
+  inferred from the launch's own structure; applied across HTC/LG/Oppo. [2013-03-17]
+  ([[2013-03-17-yt-PGXhG82HRX0]])
+- **Rolling-release / update-fragmentation.** Google decoupling core apps into the Play Store to bypass
+  carrier update-gatekeeping; the Verizon-blocks-updates critique. [2013-06-07] ([[2013-06-07-yt-H9HH0vqb4q8]])
+- **Product-segmentation / cannibalization reads.** Apple withholds a retina MacBook Air "to protect the
+  retina MacBook Pro lineup"; the 2013 Mac Pro's soldered internals sacrifice upgradeability for design.
+  [2013-06-25] ([[2013-06-25-yt-epLszn-rnpA]]) · [2013-06-11] ([[2013-06-11-yt-WxWLVwBqAOc]])
+- **Anti-entitlement toward companies.** Rumor culture builds phones in your head; "companies don't owe us
+  something." [2013-05-11] ([[2013-05-11-yt-ZWKl-FeUApA]])
+- **Consumer-education / anti-marketing-manipulation.** The Beats-Audio "it's just an EQ" + Best-Buy-sales-
+  trick exposé — "everyone's got an EQ, figure out yours." [2013-05-23] ([[2013-05-23-yt-Cdbn_pmxFic]])
+- **Bidirectional even-handedness, at full length.** "iOS features come from everywhere, Android features
+  come from everywhere… some are too good not to be shared" (the iOS 7 origins video). [2013-06-13]
+  ([[2013-06-13-yt-QrM25jqhXdA]])
+- **Oppo long-arc, hardened.** The earliest FULL Oppo review — "the best smartphone you can buy" on build —
+  is the origin node of the underdog→camera-dominance arc. [2013-02-10] ([[2013-02-10-yt-XkqiFOvF8v0]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

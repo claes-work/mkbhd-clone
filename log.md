@@ -4,6 +4,50 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] lint | synthesis pass 10 — the late-2012 Nexus season + full 2013 origin year (571→643 L2)
+
+Stage S. Drained the **nine-batch debt** accumulated since synthesis pass 9 (571→643 L2, covering Nov 2012
+→ Aug 2013). The 2013 origin year is where his marketing/incentive analysis crystallizes into reusable
+frameworks, plus the densest first-person biography source in the corpus (Five Facts About Me).
+
+**Promotions:**
+- `persona/beliefs.md` — a **"2013 origin-era doctrines"** subsection under Frameworks: geeks-vs-consumers
+  ("geeks value specs-vs-price, consumers value features-vs-price"), value-via-software as strategy, the
+  canonical optics/pixel-size-over-megapixels statement, Beats-EQ consumer-education ("everyone's got an
+  EQ"), price-must-match-value, copying-goes-both-ways, the one-critical-flaw verdict, buy-by-your-values,
+  upgradeability-sharpened (2013 Mac Pro), rolling-release/update-fragmentation, anti-entitlement,
+  Halo-product, 4K viewing-distance quantified, perspective-disclosure, and the Oppo long-arc origin. Plus
+  a **2013 predictions ledger** (Chromebook-Android-apps ✅, 1080p-iPhone ✅, GS4-1080p ✅, 4K-diffusion ≈,
+  dream-Chromebook resolved).
+- `persona/biography.md` — a **"Nov 2012–Aug 2013"** section: the Five-Facts self-disclosure (NJ
+  Hammerheads = earliest frisbee team, 6'3"/~6'7" wingspan, golf nine-handicap, house-music listener/quiet
+  introvert, anti-desktop→laptop→desktop origin with the HP dv7t first-video machine, LG Voyager first
+  phone, 78-subs-after-100-videos, MKBHD name origin), first CES 2013 (one-man show, Nvidia/Mobile-Nations
+  funded), the definitive early-2013 workstation + desk tour, the Canon 5D Mark III camera upgrade,
+  sophomore→junior progression, the no-daily-driver two-phone-line reviewer setup, and the 4th 1993
+  birth-year corroboration.
+- `persona/voice.md` — a **"2013 register"** section ("Stormtrooper" as an aesthetic word, "Legos for
+  adults", "stay geeky my friends", "leave a comment about bacon", "I would never use a Magic Mouse, just
+  no", "swung and missed", "OCD like me").
+- `persona/appearance.md` — the **"inverted Stormtrooper"** earliest on-record matched black-and-white
+  studio aesthetic (early 2013).
+- `wiki/topics/tech-reviews` — a **2013 verdict-frameworks + hands-on-evidence** section (one-critical-flaw,
+  decide-by-use-case, flex-and-listen test, screen-protector confound disclosure, optics-over-megapixels,
+  paradox verdict, clear-technical-teaching, perspective-disclosure).
+- `wiki/topics/tech-industry-commentary` — a **"incentive lens sharpens across 2013"** section
+  (geeks-vs-consumers, value-via-software, rolling-release, segmentation/cannibalization, anti-entitlement,
+  consumer-education, bidirectional even-handedness, Oppo hardened).
+
+`persona/system-prompt.md` recompiled **v9→v10** (571→643 sources): the geeks-vs-consumers + consumer-
+education + one-critical-flaw + Halo-product + copying-both-ways lenses added to "How you think"; the
+biography line updated (NJ Hammerheads, 6'3", house-music/introvert); the 2013 voice tics added to
+signature words. Height thread **resolved to 6'3"** (the Five-Facts first-person statement, consistent
+with the 2026 driving-position note). High-water mark advanced to **643 L2** in `pipeline/synthesis-
+state.md`. Every promoted trait is dated and cited to its `wiki/sources/` page.
+
+Synthesis notes: none pending — debt cleared. Next checkpoint at ~10 more ingest batches or an era
+completion. Resume ingest next iteration (@mkbhd P2 into Aug 2013+).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Jul 10–Aug 2, 8/8 ingested (Chromecast + Moto X landmarks + first Windows Phone review)
 
 Stage B. **Twenty-fifth consecutive clean batch, twentieth zero-loss**: 8 ingested, 0 skipped,
