@@ -418,6 +418,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-07-10 — [[2012-07-10-yt-K7uLph0s6f0|GIVEAWAY: Samsung Galaxy SIII!]] ★ · creator-business, consumer-tech-culture _(dated Samsung partnership; unexplained "shock and awe" gap)_
 - 2012-07-13 — [[2012-07-13-yt-nzikcaYKOkY|Galaxy SIII vs One X vs Galaxy Nexus!]] ★★ · smartphones, tech-reviews, creator-business, consumer-tech-culture _(LANDMARK: hardware/software buyer's-guide framework; Smartphone Awards precursor)_
 - 2012-07-18 — [[2012-07-18-yt-eG0As9lWP7I|Nexus 7 First Impressions!]] ★★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(LANDMARK: form-factor-creates-a-market; "league of its own")_
+- 2012-07-23 — [[2012-07-23-yt-ddI-ZZwFclc|Asus Transformer Pad Infinity Review!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(hardware/software "strangers"; conditional verdict backed by evidence)_
+- 2012-07-26 — [[2012-07-26-yt-bK959V_9XgQ|Top 3 Battery Saving Tips!]] ★ · consumer-tech-culture, smartphones, production-filmmaking _("the display is the biggest drain")_
+- 2012-07-31 — [[2012-07-31-yt-YddnWW_JYiY|Google Nexus 7 Review!]] ★★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(LANDMARK: loss-leader/Play-Store business model spelled out)_
+- 2012-08-07 — [[2012-08-07-yt-b_xRPA0CjJg|Google Fiber: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary _(gigabit-vs-gigabyte with tangible scale; roots for ISP disruption)_
+- 2012-08-10 — [[2012-08-10-yt-_hhEz4Uo79k|MKBHD Update 8.0!]] ★★ · creator-business, consumer-tech-culture _(LANDMARK biography: first on-camera ultimate-frisbee reveal; new apartment)_
+- 2012-08-19 — [[2012-08-19-yt-_02K6efDLI0|Blackberries: Explained!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(data-driven market analysis; enterprise decomposition)_
+- 2012-08-25 — [[2012-08-25-yt-3L27XnwKWkY|Top 3 Gadgets of Summer 2012!]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(retina MBP / S3 / Nexus 7; updates-as-value axis)_
+- 2012-08-30 — [[2012-08-30-yt-IT73da-C4sw|CyanogenMod 10 on the Samsung Galaxy S3!]] ★★ · smartphones, consumer-tech-culture, tech-reviews _(RESOLVES the stock-vs-skin arc: S3 hardware + near-stock CM10 = control-over-software)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -580,4 +588,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_539 videos ingested (L2) so far._
+_547 videos ingested (L2) so far._

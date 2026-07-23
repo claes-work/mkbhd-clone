@@ -4,6 +4,64 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Jul 23–Aug 30, 8/8 ingested
+
+Stage B. **Thirteenth consecutive clean batch, eighth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
+0 dup. 539→**547 L2**. Three ★★: a biography reveal, a business-model landmark, and the resolution of a
+long-running position arc.
+
+**Biography landmark — the ultimate-frisbee reveal.** `MKBHD Update 8.0` (08-10) is the most significant
+biography source in the origin corpus: he breaks his own no-personal-life rule to say it outright — "I
+never really talk about my personal life in my videos, but here it goes… Delaware Valley Youth League —
+it's an **ultimate frisbee team. There, I said it.**" He's flying to the **US Youth National
+Championships in Minnesota** and had recently played the **D3 College Nationals**. The wiki previously
+had ultimate only from third-party reporting and oblique 2011 markers ("mostly frisbee stuff"); this is
+the first-person, dated origin, and it connects straight to the professional-ultimate career documented
+years later. Same video: moving dorm → **new apartment** as school resumes (still at Stevens, fall
+2012).
+
+**Business-model landmark.** The `Nexus 7 Review` (07-31) spells out the **loss-leader / razor-and-blades
+model**: "Google spends about $200 to make it and sells it for about $200, but they're trusting that
+you will spend enough time in the Google Play Store to start giving Google more money… that's why they
+made a Nexus tablet for the Play Store." This is the incentive-structure lens applied to *pricing* —
+the most explicit "why is it priced this way?" demonstration in the origin corpus, alongside the
+ad-inventory reads (Glass, Google+) and "designed by lawyers." It also confirms form-factor-creates-a-
+market with lived before/after evidence.
+
+**A long arc resolves.** `CyanogenMod 10 on the Galaxy S3` (08-30) closes the stock-vs-skin thread the
+wiki has tracked all year. He switched hardware to the S3 in June (for the camera/GPS), then **rooted it
+and put near-stock CM10 on it** — "I've enjoyed my Galaxy Nexus so much that I wanted a pure, almost
+near-stock experience on my Galaxy S3" — running it as his daily driver for months. The through-line is
+now unambiguous: **control over the software experience**, not stock-as-dogma and not skin-acceptance;
+he'll move both hardware and software to get the combination he wants.
+
+Supporting nodes: the **Transformer Infinity review** (07-23) gives a *conditional verdict backed by
+evidence, not a promise* — "best Android tablet once it gets Jelly Bean," grounded in the Nexus 7 (same
+chip family) already running JB well — a useful refinement of the later never-buy-for-a-future-update
+rule (demonstrated-elsewhere ≠ merely-promised). **Battery Tips** (07-26) states the display-primacy
+corollary — "the display is the biggest drain" — and scopes its own advice Android-vs-iPhone. **Google
+Fiber** (08-07) teaches the gigabit-vs-gigabyte distinction with tangible scale and roots for ISP
+disruption. **Blackberries** (08-19) is a clean data-driven market analysis (1% → 1.15M, decomposed by
+enterprise vs. choice) with an early tactile-physical-keyboard appreciation. **Top 3 Gadgets of Summer**
+(08-25) consolidates pixel-obsession + updates-as-value + form-factor-market and dates his S3-on-CM10
+daily driver with a custom black back.
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 539 → 547 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **The ultimate-frisbee reveal** (Delaware Valley Youth League, US Youth Nationals
+Minnesota, D3 College Nationals) → `persona/biography.md` as the first-person origin of the frisbee
+identity; connects the 2011 markers to the pro-ultimate career. (2) ★★ **The loss-leader business-model
+analysis** → `persona/beliefs.md` + tech-industry-commentary hub as the incentive-lens-on-pricing
+capstone. (3) ★★ **Stock-vs-skin arc RESOLVED as control-over-software** → update the beliefs entry to
+state the value cleanly, citing the four-waypoint arc ending in CM10-on-S3. (4) ★ **"The display is the
+biggest drain"** = display-primacy corollary → one belief line. (5) ★ **Conditional-verdict-backed-by-
+evidence** as a refinement of the future-update rule → review-methodology topic page. (6) ★ Biography:
+new apartment / still in school fall 2012; S3-on-CM10 daily driver; back-from-frisbee-break markers.
+(7) ★ Tactile-keyboard appreciation → seed of the "physical controls matter" value. Debt: 6 ingest
+batches since synthesis pass 8 (checkpoint at 10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Jun 19–Jul 18, 8/8 ingested
 
 Stage B. **Twelfth consecutive clean batch, seventh zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
