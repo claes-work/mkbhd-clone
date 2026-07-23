@@ -4,6 +4,42 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Nov 14–Dec 12, 7/8 ingested + 1 skipped (iPad Air + Moto G budget-landmark + Google Play Editions)
+
+Stage B. **Twenty-ninth batch — 7 ingested, 1 skipped (garbled captions), 0 no-captions, 0 dup.**
+667→**674 L2**. First non-zero-loss batch since the caption blocker cleared — the skip is a caption-quality
+issue, not a fetch failure. The consecutive-clean-batch streak (28) is intact; the zero-loss streak resets.
+
+**Skipped:** `Oppo N1 Review (CyanogenMod Phone)` (12-05) — the auto-transcript came back as machine-
+translated Korean/nonsense (no usable English), so it's skipped per the no-captions rule (ledger
+`status=skipped, notes=garbled-captions`, retry if clean captions appear). Notably this drops an Oppo-arc
++ CyanogenMod data point — flagged for a re-fetch.
+
+**Budget landmark.** `Motorola Moto G Review` (12-08) is a concentrated dose of his **grade-on-the-price-
+tier** value doctrine, with the memorable **"highest-end low-end device"** framing (vs "lowest-end high-end
+device") — every cut explained against the Moto X, the camera reasoned against a same-price point-and-shoot
+("for $179 you cannot buy a better smartphone, period"). Notes his Dennis-Woodside (Motorola CEO) interview.
+
+**Incentive / even-handed analysis.** `Google Play Editions Explained` (12-12) is a clean incentive read —
+they don't sell and get zero ads, so "Google just doesn't care about the sales numbers"; they're really
+**premium developer editions** (judge-by-real-purpose-not-unit-sales, Halo-product-adjacent). `iPad Air`
+(11-14) is an even-handed Apple review with the **iOS-vs-Android-tablet-apps contrast** ("I'm waiting for
+middle ground"). `PS4 vs Xbox One` (11-25) applies **perspective-disclosure** to gaming ("never owned a
+console") plus a company-positioning read, and drops biography (bought a 4K TV; racing/sports game library).
+
+**Reinforcing.** `Nexus 5 vs Moto X` (11-27) — decide-by-use-case + rolling-release payoff (the Moto X
+camera moved to the Play Store) + an Overwerk electronic-music-taste note. `Galaxy Round` (11-16) — honest
+self-effacing new-form-factor enthusiasm. `LG G Flex self-healing` (11-18) — test-the-claim-realistically.
+
+Attribution: all 7 solo. Dennis Woodside and Hugo Barra cited as sources.
+
+Synthesis notes: ★ items worth a note at the next checkpoint — the **"highest-end low-end device" / grade-
+on-the-price-tier** value framing (Moto G; sharpens the value doctrine → `persona/beliefs.md`) and the
+**Google-Play-Editions judge-by-real-purpose-not-sales** incentive read. Also: the **iOS-vs-Android-tablet-
+apps "middle ground"** even-handed analysis and the **perspective-disclosure applied to gaming** (+ the
+bought-a-4K-TV / racing-sports-library biography). Re-fetch the skipped **Oppo N1** when clean captions
+exist. Debt now **4 ingest batches** since synthesis pass 10.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Oct 19–Nov 8, 8/8 ingested (first smartwatch + Project Ara + the Nexus 5)
 
 Stage B. **Twenty-eighth consecutive clean batch, twenty-third zero-loss**: 8 ingested, 0 skipped,

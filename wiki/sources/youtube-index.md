@@ -547,6 +547,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-11-02 — [[2013-11-02-yt-1JEXDBWehvI|How Google Now is Taking Over!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(PRESCIENT ambient-computing / assistant-across-form-factors prediction — Google Now as "the face" on glass/watches/fridges; AI-interest node; Pichai next-billion)_
 - 2013-11-04 — [[2013-11-04-yt-RBCaAq_pKjY|Google Nexus 5: Black vs White!]] · smartphones, consumer-tech-culture, content-strategy _(600th-video milestone; attention-to-detail material differences; Stormtrooper look; low yield)_
 - 2013-11-08 — [[2013-11-08-yt-1dg2UIzIt4s|Google Nexus 5 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(value-forces-tradeoffs — $700 specs in a $350 phone = speaker+camera shortcuts; league-of-its-own at its price; "The Stormtrooper phone" his white unit; camera-fixable-via-software; stock/KitKat)_
+- 2013-11-14 — [[2013-11-14-yt-Hr8E-_yU2YA|Apple iPad Air Review!]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking _(even-handed Apple from an Android power-user; iOS-vs-Android-tablet-apps contrast "waiting for middle ground"; front-facing-speakers; skin-tone camera-test tease; big-hands)_
+- 2013-11-16 — [[2013-11-16-yt-tTxhneVcmEo|Samsung Galaxy Round Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(curved Note 3; curve-helps-small-hands-typing; honest self-effacing new-form-factor enthusiasm "got judged for liking it")_
+- 2013-11-18 — [[2013-11-18-yt-Z-W66HINFLg|LG G Flex Self Healing Demo!]] · smartphones, tech-reviews, consumer-tech-culture _(test-the-claim-realistically — rejects the brass-brush demo, tests with keys; low yield)_
+- 2013-11-25 — [[2013-11-25-yt-3AbWtn1ixVk|Sony PS4 vs XBox One Impressions!]] ★ · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(perspective-disclosure applied to gaming "never owned a console"; company-philosophy/positioning — Xbox=living-room, PS4=gaming-first; bought a 4K TV; racing/sports library)_
+- 2013-11-27 — [[2013-11-27-yt-pMFLeoDx6J4|Google Nexus 5 vs Moto X! ($350)]] ★ · smartphones, tech-reviews, consumer-tech-culture _(decide-by-use-case; Stormtrooper Nexus 5; Moto Maker; rolling-release payoff — Moto X camera to the Play Store; Overwerk electronic-music taste)_
+- 2013-12-05 — Oppo N1 Review! (CyanogenMod Phone) — _skipped: garbled auto-captions (machine-translated Korean/nonsense), no usable English transcript; retry if clean captions appear_
+- 2013-12-08 — [[2013-12-08-yt-KFD0Nm2dOHw|Motorola Moto G Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(BUDGET LANDMARK — "highest-end low-end device" framing; grade-on-the-price-tier value; cut-every-corner; camera-vs-a-$179-point-and-shoot; Dennis Woodside CEO-interview access)_
+- 2013-12-12 — [[2013-12-12-yt-tTfaaqXYXxQ|Google Play Editions: Explained!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _(incentive analysis — judge-by-real-purpose-not-sales; "premium developer editions"; fragmentation; "geeks like me love them")_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -708,4 +716,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_667 videos ingested (L2) so far._
+_674 videos ingested (L2) so far._
