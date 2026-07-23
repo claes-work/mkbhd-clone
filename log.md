@@ -4,6 +4,32 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Nov 13–Dec 9, 8/8 ingested (the camera-methodology explainer + the YouTube Gear franchise debut)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 833→**841 L2**.
+
+**Methodology landmark.** `Smartphone Camera Quality: Explained!` (11-13) ★★ — the **canonical statement of
+how he evaluates smartphone cameras** (the method behind his review camera sections and the future Blind
+Camera Test): **sensor > megapixels, aperture, OIS > EIS, then processing** — plus the **accurate-vs-
+pleasing subjectivity** (Casey Neistat's blind test: the 6P won the popular vote despite being less
+accurate) and the **car-specs analogy** ("you can't tell by the numbers… at the end of the day it's you who
+decides, by how much you like the picture").
+
+**Franchise debut.** `YouTube Gear #1 | Blue Yeti!` (11-26) ★★ — the **"YouTube Gear" series debut** + the
+canonical **content-first-but-gear-helps** creator principle ("it's not all about the gear — content first —
+but quality, versatile working gear is surprisingly important"). Biography: the **Blue Yeti was his origin
+mic (3–5 years ago)**; a Surface Book in use.
+
+**Reinforcing.** `Sony Xperia Z5 Premium!` (11-24) ★ — the world's first 4K phone display, and his
+**diminishing-returns** verdict ("impossible to tell at arm's length" — the retina-effect taken to the
+extreme). `iPad Pro Second Impressions (Apple Pencil)` (11-15) ★ — who-is-this-for / can-it-replace-your-
+laptop + consumption-vs-production. `OnePlus X Review!` (12-01) ★ — best-cheap-phone + OLED love.
+`Blackberry Priv Review!` (11-20) ★ — favorite-BlackBerry-but-average + grippy-no-case-needed. `5 Facts LG
+V10` (12-06) ★ — champion-the-underrated (LG advocacy). `iPhone 6s Battery Case` (12-09) ★ — value-mismatch
+(Apple $99 vs a better Mophie).
+
+Synthesis notes: net-new for the next checkpoint — (1) the **CANONICAL camera-evaluation methodology** (sensor>megapixels/aperture/OIS>EIS/processing + accurate-vs-pleasing + car-specs analogy) → tech-reviews/production-filmmaking/beliefs; (2) the **YouTube Gear franchise + content-first-but-gear-helps** creator principle + Blue-Yeti-origin biography → creator-business/production-filmmaking/biography; (3) minor: 4K-phone-diminishing-returns (Z5 Premium), who-is-this-for/consumption-vs-production (iPad Pro), champion-the-underrated (LG V10), best-cheap-phone/OLED-love (OnePlus X), grippy-no-case-needed (Priv), value-mismatch (battery case). All ★-flagged inline; do not inline-promote (7 batches / ~56 videos since synthesis pass 12 — Stage S checkpoint due in ~3 more).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Oct 3–Nov 6, 8/8 ingested (the iPhone 6s review + #Chipgate + the MKBHD.com launch)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 825→**833 L2**.
