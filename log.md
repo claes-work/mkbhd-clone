@@ -4,6 +4,42 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Sep 9–Oct 16, 8/8 ingested (Note 3 review + Phonebloks + the Smartphone-Awards camera-test ancestor)
+
+Stage B. **Twenty-seventh consecutive clean batch, twenty-second zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 651→**659 L2**. (Note: dates span the pre-existing 2013-10-12 iPhone-5s entry — 7
+inserted before it, `Top 5 Cameras` [10-16] after it, in youtube-index date order.)
+
+**Method landmark — a Smartphone-Awards ancestor.** `Top 5 Best Smartphone Cameras` (10-16) is a scored,
+four-axis camera comparison (sharpness / color / video / control, each /10) — the **ancestor of his
+Blind-Camera-Test / Smartphone-Awards camera category**. Carries the "best camera is the one you have with
+you" adage, a disclosed video-weighting bias, and a skin-tone/color-accuracy lens. Notably he **still
+scores cameras here** (a nuance qualifying the RX100 "stopped scoring" marker — single-device scores went
+away, structured comparison scores stayed).
+
+**Beliefs.** `Phonebloks: Explained` (09-13) is a clean **incentive + supply-chain economics** read of why
+a modular phone is near-impossible ("no incentive, that's where the margins are"; integrated phones are
+cheap because of streamlined mass assembly) — a Project Ara precursor. `The New CyanogenMod` (09-18)
+restates the **control-over-software go-to-ROM** identity and adds a **friction-removal-drives-adoption**
+insight (the installer, not the features, is the key). `Note 3 Review` (10-02) — a favorite of 2013 —
+sharpens the anti-benchmark stance into an **ethics stand** ("I am done showing benchmarks on Samsung
+devices"), plus experience-over-spec and fake-leather-is-plastic honesty.
+
+**Biography.** `Nexus 5: What to Expect` (10-07) confirms he's **fully switching to AT&T as his main line**
+— acting on the Oct-2012 leave-Verizon intent. `LG G2` (09-24) restates the great-hardware-ruined-by-bad-
+software / stock-preference split. `Note 3 Impressions` (09-09) and `Note 3 Sizeup` (09-25) are
+verdict-discipline / big-hands companions.
+
+Attribution: all 8 solo. No guests.
+
+Synthesis notes: mostly reinforcing (pass 10 recently cleared the 2013 doctrines). Fresh items worth a
+note at the next checkpoint — the **four-axis camera-scoring methodology** (the Smartphone-Awards / Blind-
+Camera-Test ancestor → `wiki/topics/tech-reviews` recurring-franchises) and the **still-scoring-cameras
+nuance** (qualifies the RX100 "stopped scoring" marker); the **Phonebloks modular-economics** read
+(incentive thread + Project Ara precursor); the **anti-benchmark ethics stand** (Note 3); and the
+**switching-to-AT&T** biography update (carrier timeline). Debt now **2 ingest batches** since synthesis
+pass 10.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Aug 6–Sep 6, 8/8 ingested (Google Glass landmark + Perfect-Smartphone + flagship reviews)
 
 Stage B. **Twenty-sixth consecutive clean batch, twenty-first zero-loss**: 8 ingested, 0 skipped,

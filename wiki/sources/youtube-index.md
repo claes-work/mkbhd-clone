@@ -530,7 +530,15 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-08-23 — [[2013-08-23-yt-8yKXTr7KB40|5 Moto X Tips & Tricks!]] · smartphones, consumer-tech-culture, content-strategy _(Moto Maker customization; red-and-black deliberation "looks pink" honest aside; low yield)_
 - 2013-08-30 — [[2013-08-30-yt-elXk87IKgCo|Google Glass Explorer Edition: Explained!]] ★★ · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(LANDMARK wearable — new-form-factor/new-paradigm thesis; Explorer-Edition-not-final first-gen framing; "Android phone with no apps out of the box" analogy; owns it)_
 - 2013-09-06 — [[2013-09-06-yt-fsOxwsFF50c|Sony RX100 M2 Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(production-gear — CES footage/DSLR-intercut; practical-over-prestige gear argument; methodology-evolution STOPPED numerical scoring)_
+- 2013-09-09 — [[2013-09-09-yt-6Smu8YbwZ9Q|Samsung Galaxy Note 3 Impressions!]] · smartphones, consumer-tech-culture, content-strategy _(verdict-discipline before hands-on; request-driven; stylus-skepticism; low yield)_
+- 2013-09-13 — [[2013-09-13-yt-IovZRv8toDM|Phonebloks: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary, smartphones _(incentive + supply-chain economics of why-modular-is-hard; loves-idea-despite-logistics; Project Ara precursor)_
+- 2013-09-18 — [[2013-09-18-yt-uQyRDqnr0FM|The New Cyanogenmod!]] ★ · consumer-tech-culture, tech-industry-commentary, smartphones _(control-over-software go-to-ROM lived; friction-removal-drives-adoption "the installer is the key feature"; incentive/market-share)_
+- 2013-09-24 — [[2013-09-24-yt-WBeFfWUdseI|LG G2 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("Almost Nexus"; great-hardware-ruined-by-bad-software split; stock-preference; rear-buttons adaptation curve; big-hands)_
+- 2013-09-25 — [[2013-09-25-yt-PYJAiY6zuMo|Samsung Galaxy Note 3 Sizeup!]] · smartphones, consumer-tech-culture, content-strategy _(big-hands-as-methodology-limit; phablet once-you-go-big; verdict-discipline; low yield)_
+- 2013-10-02 — [[2013-10-02-yt-9NSBB-kFDGQ|Samsung Galaxy Note 3 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(favorite-of-2013; ANTI-BENCHMARK ETHICS "done showing benchmarks on Samsung devices"; experience-over-spec; fake-leather-is-plastic honesty; kitchen-sink critique)_
+- 2013-10-07 — [[2013-10-07-yt-F0zhwl8454Y|Google Nexus 5: What to Expect!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(minimalist-design taste; Nexus-pricing; Verizon critique; SWITCHING to AT&T main line — acts on Oct-2012 intent; leak-culture)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
+- 2013-10-16 — [[2013-10-16-yt-OMb-jXlkNwY|Top 5 Best Smartphone Cameras!]] ★ · smartphones, tech-reviews, production-filmmaking _(four-axis scoring methodology = Blind-Camera-Test / Smartphone-Awards ancestor; "best camera is the one you have with you"; disclosed video-weighting bias; skin-tone accuracy)_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -692,4 +700,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_651 videos ingested (L2) so far._
+_659 videos ingested (L2) so far._
