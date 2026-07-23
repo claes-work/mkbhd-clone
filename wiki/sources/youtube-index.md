@@ -410,6 +410,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2012-06-04 — [[2012-06-04-yt-wiWXQEkO5ws|4G and LTE: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary, smartphones _(carrier marketing skepticism; quad-core+4G battery ceiling)_
 - 2012-06-11 — [[2012-06-11-yt-nY15RGU2QJM|Google Innovation at WWDC 2012!]] ★★ · tech-industry-commentary, consumer-tech-culture, smartphones _(copying-both-ways even-handedness; resolves the wrong retina-MBP prediction)_
 - 2012-06-16 — [[2012-06-16-yt-CultO7cPnJA|Top 5 Tech Myths!]] ★★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(LANDMARK: optics-not-megapixels as a general principle; IE self-correction)_
+- 2012-06-19 — [[2012-06-19-yt-xAT0EmZc-LE|Samsung Galaxy S3 First Impressions]] ★ · smartphones, tech-reviews, consumer-tech-culture _(NY launch event; Android-purist softening)_
+- 2012-06-26 — [[2012-06-26-yt-4JEZ2rrf2N4|Samsung Galaxy SIII Review!]] ★★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary _(LANDMARK: daily-driver switch Nexus→S3; TouchWiz-over-stock; camera replaces point-and-shoot)_
+- 2012-06-28 — [[2012-06-28-yt-poSFV9_abcw|Top 5 Android 4.1 Jellybean Features!]] ★ · smartphones, consumer-tech-culture, tech-reviews _("camera doesn't do it justice"; software update = value pick)_
+- 2012-06-28 — [[2012-06-28-yt-4nKRZA4HVQg|Top 5 Google I/O Announcements!]] ★ · tech-industry-commentary, consumer-tech-culture, smartphones _("best notifications period"; Glass skydive keynote)_
+- 2012-07-01 — [[2012-07-01-yt-kw-RzN4xYyE|Siri vs Google Voice Search!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(source transparency scored as a feature)_
+- 2012-07-10 — [[2012-07-10-yt-K7uLph0s6f0|GIVEAWAY: Samsung Galaxy SIII!]] ★ · creator-business, consumer-tech-culture _(dated Samsung partnership; unexplained "shock and awe" gap)_
+- 2012-07-13 — [[2012-07-13-yt-nzikcaYKOkY|Galaxy SIII vs One X vs Galaxy Nexus!]] ★★ · smartphones, tech-reviews, creator-business, consumer-tech-culture _(LANDMARK: hardware/software buyer's-guide framework; Smartphone Awards precursor)_
+- 2012-07-18 — [[2012-07-18-yt-eG0As9lWP7I|Nexus 7 First Impressions!]] ★★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(LANDMARK: form-factor-creates-a-market; "league of its own")_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -572,4 +580,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_531 videos ingested (L2) so far._
+_539 videos ingested (L2) so far._

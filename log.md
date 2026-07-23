@@ -4,6 +4,67 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin Jun 19–Jul 18, 8/8 ingested
+
+Stage B. **Twelfth consecutive clean batch, seventh zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
+0 dup. 531→**539 L2**. A dense Galaxy S3 / Jelly Bean / Nexus 7 window with a major biography event and
+three ★★ landmarks.
+
+**Biography headline — he switches his daily driver.** The `Galaxy SIII Review!` (06-26) ends with
+"for me it's actually enough to get me to **switch from the Nexus to the Galaxy S3 on Verizon as my
+full-time carry daily device**." Ten weeks after calling the Galaxy Nexus one of the best phones he'd
+used, the S III displaces it. The same review carries a **TouchWiz-over-stock concession** — "if I had
+to pick an Android skin over pure Android it would be TouchWiz, it's the fastest, the lightest" — which
+adds a third dated waypoint to the stock-vs-skin arc (pure-stock Oct 2011 → custom ROM for control Apr
+2012 → preferring an OEM skin for performance Jun 2012). The consistent value is *best software
+experience*, not stock-as-dogma; the first-impressions video a week earlier (06-19) already shows the
+"Android sort of purist" softening toward Samsung's added apps. Also in the review: an early, explicit
+**camera-replaces-your-point-and-shoot thesis** ("you no longer need to bring another camera on
+vacation"), and a **pentile-doesn't-matter** perception-over-spec argument.
+
+**Two format landmarks.** `Galaxy SIII vs One X vs Galaxy Nexus` (07-13) is the clearest early
+**buyer's-guide** — made because "which one should I get?" arrived "almost every day" — resolved not
+with a winner but with a **decision framework keyed to what you value**: hardware → S3, software/updates
+→ Galaxy Nexus, budget → the $350 Nexus. It's the direct ancestor of the annual Smartphone Awards and
+the third dated instance of him answering "should I buy X?" with a procedure rather than a pick. And
+`Nexus 7 First Impressions` (07-18) states a **form-factor-creates-a-market thesis**: "the first real
+7-inch Android tablet… Google has created a new market," insisting "calling it a Kindle Fire competitor
+would be an insult." It also dates the **"league of its own"** signature phrase (already in the persona)
+and frames the low storage through his own cloud-first workflow.
+
+**Method/values nodes.** `Siri vs Google Voice Search` (07-01) scores **source transparency as a
+feature** — Google shows every answer's source, "Siri won't read you off the Wolfram Alpha card" —
+which is his 2009 cite-your-source discipline applied as a product-evaluation criterion (and resonant
+with his later AI/provenance positions); he also publishes the test set and excludes S Voice with a
+stated reason. The `Jelly Bean top-5` (06-28) adds a **"the camera doesn't do it justice" motion
+disclosure** — telling the viewer when the medium can't convey the property under review — and shows a
+software update turning the older, cheaper Nexus into the value pick. The `Google I/O recap` (06-28)
+yields "Android has the best notifications, period" and a burst of genuine enthusiasm for the Glass
+skydive demo ("the most badass thing I have ever seen at any keynote from any company ever").
+
+**One flagged-unresolved item.** The `Galaxy S3 Giveaway` (07-10) is a dated **Samsung brand
+partnership** — the first major-manufacturer collaboration in the corpus — but it opens with an
+unexplained week-long upload gap and "I was actually kind of in shock and awe that this happened,"
+without saying what happened. Recorded as: a ~week gap around early July 2012 + an oblique "shock and
+awe" reference. **Not interpreted; do not speculate** — flag for a later clarifying source.
+
+Bookkeeping: 8 ledger rows → L2 with domains/notes; 8 rows inserted into
+`wiki/sources/youtube-index.md` in date order; footer 531 → 539 and the `index.md` count/batch trail
+updated. persona/ and system-prompt untouched.
+
+Synthesis notes: (1) ★★ **Daily-driver switch Nexus → Galaxy S3 (Verizon), Jun 2012** → biography
+timeline. (2) ★★ **Camera-replaces-your-point-and-shoot** at a dated 2012 origin → `persona/beliefs.md`
+(the phone-camera-good-enough arc). (3) ★★ **The buyer's-guide decision framework** (hardware/software/
+budget) → creator-business hub + format ledger as the Smartphone Awards precursor; third dated instance
+of procedure-not-a-pick. (4) ★★ **Form-factor-creates-a-market / experience-over-spec at device-category
+level** → `persona/beliefs.md`, cross-linked to the new-form-factor lens. (5) ★ **Stock-vs-skin
+position now has three dated waypoints** — record the evolution, framed as best-experience not
+stock-dogma. (6) ★ **Source transparency scored as a feature** → values/method. (7) ★ **"Camera can't
+do it justice" motion disclosure** → measurement-honesty cluster. (8) ★ **Dated Samsung brand
+partnership** → creator-business timeline. (9) ★ "league of its own" and "best notifications period"
+dated voice/belief instances. One flagged-unresolved: the "shock and awe" gap. Debt: 5 ingest batches
+since synthesis pass 8 (checkpoint at 10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012 origin May 13–Jun 16, 8/8 ingested
 
 Stage B. **Eleventh consecutive clean batch, sixth zero-loss**: 8 ingested, 0 skipped, 0 no-captions,
