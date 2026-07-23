@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Jul 7–Aug 21, 8/8 ingested (the sapphire METHODOLOGY self-correction + the full Android Wear review + the "best camera to start a channel")
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 729→**737 L2**.
+
+**Methodology landmark.** `iPhone 6 Sapphire: Explained!` (07-19) ★ — Marques **upgrades his own test
+with better science**: after an ad-hoc knife/key durability test in the 07-07 leak video, he introduces
+the **Mohs hardness scale** (steel ≈5.5 < Gorilla Glass ≈6.8 < sapphire ≈9) to show knife tests are
+invalid, invents a **sandpaper test**, and discovers the iPhone 6 panel is a **sapphire composite, NOT
+pure sapphire** (Apple laminate patent) — pre-empting Apple's likely "indestructible" hype. A clean
+consumer-education + public-self-correction datum.
+
+**Wearable landmark.** `Android Wear Review!` (08-04) ★ — the **full first-gen wearable category review**:
+the canonical **geek-vs-mainstream** verdict ("for a real geek like me this stuff is awesome… I don't
+even think the average person is going to like this yet"), honest battery/pedometer downsides, and the
+recommendation to **wait for the Moto 360 and the Apple option** (another dated Apple-Watch anticipation).
+
+**Creator-gear datum.** `Sony RX100 MKIII Review!` (08-16) ★ — "**the best pocket camera ever made**"
+(judge-in-category) and, notably, his **best-camera-to-START-a-YouTube-channel** advice (over a DSLR).
+`NVIDIA Shield Tablet Review!` (08-21) ★ — **know-your-lane / disclose-non-coverage**: a self-described
+non-gamer reviews a gaming tablet as a stock-Android "Nexus 8" and hands the gaming beat to other
+creators; reinforces **front-facing-speakers-should-be-standard** and **Google-Earth-as-benchmark**.
+
+**Reinforcing / lower yield.** `iPhone 6 Sapphire Crystal Display!` (07-07) — the real front-panel leak
+that sets up the 07-19 correction. `OnePlus One: Revisited!` (07-26) — **verdict-updated-with-time**
+(CM11S bugs fixed, now Nexus-smooth = the software bet paid off). `Nexus 6 & Nexus 9 Wishlist!` (08-03) —
+the **stock-Android camera-processing weakness** (software-not-hardware) + dont-skimp-graphics/60fps-vs-
+iOS. `Prime Phones: Explained!` (08-09) — sidestep LTE-A/Cat6 variants, demystify-the-marketing.
+
+Synthesis notes: net-new for the next checkpoint — (1) the **sapphire methodology self-correction** (Mohs/sandpaper; consumer-education + correct-my-own-method → beliefs); (2) the **full Android Wear review** (geek-vs-mainstream first-gen wearable framing + Apple-Watch anticipation → beliefs/wearable thread + predictions ledger); (3) **know-your-lane / disclose-non-coverage** (NVIDIA Shield, non-gamer) + front-facing-speakers-standard → beliefs; (4) the **RX100 III "best camera to start a channel"** creator advice → production-filmmaking/creator-business; (5) minor: stock-Android camera-processing weakness, verdict-updated-with-time (OnePlus Revisited). All ★-flagged inline; do not inline-promote (3 batches since pass 11 — driver counter reads 2; checkpoint at 10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Jun 11–Jul 4, 8/8 ingested (the ANDROID WEAR arrival + the "Fire Phone should've been an app" verdict + the Colorware MKBHD MacBook)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 721→**729 L2**.

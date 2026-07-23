@@ -611,6 +611,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-06-28 — [[2014-06-28-yt-y9ue7TNpxS0|Top 5 Best Android L Features!]] · smartphones, consumer-tech-culture, tech-industry-commentary _(Android L dev preview; Material Design headline = animation-as-usability/60fps "most important change"; mid-yield)_
 - 2014-07-02 — [[2014-07-02-yt-TmikWdsrz_U|LG G3 Mass Giveaway! [CLOSED]]] · creator-business, content-strategy, consumer-tech-culture _(75-unit giveaway, Unbox Therapy cross-channel collab; low yield; creator-business scale datum; Lou = collaborator/context)_
 - 2014-07-04 — [[2014-07-04-yt-W8BfirN9z94|MKBHD Edition Macbook Pro! (Colorware Custom)]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews _(red+black brand identity ON HARDWARE — matte black + cherry-red hinge + backlit machine-cut MKBHD logo; understated-by-choice; source-critical durability caveat; appearance datum)_
+- 2014-07-07 — [[2014-07-07-yt-5R0_FJ4r73s|iPhone 6 Sapphire Crystal Display!]] · smartphones, tech-reviews, consumer-tech-culture _(real front-panel leak (Sonny Dickson); ad-hoc knife/key durability test; sets up the 07-19 methodology correction; mid-yield)_
+- 2014-07-19 — [[2014-07-19-yt-b7ANcWQEUI8|iPhone 6 Sapphire: Explained!]] ★ · tech-reviews, consumer-tech-culture, smartphones _(methodology self-correction — Mohs scale + sandpaper test replace the invalid knife test; finds it's a sapphire COMPOSITE not pure; consumer-education/debunk + pre-empts Apple "indestructible" hype)_
+- 2014-07-26 — [[2014-07-26-yt-5BRVHKG_hpU|OnePlus One: Revisited!]] · smartphones, tech-reviews, tech-industry-commentary _(verdict-updated-with-time — CM11S bugs fixed, now Nexus-smooth = the software bet paid off; invite-system "logistical nightmare")_
+- 2014-08-03 — [[2014-08-03-yt-RUC_F0OQdDg|Nexus 6 & Nexus 9 Wishlist!]] · smartphones, tech-industry-commentary, consumer-tech-culture _(stock-Android camera-processing weakness = software-not-hardware; dont-skimp-graphics/60fps-vs-iOS; Nexus-leads-hardware-direction; daily-driver = Nexus 5 on Android L preview)_
+- 2014-08-04 — [[2014-08-04-yt-2z9uOm-Ydrk|Android Wear Review! (Smartwatches)]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(the full first-gen wearable review; geek-vs-mainstream "average person won't like this yet"; battery/pedometer honesty; wait-for-Moto-360-and-the-Apple-option = Apple Watch anticipation)_
+- 2014-08-09 — [[2014-08-09-yt-sFGEBTdK2Z0|Prime Phones: Explained!]] · smartphones, tech-industry-commentary, consumer-tech-culture _(sidestep variants — LTE-A/Cat6 for the South Korea market; consumer-education/demystify-the-marketing; not worth importing)_
+- 2014-08-16 — [[2014-08-16-yt-9HtGhNUtW-E|Sony RX100 MKIII Review!]] ★ · production-filmmaking, tech-reviews, creator-business _("best pocket camera ever made" (judge-in-category); flip LCD/EVF/24-70 f1.8; the best-camera-to-START-a-YouTube-channel advice; vlogger-ready)_
+- 2014-08-21 — [[2014-08-21-yt-PNp2IjVv3HI|NVIDIA Shield Tablet Review!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(know-your-lane/disclose-non-coverage — non-gamer reviews it as a stock-Android "Nexus 8", defers gaming to others; front-facing-speakers-should-be-standard; Google-Earth-benchmark; Tegra K1)_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -772,4 +780,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_729 videos ingested (L2) so far._
+_737 videos ingested (L2) so far._
