@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Sep 23–Oct 22, 8/8 ingested (he BUYS a Tesla "Apollo" + the Note 7 recall RETRACTION + the Pixel / Assistant-passes-Siri)
+
+Stage B. Ingested late-2016 to L2 (888→896): the **Tesla P100D "Apollo"** impressions + options two-parter,
+the **Note 7 review**, the **Note 7 Replacements** retraction, the **LG V20**, the **Pixel** impressions +
+unboxing, and **Google Assistant vs Siri**. All 8 solo/Marques-fronted → persona-eligible; captions clean;
+no dups, no skips. Ledger @mkbhd now 767 open (P2:729, P3:38); L2=896, L3=0.
+
+Synthesis notes: unusually rich, persona-grade material for the next checkpoint (pass 14) —
+**(1) BIOGRAPHY — he BOUGHT a Tesla Model S P100D, "Apollo"** (reportedly the first P100D on the US East
+Coast, Sept 2016): "I'm a tech guy before I'm a car guy, but this is as high-tech as it gets"; picked it
+partly because "the frunk is huge for carrying video equipment"; also reveals he **owned a red car before**
+Apollo and chose gray ("I already had a red car, and I'm not trying to get pulled over — flying under the
+radar"). The ownership ROOT of the car beat that becomes AutoFocus. **(2) EV-shape = aero/efficiency** (the
+covered grille, retracting handles, lowest drag coefficient) — the early seed of his 2026 "EVs look like
+blobs" thesis; plus the **Model 3 "$35k" preview** and "a P120D next year is inevitable — it's a tech
+product" (tech-cadence applied to cars). **(3) ⚠️ CONTRADICTION RESOLVED — the Note 7 recall arc, in one
+batch**: impressions (positive, pre-recall) → review ("green-battery replacements are safe, recommendable")
+→ **the Replacements video RETRACTS it** ("the replacements caught fire too — return ALL of them, RIP Note
+7"). The **update-in-public / correct-yourself-when-facts-change** trait is a strong voice/method signal.
+**(4) Durable verdicts restated**: "best display in a smartphone" + "best camera in a smartphone" (Note 7),
+and "a camera that encourages me to take a lot of photos" (the ease/confidence criterion). **(5) champion-
+the-underrated** again (LG V20 "most underrated") + the **removable-battery+microSD "rare breed"** value +
+the source-critical "no, the iPhone is not the first to do dual cameras." **(6) "The first phone made
+entirely by Google — RIP Nexus"** + the **chin design critique** + the Assistant-headlines prediction
+landing (Pixel). **(7) Efficiency-beats-fancy-tech**: "Apple built a technically-impressive pressure display
+for 3D Touch; Google just built it into a long-press." **(8) VOICE-ASSISTANT judging criterion — "how much
+like a robot you have to talk to it"** + dated verdict **"Google has passed Siri"** (a role reversal from
+Siri's 2012 strength), extending the machine-learning-is-the-real-story thread. Minor: "it still has a
+headphone jack — feels crazy to say"; circular-icons = the consistency win. Debt now 7 batches since pass
+13 — **pass 14 checkpoint due in ~3 batches (~926 L2), or sooner if an era completes.**
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Aug 2–Sep 18, 8/8 ingested (the CANONICAL five-pillars framework + the iPhone-7 jack era + the 16GB campaign WINS)
 
 Stage B. Ingested fall 2016 to L2 (880→888): the **Note 7** impressions, **2016 Nexus Hype**, the
