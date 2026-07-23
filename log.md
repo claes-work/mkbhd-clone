@@ -4,6 +4,35 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Dec 1–2015 Jan 15, 8/8 ingested (year-end 2014 stats/2M subs + CES 2015 car-tech feeding the AutoFocus arc)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 761→**769 L2**. Crosses into 2015 (New Year + CES).
+
+**Biography/creator landmark.** `MKBHD Update 10.4: 2015!` (2015-01-01) ★ — 2014 by the numbers: **93
+videos, 130M views, passed both 1M and 2M subscribers, 1000+ years of cumulative watch time**; the
+**MKBHD.com** website in progress; and the resolution **"make every new video my best work"** (the
+"best, not first" ethic, positively framed) + a selective-CES philosophy.
+
+**Car-beat / AutoFocus-origin arc.** `BMW Tech at CES 2015!` (01-11) ★ — "who'd have thought the coolest
+booth would be a car company?"; the i8 hybrid, wireless car charging, and an i3 that **drives itself /
+summons from a smartwatch.** `CES 2015 Highlights!` (01-15) ★ — the **Tesla Model X** (falcon-wing doors,
+a refined interior answering the Model S's biggest complaint — "I've talked a lot about Tesla since I
+showed the Model S in this booth last year"), plus **OLED-is-my-next-TV** and **"the year of 4K"** (the
+bottleneck moved to capture, now easy).
+
+**Doctrine / consumer-education.** `Quantum Dot TVs: Explained!` (01-08) ★ — demystify the buzz-term
+("just improved backlighting… existed since the 1990s, now branded") + OLED-is-the-future-of-TV.
+`Google Nexus 9 Review!` (12-01) ★ — a **value-mismatch** verdict ("should be $300 not $400"), build-
+expectation letdown, buy-for-the-software-only.
+
+**Reinforcing / lower yield.** `Top 5 Wearable Tech! (Late 2014)` (12-15) ★ — Moto 360 #1 + **Apple-
+drives-competition** ("once Apple gets into things, it makes better products for us"). `Motorola Droid
+Turbo Review!` (12-24) — **anti-thinness vindicated** (thick 11.2 mm = 3900 mAh battery champ);
+Motorola's 2014 sweep. `Best Tech under $50!` (12-18) — the authenticity rule (only recommend what he
+uses) + cord-cutter datapoint.
+
+Synthesis notes: net-new for the next checkpoint — (1) **biography/creator**: 2014 stats + **2M subscribers by end of 2014** + MKBHD.com + "every new video my best work" → biography/creator-business; (2) **car-beat / AutoFocus-origin arc** advances (BMW CES self-driving + Tesla Model X, one year after the Model S booth video) → ev-cars; (3) **OLED-is-the-future** (TV + phone) + the **4K-adoption thesis** advancing (capture got easy) → beliefs; (4) **Apple-drives-competition** even-handedness → beliefs; (5) minor: value-mismatch (Nexus 9), anti-thinness-vindicated (Droid Turbo), quantum-dot consumer-education, authenticity-rule/cord-cutter. All ★-flagged inline; do not inline-promote (7 batches / ~56 videos since pass 11 — driver counter reads 2; **Stage S checkpoint due in ~3 more batches** at ~10/~100).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Oct 28–Nov 20, 8/8 ingested (the DREAM SMARTPHONE ideal-phone priorities + the Nexus 6 review + ~2M subscribers)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 753→**761 L2**.

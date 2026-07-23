@@ -644,7 +644,15 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-11-12 — [[2014-11-12-yt-lMGggUDolRI|The Dream Smartphone! (2014)]] ★★ · smartphones, consumer-tech-culture, tech-reviews _(crystallized ideal-phone priorities — front-facing speakers, anti-thinness/big-battery, "screen size is not phone size", pure stock Android, image-processing-over-sharpening, no-gimmicks-but-must-work; Verge production collab = context)_
 - 2014-11-15 — [[2014-11-15-yt-RoAPTdvgAJg|Google Nexus 6 Review!]] ★ · smartphones, tech-reviews, tech-industry-commentary _("big Moto X on stock Android"; anti-benchmark "benchmarks higher ≠ performs better"; grade-on-a-curve (battery C+/B+); fair-to-fixable; camera most-improved; stock-purist buy; daily driver)_
 - 2014-11-20 — [[2014-11-20-yt-aEDJkbSJKP0|MKBHD Update 10.3!]] ★ · creator-business, consumer-tech-culture, smartphones _(biography — hand surgery "16 stitches, a plate, six screws"; ~2 MILLION subscribers (Nov 2014); Reddit AMA; student crunch; Colorware durability holding up; gear mini-verdicts)_
+- 2014-12-01 — [[2014-12-01-yt-vE-P7zzCCsU|Google Nexus 9 Review!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _("HTC's safest bet ever"; value-mismatch "should be $300 not $400"; build-expectation letdown; awful buttons (silent 2.0 revision); front-facing speakers; buy-for-the-software-only)_
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
+- 2014-12-15 — [[2014-12-15-yt-Zh2wtbNrlyw|Top 5 Wearable Tech! (Late 2014)]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(Moto 360 #1; Android Wear now lets you ACT on notifications; Apple-drives-competition "once Apple gets into things it makes better products for us")_
+- 2014-12-18 — [[2014-12-18-yt-CjYPLWcgAOE|Best Tech under $50!]] · consumer-tech-culture, creator-business, tech-reviews _(authenticity rule — only recommend what I use daily; cord-cutter "no cable subscription" / NBA fan; no-cases (John/TLD guest = quarantine))_
+- 2014-12-24 — [[2014-12-24-yt-26C_O6hDMjQ|Motorola Droid Turbo Review!]] · smartphones, tech-reviews, consumer-tech-culture _(Motorola's 2014 sweep; anti-thinness VINDICATED — thick 11.2mm = 3900mAh battery champ; ballistic-nylon tank; QHD OLED rivals Note 4; near-stock; best Verizon phone)_
+- 2015-01-01 — [[2015-01-01-yt-arlvHJnfFKI|MKBHD Update 10.4: 2015!]] ★ · creator-business, consumer-tech-culture, content-strategy _(2014 stats — 93 videos / 130M views / passed 1M AND 2M subs / 1000+ years watch time; MKBHD.com coming; resolution "every new video my best work" = best-not-first; selective-CES philosophy)_
+- 2015-01-08 — [[2015-01-08-yt-dIfLmM0YkXM|Quantum Dot TVs: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(consumer-education/demystify — "just improved backlighting", existed since the 1990s, now branded; OLED-is-the-future-of-TV; CES 2015)_
+- 2015-01-11 — [[2015-01-11-yt-_z9q096Lhj0|BMW Tech at CES 2015!]] ★ · ev-cars, tech-industry-commentary, consumer-tech-culture _(car-beat / AutoFocus-origin arc; "coolest booth was a car company"; i8 hybrid; wireless car charging; OLED taillights / laser headlights; i3 self-driving / summon-from-a-smartwatch)_
+- 2015-01-15 — [[2015-01-15-yt-t8eKwFESN8s|CES 2015 Highlights!]] ★ · consumer-tech-culture, ev-cars, tech-industry-commentary _(OLED-is-my-next-TV; "the year of 4K" — shooting got easy, not just watching; Tesla Model X falcon-wing/refined-interior (car-beat continues); LG G Flex 2; Sharp bezelless)_
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
 - 2015-12-19 — [[2015-12-19-yt-UBuVR8_Mybw|Smartphone Awards: 2015!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -804,4 +812,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_761 videos ingested (L2) so far._
+_769 videos ingested (L2) so far._
