@@ -669,6 +669,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2015-03-13 — [[2015-03-13-yt-ZrZISyPucMg|USB Type-C: Explained!]] ★★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(consumer-education "the key is the U — it's Universal"; reversible / 100W / 10Gbps; "USB-C is the future, everywhere"; PREDICTION "2nd-gen MacBook = more USB-C ports, quote me")_
 - 2015-03-23 — [[2015-03-23-yt-8syPkiANwYk|Giveaway: Samsung Galaxy S6 or HTC One M9! [Closed]]] · creator-business, consumer-tech-culture, smartphones _(low yield; spring-break biography note; S6/S6-Edge/M9 reviews in the works)_
 - 2015-03-28 — [[2015-03-28-yt-i4Zt3JZejbg|Virtual Reality: Explained!]] ★★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(content-ecosystem-decides-adoption — VR needs content like 3D-TV/4K did — BUT the "wow" first-demo factor 3D-TV lacked; VR-vs-AR distinction (HoloLens/Glass = AR); immersion; HTC Vive hands-on)_
+- 2015-04-01 — [[2015-04-01-yt-JDJDeuJbiKc|Logitech MX Master Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(production/gear — big-hands ergonomics, horizontal-scroll for the Premiere/AE timeline; "Magic Mouse = spawn of Satan"; student-who-edits; no-USB-C surprise)_
+- 2015-04-04 — [[2015-04-04-yt-sBO5RKq8PXc|Oxygen OS on the OnePlus One!]] · smartphones, consumer-tech-culture, tech-industry-commentary _(control-over-software — flashed it himself; near-stock Android 5.0.2, quick-settings customization; "most videos on one phone"; low yield)_
+- 2015-04-09 — [[2015-04-09-yt-5x6DELO6Sz4|HTC One M9 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("more megapixels doesn't equal better pictures" (terrible dynamic range); blame-the-hardware / wrong-sensor (Toshiba vs Sony); BoomSound king; Sense-7 turnaround; if-it-ain't-broke)_
+- 2015-04-22 — [[2015-04-22-yt-Mhvv2-iCKao|Samsung Galaxy S6 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(best-Android-camera (tied w/ iPhone 6+, edge for 4K); TouchWiz FINALLY fast — the performance turnaround; best display; top-5-slipperiest; control-over-software as coping)_
+- 2015-04-24 — [[2015-04-24-yt-WjUebpBA2AE|Chromebook Pixel 2 Review!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(Halo-product — "target demographic almost nothing, but that's okay"; fell-in-love-with-hardware-despite-narrow-function; USB-C done right (dual ports); knock-for-battery)_
+- 2015-04-28 — [[2015-04-28-yt-lpwa5iYOjU8|LG G4 Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(removable-battery + microSD "a rare breed… maybe one of the last major flagships with both"; camera talk-vs-walk skepticism (DSLR-replacement claim); top-5 Quantum display; decorative leather seam)_
+- 2015-05-03 — [[2015-05-03-yt-Ws9KAQS02Yo|Samsung Galaxy S6 Edge Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(impressions ≠ review — verdict TEMPERED after living with it: the curve costs grip, "feels too thin", $100 for mostly aesthetics; edge features nice-not-essential; glare/distortion)_
+- 2015-05-11 — [[2015-05-11-yt-Qfd8nck5cP4|Five (More) Facts About Me! (Graduation!)]] ★★ · creator-business, consumer-tech-culture, content-strategy _(BIOGRAPHY LANDMARK — FULL-TIME YouTuber (May 2015, graduated college); the MKBHD name + "what's up guys" catchphrase origin; cord-cutter / NBA-Clippers; the NY Rumble ultimate-frisbee update (Hammerheads defunct); hates the cold)_
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
 - 2015-12-19 — [[2015-12-19-yt-UBuVR8_Mybw|Smartphone Awards: 2015!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -828,4 +836,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_785 videos ingested (L2) so far._
+_793 videos ingested (L2) so far._

@@ -4,6 +4,32 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Apr 1–May 11, 8/8 ingested (GRADUATION → full-time YouTuber + the S6/M9 full reviews)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 785→**793 L2**.
+
+**Biography landmark.** `Five (More) Facts About Me! (Graduation!)` (05-11) ★★ — "**the first video I'm
+making as a full-time YouTuber**": he finished his senior year and goes **full-time on YouTube (May 2015)**.
+Also the **MKBHD name + "what's up guys" catchphrase origin** (crunched down from a long intro sentence),
+**cord-cutter** (3 years no cable; bought a subscription just for the NBA Playoffs — "let's go Clippers"),
+the **NY Rumble** ultimate-frisbee update (the NJ Hammerheads folded), and **"I hate the cold"** (foreshadows
+a future move). Restates "even if I'm never first — I already know that."
+
+**Doctrine anchors.** `HTC One M9 Review!` (04-09) ★ — "**more megapixels ≠ better pictures**" (terrible
+dynamic range) + **blame-the-hardware / know-the-sensor** (a random Toshiba sensor vs the tried-and-true
+Sony); BoomSound "is king"; the **Sense-7 turnaround** (credit where earned). `Samsung Galaxy S6 Review!`
+(04-22) ★ — **best camera in any Android phone (tied with the iPhone 6 Plus)**; **TouchWiz finally fast**;
+best display; top-5-slipperiest. `Chromebook Pixel 2 Review!` (04-24) ★ — the **Halo-product** doctrine
+("target demographic almost nothing, but that's okay… fell in love with the hardware") + USB-C done right.
+
+**Reinforcing.** `Galaxy S6 Edge Review!` (05-03) ★ — **impressions ≠ review**: the verdict cools after
+living with it (the curve costs grip, "feels too thin," $100 for mostly aesthetics). `LG G4 Impressions!`
+(04-28) ★ — removable-battery + microSD "a rare breed"; camera talk-vs-walk skepticism. `Logitech MX
+Master Review!` (04-01) ★ — production/gear (horizontal-scroll for the Premiere timeline; "Magic Mouse =
+spawn of Satan"). `Oxygen OS on the OnePlus One!` (04-04) — control-over-software (flashed it himself).
+
+Synthesis notes: net-new for the next checkpoint — (1) the **GRADUATION → full-time-YouTuber (May 2015)** milestone + the MKBHD-name/"what's up guys" origin + NY-Rumble/hates-the-cold/cord-cutter biography → biography; (2) **more-megapixels≠better-pictures + blame-the-hardware/know-the-sensor** (M9) → beliefs; (3) **best-Android-camera tied-with-iPhone + TouchWiz-finally-fast** (S6) + **Sense-7 turnaround** (credit-where-earned) → tech-reviews; (4) **Halo-product** restated (Chromebook Pixel 2) → beliefs; (5) minor: impressions≠review-tempered (S6 Edge), removable-battery-rare + talk-vs-walk (G4), horizontal-scroll-editing (MX Master). All ★-flagged inline; do not inline-promote (1 batch since synthesis pass 12).
+
 ## [2026-07-23] lint | synthesis pass 12 — May 2014 → Mar 2015 (713→785 L2): the anti-thinness peak, the ecosystem-decides-adoption thesis, 2M subscribers, and the RED/4K studio
 
 Stage S. Drained the nine-batch debt accumulated since pass 11 (713→785 L2), covering **May 2014 → Mar
