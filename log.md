@@ -4,6 +4,35 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Jun 3–Jul 1, 8/8 ingested (WWDC 2017 + the iMac-Pro "trap" + the 140TB studio + "copy the good stuff")
+
+Stage B. Ingested June 2017 to L2 (944→952): the **Tesla Project Loveday** entry, the **WWDC 2017** recap,
+**iMac Pro: Is It A Trap?**, the **iOS 11** Top-5, **140 TB with Linus**, the **iPad Pro 2017** review, the
+**OnePlus 5** review, and the **HTC U11**. All 8 Marques-fronted → persona-eligible; captions clean; no dups,
+no skips. **Two special-handling sources**: the Tesla Loveday entry is MUSIC-ONLY (no verbatim — a light
+biography/EV marker only), and the Linus collab is MIXED-attribution (Linus GUEST-quarantined). Ledger
+@mkbhd now 711 open (P2:673, P3:38); L2=952, L3=0. (Debt now 5 batches since pass 14.)
+
+Synthesis notes (for pass 15) —
+**(1) BUYING-LOGIC — the iMac-Pro "trap."** A model essay: a stunning, **non-upgradeable** workstation
+shipping *six months before* Apple's promised modular Mac Pro, aimed at people who (by their own past choice)
+will want the modular Mac Pro instead — "the people who chose the Mac Pro over the iMac will choose the new
+Mac Pro over the iMac Pro again." Plus **flag-your-own-bias** honesty ("maybe I'm not learning my lesson from
+the trash-can Mac Pro, but I really want one"). **(2) "If you're going to copy, copy the good stuff"**
+(OnePlus 5) — a durable, principled copying stance ("copy the iPhone's camera, don't copy Siri"); + the
+**small-company advantage (listen to your fanbase) / disadvantage (no bezel-less tech)** framing (ancestor of
+the Nothing small-OEM thesis) + **"it has to feel good more than it has to look good."** **(3) The gimmick-
+vs-useful test applied to a headline feature** (HTC U11 Edge Sense squeeze — earns its keep only with the
+right calibration) + the U-Ultra "poor use of space" redemption callback. **(4) BIOGRAPHY/PRODUCTION — the
+full footage-management evolution** (140TB with Linus): delete-everything → keep-all-raw-8K, "future-proof for
+YouTube 2025/2030"; the 48TB Pegasus → 140TB Storinator studio backbone. **(5) ProMotion 120Hz = "a whole
+layer of butter"** (iPad Pro; "I really hope this comes to the next iPhone") + the tablet-as-a-real-computer
+thread (iOS 11). **(6) The impressions-vs-use 180° reversal** (iOS 11 Control Center) — a clean substance-
+over-first-impressions example. **(7) HomePod beats Sonos + Alexa** (first listen) + smartwatch-ambivalence
+(WWDC). Minor: "specs aren't everything but here they are" / optimization-beats-raw-capacity (U11); the
+find-the-underrated-announcement instinct (ProMotion). Next synthesis checkpoint (pass 15) at ~5 more batches
+or the next era boundary.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Apr 25–May 26, 8/8 ingested (THE FIRST BLIND CAMERA TEST + Google I/O 2017 + Dear Twitter)
 
 Stage B. Ingested spring 2017 to L2 (936→944): the **first Blind Camera Test**, the **Android O** Top-5, the
