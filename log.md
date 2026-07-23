@@ -4,6 +4,40 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Oct 26–Nov 22, 8/8 ingested (the Pixel review "favorite camera" + interviewing Apple's Federighi + the bezel-less "future")
+
+Stage B. Ingested late-2016 to L2 (896→904): the **Xiaomi Mi Mix**, the **Craig Federighi interview**, the
+**13" MacBook Pro 2016**, the **Jaybird X3**, the **Google Pixel review**, the **Google NYC popup store**,
+the **OnePlus 3T**, and the **Tesla App** (Apollo #3). All 8 Marques-fronted; captions clean; no dups, no
+skips. **One MIXED-attribution source**: the Federighi interview — Craig Federighi's answers are
+GUEST-quarantined (context only, never persona data); only Marques's own framing trains the persona.
+Ledger @mkbhd now 759 open (P2:721, P3:38); L2=904, L3=0.
+
+Synthesis notes: strong persona-grade material for the next checkpoint (pass 14, now imminent) —
+**(1) "I LOVE companies that take crazy design gambles"** (Xiaomi Mi Mix) — a full-throated statement of
+the pro-bold-design / anti-"phones are boring" value: "the easy route for an unknown company is to clone
+the iPhone; this crazy gamble, actually meant to be sold — I love it. I'm glad it exists." **(2) BIOGRAPHY
+— the origin laptop**: in the Federighi interview he says (his own words) **"I started my YouTube channel
+on this laptop, the HP Pavilion DV7"** — a concrete origin-of-the-channel hardware detail (pairs with the
+2009 Droid = first-review node). Also: interviewing a top Apple exec = his rising industry access.
+**(3) THE PIXEL REVIEW — several persona-grade beats**: the thesis **"a phone you have to actually USE to
+understand how good it is"** (substance-over-first-impressions); the five-pillars framework applied in
+full; **"my new favorite camera in any smartphone" — and processing (HDR+), not the sensor, is why**; the
+**blind-test-on-Twitter** (Pixel vs iPhone 7 Plus) — an ancestor of the annual Blind Camera Test; "the
+boring-design-but-best-experience" verdict; and source-critical caution on the "software fixes lens flare"
+claim. **(4) The fill-with-battery doctrine restated as a personal crusade** (OnePlus 3T): "I've been
+preaching about this — make the battery as big as possible even if the phone's a little thicker." Plus
+"OnePlus picks up where Nexus left off" and an anti-planned-obsolescence defense of the OnePlus 3.
+**(5) "I agree about the future, but this is the present"** (USB-C, 13" MBP) — the nuanced future-vs-now
+framing; the MagSafe + glowing-logo lament; the "poop webcam" gripe persisting onto a Pro; the **15" Touch
+Bar = his next editing machine** (production intent). **(6) Software-critic-even-of-favorites** (Tesla App:
+"hey Elon, this update is overdue") + the **charge-to-85–90% battery-health habit** (ownership detail) +
+Summon. **(7) Producer's-eye**: reviews the Google popup STORE (A−) by its lighting ("the LED beam doubles
+as a softbox"). Minor: "matte black wherever I can get it" + athlete self-ID (Jaybird X3); Google Photos
+"low-key one of Google's best products." Debt now 8 batches since pass 13 — **pass 14 checkpoint due next
+iteration (or at ~2 more batches). Next iteration will likely run Stage S (synthesis pass 14) over the
+785→~910 material** unless an era boundary triggers it sooner.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Sep 23–Oct 22, 8/8 ingested (he BUYS a Tesla "Apollo" + the Note 7 recall RETRACTION + the Pixel / Assistant-passes-Siri)
 
 Stage B. Ingested late-2016 to L2 (888→896): the **Tesla P100D "Apollo"** impressions + options two-parter,
