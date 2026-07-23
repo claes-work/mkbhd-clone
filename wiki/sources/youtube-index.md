@@ -603,6 +603,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-06-02 — [[2014-06-02-yt-Btr8uOU0BkI|The Problem with Phone Cases!]] ★★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(LANDMARK no-cases doctrine; specs-converge → design-is-how-you-pick → skins-not-cases; shout-out to dbrand/DecalGirl/SlickWraps; Otterbox only if real protection needed)_
 - 2014-06-04 — [[2014-06-04-yt-lXPvnhNcMs0|iOS 8 Features & Impressions!]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(copying-goes-both-ways stated flat; Continuity/SMS-sync/3rd-party-keyboards; "removing bricks from the Walled Garden" = Apple opening up; HealthKit "something wearable" hint reinforces Apple-Watch prediction)_
 - 2014-06-07 — [[2014-06-07-yt-yAyR_YHEZ_c|LG G3 QHD Display Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(canonical pixel-density-vs-viewing-distance / retina-effect; "north of 300 ppi you can't discern pixels"; the display diminishing-returns question "why bother with QHD?")_
+- 2014-06-11 — [[2014-06-11-yt-BOOa1wZhkzY|Samsung Galaxy Note 4 Hype!]] · smartphones, tech-industry-commentary, consumer-tech-culture _(spec-speculation hype; storage-pricing critique "doubling storage doesn't cost $100" = consumer-education/value; thin-bezel wish; mid-yield)_
+- 2014-06-19 — [[2014-06-19-yt-6trOg2IK2Zg|Amazon Fire Phone: Explained!]] ★ · tech-industry-commentary, smartphones, consumer-tech-culture _(landmark commentary — "should have made an app, not a phone"; not-everyone-has-to-make-a-phone (Facebook/HTC First); form-factor economics; judge-by-real-purpose; predicts no v2 = CORRECT)_
+- 2014-06-19 — [[2014-06-19-yt-7QH1qFd24bY|LG G3 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(full review; answers the QHD diminishing-returns Q — NO battery/perf penalty; laser AF loved; thermal-throttle con; "one of the best phones of 2014, if not the best" w/ taste-disclosure self-correction)_
+- 2014-06-26 — [[2014-06-26-yt-yBWNZTYPbzA|LG G Watch Hands-on Impressions!]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(Google IO 2014; the ANDROID WEAR ARRIVAL; "Google Now + your notification center on your wrist, that's basically all it does"; Pebble-should-be-concerned read)_
+- 2014-06-27 — [[2014-06-27-yt-U13DF7R-iuw|Moto 360 Impressions!]] ★ · consumer-tech-culture, tech-reviews, tech-industry-commentary _(Google IO 2014; "best looking thing unveiled"; circular-premium vs square-industrial design contrast; design-as-the-reason-a-wearable-succeeds)_
+- 2014-06-28 — [[2014-06-28-yt-y9ue7TNpxS0|Top 5 Best Android L Features!]] · smartphones, consumer-tech-culture, tech-industry-commentary _(Android L dev preview; Material Design headline = animation-as-usability/60fps "most important change"; mid-yield)_
+- 2014-07-02 — [[2014-07-02-yt-TmikWdsrz_U|LG G3 Mass Giveaway! [CLOSED]]] · creator-business, content-strategy, consumer-tech-culture _(75-unit giveaway, Unbox Therapy cross-channel collab; low yield; creator-business scale datum; Lou = collaborator/context)_
+- 2014-07-04 — [[2014-07-04-yt-W8BfirN9z94|MKBHD Edition Macbook Pro! (Colorware Custom)]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews _(red+black brand identity ON HARDWARE — matte black + cherry-red hinge + backlit machine-cut MKBHD logo; understated-by-choice; source-critical durability caveat; appearance datum)_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -764,4 +772,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_721 videos ingested (L2) so far._
+_729 videos ingested (L2) so far._

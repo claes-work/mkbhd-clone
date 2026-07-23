@@ -4,6 +4,41 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Jun 11–Jul 4, 8/8 ingested (the ANDROID WEAR arrival + the "Fire Phone should've been an app" verdict + the Colorware MKBHD MacBook)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 721→**729 L2**.
+
+**Wearable-thesis payoff — Android Wear arrives.** From Google I/O 2014: `LG G Watch Hands-on` (06-26)
+★ and `Moto 360 Impressions` (06-27) ★ are the concrete arrival of **Android Wear**, the real-world
+instantiation of the pass-11 first-gen-wearable thesis. The honest first-gen framing: "**Google Now and
+your Android notification center on your wrist — that's basically all it does**" (G Watch). The Moto 360
+("easily the best looking thing unveiled") yields a durable design contrast — **LG/Samsung went square
+for "industrial/durable," Motorola went circular for a "premium experience"** → design-as-the-reason-a-
+wearable-succeeds. Competitive read: "if I was Pebble right now I'd be very concerned."
+
+**Industry-commentary landmark.** `Amazon Fire Phone: Explained!` (06-19) ★ — "**Amazon probably should
+have made an app**," not a $650 AT&T-exclusive phone: every feature but Dynamic Perspective already
+existed (Shazam/Google Goggles/Google Now), and "**not everyone has to make a phone**" (the Facebook/HTC
+First precedent). A canonical **judge-by-real-purpose / form-factor-economics** verdict, plus a **correct
+prediction** (no version two — the Fire Phone was discontinued in 2015).
+
+**Appearance landmark.** `MKBHD Edition Macbook Pro! (Colorware Custom)` (07-04) ★ — the red-and-black
+brand identity rendered **on hardware**: a matte-("tuxedo")-black MacBook with a **cherry-red hinge
+accent** and a machine-cut, **backlit MKBHD logo** replacing Apple's. "You guys already know I like red
+and black." Understated *by choice* (bright red is "cool for a week"), and source-critical about its own
+paint durability.
+
+**Reinforcing / lower yield.** `LG G3 Review!` (06-19) ★ — the full review answers the QHD
+diminishing-returns question with evidence (**no battery/perf penalty**), loves the laser AF, dings a
+thermal throttle, and updates a stated position ("I might have left the G3 off my best-of list… now it's
+one of the best of the year") with a disclosed prior bias. `Galaxy Note 4 Hype!` (06-11) — spec
+speculation + the **storage-pricing critique** ("doubling storage doesn't cost $100"). `Top 5 Android L
+Features!` (06-28) — **Material Design** as animation-as-usability (60 fps). `LG G3 Mass Giveaway!`
+(07-02) — 75-unit Unbox-Therapy cross-channel collab, creator-business scale datum (Lou = collaborator/
+context, quarantined).
+
+Synthesis notes: net-new for the next checkpoint — (1) the **Android Wear arrival** (G Watch + Moto 360) as the concrete instantiation of the wearable thesis, with the **circular-premium vs square-industrial** design contrast; (2) the **Fire Phone "should've been an app" / not-everyone-has-to-make-a-phone / form-factor-economics** commentary (+ a correct no-v2 prediction for the ledger); (3) the **Colorware MKBHD MacBook** as red+black brand identity on hardware (appearance, extends the dbrand→painted-MacBook thread); (4) minor: the **storage-pricing critique** (consumer-education/value) and **Material Design animation-as-usability**. All ★-flagged inline; do not inline-promote (3 batches since pass 11, checkpoint at 10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 May 20–Jun 7, 8/8 ingested (the SETUP TOUR 2014 / RED-4K landmark + the no-cases doctrine + the QHD display doctrine)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 713→**721 L2**.
