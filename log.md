@@ -4,6 +4,32 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Mar 1–28, 8/8 ingested (the anti-thinness PEAK (New MacBook) + USB-C-is-the-future + VR content-decides-adoption)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 777→**785 L2**. The MWC-2015 / Galaxy-S6 season.
+
+**Anti-thinness landmark.** `The New Macbook Impressions!` (03-10) ★★ — the **peak statement of the
+anti-thinness thesis**: "too thin for normal batteries, too thin for any ports, too thin for a normal
+trackpad, even too thin for a backlit Apple logo," landing a clean **form-over-function** verdict —
+"people won't buy it for the power; they'll buy it for how pretty it looks, and then deal with all the
+adapters and sacrifices." Plus the Force-Touch "magic trick" and a first-gen-caveat.
+
+**Explainer landmarks.** `USB Type-C: Explained!` (03-13) ★★ — "the key to USB-C is the **U — it's
+Universal**"; reversible / 100 W / 10 Gbps; "USB-C is the future — it's going to be everywhere," with a
+**dated prediction** ("the 2nd-gen MacBook will have more than one USB-C port — quote me"). `Virtual
+Reality: Explained!` (03-28) ★★ — the **content-ecosystem-decides-adoption** thesis (VR needs content
+like 3D-TV/4K did) tempered by the "wow" first-demo factor 3D-TV lacked, plus a clean **VR-vs-AR**
+distinction (HoloLens/Glass = AR).
+
+**Flagship impressions.** `Samsung Galaxy S6 Impressions!` (03-01) ★ — real metal + glass; **look-vs-hold**
+("best-feeling Samsung in a while"); the smoothest QHD phone despite TouchWiz. `Samsung Galaxy S6 Edge
+Impressions!` (03-01) ★ — the edge display "from a weird experiment to a full-fledged flagship" (he'd
+pick the Edge). `HTC One M9 Impressions!` (03-03) ★ — incremental-in-the-best-way; keeps BoomSound +
+microSD; the 20 MP camera to pixel-peep. `Dot View 2 Case` (03-07) — a no-cases exception. `Giveaway`
+(03-23) — spring-break note.
+
+Synthesis notes: net-new for the next checkpoint — (1) the **anti-thinness PEAK + form-over-function** (New MacBook: thinness forces a cascade of sacrifices) → beliefs; (2) **USB-C-is-the-future** consumer-education + a dated prediction → tech-industry-commentary/predictions ledger; (3) the **content-ecosystem-decides-adoption** thesis + **VR-vs-AR** distinction (VR Explained) → beliefs/tech-industry-commentary; (4) minor: look-vs-hold (S6), experiment-to-flagship (S6 Edge), incremental-refinement (M9), no-cases-exception (Dot View). All ★-flagged inline; do not inline-promote (9 batches / ~72 videos since pass 11 — driver counter reads 2; **Stage S checkpoint due NEXT batch** at ~10/~80).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Jan 20–Feb 24, 8/8 ingested (the 4K-adoption thesis + control-over-software purest + a Deadmau5 collab)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 769→**777 L2**.

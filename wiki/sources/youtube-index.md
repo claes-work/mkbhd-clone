@@ -661,6 +661,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2015-02-14 — [[2015-02-14-yt-KG9E5LaI8bk|Dell Venue 8 7000 Review!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(anti-thinness "thicker for battery" + champion-the-risk-taker "glad Dell took the risk, taking risks is good"; best-in-class OLED; source-critical (shipping damage); not first-choice)_
 - 2015-02-17 — [[2015-02-17-yt-3yoAj-PRsZ0|Audio Technica ATH-M70X Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(judge-by-purpose / audio-literacy — studio monitors flat-response vs M50x colored; mixes his own videos on them; know-your-domain; "don't believe in burning-in headphones")_
 - 2015-02-24 — [[2015-02-24-yt-UUBDiUy2824|OnePlus One & Cyanogenmod 12!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(PUREST control-over-software — "the beauty of Android: if you get impatient you can just go do it"; OnePlus/Cyanogen split → Oxygen OS; flashed CM12 + Franco kernel himself)_
+- 2015-03-01 — [[2015-03-01-yt-TtLHiiXyERA|Samsung Galaxy S6 Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(real metal + glass; look-vs-hold "best-feeling Samsung in a while"; QHD AMOLED likely best-display; TouchWiz cut-but-not-pretty yet smoothest-QHD; lost IP67/microSD)_
+- 2015-03-01 — [[2015-03-01-yt-KrxrzzTUPD8|Samsung Galaxy S6 Edge Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(edge display "from weird experiment to full-fledged flagship"; immersion; would-pick-the-Edge; innovation-worth-trying pays off)_
+- 2015-03-03 — [[2015-03-03-yt-QXF3tUfvuLU|HTC One M9 Impressions!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(incremental-in-the-best-way (M8s); BoomSound + Dolby; microSD (Samsung dropped it); 1080p is fine; 20MP no-OIS = the thing to pixel-peep; no-cases → skin)_
+- 2015-03-07 — [[2015-03-07-yt-2ircZoqveuA|Dot View 2 Case for HTC One M9!]] · smartphones, consumer-tech-culture, tech-reviews _(a no-cases EXCEPTION — interesting first-party accessory; improved magnets/hinge; low yield)_
+- 2015-03-10 — [[2015-03-10-yt-GttoIyB_lEQ|The New Macbook Impressions!]] ★★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(anti-thinness PEAK — "too thin for batteries / ports / trackpad / logo"; form-over-function "buy it for how pretty, deal with the adapters"; Force-Touch magic-trick; first-gen-caveat; single USB-C)_
+- 2015-03-13 — [[2015-03-13-yt-ZrZISyPucMg|USB Type-C: Explained!]] ★★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(consumer-education "the key is the U — it's Universal"; reversible / 100W / 10Gbps; "USB-C is the future, everywhere"; PREDICTION "2nd-gen MacBook = more USB-C ports, quote me")_
+- 2015-03-23 — [[2015-03-23-yt-8syPkiANwYk|Giveaway: Samsung Galaxy S6 or HTC One M9! [Closed]]] · creator-business, consumer-tech-culture, smartphones _(low yield; spring-break biography note; S6/S6-Edge/M9 reviews in the works)_
+- 2015-03-28 — [[2015-03-28-yt-i4Zt3JZejbg|Virtual Reality: Explained!]] ★★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(content-ecosystem-decides-adoption — VR needs content like 3D-TV/4K did — BUT the "wow" first-demo factor 3D-TV lacked; VR-vs-AR distinction (HoloLens/Glass = AR); immersion; HTC Vive hands-on)_
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
 - 2015-12-19 — [[2015-12-19-yt-UBuVR8_Mybw|Smartphone Awards: 2015!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -820,4 +828,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_777 videos ingested (L2) so far._
+_785 videos ingested (L2) so far._
