@@ -636,6 +636,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-10-18 — [[2014-10-18-yt-opVgMDtBecA|Sharp Aquos Crystal - Bezelless Smartphone!]] ★ · smartphones, consumer-tech-culture, tech-industry-commentary _(champion-the-risk-taker "I'm glad it exists" even if it won't sell / isn't for me; screen-vibration earpiece; Harman-Kardon = Beats-EQ callback; grade-on-tier)_
 - 2014-10-20 — [[2014-10-20-yt-Wwp9eaVVW_8|Apple iPhone 6+ Review!]] ★ · smartphones, tech-reviews, production-filmmaking _(his iPhone of choice; OIS hardware > software "low-light beast", best photo/video from any phone (pixel-peeper); no-cases → dbrand; buy-by-your-priorities; battery champ; calm BendGate coda)_
 - 2014-10-25 — [[2014-10-25-yt-hoQKLOrAU4E|Samsung Galaxy Note 4 Review!]] · smartphones, tech-reviews, consumer-tech-culture _(daily driver 2wk; Samsung-build turnaround confirmed; QHD AMOLED "the only display that still impresses me every time"; hardware-ahead-of-content; control-over-software swap-the-launcher)_
+- 2014-10-28 — [[2014-10-28-yt-pEDQ1z1-PvU|Android 5.0 Lollipop Feature Review!]] · smartphones, consumer-tech-culture, tech-industry-commentary _(material-design / animations-as-usability; screen-pinning / DND / Smart-Lock; priority-mode-for-sleep habit)_
+- 2014-11-02 — [[2014-11-02-yt-YyrUBJQmUGs|GoPro Hero 4: Being a Dog in 4K!]] · production-filmmaking, consumer-tech-culture, creator-business _(off-format creative/production experiment; his dog Mac; low review-yield; biography note)_
+- 2014-11-05 — [[2014-11-05-yt-W-QoakKxTjg|Google Nexus 9 Unboxing + Hands On!]] · smartphones, tech-reviews, consumer-tech-culture _(honest first-impressions — squishy back, shallow buttons; metal band; front-facing speakers; best tablet haptics)_
+- 2014-11-05 — [[2014-11-05-yt-7h-R73VTXXQ|Google Nexus 6 Unboxing + Hands On!]] · smartphones, tech-reviews, consumer-tech-culture _("really big Moto X running stock Android"; size comparisons; Turbo Charger; setup for the full review)_
+- 2014-11-11 — [[2014-11-11-yt-DqVPbEcWtA0|Apple iPad Air 2 Review!]] ★ · tech-reviews, consumer-tech-culture, tech-industry-commentary _(mature-category iteration-slowdown / review-by-deltas; laminated display; anti-thinness (battery-for-thinness, hedged "haven't noticed"); tablet-is-a-blown-up-phone / software-wastes-the-hardware)_
+- 2014-11-12 — [[2014-11-12-yt-lMGggUDolRI|The Dream Smartphone! (2014)]] ★★ · smartphones, consumer-tech-culture, tech-reviews _(crystallized ideal-phone priorities — front-facing speakers, anti-thinness/big-battery, "screen size is not phone size", pure stock Android, image-processing-over-sharpening, no-gimmicks-but-must-work; Verge production collab = context)_
+- 2014-11-15 — [[2014-11-15-yt-RoAPTdvgAJg|Google Nexus 6 Review!]] ★ · smartphones, tech-reviews, tech-industry-commentary _("big Moto X on stock Android"; anti-benchmark "benchmarks higher ≠ performs better"; grade-on-a-curve (battery C+/B+); fair-to-fixable; camera most-improved; stock-purist buy; daily driver)_
+- 2014-11-20 — [[2014-11-20-yt-aEDJkbSJKP0|MKBHD Update 10.3!]] ★ · creator-business, consumer-tech-culture, smartphones _(biography — hand surgery "16 stitches, a plate, six screws"; ~2 MILLION subscribers (Nov 2014); Reddit AMA; student crunch; Colorware durability holding up; gear mini-verdicts)_
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
@@ -796,4 +804,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_753 videos ingested (L2) so far._
+_761 videos ingested (L2) so far._

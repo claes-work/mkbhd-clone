@@ -4,6 +4,34 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Oct 28–Nov 20, 8/8 ingested (the DREAM SMARTPHONE ideal-phone priorities + the Nexus 6 review + ~2M subscribers)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 753→**761 L2**.
+
+**Persona landmark — the ideal-phone priorities.** `The Dream Smartphone! (2014)` (11-12) ★★ crystallizes
+what Marques actually values in a phone: **front-facing speakers, anti-thinness / a big battery ("phones
+getting thinner at the expense of battery — I'm not a fan of that trend"), "screen size is not phone
+size," pure stock Android, image-processing-over-sharpening, and a no-gimmicks-but-if-it's-there-it-must-
+work ethic.** (Produced with The Verge's video team, whose animations are quarantined as a production
+collaborator; all picks/opinions are Marques's.)
+
+**Doctrine anchors.** `Google Nexus 6 Review!` (11-15) ★ — clean anchors for **anti-benchmark**
+("benchmarks higher ≠ performs better"), **grade-on-a-curve** (explicit battery grade: C+ absolute / B+
+among QHD phones), and **fair-to-fixable** ("I tend to be less harsh on things fixable with software
+updates"); stock-Android-purist buy; his daily driver. `Apple iPad Air 2 Review!` (11-11) ★ — the
+**mature-category iteration-slowdown** (review-by-deltas) + **tablet-is-a-blown-up-phone / software-wastes-
+the-hardware** + anti-thinness honestly hedged ("haven't noticed the difference").
+
+**Biography landmark.** `MKBHD Update 10.3!` (11-20) ★ — hand **surgery** ("16 stitches, a plate, and six
+screws") and **~2 million subscribers (Nov 2014)**; a top-100 Reddit AMA; the Colorware MacBook paint
+holding up.
+
+**Reinforcing / lower yield.** `Android 5.0 Lollipop Feature Review!` (10-28) — animations-as-usability.
+`GoPro Hero 4: Being a Dog in 4K!` (11-02) — an off-format creative experiment (dog: Mac). `Nexus 9` +
+`Nexus 6` unboxings (11-05) — honest first-impressions preceding the full reviews.
+
+Synthesis notes: net-new for the next checkpoint — (1) the **Dream Smartphone ideal-phone priorities** (a compact map of his phone values: front-facing speakers, anti-thinness/big-battery, "screen size is not phone size", pure stock Android, image-processing-over-sharpening, no-gimmicks-but-must-work) → beliefs; (2) **anti-benchmark / grade-on-a-curve / fair-to-fixable** stated cleanly (Nexus 6) → beliefs; (3) **biography**: hand surgery + **~2M subscribers (Nov 2014)** → biography; (4) **mature-category iteration-slowdown / tablet-is-a-blown-up-phone** (iPad Air 2) → beliefs; (5) minor: animations-as-usability, dog Mac / GoPro creative-experiment. All ★-flagged inline; do not inline-promote (6 batches / ~48 videos since pass 11 — driver counter reads 2; **Stage S checkpoint due in ~4 more batches** at ~10/~100).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 Sep 26–Oct 25, 8/8 ingested (the 2014 flagship full reviews — iPhone 6/6+, Note 4 + the broken-hand "best-not-first" ethic)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 745→**753 L2**. The 2014 flagship-review season.
