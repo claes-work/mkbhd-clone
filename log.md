@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Jan 5–Feb 11, 8/8 ingested (2017 begins: CES autonomy + the camera lineage + the long-term-review format)
+
+Stage B. First batch of the 2017 era, to L2 (912→920): the **Self-Driving Mercedes** (CES), the **Faraday
+Future FF91** (CES), **What's on my Phone 2017**, **My First YouTube Camera**, the **iPhone 7: 4 Months
+Later**, **Top 5 Future Smartphone Features**, the **LG UltraFine 5K** review, and the **Tesla App v3.0**.
+All 8 solo/Marques-fronted → persona-eligible; captions clean; no dups, no skips. Ledger @mkbhd now 743 open
+(P2:705, P3:38); L2=920, L3=0. (Post-pass-14; debt now 1 batch.)
+
+Synthesis notes (for pass 15) —
+**(1) BIOGRAPHY — the complete camera lineage** (My First YouTube Camera): Sanyo Xacti CG10 (first YouTube
+camera) → Canon T2i (first DSLR) → 60D → 5D Mark II → C100 (the college apartment) → RED Scarlet → RED Epic
+(6K) → RED Weapon Helium (8K). **(2) The definitive creator advice — "start with what you have."** "It's not
+about the equipment — start making videos with what you have now, and the rest will come. Get out there and
+create"; "I use the RED because I love it, but for most people it's overkill." A cornerstone of his creator-
+business philosophy + the separate-my-bias trait. **(3) The long-term-review format** (iPhone 7: 4 Months
+Later): "the honeymoon's over… you really get to know it best" — plus the **taptic engine = "the best
+vibration motor in any smartphone, period"** (an underrated-detail call, cf. good-buttons) and **anti-thin
+credited — "thank you Apple, keep doing that"** (same size, bigger battery). **(4) Rate-concepts-by-
+feasibility teach-the-mechanism** (Top 5 Future Features): bezel-less 8/10, wireless-charging 7/10 + the
+**portless-wireless-iPhone thesis**, flexible 4/10 & graphene 2/10 with physics debunks. **(5) Whole-field
+autonomy read** (Mercedes): "everyone's working on self-driving, not just Tesla"; maps+sensors vs sensors-
+only; the demo's map-turn fails (source-critical); "will people trust it?" **(6) "I'm glad someone's trying"
+— EV-startup optimism** balanced with **show-car-vs-working-prototype skepticism** (FF91) — the ancestor of
+the 2026 "paperware until it ships" balance. **(7) The segmented "it depends who you are" verdict** (LG 5K)
+— name the buyer buckets; report flaws honestly (charging-drains-while-editing, router flicker; credits
+Dave2D). **(8) BIOGRAPHY — growing smart-home** (Nest thermostats+cameras, Philips Hue everywhere, Google
+Home) + stability-over-novelty ("I find what I like and go all in"). **(9) update-in-public (good direction)**
+— the Tesla power-steering arc RESOLVES ("it's been perfect since then"). Next synthesis checkpoint (pass 15)
+at ~10 batches or the next era boundary.
+
 ## [2026-07-23] lint | synthesis pass 14 — Mar 2016 → Dec 2016 (857→912 L2): the frameworks get their canonical tests, he buys a Tesla, and the critiques flatten out
 
 Stage S. Drained the seven-batch debt accumulated since pass 13 (857→912 L2), covering **Mar 2016 → Dec
