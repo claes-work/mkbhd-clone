@@ -4,6 +4,30 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Dec 12–2016 Jan 23, 8/8 ingested (MOVING OUT + the Canon→RED camera journey + the iPhone-7-no-jack read + a Kobe interview)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 841→**849 L2**. Crosses into 2016.
+
+**Biography landmarks.** `MKBHD Update 12.0: Moving Out!` (2016-01-01) ★★ — he's **moving out of the 4-year
+apartment/studio** (the Setup-Tour room; "I no longer go to school up here"), **3 million subscribers**, a
+YouTube Rewind 2015 cameo. `RED Raven Impressions: 4.5K!` (01-10) ★★ — the **camera-journey origin**:
+all-Canon (T2i → 60D → 5D → C100) → rented a **RED Scarlet for 4 days** → the crispiness + dynamic range +
+**the white-balance slider in Premiere** → switched to the RED ecosystem (his "Team Crispy" look).
+
+**Commentary landmark.** `iPhone 7 with no Headphone Jack?!` (01-23) ★★ — a **teach-the-mechanism /
+understand-Apple's-logic** read, months before the jack was removed: the jack is "the grandfather of legacy
+I/O," **it's not about thinness** (the iPod Touch is thinner and keeps it), it's about fitting more, and
+**Apple sacrifices legacy for progress** (the 30-pin → Lightning precedent) with digital-port upside.
+
+**Reinforcing.** `State of 4K: Early 2016!` (01-20) ★ — the 4K-adoption thesis with **data** (only 0.11%
+watch in 4K; record-easy / display-getting-there). `Tech of the Year: Tablets!` (12-17) ★ — tablets-want-
+to-be-laptops; the **Surface Pro 4 = the real laptop replacement**. `Talking Tech with Kobe Bryant!`
+(12-15) ★ — an **interview** (Kobe quarantined; `attribution: uncertain`), with a biography note (ultimate
+frisbee / soccer cleats). `Grado SR80e` (12-12) ★ — budget open-back + champion-the-underrated. `Pick Your
+Smartphone Giveaway` (12-20) — the 3M-subs celebration (low yield).
+
+Synthesis notes: net-new for the next checkpoint — (1) **biography**: MOVING OUT of the 4-year apartment/studio + 3M subscribers (end-2015) + Rewind cameo (Moving Out) → biography; (2) **production/biography**: the Canon→RED camera-journey origin (the RED Scarlet rental / white-balance-slider moment) → production-filmmaking/biography; (3) the **iPhone-7-no-jack** teach-the-mechanism read (legacy-I/O-dies, not-about-thinness, Apple-sacrifices-legacy-for-progress) → tech-industry-commentary; (4) minor: 4K-thesis-with-data, tablets-want-to-be-laptops/Surface=real-laptop, Kobe-interview biography (ultimate frisbee — guest-gated), champion-the-underrated (Grado). All ★-flagged inline; do not inline-promote (8 batches / ~64 videos since synthesis pass 12 — Stage S checkpoint due in ~2 more). Attribution: the Kobe interview is guest-gated — Kobe's statements (incl. "tech as a crutch") are context, not persona data.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Nov 13–Dec 9, 8/8 ingested (the camera-methodology explainer + the YouTube Gear franchise debut)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 833→**841 L2**.
