@@ -757,6 +757,13 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2016-05-30 — [[2016-05-30-yt-GiNSOLpC1-Y|Jaybird Freedom: Best Wireless Earbuds?]] · audio-headphones, tech-reviews _(battery-honesty callout — "not fair to call this 8-hour, it's 4h"; app-tuned firmware EQ that follows the buds; anti-churn "you don't need to upgrade good headphones")_
 - 2016-06-03 — [[2016-06-03-yt-96PJdbJysxQ|Modular Smartphones: Explained!]] ★★ · smartphones, tech-industry-commentary _("modular tech is usually the best kind of tech"; Phonebloks→Ara→G5 "barely modular, 25%"; follow-the-incentives realism; the environmental/anti-e-waste arg)_
 - 2016-06-06 — [[2016-06-06-yt-juzeLmUMjv0|The Rugged Galaxy S7 Active!]] ★ · smartphones, tech-reviews _(built-like-a-tank "a case built into the phone"; 4,000 mAh fill-with-battery/"people just need battery"; the carrier-exclusivity-buries-great-products critique (AT&T))_
+- 2016-06-14 — [[2016-06-14-yt-Hew1t8XZbPs|Top 5 Apple WWDC 2016 Recap!]] ★ · tech-industry-commentary, laptops-computers _(first time attending a WWDC; THESIS "Apple is a hardware company first"; ML-is-the-real-story / Apple-plays-catch-up-in-software; candidly abandoned 3D Touch)_
+- 2016-06-24 — [[2016-06-24-yt-yD2iHEW09wk|Batman Edition Galaxy S7 Edge!]] · smartphones, consumer-tech-culture _(unboxing #396/1000 giveaway; "murdered out"; likes that Samsung keeps doing superhero editions; a rare "it actually stands out" note)_
+- 2016-06-30 — [[2016-06-30-yt-DAxj9CjczXw|Bose QC35: Best Noise Cancelling Headphones?]] · audio-headphones, tech-reviews _(4-axis NC rubric; personal daily driver, red/black; sound "good but nothing spectacular"; good-battery = one you forget about; NC is Bose's core competency)_
+- 2016-07-12 — [[2016-07-12-yt-AeuIE0gTYgg|Daily Tech: Mid 2016!]] ★★ · production-filmmaking, consumer-tech-culture, creator-business _(GEAR/BIO goldmine — the two-SIM daily-driver system, why an iPhone always rides secondary, the black 15" MBP + 2013 trash-can Mac Pro editing rigs, the lens-mount bracelet, "Mac Pro is overdue"; resp to Mr Mobile)_
+- 2016-07-15 — [[2016-07-15-yt-iaUW8Cn8fc0|Moto Z Impressions!]] ★ · smartphones, tech-reviews _("you don't buy a phone just because it's pretty / impressions ≠ verdict"; "pulled an Apple before Apple" — jack removal skepticism ahead of the iPhone 7; Moto Mods intro; Verizon-exclusive gripe)_
+- 2016-07-19 — [[2016-07-19-yt-OvyzimtwCdU|The DROID DOES Throwback!]] ★★ · smartphones, tech-industry-commentary, creator-business _(BIOGRAPHY — the 2009 Droid was his FIRST-EVER review (~2-yr daily driver); "measure phones by what's wrong with them" restated; the megapixel-myth origin (2009); the classic-phones-retrospective seed)_
+- 2016-07-29 — [[2016-07-29-yt-yXYZQFTs8h0|Moto Z/Force Review!]] ★★ · smartphones, tech-reviews _("I HATE carrier exclusives"; Moto Mods = "the best execution of a smartphone mod I've ever seen" — modification, not modular; "the first camera hump with a purpose"; Motorola's perennial camera weakness; the "million-dollar idea" DAC-mod aside)_
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
 - 2015-11-03 — [[2015-11-03-yt-YuHD9h5gTS4|Dope Tech #2: Customs!]] ★ · consumer-tech-culture, tech-reviews, production-filmmaking
 - 2015-12-19 — [[2015-12-19-yt-UBuVR8_Mybw|Smartphone Awards: 2015!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -916,4 +923,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_873 videos ingested (L2) so far._
+_880 videos ingested (L2) so far._

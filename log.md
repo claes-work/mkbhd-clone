@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Jun 14–Jul 29, 7/8 ingested + 1 skip (the biography roots surface: his FIRST-EVER review + the two-SIM daily-driver system + "I hate carrier exclusives")
+
+Stage B. Ingested summer 2016 to L2 (873→880): the **WWDC 2016** recap, the **Batman S7 Edge** unboxing,
+the **Bose QC35**, **Daily Tech: Mid 2016**, the **Moto Z** impressions + **Moto Z/Force** review, and
+**The DROID DOES Throwback**. 7/8 solo/Marques-fronted → persona-eligible. **1 SKIP**: the **OnePlus 3
+Review (yt-ycIpOZY03OM)** came back with garbled auto-translated captions (no clean English track) —
+marked `skipped`, `notes: garbled-captions`, flagged RE-FETCH CANDIDATE. Its content is partially
+captured anyway via the Daily-Tech + Moto-Z-review daily-driver mentions. Ledger @mkbhd now 783 open
+(P2:745, P3:38); L2=880, L3=0.
+
+Synthesis notes: high-value biography + belief material for the next checkpoint (pass 14) —
+**(1) BIOGRAPHY — the origin of the review channel**: "this Droid is the FIRST thing I ever reviewed… I
+used it every day for two-plus years" (the 2009 Motorola Droid, DROID DOES throwback). **(2) BIOGRAPHY /
+WORKFLOW — the two-SIM daily-driver system stated definitively** (Daily Tech): main AT&T SIM = the number
+everyone has, secondary AT&T SIM = whatever he's testing; a phone he loves gets "promoted" to the main
+SIM, the iPhone falls back to secondary — "the iPhone tends to be better with camera apps that aren't the
+camera app (Snapchat/Instagram/Beme)." At this moment his main SIM is in a **OnePlus 3** (switched off the
+S7 Edge for the software). **(3) BIOGRAPHY/APPEARANCE — the editing rigs + the lens-mount bracelet**: the
+Colorware-black maxed 15" MacBook Pro (edits Final Cut on the go at I/O & WWDC) + the 2013 trash-can Mac
+Pro (8-core, 64 GB, dual D700), plus "Mac Pro is overdue for a refresh"; the wrist band that's a Canon-EF-
+lens-mount-sized bracelet. **(4) "I hate carrier exclusives"** — the S7-Active critique crystallized into
+a flat statement of principle (Moto Z/Force). **(5) Moto Mods = "the best execution of a smartphone mod
+I've ever seen" — and it's "modification, not modular"** (extends the modular-explainer's "barely modular"
+G5 critique); plus "the first camera hump with a purpose." **(6) "Apple is a hardware company first"**
+thesis (WWDC), with the recurring ML-is-the-real-story / Apple-plays-catch-up-in-software read and a candid
+"I abandoned 3D Touch." **(7) "Measure phones by what's wrong with them" restated** + the **megapixel-myth
+origin dated to 2009**. **(8) "Pulled an Apple before Apple" / "you don't buy a phone just because it's
+pretty (impressions ≠ verdict)"** — jack-removal skepticism ahead of the iPhone 7. **(9) Motorola's
+perennial camera weakness** stated as fact; the "million-dollar idea" (a DAC+jack Moto Mod) playful-
+inventor voice beat. Minor: the 4-axis NC-headphone rubric + "good battery = one you forget about" (Bose);
+the red/black colorware identity reaffirmed. Debt now 5 batches since pass 13.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Apr 20–Jun 6, 8/8 ingested (the "Explained" format + the modular/carrier-exclusivity critiques + "good buttons")
 
 Stage B. Ingested late-spring 2016 to L2 (865→873): the **NextDesk** studio-gear review, the **2016
