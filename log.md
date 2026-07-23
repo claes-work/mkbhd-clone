@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 7) — 2017 Sep 11–Oct 9, 7/7 ingested (the iPhone X arrives + the Note-8 five-pillars + "skip this great phone")
+
+Stage B. Ingested fall 2017 to L2 (967→974): the **Xiaomi Mi Mix 2**, the **iPhone X** impressions, the
+**iPhone X Top-5 Questions**, the **iPhone 8** unboxing, the **Note 8** review, the **iPhone 8** review, and
+the **Google Home Mini**. 7/7 solo/Marques-fronted → persona-eligible; captions clean; no dups. **Batch note**:
+the driver again auto-marked an **Ask MKBHD Q&A** (V19, 2017-08-10) via its title-eyeball; I continue to
+leave it open — but the Ask-MKBHD Q&As are piling up as open (V19 08-10, V20 09-26, V21 10-18) and are
+persona-rich (personal/biography Q&A), so **next iteration I'll deliberately prepare a batch that includes
+them** rather than let the driver keep skipping them. Ledger @mkbhd now 687 open (P2:649, P3:38); L2=974,
+L3=0. (Debt now 8 batches since pass 14.)
+
+Synthesis notes (for pass 15) —
+**(1) LANDMARK — the iPhone X, the decade-defining redesign.** The notch handled (clock/battery in the "ears,"
+flipping black/white; apps fill around it for immersion); **Face ID replaces Touch ID**; **gesture navigation**
+(swipe up from the bottom = home — "that's what you get when you remove all the buttons"); dual OIS cameras +
+Portrait Lighting (front camera too) + Animoji; $1,000. Honest naming: **"iPhone 8 is definitely more iPhone
+7s — let's not get it twisted."** Realizes his OLED-iPhone + edge-to-edge predictions. **(2) The five-pillars
+applied + the "sixth category" refinement** (Note 8, "the best phone Samsung makes"): "it nails four of five
+pillars, falls a bit short on one, then makes up its own **sixth category** — not essential, but it's **what
+makes the Note the Note.**" Plus "Samsung has had the best industrial design for 2–3 years." **(3) A
+distinctive review discipline — "skip this great phone" / review-in-a-vacuum** (iPhone 8): "a really great
+phone… probably skip it, only because the X is better — but I'll review it in a vacuum as if we don't know
+that." **(4) "Nice, not first, but nice" — Apple mainstreams a standard** (Qi): "it doesn't have to be first
+to be nice… if the iPhone can make the Apple Watch the most popular watch, it can make Qi popular too." + the
+**"still 1080p IPS in 2017" display disappointment**. **(5) Source-critical / get-the-facts-before-dunking**
+(the on-stage Face-ID "fail" → Apple's official explanation) + the two-new-cycles strategy read. **(6) impact
+≠ sales / concept-brought-down-to-earth** (Mi Mix 2) + the Android-update-speed benchmark. **(7) "Price is
+the story" — cheap unlocks the category** (Google Home Mini $49) + the USB-C gripe + "blends into any room."
+Next synthesis checkpoint (pass 15) is now clearly due — **8 batches / ~62 sources since pass 14 (912→974),
+and the fall-2017 flagship era is wrapping** → planning **Stage S (pass 15)** once the iPhone-X-review / Pixel-2
+cluster and the pending Ask-MKBHD Q&As are ingested (aiming to synthesize the full 2017 era together).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 7) — 2017 Aug 4–Sep 1, 7/7 ingested (the Voice Assistant Battle + the Essential-vs-V30 foil + "year of the bezels")
 
 Stage B. Ingested Aug 2017 to L2 (960→967): the **Voice Assistant Battle 2017**, the **iPhone 8** dummy,
