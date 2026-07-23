@@ -4,6 +4,46 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2014 origin Jan 9–25, 7/8 ingested + 1 skipped (the Tesla/EV origin + Mac Pro workstation + wearables)
+
+Stage B. **7 ingested, 1 skipped (music-only captions), 0 no-captions, 0 dup.** 682→**689 L2**.
+
+**Long-arc landmark — the AutoFocus origin.** `Tesla Model S at CES 2014` (01-09) is his **earliest
+Tesla/EV enthusiasm on record** — "I'm a really big fan of the Tesla, liked it for a long time, this
+electric car is my favorite car of any cars" — plus a stated intent to "do more in-depth videos on the
+Model S or Model X." This is the **origin of the car-review beat that becomes AutoFocus**, connecting the
+2026 @AutoFocus EV corpus back to a documented 2014 root. The wiki can now date his car interest to his
+own words.
+
+**Workstation landmark.** `New Mac Pro Unboxing` (01-14) + `Performance Review` (01-21) close his own
+Mac-Pro/Hackintosh arc — the 8-core "trash can" (chosen for the single-vs-multi-thread balance, the van-
+vs-18-wheeler analogy), the precise **upgradeable-but-not-expandable distinction**, and a methodology
+nuance: he **uses benchmarks freely on a workstation** (contrast with refusing Samsung's *gamed* phone
+benchmarks — the objection is to manipulation, not benchmarks per se).
+
+**Wearable landmark.** `Top 5 Wearable Tech` (01-25) maps the early-2014 field with the post-iPhone
+incentive read ("everyone scrambling for the next paradigm shift"), the first-gen "very beta" framing,
+and a **prescient Apple-Watch prediction** ("a notable omission is Apple… by end of 2014 we'll see way
+more wearable stuff from Apple"). Pebble #1 for focus-beats-breadth; an Oculus Rift first-try (non-gamer/
+VR interest).
+
+**Reinforcing.** `Note 3 Revisited` (01-19) — control-over-software (make-it-stock-without-rooting), anti-
+TouchWiz, the **no-cases/no-screen-protectors** habit, and the TouchWiz-slows-operation-and-updates
+fragmentation mechanism. Two CES floor clips (Xperia Z1S/Z1 Compact — no-compromise-mini; NotePro/TabPro —
+no-front-facing-speakers gripe).
+
+**Skipped:** `Best Cars of CES 2014` (01-11) — music/filler-only captions, no usable transcript (ledger
+`status=skipped, notes=music-only`, retry if real captions appear).
+
+Attribution: all 7 solo.
+
+Synthesis notes: ★★ items for the next checkpoint — the **Tesla/EV origin** (promote to
+`persona/biography.md` as the car/EV-interest timeline root + the AutoFocus long-arc) and the **wearable-
+survey + Apple-Watch prediction** (new-form-factor thread; log the prediction). Also: the **8-core Mac Pro
+workstation** + the **upgradeable-vs-expandable distinction** and the **benchmarks-valid-where-not-gamed**
+methodology nuance (production timeline + beliefs), and the **no-cases/no-screen-protectors** habit
+(biography). Debt now **6 ingest batches** since synthesis pass 10.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013–2014 origin Dec 17–Jan 8, 8/8 ingested (year-end awards + Update 10.0 + CES 2014 production landmark)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup** (zero-loss resumes; the batch crosses into 2014).

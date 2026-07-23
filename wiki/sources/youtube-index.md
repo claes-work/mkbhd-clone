@@ -563,6 +563,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2014-01-04 — [[2014-01-04-yt-8L7d6_ZzyoU|MKBHD Update 10.0! (CES 2014)]] ★★ · content-strategy, creator-business, consumer-tech-culture _(MILESTONE — 102 videos / ~50M views in 2013, sixth year "a third of my life talking tech to a camera"; the CES highlight-reel / curate-the-best one-man-show philosophy; Google+-verified-not-Twitter)_
 - 2014-01-07 — [[2014-01-07-yt-dYmHFsH6E7g|CES 2014 Gear Bag Tour!]] ★★ · production-filmmaking, consumer-tech-culture, creator-business _(PRODUCTION-TIMELINE landmark — Canon C100 upgrade from the 5D Mark III; Sennheiser MKH416 shotgun; RX100 run-and-gun; 13" retina MacBook Pro + Adobe Premiere; 3-phone carry; lightweight-but-capable)_
 - 2014-01-08 — [[2014-01-08-yt-L6RW1KaNuL0|4K Cameras at CES 2014!]] ★ · production-filmmaking, consumer-tech-culture, tech-industry-commentary _(shooting-vs-displaying-4K content-scarcity; CES-floor-expensive-but-comes-down; production-gear literacy C500/1DC/FS700/4K-Handicam)_
+- 2014-01-09 — [[2014-01-09-yt-YGziBcgP93Y|Tesla Model S at CES 2014!]] ★★ · ev-cars, consumer-tech-culture, tech-industry-commentary _(LANDMARK — earliest Tesla/EV enthusiasm on record "my favorite car of any cars, liked it for a long time"; intent to do Tesla/Model-X videos = the AutoFocus car-beat ORIGIN / long-arc back to the 2026 EV corpus)_
+- 2014-01-09 — [[2014-01-09-yt-M8rSmmLNYUc|Sony Xperia Z1S & Z1 Compact at CES 2014!]] · smartphones, consumer-tech-culture, tech-industry-commentary _(no-compromise-mini endorsement — full flagship in a compact body; low yield)_
+- 2014-01-10 — [[2014-01-10-yt-BldsuTqsI1g|Samsung Galaxy NotePro & TabPro at CES 2014!]] · consumer-tech-culture, tech-reviews, smartphones _(no-front-facing-speakers gripe; high-pixel-density praise; four-way multitasking; KitKat-TouchWiz S5 preview; request-driven)_
+- 2014-01-11 — Best Cars of CES 2014! — _skipped: music/filler-only captions (no usable spoken transcript); retry if real captions appear_
+- 2014-01-14 — [[2014-01-14-yt-szd7M-Qi1MI|New Mac Pro Unboxing & Impressions!]] ★ · production-filmmaking, consumer-tech-culture, tech-reviews _(WORKSTATION — closes the Mac-Pro/Hackintosh arc; 8-core config; the upgradeable-but-not-expandable distinction; "a hell of a good-looking machine")_
+- 2014-01-19 — [[2014-01-19-yt-_ibTYAxssQw|Samsung Galaxy Note 3: Revisited!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(control-over-software make-it-stock-without-rooting; anti-TouchWiz; no-cases/no-screen-protectors habit; TouchWiz-slows-operation-and-updates fragmentation; wants CyanogenMod)_
+- 2014-01-21 — [[2014-01-21-yt-MVyA-T2lNNk|New Mac Pro Performance Review!]] ★ · production-filmmaking, tech-reviews, consumer-tech-culture _(8-core-vs-12-core single-vs-multi-thread balance, van-vs-18-wheeler; benchmarks-valid-where-not-gamed contrast with Note-3; project continuity; Adobe Premiere)_
+- 2014-01-25 — [[2014-01-25-yt-dYzlWWa8dCU|Top 5 Wearable Tech! (Early 2014)]] ★★ · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(LANDMARK wearable survey — post-iPhone incentive read; first-gen "very beta" framing; PRESCIENT Apple/Google-smartwatch-by-end-2014 prediction; Pebble #1 focus-beats-breadth; Oculus first-try non-gamer/VR)_
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
 - 2015-10-09 — [[2015-10-09-yt-cqybfPNbWBA|Dope Tech #1: Weapon!]] ★ · consumer-tech-culture, production-filmmaking, tech-reviews
@@ -724,4 +732,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_682 videos ingested (L2) so far._
+_689 videos ingested (L2) so far._
