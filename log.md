@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Mar 22–Apr 18, 8/8 ingested (the Galaxy S8 season + "Dear Samsung" + the Studio Tours series)
+
+Stage B. Ingested spring 2017 to L2 (928→936): the **Matte Black OnePlus 3T**, the **Casey Neistat Studio
+Tour**, the **Galaxy S8 impressions**, the **Nokia 3310** (April Fool's), **Dear Samsung**, the **Moto G5
+Plus**, the **Galaxy S8 review**, and **Bluetooth 5.0: Explained**. All 8 Marques-fronted → persona-eligible;
+captions clean; no dups, no skips. **Two special-handling sources**: the Casey Neistat tour is MIXED-
+attribution (Casey GUEST-quarantined; only Marques's framing trains the persona), and the Nokia 3310 is an
+April Fool's SATIRE (its verdict is a bit, not a real opinion — flagged on the page). Ledger @mkbhd now 727
+open (P2:689, P3:38); L2=936, L3=0. (Debt now 3 batches since pass 14.)
+
+Synthesis notes (for pass 15) —
+**(1) APPEARANCE/VALUES — the matte-black rationale unified**: "the best technology melts away and is in the
+background" ties his invisible-design value to matte black; "dark bezels are less distracting than white" —
+so matte black is the most stealthy/low-profile look (OnePlus 3T). **(2) BIOGRAPHY/PRODUCTION — he dropped
+the LG 5K, back to ASUS 4K** ("my favorite monitor ever, because I can completely ignore it") — resolves the
+LG-5K experiment. **(3) The "Studio Tours" series begins** (creator-business) — touring other creators'
+spaces; his three takeaways (label everything / trace every wire / light everything) are a self-portrait of
+his own craft values ("a bit of a perfectionist"). **(4) "Competition is good, but not when you're copying
+something and the product's already free"** (Dear Samsung, on Bixby) — a principled anti-redundant-copying
+stance; plus the escalating comedic-insult register (the first-party-case "Play-Doh bikini" riff) and the
+"Dear X" wishlist format ("Dear Apple seemingly worked — Mac Pro announced"). **(5) The bezel-less dream
+realized WITHOUT sacrifice** (S8 Infinity Display; the 8/10 concept shipped) + "Samsung picked their battles"
++ glad-they-take-risks (the Note-Edge-to-whole-lineup lineage; stands out in the all-phones-look-alike era).
+**(6) Bixby = "a swing and a miss"** and "I legit dislike" the fingerprint-by-the-camera placement (S8 review;
+best-display-in-a-smartphone restated; battery "played it safe" post-Note-7). **(7) "Build up, not cut down"**
++ "good phones cheap, cheap phones good" restated (Moto G5 Plus budget king; the budget-flagship tier
+drifting up). **(8) Teach-the-mechanism explainer craft** (Bluetooth 5.0: reduce-to-what-it-means + the
+highway analogy + dual-audio = "Sonos on any Bluetooth speaker"). **(9) VOICE/BIOGRAPHY (satire)** — the
+deadpan five-pillars Nokia bit + "before I owned any phones at all, my first smartphone was the Droid." Next
+synthesis checkpoint (pass 15) at ~7 more batches or the next era boundary.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2017 Feb 17–Mar 21, 8/8 ingested (the matte-black identity + "Dear Apple" + the "poor use of space" rant)
 
 Stage B. Ingested spring 2017 to L2 (920→928): the **State of 4K 2017 (in 8K)**, the **BeatsX**, the **LG
