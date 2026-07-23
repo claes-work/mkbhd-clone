@@ -498,6 +498,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-04-23 — [[2013-04-23-yt-rIRpK7KAfM0|Google Babel: Explained!]] ★ · consumer-tech-culture, tech-industry-commentary _(Google-fragmentation critique; personal-pain-point-as-content; iMessage availability comparison)_
 - 2013-05-01 — [[2013-05-01-yt-wXmzpFoHkfA|Samsung Galaxy S4 Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(downsized-Note-2 evidence-based read; best-all-around-camera; function-over-gimmick turned-features-off; is-it-worth-upgrade + updates-as-value)_
 - 2013-05-03 — [[2013-05-03-yt-KF75-HPdUfY|HTC One Review!]] ★ · smartphones, tech-reviews, production-filmmaking _(BoomSound best-media-experience; UltraPixel honest trade-off; no-daily-driver-anymore transition; quick-over-fast; recommend-to-anyone)_
+- 2013-05-08 — [[2013-05-08-yt-jpiPzgBJU9M|Samsung Galaxy S4 vs HTC One!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(decide-by-use-case comparison; flex-and-listen build test; plastic-vs-metal balanced; "interviewed the Samsung team" access; personal pick HTC One)_
+- 2013-05-11 — [[2013-05-11-yt-ZWKl-FeUApA|Motorola X-Phone Rumor Rant!]] ★ · tech-industry-commentary, consumer-tech-culture, content-strategy _(anti-entitlement "companies don't owe you"; enjoy-what-exists-over-hype; rumor-culture critique)_
+- 2013-05-16 — [[2013-05-16-yt-c74d5kqSEvo|Google Edition Galaxy S4: Explained!]] ★ · smartphones, tech-industry-commentary, consumer-tech-culture _(incentive-first "no incentive" dismissal; two-paths Nexus analysis; updates-straight-from-Google; stock-Android preference)_
+- 2013-05-17 — [[2013-05-17-yt-onldzSzdqlM|Top 10 Google I/O 2013 Announcements!]] · consumer-tech-culture, tech-industry-commentary, content-strategy _(international-availability critique; not-fully-baked caveat; endless-discovery music value; low yield)_
+- 2013-05-23 — [[2013-05-23-yt-Cdbn_pmxFic|Beats Audio: Explained!]] ★★ · consumer-tech-culture, production-filmmaking, tech-industry-commentary _(LANDMARK — "it's just an EQ" debunk; Best-Buy sales-trick exposé; "everyone's got an EQ, figure out yours"; consumer-education / anti-marketing-manipulation)_
+- 2013-05-27 — [[2013-05-27-yt-aYtAdCDOCfU|LG Optimus G Pro Review!]] ★ · smartphones, tech-reviews, consumer-tech-culture _("Note 2.5"; competition-drives-us-forward; change-to-improve-not-just-change; "so LG"; not-my-daily-driver)_
+- 2013-05-31 — [[2013-05-31-yt-BygqMgC3W10|Top 5 Most Overhyped Tech!]] ★ · consumer-tech-culture, tech-industry-commentary, content-strategy _(nuanced "hype is not always bad"; iPad overhyped-yet-successful; rumor-culture critique; Daft Punk RAM music-taste)_
+- 2013-06-04 — [[2013-06-04-yt-yR0ZGltMUTM|What's on my Android Phone 2013!]] ★ · consumer-tech-culture, content-strategy, production-filmmaking _(no-daily-driver explained — two phone lines Verizon+AT&T; standardized test-phone treatment; golf-app corroboration; "MKBHD on every network"; app stack)_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -660,4 +668,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_619 videos ingested (L2) so far._
+_627 videos ingested (L2) so far._

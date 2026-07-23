@@ -4,6 +4,46 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin May 8–Jun 4, 8/8 ingested (Beats-Audio consumer-education landmark + flagship comparisons + rumor-culture rants)
+
+Stage B. **Twenty-third consecutive clean batch, eighteenth zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 619→**627 L2**.
+
+**Beliefs landmark — consumer education / anti-marketing-manipulation.** `Beats Audio: Explained` (05-23)
+demystifies "Beats Audio" as **just an equalizer** with two profiles (on exaggerates bass+highs, off
+under-exaggerates them), then walks through the **Best Buy sales trick** that uses the on/off swing to
+sell a $500 premium, closing on the durable principle **"don't get tricked into buying something just
+because it has Beats Audio — everyone's got an EQ, figure out yours."** The definitive early statement of
+his Beats skepticism and his teach-people-so-they-can't-be-fooled ethic.
+
+**Method / beliefs (reinforcing).** `Galaxy S4 vs HTC One` (05-08) models his **decide-by-use-case**
+comparison (situational verdicts, not one winner) with a hands-on **flex-and-listen build test** and an
+**"I've interviewed the Samsung team"** access datum. `Motorola X-Phone Rumor Rant` (05-11) and
+`Top 5 Overhyped Tech` (05-31) are a paired **rumor-culture / anti-entitlement** critique ("companies
+don't owe us something… that's exactly what I get pissed about"; "hype is not always a bad thing").
+`Google Edition Galaxy S4 Explained` (05-16) shows **incentive-first reasoning** (dismissed the rumor for
+"no incentive," candid it surprised him) + a two-paths Nexus analysis. `LG Optimus G Pro Review` (05-27)
+restates **competition-drives-us-forward** and change-to-improve-not-just-to-change.
+
+**Biography.** `What's on my Android 2013` (06-04) explains the **"I don't really have a daily driver"**
+fact in detail — **two phone lines (Verizon + a Straight Talk/AT&T line) because he reviews phones**,
+Verizon being the number people know — plus a standardized "basic treatment" app-suite for every test
+phone, a golf-app corroboration, and "my name on every social network is MKBHD." `Top 10 Google I/O 2013`
+(05-17) is a low-yield event recap.
+
+Attribution: all 8 solo. Ravenscraft (Android Police), Russell Holly, and Daft Punk are cited as
+sources/context, not co-speakers.
+
+Synthesis notes: ★★ beliefs to promote at the next checkpoint — the **Beats-Audio "it's just an EQ" +
+Best-Buy-sales-trick + "everyone's got an EQ, figure out yours"** consumer-education statement (promote to
+`persona/beliefs.md` as the canonical early Beats-skepticism / teach-to-empower node; extends the Droid
+DNA "Beats is just an EQ" note and the Beats-Pro-fashion critique). Also promotable: the **anti-
+entitlement / enjoy-what-exists-over-hype** stance (X-phone rant + Overhyped Tech), the **decide-by-use-
+case** comparison method, and the **two-phone-line / no-daily-driver reviewer setup** (biography — pairs
+with the HTC One review note). Debt now **7 ingest batches** since synthesis pass 9 (checkpoint at 10 —
+pass 10 in ~3 batches; note the accumulated biography debt from the Five-Facts batch + this one warrants a
+system-prompt recompile at that checkpoint). Debt trail continues.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Apr 5–May 3, 8/8 ingested (the "Five Facts About Me" biography drop + Galaxy S4 & HTC One flagship reviews)
 
 Stage B. **Twenty-second consecutive clean batch, seventeenth zero-loss**: 8 ingested, 0 skipped,
