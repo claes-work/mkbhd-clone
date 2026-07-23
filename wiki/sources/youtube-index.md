@@ -466,6 +466,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2013-01-03 — [[2013-01-03-yt-YginQUkrJ50|Samsung Galaxy Note 2: Revisited!]] ★ · smartphones, tech-reviews, consumer-tech-culture _(daily driver 2 months + most popular review ever; "stay geeky my friends")_
 - 2013-01-07 — [[2013-01-07-yt-tRyEYlvb66I|NVIDIA Project SHIELD at CES 2013!]] ★★ · consumer-tech-culture, tech-industry-commentary, smartphones _(LANDMARK biography: FIRST CES attendance)_
 - 2013-01-09 — [[2013-01-09-yt-SEXiPc3q1tg|Huawei Ascend Mate Size Comparison at CES 2013!]] · smartphones, consumer-tech-culture, tech-industry-commentary _(CES 2013 floor clip; big-phone interest)_
+- 2013-01-10 — [[2013-01-10-yt-HVL6Kwk8IOA|Sony Xperia Z at CES 2013!]] · smartphones, consumer-tech-culture, tech-industry-commentary _(CES hands-on; design-aesthetic datum, "handsome phone")_
+- 2013-01-12 — [[2013-01-12-yt-NSWOvw5N4nU|Top 5 Ubuntu Phone Features: Explained!]] · consumer-tech-culture, tech-industry-commentary, smartphones _(convergence/phone-as-desktop; ranks OS by settings toggles)_
+- 2013-01-16 — [[2013-01-16-yt-9qf3OmxwmhM|CES 2013 Highlights!]] ★★ · consumer-tech-culture, creator-business, production-filmmaking _(one-man show; Nvidia/Mobile Nations funded trip; Blue Spark 1yr; "it helped to be tall")_
+- 2013-01-18 — [[2013-01-18-yt-mVLyd9_czWE|4K Video: Explained!]] ★★ · production-filmmaking, consumer-tech-culture, tech-industry-commentary _(viewing-distance/PPI framework; price+content barriers; adoption-curve prediction)_
+- 2013-01-20 — [[2013-01-20-yt-K9CNsBCmrNg|Hackintosh Pro Project! [Part 2: The Parts]]] · production-filmmaking, consumer-tech-culture, creator-business _(overkill-over-underkill; expansion doctrine; Premiere+AE rig)_
+- 2013-01-23 — [[2013-01-23-yt-Rd89JLYsoOI|Hackintosh Pro Project! [Part 3: The Build]]] · production-filmmaking, consumer-tech-culture, creator-business _("my OCD kicks in" neatness; silent build; inverted-Stormtrooper aesthetic)_
+- 2013-01-27 — [[2013-01-27-yt-N4fpYnzqHEM|Hackintosh Pro Project! [Part 4: The OSX Install]]] · production-filmmaking, consumer-tech-culture, creator-business _(credits sources by name; rebooted 40x; first-install-Chrome; daily driver)_
+- 2013-02-02 — [[2013-02-02-yt-Wm4jH01Sluc|Hackintosh Pro Project! [Part 5: The Finale!]]] ★★ · production-filmmaking, consumer-tech-culture, creator-business _(definitive 2013 workstation+desk setup; build-vs-buy case; "Legos for adults")_
 - 2013-10-12 — [[2013-10-12-yt-uBEaG6n0XDs|Apple iPhone 5s Review!]] ★ · smartphones, tech-reviews
 - 2014-08-31 — [[2014-08-31-yt-ZsxQxS0AdBY|The Truth About Beats by Dre!]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews
 - 2014-12-08 — [[2014-12-08-yt-f6pPIG3EvAs|Smartphone Awards: 2014!]] ★ · smartphones, tech-reviews, consumer-tech-culture
@@ -628,4 +636,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_587 videos ingested (L2) so far._
+_595 videos ingested (L2) so far._

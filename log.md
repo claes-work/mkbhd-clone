@@ -4,6 +4,47 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2013 origin Jan 10–Feb 2, 8/8 ingested (CES-2013 wrap + the 5-part Hackintosh Pro build)
+
+Stage B. **Nineteenth consecutive clean batch, fourteenth zero-loss**: 8 ingested, 0 skipped,
+0 no-captions, 0 dup. 587→**595 L2**. The CES-2013 arc's tail (Xperia Z, CES highlights reel, 4K
+Explained) plus the complete **5-part Hackintosh Pro build series** (parts 2–5; part 1 landed in the
+prior batch).
+
+**Biography + creator-business landmarks.** `CES 2013 Highlights` (01-16) states the 2013 operation
+scale outright — he covered CES as a **"one-man show"** and the trip was **Nvidia/Mobile-Nations
+funded** ("made this trip possible"), the earliest clear instance of the access/sponsor side of the
+creator business; confirms the **Blue Spark** mic as his 1+-year audio chain; and drops an offhand
+height self-reference ("it helped to be tall") for the ~6'2"–6'3" reconciliation thread. The
+**Hackintosh Pro finale** (02-02) is the definitive early-2013 **workstation + full desk tour**
+(i7-3930K OC 4.35 GHz, GTX 670, 3× Vertex-4 RAID-0/Win8 dual-boot, Dell 3007WFP 2560×1600 + 20"
+portrait, FiiO E10 DAC → iK-Audio monitors + ATH-M50, Apple wired keyboard + Magic Trackpad) and lays
+out the four-part **build-vs-buy case** (upgradeability + I/O + graphics-freedom + price-per-spec).
+
+**Method / beliefs.** `4K Video: Explained` (01-18) restates the **viewing-distance → required-PPI**
+framework with numbers and the **price + content = two adoption barriers** model, plus a broadly-correct
+CES-floor-to-living-room diffusion prediction. The Hackintosh parts add dated production doctrines —
+**"overkill is better than underkill,"** expansion/upgradeability as the reason to build over buying,
+the **"my OCD kicks in" neatness**, the **silence-for-recording** priority, the **"inverted
+Stormtrooper" black-and-white studio aesthetic** (earliest matched-look sighting), and a
+**credit-your-sources / point-to-the-experts** ethic (names Yifan and Rob/CPU-Kid). `Top 5 Ubuntu Phone
+Features` (01-12) adds the **convergence / phone-as-desktop** fascination and OS-ranked-by-settings-
+toggles control value.
+
+Attribution: all 8 solo (Ubuntu video cites Jono Bacon as a source; CES reel links Austin/Duncan33303
+as a peer; the finale credits Dave Dugdale for "Legos for adults" — all context, not co-speakers).
+Caption-brand uncertainties flagged in-page (`iK Audio` monitor brand; `Yifan` source name).
+
+Synthesis notes: several ★★ items for the next checkpoint — the **CES-2013 one-man-show + sponsor-funded
+trip** and the **definitive early-2013 workstation/desk setup** (promote to `persona/biography.md`;
+reconcile the workstation record against the 2012 Setup-Tour page and confirm the Blue Spark date); the
+**4K viewing-distance framework + adoption-barriers model** and the **CES-floor diffusion prediction**
+(supporting citations for the display-doctrine + technology-adoption threads; log the 4K prediction in
+the beliefs predictions-ledger); the **build-vs-buy / upgradeability doctrine at full length** and
+**"overkill over underkill"** (production-values beliefs); and the **"inverted Stormtrooper" matched
+studio aesthetic** (earliest `persona/appearance.md` sighting of the studio look). Debt now **3 ingest
+batches** since synthesis pass 9 (checkpoint at 10).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2012–2013 origin Dec 17–Jan 9, 8/8 ingested (crosses into 2013 + first CES)
 
 Stage B. **Eighteenth consecutive clean batch, thirteenth zero-loss**: 8 ingested, 0 skipped,
