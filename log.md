@@ -4,6 +4,30 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2016 Jan 29–Mar 2, 8/8 ingested (the anti-thin plea VINDICATED (S7) + the tablets-are-a-niche thesis)
+
+Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 849→**857 L2**.
+
+**Doctrine payoff.** `Samsung Galaxy S7 & S7 Edge Impressions!` (02-22) ★★ — his **anti-thin / fill-with-
+battery plea VINDICATED**: "can we all just take a second to appreciate that Samsung made their new phone
+1 mm thicker to accommodate a larger battery? Thank you Samsung — I haven't been preaching to a brick wall."
+A satisfying bookend to the OnePlus 2 "dear every manufacturer" plea. `Are Tablets Dead?` (02-04) ★★ — the
+canonical **"tablets aren't dead, they're a niche"** thesis (convergence + long upgrade cycle + feature
+stagnation, with sales data: 24M → 16M, −20%).
+
+**Franchise / ev-cars.** `YouTube Gear #2 | Carbon Slider!` (01-29) ★ — the iFootage Shark Slider behind his
+signature moving shots (used since 2013). `Top 5 Upcoming Tech: 2016!` (02-07) ★ — **4K OLED = "the best TV
+I've ever seen"** (OLED-is-the-future culminating) + the **Tesla Model 3 as "the EV for the masses /
+endgame"** (an early affordable-EV thesis, a decade before the 2026 "affordable EV that doesn't suck"
+through-line).
+
+**Reinforcing.** `What's on my Smartphone 2016!` (02-21) ★ — his **two-SIM review workflow** + **first year
+not a full-time student** (biography). `AKG K702` (02-17) ★ — reference monitors judged-as-such + red-and-
+black. `Nextbit Robin` (02-27) ★ — champion-the-risk-taker (cloud storage). `Top 5 Overpriced Tech Pt 2`
+(03-02) ★ — value/consumer-education ("$6,000 phone = the Beats of smartphones") + a new-studio note.
+
+Synthesis notes: net-new for the next checkpoint — (1) the **anti-thin plea VINDICATED** (S7 went 1mm thicker for battery — the payoff of his standing campaign) → beliefs; (2) the canonical **"tablets are a niche, not dead"** thesis → tech-industry-commentary; (3) **4K-OLED=best-TV** + the **Tesla Model 3 EV-for-the-masses/endgame** thesis → beliefs/ev-cars; (4) the **two-SIM review workflow** + first-year-not-a-student biography → creator-business/biography; (5) minor: the slider gear, reference-monitors/red-and-black (AKG), champion-the-risk-taker (Nextbit), value/consumer-education (overpriced tech). All ★-flagged inline; do not inline-promote (9 batches / ~72 videos since synthesis pass 12 — **Stage S checkpoint due NEXT batch** at ~10/~80).
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 8) — 2015 Dec 12–2016 Jan 23, 8/8 ingested (MOVING OUT + the Canon→RED camera journey + the iPhone-7-no-jack read + a Kobe interview)
 
 Stage B. **8 ingested, 0 skipped, 0 no-captions, 0 dup.** 841→**849 L2**. Crosses into 2016.
