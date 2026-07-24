@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Jan 12 → Jan 27, 7 ingested + 1 L1 (into 2021: the enthusiast-brand theory, the S21 trio, and "the only real Pro phone")
+
+Stage B. First 2021 batch — ingested the Jan-2021 wave to L2 (1236→**1243**): **What Happened to OnePlus?** (★★),
+**Galaxy S21 Ultra Impressions** (★), **Galaxy S21 Impressions** (★), **Huge Apple 2021 Rumor Reactions** (★, Mark
+Gurman rumors quarantined), **Galaxy S21 Ultra Review** (★★), **The Invisible Selfie Camera** (★, ZTE Axon 20), and
+**The Only REAL 'Pro' Smartphone** (★★, Sony Xperia PRO). **L1 (no-captions): Xiaomi Mi 11** (yt-_fqxMZi7P7U) —
+driver-marked, RE-FETCH. All 7 ingested are solo/Marques-fronted → persona-eligible (the Apple-rumors video
+quarantines Gurman's reporting — attribution: mixed; the ZTE video has a Ridge Wallet sponsored outro, flagged).
+Ledger @mkbhd now ~391 open (P2:~356, P3:35); L2=1243, L3=0. (Post-pass-19; debt ~1 batch since the high-water at
+1236 — pass-20 due at ~10 batches or the end-of-2021 era boundary.)
+
+Synthesis notes (for pass 20, at the 2021 boundary): (1) the landmark **enthusiast-brand theory** (What Happened
+to OnePlus): **"you either die a hero or live long enough to see yourself become the villain"** + enthusiast brands
+inevitably disappoint (go mainstream OR stay niche and die) + **"don't be a fanboy — be a fan of the products
+themselves"** + the **BBK/Oppo/Vivo/Realme** structural fact (a lot of OnePlus phones are Oppo phones). (2) the
+**S21 trio**: **no-charger-in-the-box confirmed** ("the iPhone 12 was a huge domino" — his 2020 prediction lands);
+**"an update, but not an upgrade"** (the S21's feature regressions — microSD gone, glass→plastic, 1440p→1080p —
+even as the lower price is a good move); the **off-the-spec-sheet-intangibles** thesis + **"it feels like an MKBHD
+Edition phone" / "the phone I'd have made"** + the **two-telephoto (3x+10x) zoom logic** + **ultrawide-does-macro
+(no padded macro cam)** + natural-vs-bright-selfies (S21 Ultra review); the S-Pen-optional / Note-not-dead
+prediction. (3) **"the only phone that deserves 'pro'"** (Sony Xperia PRO): "pro is a marketing word" on most
+phones; **"when you make something no one else makes, who's to say it's overpriced?"** (pricing-of-the-unique);
+the narrowest demographic ever (~30 NFL-sideline photographers) — the **"why people don't buy Sony" thesis** taken
+to the extreme. (4) **"we need companies like ZTE to take the tech risk (Samsung/Apple would never ship this)"** +
+the **under-display-improvement-curve** + the **camera-privacy concern** (cameras you can't see). (5) Apple 2021
+reactions (Gurman quarantined): the **M1-GPU-ceiling** (the Intel 16" still beats it), **MagSafe-returns + RIP-
+Touch-Bar = "going backwards to the 2015 MacBook Pro"**, the **small-Apple-silicon-Mac-Pro** excitement, and the
+creator asides (HDR workflow; "matte black laptops, bring them back"). Biography: **ICONS is back permanently** (+
+the "Silicon" colorway). None inline-promoted (L2 only).
+
 ## [2026-07-24] lint | synthesis pass 19 — the 2020 era (L2 1153→1236, ~83 sources): "the Apple way," the mid-range-tier thesis, the foldables arc, and the "Dear Electric Cars" EV manifesto
 
 Stage S. Ran synthesis pass 19 over the whole 2020 corpus (high-water **1153 → 1236**; the 2020 era complete —
