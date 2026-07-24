@@ -4,6 +4,41 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2019 Feb 1 → Feb 24, 7/8 ingested + 1 garbled-L1 (What's on my Tech 2019 + via Twitter for iPhone + Apollo is Back)
+
+Stage B (first batch post-pass-17). Ingested early 2019 to L2 (1073→**1080**): **Sony WH1000XM3 Review**, **The
+Samsung Galaxy S10 Model**, **What's on my Tech 2019**, **via Twitter for iPhone**, **Apollo is Back**, **Galaxy
+S10E Impressions**, and **LG G8 Impressions**. All 7 solo/Marques-fronted → persona-eligible; captions clean. **1
+garbled-caption L1** (see below). Ledger @mkbhd now 573 open (P2:538, P3:35); L2=1080, L3=0. (Post-pass-17; debt
+now 1 batch / 7 sources.)
+
+⚠️ **Garbled-caption L1:** **Foldable Phones Aren't Ready (Yet)** (yt-iLA1XLO8p1A, 2019-01-28) has **ASR-gibberish
+captions** (unusable — the 3-reasons structure (tech/software/use-case) isn't extractable) → marked **L1**, partly
+superseded by the clean Nov-2018 foldable explainer; ledger-flagged to RE-FETCH if clean captions appear.
+
+Synthesis notes (for pass 18) —
+**(1) MEDIA LITERACY — "celebrity endorsements shouldn't mean much"** (via Twitter for iPhone): "the Twitter
+police" — brand ambassadors tweeting ads for one phone **from a competing phone** (Gal Gadot's Huawei ads from an
+iPhone; Anushka Sharma/Pixel; official Samsung/Razer/Huawei accounts; Steph Curry/Palm; the classic Oprah-Surface-
+from-an-iPad). The point: **celebrities don't really use the products; in tech it's too easy to get caught being
+inauthentic.** Self-implicating: "if you ever catch me doing it, slap me." **(2) BIOGRAPHY — the Apollo repair saga**
+(Apollo is Back): the 3-month Tesla repair timeline (Nov 16 crash → Feb 13 pickup; trucker 100% at fault, **$49k of
+repairs, $0 to him**); the lesson — **a certified body shop with parts IN STOCK is the key** (Tesla ships parts
+notoriously slowly, 3–9 months); "**I really do like the electric car experience more**" (auto-off; wake-up-charged).
+**(3) BIOGRAPHY/PRODUCTION — the 2019 tech ecosystem** (What's on my Tech 2019): the two-phone system (**Pixel 3 XL
+primary + iPhone XS Max**; "**the Pixel's camera is what's keeping me here**" — the OnePlus 6T is the better
+performer); the app suite (TickTick, **Sky Guide "the best AR app period"**, Waze); the **Apple-Watch ring
+obsession**; the **iPad-over-MacBook** shift + the can't-split-the-keyboard typing gripe; and the **studio storage
+backbone** — an **80 TB Promise Pegasus + a 120 TB LumaForge Jellyfish NAS** ("how multiple people work on the same
+Final Cut project at once") + the modular-Mac-for-dual-monitors want. **(4) Sony WH-1000XM3 = the new ANC king**
+(the Bose→Surface→Sony switch; the sound/ANC/comfort/features framework; the **multi-device-seamless-switching**
+wish; the cold-weather bug). **(5) Samsung S10 lineup** — "the last year Samsung keeps the headphone jack"; the
+**S10e = the iPhone-XR parallel, "the one most people should get to save money"** (dual-not-triple — "most rarely
+use the telephoto"); the super-wide-selfie-camera enthusiasm. **(6) LG G8** — the **"change for the sake of change /
+if it ain't broke"** design principle; **Crystal Sound OLED** (the screen as earpiece → the screen-as-stereo-
+speaker wish); **Air Motion = a gimmick** ("you can open apps, but then what? voice assistants already do more").
+Next synthesis checkpoint (pass 18) at ~10 batches or the end of 2019.
+
 ## [2026-07-24] lint | synthesis pass 17 — the second half of 2018 → early 2019 (1034→1073 L2): the review lenses mature (Blind Test, vertical integration, hardware-held-back-by-software), the EV/platform frameworks sharpen, and the 2018 era closes
 
 Stage S. Drained the **H2-2018 → early-2019 debt** (1034→1073 L2, ~40 sources across 6 ingest batches; the 2018
