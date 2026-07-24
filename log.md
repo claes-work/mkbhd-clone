@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Mar 19 → Apr 12, 5 ingested + 1 skip + 2 L1 ("I was right" (inside-fold), "Why Did LG Phones Really Die?", and the world's-largest sensor)
+
+Stage B. Ingested the Mar–Apr-2021 wave to L2 (1250→**1255**): **Huawei Mate X2 Impressions: I Was Right!** (★),
+**OnePlus 9 Review: Sneaky Value!** (★), **Why Did LG Phones Really Die?** (★★), **The Ultimate Gaming Phone**
+(★, Lenovo Legion Duel 2), and **The World's Largest Smartphone Camera** (★★, Xiaomi Mi 11 Ultra). **Skipped: The
+Best Mac I've Ever Reviewed** (yt-TP4VQTUbypM) — an **April Fools joke video** (a comedy "review" of a dog named
+"Mac"); per the skip-joke-videos rule (persona note: his humor register + the April-Fools tradition, no L2 page).
+**L1 (no-captions): OnePlus 9 Pro Review** (yt-8eNNJESKjrE) and **Top 5 Mercedes EQS Features** (yt-wUqZQTp_gpI) —
+both driver-marked, RE-FETCH. All 5 ingested are solo/Marques-fronted → persona-eligible. Ledger @mkbhd now ~377
+open (P2:~342, P3:35); L2=1255, L3=0. (Post-pass-19; debt ~3 batches since the high-water at 1236 — pass-20 due at
+~10 batches or the end-of-2021 era boundary.)
+
+Synthesis notes (for pass 20, at the 2021 boundary): (1) landmark **"Why Did LG Phones Really Die?"**: **"LG died
+a hero"** + its **low-key-influential first-of-its-kind legacy** (capacitive touch, dual-core, dual-camera, tap-to-
+wake, QHD, ultrawide, 18:9, triple-focal-lengths) + **they couldn't SELL them** (bad naming "ThinQ", "washer-and-
+dryer" marketing) + the promotable **innovation-vs-recommendation distinction** (crediting a new idea ≠ recommending
+the package) + the **innovation paradox** (unproven = useful-to-the-fewest) + the structural **"no money-maker to
+subsidize a risk-taking line"** (Samsung/Xiaomi/Vivo contrast) + **"innovation needs stability"** + **"losing a
+competitor is an L for all of us"** (pro-competition). (2) **foldables**: the **Mate X2 "I was right"** — the
+inside-fold validated his outer-fold-is-the-wrong-path call; the crystallized **folding-endgame thesis** ("make the
+fold just another feature — remove the caveats; price near a regular phone"); the **wedge-design center-of-gravity**
+rationale. (3) the **useless-2MP-monochrome-camera "waste of money, change my mind"** (OnePlus 9) — the anti-padded-
+camera stance sharpened; **"sneaky value" / not-a-blanket-recommend / it's-about-your-priorities**. (4) camera
+physics (Mi 11 Ultra): **near-1-inch sensor + the big-sensor look (shallow DoF, night light-gathering beats the
+iPhone) BUT glass-still-matters**; **"120x is the novelty drawer"**; the **reverse-shutter-lag**; the **seeing-vs-
+using distinction**. (5) the **"this is for the phones-are-boring people" / try-weird-stuff-to-land-on-a-great-idea**
+pro-experiment value + the **haptic-motor-quality obsession** (dual haptic motors = strongest vibration) + **"not
+for me, but I'm glad they made it."** Biography: the **LG Voyager was his first smartphone** (started the channel
+with it); **Retro Tech Season 2** now dropping (daily). None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Jan 29 → Mar 13, 7 ingested + 1 skip (Dogecoin explained, "nothing is confirmed until Apple goes on stage," and the feature-vs-gimmick microscope)
 
 Stage B. Ingested the Feb–Mar-2021 wave to L2 (1243→**1250**): **Galaxy S21 Review: Would You Notice?** (★),
