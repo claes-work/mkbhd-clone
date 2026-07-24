@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Jan 15 → Feb 12, 6 ingested + 2 L1 (2020 opens: Why-Copy-AirPods + Peak Smartphone + the S20/foldables wave)
+
+Stage B. First batch of the **2020 era** to L2 (1153→**1159**): **Why Everyone is Copying AirPods** (★★), **YouTube
+Diamond Play Button Review** (★ biography), **Are we at Peak Smartphone?** (★★), **Foldable Moto RAZR 2nd Thoughts**,
+**Galaxy S20 Impressions** (★), and **Galaxy Z Flip Impressions** (★). All 6 solo/Marques-fronted → persona-eligible;
+captions clean. **Galaxy S20 Ultra Impressions (yt-WPsvw_Db-y4) and Galaxy Z Flip Unboxing (yt-dPaHNTnN0eE) → L1**
+(no captions; RE-FETCH flagged — the companion S20 Impressions + Z Flip Impressions cover them). Ledger @mkbhd now
+~488 open (P2:~453, P3:35); L2=1159, L3=0. (Post-pass-18; debt 1 batch — pass-19 due at the end-of-2020 era
+boundary or ~10 batches.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) the **"solve a problem you created 27 minutes earlier"**
+thesis (AirPods — the jack died, AirPods sold the cure; AirPods ≈ a Fortune-500 on its own; "Apple's most impactful
+product since the original iPhone") — extends the walled-garden/ecosystem thread. (2) the **"peak smartphone? yes,
+but no"** mature-market video-essay + the **"peak car"** parallel ("don't let the plateau blind you to the bleeding
+edge"; "the combination is the innovation") — extends "why phones iterate." (3) his **high-refresh prediction
+vindicated** (120 Hz on the S20 flagships, "the train I told you they'd all get on in 2020") + the **flat-over-
+curved** preference finally met by Samsung ("new decade, new Samsung"). (4) **5G-realism** restated (sub-6 ≈ 20%
+faster; "I wouldn't buy it for the 5G"). (5) the foldable form-factor critique — **"fold to gain size, not to
+shrink"** (Moto Razr) + **"design first, then engineering" cascades the compromises**; **folding GLASS is the real
+advancement** and **hinge-engineering is decisive / learn from past hinges** (Z Flip). (6) look-past-the-headline
+(8K comes from the telephoto, not the main sensor). (7) BIOGRAPHY — the award history (Gold 1M in 2014, Diamond 10M);
+"YouTube shows appreciation physically, unlike IG/FB/TikTok." None inline-promoted (L2 only).
+
 ## [2026-07-24] lint | synthesis pass 18 — the 2019 era (1073→1153 L2): the competition value becomes a catchphrase, software-is-decisive lands, and the tools-vs-talent belief gets its cleanest form
 
 Stage S. Drained the ~9-batch 2019-era debt (L2 1073→**1153**, ~80 sources; Feb 2019 → Jan 2020 — the iPhone 11 /
