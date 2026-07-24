@@ -417,3 +417,28 @@ descends from._
 - **"The ultimate frictionless studio."** — the production-philosophy register (the UnboxTherapy BTS). [2019-01-26]
   ([[../wiki/sources/2019-01-26-yt-9ZjlFZ3_b9E]])
 - **"Nothing actually sucks anymore."** — the state-of-tech register (the Blind Test). [2018-12-04] ([[../wiki/sources/2018-12-04-yt-_5-bo8a4zU0]])
+
+## 2019 register (added synthesis pass 18, 2026-07-24)
+
+- **"Companies compete, we win."** — the pro-competition sign-off register (Bose 700). [2019-07-02] ([[../wiki/sources/2019-07-02-yt-YPln3JP_gKs]])
+- **"High refresh rate all the things, please."** — the crystallized-advocacy catchphrase register (ROG Phone 2 /
+  OnePlus 7T). [2019-09-13] ([[../wiki/sources/2019-09-13-yt--Wwe5OW_jPE]]) · [2019-09-26] ([[../wiki/sources/2019-09-26-yt-XRiUNPf-_-4]])
+- **"It flips the script."** — the inverted-formula register (Pixel 3a — budget phones usually cut the camera; this
+  cut the specs). [2019-05-08] ([[../wiki/sources/2019-05-08-yt-vcaXm9dgcpI]])
+- **"Imperfectly perfect."** — the everyday-fundamentals-beat-specs register (AirPods Pro). [2019-11-05] ([[../wiki/sources/2019-11-05-yt-cG8PXdTlDag]])
+- **"I feel personally attacked."** — the wry-defensive register when a company jabs his taste (Pixel 4's "we think
+  telephoto is more important"). [2019-10-16] ([[../wiki/sources/2019-10-16-yt-sKJ4i7p-o-4]])
+- **"Of course, it's matte black."** — the self-referential running-gag register (the Console Wars Sega verdict).
+  [2019-12-16] ([[../wiki/sources/2019-12-16-yt-2SkaD7Q53mA]])
+- **"I actually loved Beats, then hated them, then came back."** — the candid-about-my-own-bias register (Beats Solo
+  Pro). [2019-11-01] ([[../wiki/sources/2019-11-01-yt-DHiKz_lCYMU]])
+- **"The worst UI in any tech product in the last decade."** — the blunt-design-callout register (the Apple Watch
+  blob app chooser). [2019-10-09] ([[../wiki/sources/2019-10-09-yt-5TuyvWoaAZk]])
+- **"Best phone you shouldn't buy."** — the great-hardware-doomed-by-software register (Banned Huawei Mate 30 Pro).
+  [2020-01-03] ([[../wiki/sources/2020-01-03-yt-sr2fBCzXo4g]])
+- **"Don't believe everything you see in the movies."** — the playful-myth-buster register (Walkman in space).
+  [2019-12-23] ([[../wiki/sources/2019-12-23-yt-TfYeJZeCCjk]])
+- **"The best part of my job is getting to share this passion."** — the sincere-gratitude register (10M subscribers).
+  [2019-12-18] ([[../wiki/sources/2019-12-18-yt-NvQmi_ciL1k]])
+- **"I do this to myself."** — the self-aware-workflow-complaint register (still shooting RED, needs the desktop).
+  [2019-11-28] ([[../wiki/sources/2019-11-28-yt-ctWDAdQ81B8]])

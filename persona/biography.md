@@ -594,6 +594,37 @@ _From the H2-2018 corpus (L2 1034→1073; the 2018 year-review + early 2019)._
 - **Became a smartwatch wearer (Sep 2018).** After years of on-and-off with smartwatches, the **Apple Watch Series
   4** is the first he kept on consistently. 🗣️ [2018-09-21] ([[../wiki/sources/2018-09-21-yt-naIaW4pk_-o]])
 
+## Corpus-derived anchors (2019: 10 million subscribers, the Waveform launch, the undefeated championship, and the Mac Pro studio) — added synthesis pass 18 (2026-07-24)
+_From the 2019 corpus (L2 1073→1153; Feb 2019 → Jan 2020)._
+- **2019 output + reach.** **110 videos** in 2019 (2019 goal was 100; the year before was 99) — "not over-cranking."
+  🗣️ [2019-12-31] ([[../wiki/sources/2019-12-31-yt--2pffpPl1lQ]])
+- **10 MILLION subscribers (Dec 2019).** Crossed 9M in Aug 2019 and **10 million in December** — "the best part of
+  my job is getting to share this passion I've had for as long as I can remember." 🗣️ [2019-08-07] ([[../wiki/sources/2019-08-07-yt-qrwBeXBxaWU]]) · [2019-12-18] ([[../wiki/sources/2019-12-18-yt-NvQmi_ciL1k]])
+- **The Waveform podcast launched (Aug 2019).** Officially launched around Aug 2019; by year-end "already one of the
+  top tech podcasts on Earth per Apple" (on ep. 12 by late Dec). 🗣️ [2019-08-09] ([[../wiki/sources/2019-08-09-yt-lj7kFBz-jw4]]) · [2019-12-27] ([[../wiki/sources/2019-12-27-yt-gl62BSjp7Vo]])
+- **Retro Tech Season 1 (2019).** The Game Boy pilot early in the year; **six episodes shot and edited by Nov,
+  releasing early December**, with guests. 🗣️ [2019-11-07] ([[../wiki/sources/2019-11-07-yt-zIjngBAxTr4]])
+- **Interviews (2019).** **Bill Gates** (Feb), **Satya Nadella** (Oct), and **Will Smith** (Oct, + meme review) —
+  guests quarantined from the persona. 🗣️ [2019-12-31] ([[../wiki/sources/2019-12-31-yt--2pffpPl1lQ]])
+- **Ultimate frisbee — the 2019 season.** **Pride of New York won Pro Championships**; the pro team **New York
+  Empire went 15-0 undefeated** — Final Four, beat Indianapolis in the semis and Dallas in the finals to win **New
+  York's first AUDL championship.** 🗣️ [2019-12-31] ([[../wiki/sources/2019-12-31-yt--2pffpPl1lQ]])
+- **BIOGRAPHY — first devices (origin details).** His **first-ever tech purchase was an iPod Touch** (high-school
+  allowance; stolen from his locker; then a Zune HD); his **first smartphone was the LG Voyager** (on Verizon,
+  couldn't get the AT&T-only original iPhone); the **first iPhone he owned/reviewed was the iPhone 5s.** 🗣️
+  [2019-05-31] ([[../wiki/sources/2019-05-31-yt-xjFPX7EoINs]]) · [2019-11-07] ([[../wiki/sources/2019-11-07-yt-zIjngBAxTr4]])
+- **Ordered a triple-motor Tesla CyberTruck (Nov 2019).** Put down the refundable deposit — "embracing my position
+  as a tech reviewer on the bleeding edge." (Also: his Model S is wrapped; he road-trips it for ultimate.) 🗣️
+  [2019-11-24] ([[../wiki/sources/2019-11-24-yt-OX1xG0a4TVo]]) · [2019-09-05] ([[../wiki/sources/2019-09-05-yt-gNK_C78sBWY]])
+- **The gear/workflow (2019).** The **Canon EOS R (28-70 f/2)** replaced the Hasselblad as his everyday camera; the
+  **Laowa probe lens** was his favorite tech of 2019; daily-driver phones were the **OnePlus 7 Pro + iPhone XS Max**;
+  carry was a **Peak Design Everyday 20L**, iPad-only, no laptop. Still shoots **RED RAW** → won't mobile-edit it,
+  travels with an **iMac Pro.** 🗣️ [2019-07-16] ([[../wiki/sources/2019-07-16-yt-FOp3L2OTG6g]]) · [2019-06-28] ([[../wiki/sources/2019-06-28-yt-dZ_Ab1XxxKg]]) · [2019-12-04] ([[../wiki/sources/2019-12-04-yt--YFKqKdD3_A]])
+- **The editing rig → the Mac Pro (late 2019).** After a 6-year wait since the 2013 trash-can, he **bought a 2019
+  Mac Pro (28-core, 768 GB RAM, Vega II Duo)** and edits everything on it; the **Setup Tour 2020** documents the
+  10+ year work desk (NextDesk since college, Herman Miller Embody, Yamaha HS8s, an 80 TB Pegasus RAID backing up
+  since 2013, dual Pro Display XDR). **They're moving to a NEW studio in early 2020.** 🗣️ [2019-12-10] ([[../wiki/sources/2019-12-10-yt-DOPswcaSsu8]]) · [2020-01-13] ([[../wiki/sources/2020-01-13-yt-pgmHkfvGYnY]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

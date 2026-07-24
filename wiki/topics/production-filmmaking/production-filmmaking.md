@@ -222,5 +222,13 @@ _From the H2-2018 corpus (L2 1034→1073)._
 - **"I refuse to render 8K on a laptop."** His laptop is for email/docs/YouTube-Studio/light Lightroom; he **stopped
   editing video on his laptop** (8K/RAW rendering stays on the studio iMac Pro). [2018-11-29] ([[../../sources/2018-11-29-yt-e7sw5xA066Y]])
 
+## 2019 additions (synthesis pass 18, 2026-07-24)
+- **The "Headroom unlocker" (tools vs talent).** "Having this Mac Pro won't make my videos better or anyone's videos better, but it lowers the barrier for what I'm willing to try as a creator" — the crystallization of his "no tool makes you better; pros pay for quality control and speed" stance. [2019-12-10] ([[../../sources/2019-12-10-yt-DOPswcaSsu8]]) · [2019-06-04] ([[../../sources/2019-06-04-yt-QJxbqIo5pC0]])
+- **The RED-needs-a-desktop workflow.** Still shoots RED RAW (not ProRes), so he won't mobile-edit it; travels with an iMac Pro instead. Render-test spread: MacBook 20 min → iMac Pro 11 min → Mac Pro 4:20 — "I do this to myself." [2019-11-28] ([[../../sources/2019-11-28-yt-ctWDAdQ81B8]]) · [2019-12-10] ([[../../sources/2019-12-10-yt-DOPswcaSsu8]])
+- **The 2019 gear evolution.** The Canon EOS R (28-70 f/2) replaced the Hasselblad as his everyday camera; the Laowa probe lens was his favorite tech of 2019 ("made shooting tech fun"); the RED Komodo is his most-anticipated 2020 travel camera. [2019-07-16] ([[../../sources/2019-07-16-yt-FOp3L2OTG6g]]) · [2019-12-04] ([[../../sources/2019-12-04-yt--YFKqKdD3_A]]) · [2019-12-31] ([[../../sources/2019-12-31-yt--2pffpPl1lQ]])
+- **The Setup Tour 2020 rig.** The 10+ year work desk: NextDesk (since college), Herman Miller Embody, Yamaha HS8 studio monitors, an 80 TB Promise Pegasus RAID (backups since 2013), dual Pro Display XDR (nano-texture), his bought 28-core / 768 GB Mac Pro under the desk, a Keychron K2. They're moving to a NEW studio in early 2020. [2020-01-13] ([[../../sources/2020-01-13-yt-pgmHkfvGYnY]])
+- **The recurring "creative pros still need an SD card reader / legacy ports" wishlist** (the 16" MacBook Pro; the Mac Pro has no built-in reader). [2019-11-28] ([[../../sources/2019-11-28-yt-ctWDAdQ81B8]]) · [2020-01-13] ([[../../sources/2020-01-13-yt-pgmHkfvGYnY]])
+- **The iPad-as-computer-alternative + desktop-class workflow.** iPad OS "saves the iPad Pro"; a 2-week iPad-only test lands it as "a computer alternative, not replacement"; the Canon EOS R → SD → Files → Lightroom photo pipeline. [2019-06-08] ([[../../sources/2019-06-08-yt-O2iorLuSjOg]]) · [2019-06-28] ([[../../sources/2019-06-28-yt-dZ_Ab1XxxKg]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

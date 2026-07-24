@@ -329,6 +329,22 @@ of prescient calls._
   Infinity Display; give a new form factor time to find its use, then iterate.** "Thank you for trying the crazy
   stuff, Samsung." [2018-11-08] ([[../../sources/2018-11-08-yt-9fyI-SEnNl8]])
 
+## 2019 additions (synthesis pass 18, 2026-07-24)
+_From the 2019 corpus — the competition value reaches its canonical phrasing, plus a run of durable platform/design/rollout frameworks._
+- **"Companies compete, we win" — the canonical phrasing.** The competition value, stated at full strength across the whole year: the Huawei ban is bad because "one less company is bad for us" [2019-05-22] ([[../../sources/2019-05-22-yt-qZGpmWrVSaU]]); the OnePlus 7 shows "a crowded radar is good" [2019-06-21] ([[../../sources/2019-06-21-yt-MOJ1_FtDGNs]]); the Bose 700 gives the crisp form — "companies compete, we win" [2019-07-02] ([[../../sources/2019-07-02-yt-YPln3JP_gKs]]); reinforced by the iPhone-11-Pro camera fight [2019-09-20] ([[../../sources/2019-09-20-yt-DyX-QZZBgpw]]).
+- **AOSP-without-Google isn't viable — you can't bootstrap an app store.** On the Huawei ban: the open-source Android is available, but rebuilding the Google-services layer and a viable app store from scratch is the real, near-impossible barrier. [2019-05-22] ([[../../sources/2019-05-22-yt-qZGpmWrVSaU]])
+- **The walled garden / ecosystem lock-in — the Apple Card lens.** The Apple Card is read as "another tool to trap you in the Apple ecosystem" — a services product whose real job is deepening lock-in. [2019-08-09] ([[../../sources/2019-08-09-yt-lj7kFBz-jw4]])
+- **"Apple would rather cancel than ship short of the stage promise."** On AirPower's cancellation: Apple would rather kill a publicly-announced product than ship something that fails to meet what it promised on stage. [2019-06-12] ([[../../sources/2019-06-12-yt-3Yes-qyeJ_M]])
+- **Apple's "listen to the people" fixing spree (2019).** A run of Apple reversing unpopular decisions in one year: iPad Pro USB-C → AirPods Pro → iPhone 11 Pro ultrawide → MacBook Pro keyboard/thermals. [2019-11-28] ([[../../sources/2019-11-28-yt-ctWDAdQ81B8]])
+- **Test with real people, own the failure, reward big risks (Galaxy Fold re-do).** Test with real hands, not robot rigs; own the failure instead of the stubborn "you're holding it wrong"; still reward the company for taking the big swing. [2019-09-15] ([[../../sources/2019-09-15-yt--5BsYYtyENw]])
+- **The design-disruption thesis (CyberTruck).** "Apple makes intentionally-jarring design knowing the memes will come — so it becomes iconic." Deliberately divisive design as a distribution strategy. [2019-11-24] ([[../../sources/2019-11-24-yt-OX1xG0a4TVo]])
+- **"Foldables aren't a gimmick — the market is maturing; they're here to stay."** Stated on the LG G8X [2019-10-31] ([[../../sources/2019-10-31-yt-q2CdBFA98SI]]) and the Microsoft Surface Neo/Duo 360-hinge foldables [2019-10-02] ([[../../sources/2019-10-02-yt-omyZvH7aMtg]]).
+- **Two 5G-rollout strategies + "it's not a race, no finish line."** Low-band coverage-first vs millimeter-wave speed-first — two legitimate strategies, and 5G isn't a race with a finish line. [2019-12-05] ([[../../sources/2019-12-05-yt-nmnTAOU44SI]])
+- **The importance of software — the decisive layer.** Battery, display, and camera are all really software; the Banned Huawei Mate 30 Pro is "the biggest hardware-software delta I've ever seen." [2020-01-03] ([[../../sources/2020-01-03-yt-sr2fBCzXo4g]])
+- **"Incremental is fine when it's the best-seller" + two-tier product segmentation.** An incremental update is fine when the product is already the best-seller (iPhone 11 price drop) [2019-09-11] ([[../../sources/2019-09-11-yt-UVpJouUyLBM]]); the Note 10/10+ split pushes power users up to the higher tier [2019-08-07] ([[../../sources/2019-08-07-yt-qrwBeXBxaWU]]).
+- **OnePlus's budget→premium repositioning.** The arc from "flagship killer" to "we also make a flagship" — a deliberate move up-market. [2019-06-21] ([[../../sources/2019-06-21-yt-MOJ1_FtDGNs]])
+- **The recurring "the platform owner also makes the hardware" lens.** Posed to Satya Nadella about Windows — the same question he asks about Android: what happens when the platform owner also ships first-party hardware. [2019-10-03] ([[../../sources/2019-10-03-yt-ux4R5GeKMUU]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

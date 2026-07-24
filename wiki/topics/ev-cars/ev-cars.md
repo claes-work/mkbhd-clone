@@ -175,6 +175,14 @@ hand autonomy._
 ## Cross-domain analogies he reuses
 - **"Electric car cornering" weight analogy** — a heavy EV feels fine in a straight line but reminds you of its weight in a corner; he reuses it to explain the heft of metal headphones (AirPods Max). A characteristic explanatory device. [2020-12-16] ([[2020-12-16-yt-Gvvo6vUpJRc]])
 
+## 2019 additions (synthesis pass 18, 2026-07-24)
+_From the 2019 corpus — the Taycan/Cybertruck era sharpens the EV-judgment frameworks a year before AutoFocus formalizes them._
+- **Range + charging are the two things to nail first.** "With every EV the first two things I look at are range and charging; nail those and the rest follows" (Porsche Taycan reaction) — his priority ordering for judging any EV. [2019-09-05] ([[2019-09-05-yt-gNK_C78sBWY]])
+- **The supercharger-network moat.** Tesla wins everyday driving on the always-growing Supercharger network ("never think about whether I'll make it to the next charger"); the Porsche wins the track (Nürburgring, repeat launches, 800V). "'Tesla killer' is lazy — Tesla pushed Porsche to work this hard." [2019-09-05] ([[2019-09-05-yt-gNK_C78sBWY]])
+- **Competition, EV edition.** "There's room for more than one premium sedan; competition makes better products, and we win." The rooting-for-competition lens applied to the Taycan-vs-Tesla matchup. [2019-09-05] ([[2019-09-05-yt-gNK_C78sBWY]])
+- **The CyberTruck design-disruption thesis + the triple-motor order.** To break into a locked-in mature market (F-150 loyalty) you HAVE to be radically different; the polarizing look is on purpose. "Next to Model Y, possibly Tesla's most important/disruptive vehicle." He put down a triple-motor deposit. [2019-11-24] ([[2019-11-24-yt-OX1xG0a4TVo]])
+- **2020 EV outlook.** Model Y ahead of schedule; the Plaid tri-motor Model S end of 2020; the Roadster likely slips to 2021 ("I never expect Tesla to be on time"); plus the electric Mustang Mach-E and the Taycan shipping. [2019-12-31] ([[2019-12-31-yt--2pffpPl1lQ]])
+
 ## Related
 - Auto Focus channel → [[wiki/entities/auto-focus]]
 - Cybertruck design as *industry* commentary → [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]]

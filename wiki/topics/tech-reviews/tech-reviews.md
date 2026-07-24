@@ -490,6 +490,48 @@ lenses reach their mature form._
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 
+## 2019 additions (synthesis pass 18, 2026-07-24)
+_From the 2019 corpus — a run of genuinely-new review frameworks, taste rules, and methodology notes._
+- **"It flips the script."** Budget phones usually cut the camera/screen/build; the Pixel 3a cut the *specs*
+  instead and kept a flagship-grade camera — the trade-off run in reverse. [2019-05-08]
+  ([[../../sources/2019-05-08-yt-vcaXm9dgcpI]]) · the "A for Ace" review [2019-05-24]
+  ([[../../sources/2019-05-24-yt-XnSqlX1kCQo]])
+- **"Not all specs are created equal" → "cheap phones are getting good."** A deliberate reframe of "good
+  phones are getting cheap": the Redmi K20 Pro shows the cheap end catching up rather than the flagship end
+  coming down. [2019-07-26] ([[../../sources/2019-07-26-yt-WpPw7lUXyI0]])
+- **Spec-on-paper vs. real-life.** Numbers don't tell the whole story: the iPod Touch ("abysmal specs, but
+  numbers don't tell the whole story"); the Note 10's 1080p ("matters more on paper than in real life"); the
+  108 MP Xiaomi (center-sharp, edges fall apart); the ROG Phone 2's "48 MP is a spec you can ignore" — a B
+  camera. [2019-05-31] ([[../../sources/2019-05-31-yt-xjFPX7EoINs]]) · [2019-08-27]
+  ([[../../sources/2019-08-27-yt-pyldH6sefTQ]]) · [2019-11-19] ([[../../sources/2019-11-19-yt-wegxoNTw0_I]]) ·
+  [2019-09-13] ([[../../sources/2019-09-13-yt--Wwe5OW_jPE]])
+- **"High refresh rate all the things" — the catchphrase crystallizes.** 90 Hz is an "x-factor so hard to
+  switch back from"; the OnePlus 7T = the cheapest phone with a high-refresh screen. [2019-09-13]
+  ([[../../sources/2019-09-13-yt--Wwe5OW_jPE]]) · [2019-09-26] ([[../../sources/2019-09-26-yt-XRiUNPf-_-4]])
+- **"You can't fake an ultrawide with software."** The Pixel 4's *missing* ultrawide is a bigger deal than
+  including it would have been; its 2x telephoto = "the most useless second camera." [2019-10-16]
+  ([[../../sources/2019-10-16-yt-sKJ4i7p-o-4]])
+- **The Pixel-vs-iPhone camera graph + "closest to the human eye."** The middle of the range (where most
+  photos live) favors the Pixel's punchy look; the edges (low light, ultrawide) favor the iPhone, which is
+  truer-to-life. [2019-10-22] ([[../../sources/2019-10-22-yt-mfbSqTB74xM]]) · [2019-09-20]
+  ([[../../sources/2019-09-20-yt-DyX-QZZBgpw]])
+- **"Pro is overused" — the what-would-make-it-pro checklist.** High-refresh screen, USB-C, reverse wireless
+  charging, in-display fingerprint, pro software — the boxes a phone should tick to earn the name (iPhone 11
+  Pro). [2019-09-11] ([[../../sources/2019-09-11-yt-5krV47BLyoQ]])
+- **"Imperfectly perfect" / if-I-could-pick-one.** The Sony XM3 is technically better, but the AirPods Pro win
+  on everyday use + ecosystem — the pick isn't always the best-on-paper. [2019-11-05]
+  ([[../../sources/2019-11-05-yt-cG8PXdTlDag]])
+- **Methodology notes.** Screen-on-time is NOT comparable between reviewers (different usage); un-certified
+  water resistance means you're paying for the seals, not the certificate. [2019-05-20]
+  ([[../../sources/2019-05-20-yt-JEWzl4V2YBI]])
+- **Taste rules.** Matte over glossy, flat over curved, boxy-design love, front-facing speakers "an endangered
+  species," physical buttons over touch, ultrawide over telephoto, a thicker phone over a camera bump.
+  [2019-09-13] ([[../../sources/2019-09-13-yt--Wwe5OW_jPE]]) · [2019-06-18]
+  ([[../../sources/2019-06-18-yt-M5NVwuyk2uM]])
+- **The Blind Test 2019 — the new "in-focus bias."** Brighter still wins; NEW finding: with brightness held
+  equal, the crowd picks the more-in-focus (smaller-sensor) photo — "technically worse." [2019-12-17]
+  ([[../../sources/2019-12-17-yt-KxsFat1ImiY]])
+
 ## Recurring franchises (as review formats)
 - **Smartphone Awards** (annual buyer's guide) → see [[../smartphones/smartphones|Smartphones hub]].
 - **Blind Smartphone Camera Test** (unbiased ELO-scored evaluation) → see [[../smartphones/smartphones|Smartphones hub]].

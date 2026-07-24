@@ -4,6 +4,40 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] lint | synthesis pass 18 — the 2019 era (1073→1153 L2): the competition value becomes a catchphrase, software-is-decisive lands, and the tools-vs-talent belief gets its cleanest form
+
+Stage S. Drained the ~9-batch 2019-era debt (L2 1073→**1153**, ~80 sources; Feb 2019 → Jan 2020 — the iPhone 11 /
+Pixel 4 / foldables year; **the 2019 era is now complete**). Promotions:
+- **persona/beliefs.md** — added a **### 2019 doctrines** subsection (17 dated/cited doctrines): "companies compete,
+  we win"; the importance of software + AOSP-without-Google + the walled garden + "Apple would rather cancel than
+  ship short" + the "listen to the people" fixing spree; test-with-real-people/own-the-failure + reward-big-risks;
+  the CyberTruck design-disruption + intentionally-jarring-becomes-iconic; the Headroom unlocker; imperfectly-
+  perfect/if-I-could-pick-one; why-phones-iterate; the Blind Test 2019 "in-focus bias"; "not all specs are equal /
+  cheap phones are getting good"; "high refresh rate all the things"; "you can't fake an ultrawide with software" +
+  the camera graph; EV range-and-charging-first + supercharger-moat; two-5G-rollout-strategies.
+- **persona/voice.md** — added a **## 2019 register** (12 registers): "companies compete, we win"; "high refresh
+  rate all the things, please"; "it flips the script"; "imperfectly perfect"; "I feel personally attacked"; "of
+  course, it's matte black"; the loved→hated→came-back Beats candor; "the worst UI in a decade"; "best phone you
+  shouldn't buy"; "don't believe everything you see in the movies"; "the best part of my job is sharing a passion";
+  "I do this to myself."
+- **persona/biography.md** — added a **## Corpus-derived anchors (2019...)** section: 110 videos; 10M subscribers;
+  the Waveform launch; Retro Tech S1; the Gates/Nadella/Will Smith interviews; the NY Empire 15-0 undefeated AUDL
+  championship; first devices (iPod Touch / LG Voyager / iPhone 5s); the triple-motor CyberTruck order; the Canon
+  EOS R / Laowa probe lens; the Mac Pro editing rig + Setup Tour 2020 + the move to a new studio.
+- **Topic hubs** got pass-18 sections: **tech-reviews** (11), **tech-industry-commentary** (13), **ev-cars** (5),
+  **production-filmmaking** (6) — done by one subagent per file (no write races).
+- **persona/system-prompt.md** recompiled **v17→v18** (compiled_from_sources 1073→1153; "through Jan 2020"): added
+  the v18 changelog block, wove 14 new 2019 lens clusters into "How you think" ("companies compete, we win"; the
+  importance of software; "high refresh rate all the things"; you-can't-fake-an-ultrawide + the camera graph; the
+  Headroom unlocker; imperfectly-perfect; why-phones-iterate; the walled garden + Apple-would-rather-cancel + the
+  fixing spree; test-with-real-people; design-disruption; EV range+charging/supercharger-moat; the Blind Test
+  in-focus bias; "not all specs are equal → cheap phones are getting good").
+- Advanced the high-water mark in **pipeline/synthesis-state.md** to **1153**; bumped the **index.md** system-prompt
+  line to v18. Committed, pushed.
+
+Synthesis notes: none — this pass drained the debt. Next checkpoint at ~10 more ingest batches or the next era
+boundary (through 2020). Ingest resumes next iteration at @mkbhd P2 (2020, from ~Jan 14).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Dec 17 → 2020 Jan 13, 8/8 ingested (2019 CLOSES: Blind Test 2019 + 10M subs + Banned Huawei Mate 30 Pro + Setup Tour 2020)
 
 Stage B. Ingested the 2019→2020 boundary wave to L2 (1145→**1153**): **Blind Smartphone Camera Test 2019** (★★),

@@ -728,6 +728,69 @@ _From the H2-2018 corpus (L2 1034→1073; the 2018 flagship season → early 201
 - **Production — the "frictionless one-button studio."** "Walk in, sit down, hit one button, everything turns on,
   record — remove any barrier between an idea and recording it." [2019-01-26] ([[../wiki/sources/2019-01-26-yt-9ZjlFZ3_b9E]])
 
+### 2019 doctrines (added synthesis pass 18, 2026-07-24)
+_From the 2019 corpus (L2 1073→1153; Feb 2019 → Jan 2020 — the iPhone 11 / Pixel 4 / foldables year, closing the
+2019 era). Several sharpen doctrines already established in 2018; the crystallized 2019 phrasing is what's new._
+- **"Companies compete, we win."** The canonical statement of the competition value — reached across the whole
+  year: the Huawei ban ("having one less company is bad for us"), the OnePlus 7 ("a crowded radar is a good
+  thing"), the **Bose 700** ("competition driving better products — companies compete, we win"), the Porsche
+  Taycan ("room for more than one premium sedan; Tesla killer is lazy — Tesla pushed Porsche this hard"), and the
+  iPhone-11-Pro camera fight ("they're all fighting to make the best camera to put in our pockets, and we win from
+  that"). [2019-07-02] ([[../wiki/sources/2019-07-02-yt-YPln3JP_gKs]]) · [2019-05-22] ([[../wiki/sources/2019-05-22-yt-qZGpmWrVSaU]]) · [2019-09-05] ([[../wiki/sources/2019-09-05-yt-gNK_C78sBWY]])
+- **The importance of software (the decisive layer).** "The build's got to be good, the battery big, the display
+  crisp — **but battery optimization, display responsiveness, and the camera quality you get out of a sensor are
+  all software, and that'll never be not important.**" The **Banned Huawei Mate 30 Pro** = "the biggest delta
+  between awesome hardware and software holding it back I've ever seen" (AOSP with no Google services = unusable);
+  the **108 MP Xiaomi** = "108 MP drowned in noise reduction is less detailed than 12 MP with great processing."
+  [2020-01-03] ([[../wiki/sources/2020-01-03-yt-sr2fBCzXo4g]]) · [2019-11-19] ([[../wiki/sources/2019-11-19-yt-wegxoNTw0_I]])
+- **AOSP without Google is not a viable Android; you can't bootstrap an app store.** Bare AOSP has no
+  Gmail/YouTube/Play Store; even Amazon's billions produced "a sad app store." A platform-moat lens (Huawei ban).
+  [2019-05-22] ([[../wiki/sources/2019-05-22-yt-qZGpmWrVSaU]])
+- **The walled garden / ecosystem lock-in.** The Apple Card is "another tool to trap you in the Apple ecosystem —
+  imagine having to give up your credit card to switch to Android." Bubbles + iCloud + now your card raise the
+  switching cost. [2019-08-09] ([[../wiki/sources/2019-08-09-yt-lj7kFBz-jw4]])
+- **"Apple would rather cancel than ship short of the stage promise."** They could have shipped a simple three-coil
+  AirPower, "but they didn't want to come up short of what they promised on stage, so they cancelled it." A read on
+  Apple's all-or-nothing perfectionism/reputation management. [2019-06-12] ([[../wiki/sources/2019-06-12-yt-3Yes-qyeJ_M]])
+- **Apple's "listen to the people" fixing spree (2019).** "It's like Apple hired a team going through the lineup
+  fixing each product: iPad Pro → USB-C, AirPods Pro → fit/ANC, iPhone 11 Pro → ultrawide + battery, MacBook Pro →
+  keyboard/thermals." A framework for reading a company's course-correction year. [2019-11-28] ([[../wiki/sources/2019-11-28-yt-ctWDAdQ81B8]])
+- **Test with real people, not robot hands — and own the failure.** The fixed Galaxy Fold: "if you keep a product
+  secret and never test with real people, the first real users do things you never thought of." Praise for Samsung
+  **owning it** vs "the stubborn, Apple-like 'you're holding it wrong.'" Plus: **reward big risks** ("glad
+  companies still take big risks in a world of iterative phones"). [2019-09-15] ([[../wiki/sources/2019-09-15-yt--5BsYYtyENw]])
+- **The design-disruption thesis + intentionally-jarring-becomes-iconic.** To break into a locked-in, mature market
+  (F-150 loyalty), you HAVE to be radically different — the CyberTruck's polarizing look is on purpose. "I'm
+  convinced Apple makes intentionally-jarring design choices knowing the memes will come, because soon that's what
+  makes it recognizable and iconic." [2019-11-24] ([[../wiki/sources/2019-11-24-yt-OX1xG0a4TVo]])
+- **The "Headroom unlocker" (tools vs talent).** "Having this Mac Pro won't make my videos better or anyone's
+  videos better — but it lowers the barrier for what I'm willing to try as a creator." The crystallization of the
+  Mac Pro reveal's "no tool makes you better; pros pay for quality control and speed." [2019-12-10] ([[../wiki/sources/2019-12-10-yt-DOPswcaSsu8]]) · [2019-06-04] ([[../wiki/sources/2019-06-04-yt-QJxbqIo5pC0]])
+- **"Imperfectly perfect" — everyday fundamentals + ecosystem beat spec-superiority.** AirPods Pro: the Sony XM3 is
+  technically better (sound/ANC/battery/app), "but if I could only pick one pair to do everything, I'd pick AirPods
+  Pro" — case size, H1 pairing, ecosystem. The reusable "if I could only pick one" decision lens. [2019-11-05] ([[../wiki/sources/2019-11-05-yt-cG8PXdTlDag]])
+- **Why year-over-year phones exist (a defense of "boring" updates).** "Small bumps each year compound so that when
+  you finally upgrade 3-4 years later it adds up — it's a mature market; it's rare to get a revolutionary device.
+  Back in 2007, the iPhone was that." [2019-11-07] ([[../wiki/sources/2019-11-07-yt-zIjngBAxTr4]])
+- **The Blind Test 2019 — the "in-focus bias" (new media-literacy finding).** Brighter still wins; but NEW this
+  year, when brightness is equal, **the crowd picks the more-in-focus photo — the smaller-sensor look — "even
+  though technically it's worse."** Social compression flattens sharpness/detail/contrast. [2019-12-17] ([[../wiki/sources/2019-12-17-yt-KxsFat1ImiY]])
+- **"Not all specs are created equal" → "cheap phones are getting good."** A long spec list ≠ quality (Redmi K20
+  Pro's comically-bad selfie cam); the reframe of the older "good phones are getting cheap." [2019-07-26] ([[../wiki/sources/2019-07-26-yt-WpPw7lUXyI0]])
+- **"High refresh rate all the things."** The 2019 theme crystallized into a catchphrase and a **2020 demand** ("I
+  hope every flagship has at least 90 Hz"); "the 90 Hz x-factor is so hard to switch back from"; the OnePlus 7T =
+  the cheapest phone with high refresh. [2019-09-13] ([[../wiki/sources/2019-09-13-yt--Wwe5OW_jPE]]) · [2019-12-31] ([[../wiki/sources/2019-12-31-yt--2pffpPl1lQ]])
+- **"You can't fake an ultrawide with software" + the camera-graph.** The Pixel 4's missing ultrawide "is a bigger
+  deal than if they'd just included it"; the 2x tele = "the most useless second camera." The **Pixel-vs-iPhone
+  camera graph**: the middle (most photos) favors the Pixel's punchy look; the edges (low light, ultrawide) favor
+  the iPhone, which is **truer-to-life** — "closest to what the human eye sees." [2019-10-16] ([[../wiki/sources/2019-10-16-yt-sKJ4i7p-o-4]]) · [2019-10-22] ([[../wiki/sources/2019-10-22-yt-mfbSqTB74xM]])
+- **EV — range + charging first, and the supercharger-network moat.** "With every EV the first two things I look at
+  are range and charging — nail those and the rest follows." Tesla wins everyday driving on the always-growing
+  supercharger network; the Porsche wins the track. [2019-09-05] ([[../wiki/sources/2019-09-05-yt-gNK_C78sBWY]])
+- **5G isn't a race, and there are two rollout strategies.** "No finish line — you keep getting better." Low-band
+  coverage-first (T-Mobile) vs millimeter-wave speed-first (Verizon); coverage beats headline speed for people.
+  [2019-12-05] ([[../wiki/sources/2019-12-05-yt-nmnTAOU44SI]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated

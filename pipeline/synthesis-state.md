@@ -6,20 +6,38 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
+Synthesized through: **1153 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
+L2=1034 (H1 2018), pass 17 through L2=1073 (H2 2018 → early 2019; the 2018 era complete), PLUS **pass 18's whole of
+2019 → Jan 2020 (2026-07-24) — L2 1073→1153, ~80 sources; the 2019 era is now complete.** The competition value
+crystallizes into a catchphrase (**"companies compete, we win"** — Huawei ban / OnePlus 7 / Bose 700 / Taycan /
+iPhone camera fight), the **importance-of-software** thesis lands outright (**"battery/display/camera are all
+software"**; the Banned Huawei Mate 30 Pro = "the biggest hardware-software delta I've ever seen"; AOSP-without-
+Google isn't viable), high-refresh advocacy becomes the slogan **"high refresh rate all the things"**, the
+tools-vs-talent belief gets its cleanest form (the **"Headroom unlocker"** — a Mac Pro won't make your videos
+better, it lowers the barrier to try), and new frameworks land: **"you can't fake an ultrawide with software" + the
+Pixel-vs-iPhone camera graph** ("closest to the human eye"), **"imperfectly perfect" / if-I-could-pick-one**, the
+**walled garden** (Apple Card) + **"Apple would rather cancel than ship short"** (AirPower) + the **"listen to the
+people" fixing spree**, **"test with real people, not robot hands"** + own-the-failure (the fixed Fold), the
+**CyberTruck design-disruption thesis** + "intentionally-jarring-becomes-iconic", the EV **range-and-charging-first
++ supercharger-moat** lens, the **two-5G-rollout-strategies** ("not a race"), the **Blind Test 2019 "in-focus
+bias"**, and **"not all specs are equal" → "cheap phones are getting good."** Biography: **110 videos**; **10
+MILLION subscribers** (Dec 2019) + "the best part of my job is sharing a lifelong passion"; the **Waveform** launch;
+**Retro Tech S1**; the **Gates/Nadella/Will Smith interviews**; the **NY Empire 15-0 undefeated AUDL championship**;
+the **triple-motor CyberTruck order**; the **Canon EOS R** (replaced the Hasselblad); the **28-core Mac Pro** +
+**Setup Tour 2020** (moving to a new studio); first devices (**iPod Touch / LG Voyager / iPhone 5s**). Topic hubs
+got pass-18 sections (**tech-reviews / tech-industry-commentary / ev-cars / production-filmmaking**);
+`persona/beliefs.md` (a "2019 doctrines" subsection), `persona/voice.md` (a "2019 register"), `persona/biography.md`
+(a 2019 anchors section), and `persona/system-prompt.md` recompiled **v17→v18** (1073→1153 sources; "through Jan
+2020"). Covers every `wiki/sources/` page that was L2 as of 2026-07-24 at the 1153-source mark. Next checkpoint at
+~10 more ingest batches or the next era boundary (through 2020).
+
+### (superseded) pass 17 high-water detail
 Synthesized through: **1073 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
 L2=1034 (H1 2018), PLUS **pass 17's second half of 2018 → early 2019 (2026-07-24) — L2 1034→1073, ~40 sources; the
-2018 era is now complete.** The review lenses reach mature form (the **16-phone Blind Test** + "brighter-wins-but-
-brighter≠better"; the **vertical-integration** insight; **"incredible hardware, held back by software"**; **"no
-risk / a curse Apple put on itself"**; the **scale-argument** media literacy; **"don't judge the display by the
-spec sheet"**), the **EV-competition framework** sharpens (design/price/specs/CONVENIENCE; convenience-is-the-moat;
-first-hand **autonomy optimism**), the **advertiser-vs-creator Delta** (YouTube Rewind) + the **Note-Edge foldable
-framework** land, and biography gets the **2018 year-in-review** (99 videos/1.5B minutes; the Shorty + Streamy
-awards; the collab map; the 2:1 aspect-ratio switch; the ultimate-frisbee season; the Apollo crash). Topic hubs got
-pass-17 sections (**tech-reviews / tech-industry-commentary / ev-cars / creator-business / production-filmmaking**);
-`persona/beliefs.md` (a "2018 (H2) doctrines" subsection), `persona/voice.md` (a "2018 (H2) register"),
-`persona/biography.md` (an H2-2018→Jan-2019 anchors section), and `persona/system-prompt.md` recompiled **v16→v17**
-(1034→1073 sources; "through Jan 2019"). Covers every `wiki/sources/` page that was L2 as of 2026-07-24 at the
-1073-source mark. Next checkpoint at ~10 more ingest batches or the next era boundary (through 2019).
+2018 era complete.** The review lenses reach mature form (the 16-phone Blind Test + "brighter-wins-but-brighter≠
+better"; vertical integration; "incredible hardware held back by software"; the scale argument; "don't judge the
+display by the spec sheet"), the EV-competition framework sharpens (convenience-is-the-moat; autonomy optimism), and
+biography gets the 2018 year-in-review. Recompiled **v16→v17** (1034→1073; "through Jan 2019").
 
 ### (superseded) pass 16 high-water detail
 Synthesized through: **1034 L2 sources** — passes 1–12 through L2=785, pass 13 through L2=857, pass 14 through
