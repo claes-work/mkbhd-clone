@@ -4,6 +4,30 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Nov 28 → Dec 16, 7 ingested + 1 L1 (the Mac Pro "Headroom unlocker" + 16" MBP review + 5G Part 2 + Dec collabs)
+
+Stage B. Ingested the December-2019 wave to L2 (1138→**1145**): **16" MacBook Pro Review** (★★), **Analog vs
+Digital Cameras** (mixed), **Favorite Tech Rewind collab** (mixed), **Testing Real 5G Part 2** (★★), **inside the
+original Macintosh** (mixed), **Mac Pro Unboxing & 2nd Impressions** (★★), and **Console Wars** (mixed). All
+captions clean. **4 collab/mixed videos → attribution: mixed** — guests quarantined (Rik Cordero; the multi-creator
+Rewind panel; the Macintosh-teardown co-host; the Dave/Joe Console Wars debaters); only Marques's framing/picks
+train the persona. **Apple Pro Display XDR "A Grand Stand" (yt-fLRRStkhcuQ) → L1** (no captions; RE-FETCH flagged —
+the Mac Pro unboxing + WWDC impressions cover the display). Ledger @mkbhd now ~503 open (P2:~468, P3:35); L2=1145,
+L3=0. **2019 is essentially closed** (only the Dope Tech 8K OLED + Smartphone Awards 2019 remain, ~1 short batch).
+
+Synthesis notes: for pass 18 (imminent) — (1) the **"Headroom unlocker" philosophy** crystallizes the tools-vs-
+talent belief: **"having this Mac Pro won't make my videos better or anyone's videos better — but it lowers the
+barrier for what I'm willing to try as a creator"** (pairs with the Mac Pro reveal's "no tool makes you better;
+pros pay for QC + speed"). (2) The **"Apple listen-to-the-people fixing spree"** thesis (2019: iPad Pro USB-C →
+AirPods Pro → iPhone 11 Pro ultrawide → MacBook Pro keyboard/thermals). (3) A **two-5G-rollout-strategies
+framework** (low-band coverage-first vs millimeter-wave speed-first; "5G isn't a race, no finish line"). (4)
+BIOGRAPHY — **6-year Mac Pro wait; now editing every video on it; still travels with an iMac Pro for RED** (the
+RED-needs-a-desktop constraint restated); the **Laowa probe lens = his favorite tech of 2019**; the recurring
+**14"-MacBook-Pro + SD-card-reader wishlist.** (5) VOICE — the **"of course it's matte black" running gag** (the
+Console Wars Sega verdict) and the **"sign your work / it's a work of art"** craftsmanship appreciation. NOTE:
+next iteration closes 2019 then runs **pass-18 Stage S synthesis** to drain ~9 batches of debt. None inline-
+promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Oct 31 → Nov 24, 7 ingested + 1 skip (the CyberTruck order + AirPods Pro + the 16" MacBook Pro + "why phones iterate")
 
 Stage B. Ingested the November-2019 wave to L2 (1131→**1138**): **LG G8X** (foldables), **Beats Solo Pro**,

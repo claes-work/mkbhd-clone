@@ -1070,12 +1070,19 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2019-11-22 — [[2019-11-22-yt-oTZ84U-K_5k|Tesla CyberTruck Impressions & First Drive!]] ★ · ev-cars, tech-industry-commentary
 - 2019-11-24 — [[2019-11-24-yt-OX1xG0a4TVo|Why I Ordered a Tesla CyberTruck!]] ★★ · ev-cars, tech-industry-commentary, consumer-tech-culture _(the design-disruption thesis — to break into a locked-in mature market (F-150 loyalty) you HAVE to be radically different; the "Apple makes intentionally-jarring design choices knowing the memes will come, so it becomes iconic" parallel; "next to Model Y, possibly Tesla's most important/disruptive vehicle"; BIOGRAPHY put down a triple-motor deposit)_
 - 2019-11-25 — [[2019-11-25-yt-mXgG8k5tTFM|RETRO TECH: OFFICIAL TRAILER]] · consumer-tech-culture, production-filmmaking _(mixed; guest cameos)_
+- 2019-11-28 — [[2019-11-28-yt-ctWDAdQ81B8|16" MacBook Pro Review: Now Do It Again!]] ★★ · tech-reviews, production-filmmaking, consumer-tech-culture _("the best laptop Apple's ever made"; the "listen to the people" fixing-spree thesis (iPad Pro USB-C → AirPods Pro → iPhone 11 Pro → MacBook Pro); still won't edit RED on a laptop (travels with an iMac Pro); wishlist: SD card, LTE, "now make a 14" out of the 13"")_
 - 2019-12-02 — [[2019-12-02-yt-kOEXcMoh2II|RETRO TECH: DYNATAC]] ★ · consumer-tech-culture, smartphones, tech-industry-commentary _(mixed; guest-led — Martin Cooper)_
 - 2019-12-02 — [[2019-12-02-yt-6oHrNuXPVck|RETRO TECH: POLAROID]] ★ · consumer-tech-culture, production-filmmaking, tech-industry-commentary _(mixed; guest-led)_
 - 2019-12-02 — [[2019-12-02-yt-AjQ7CEeONb4|RETRO TECH: WALKMAN]] · consumer-tech-culture, tech-industry-commentary _(mixed; guest-led)_
 - 2019-12-02 — [[2019-12-02-yt-PRVr1heimY8|RETRO TECH: SEGA GENESIS]] · consumer-tech-culture, tech-industry-commentary _(mixed; guest-led)_
 - 2019-12-02 — [[2019-12-02-yt-VJI88QIW7H4|RETRO TECH: MACINTOSH]] · consumer-tech-culture, tech-industry-commentary, production-filmmaking _(mixed; guest-led)_
 - 2019-12-02 — [[2019-12-02-yt-kMtN9KJHn5Y|RETRO TECH: CAMCORDER]] ★ · consumer-tech-culture, production-filmmaking, tech-industry-commentary _(mixed; guest-led)_
+- 2019-12-02 — [[2019-12-02-yt-BsAmXFcQMQ4|Analog vs. Digital Cameras]] · production-filmmaking, consumer-tech-culture _(mixed; Rik Cordero GUEST — quarantined; JVC-camcorder vs Panasonic-HVX analog-look collab; the craft claims are the guest's)_
+- 2019-12-04 — [[2019-12-04-yt--YFKqKdD3_A|Favorite Tech of the Year Rewind Collab!]] · production-filmmaking, creator-business _(mixed; multi-creator GUESTS — quarantined; the only persona-eligible bit is Marques's own pick: the $1,500 Laowa probe lens that made shooting tech fun this year)_
+- 2019-12-05 — [[2019-12-05-yt-nmnTAOU44SI|Testing Real 5G: Part 2!]] ★★ · tech-industry-commentary, consumer-tech-culture, ev-cars _(T-Mobile low-band 600MHz 5G — the two-rollout-strategies framework (low-band coverage-first vs Verizon millimeter-wave speed-first); "it's not a race, there's no finish line"; a McLaren GT quirks aside)_
+- 2019-12-09 — [[2019-12-09-yt-jdlGvS1y_Ls|A look inside the original Macintosh]] · consumer-tech-culture, production-filmmaking _(mixed; guest co-host — quarantined; 1984 Mac teardown (128K RAM, floppy boot); the "sign your work / it's a work of art" craft note (the team's signatures inside))_
+- 2019-12-10 — [[2019-12-10-yt-DOPswcaSsu8|Mac Pro Unboxing & Second Impressions: The Power is Back!]] ★★ · production-filmmaking, tech-reviews, consumer-tech-culture _(the "Headroom unlocker" tools-vs-talent philosophy — "it won't make my videos better, but it lowers the barrier for what I'm willing to try"; the RED render test MacBook 20min → iMac Pro 11min → Mac Pro 4:20; BIOGRAPHY 6-year wait, editing everything on it)_
+- 2019-12-16 — [[2019-12-16-yt-2SkaD7Q53mA|Console Wars!]] · consumer-tech-culture, creator-business _(mixed; Dave/Joe debaters GUESTS — quarantined; Sega-vs-Nintendo comedy; the persona beat is Marques's "of course it's matte black" running-gag verdict for the Sega Genesis)_
 - 2019-12-21 — [[2019-12-21-yt-07_IZIoN60Q|Dope Tech: The World's Largest 8K OLED!]] ★ · tech-reviews, consumer-tech-culture, smartphones
 - 2019-12-24 — [[2019-12-24-yt-4OnwUz-I2GI|Smartphone Awards 2019!]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary
 - 2020-01-09 — [[2020-01-09-yt-x1T-VTFiUwc|Dope Tech of CES 2020: Sony Made a Car?!]] · consumer-tech-culture, ev-cars, smartphones, tech-reviews
@@ -1189,4 +1196,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_1138 videos ingested (L2) so far._
+_1145 videos ingested (L2) so far._
