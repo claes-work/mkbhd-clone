@@ -4,6 +4,43 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Oct 19 → Nov 15, 8/8 ingested (the Techtober reviews: RED Hydrogen One "I wanted this to be great" + the Foldable explainer + the iPad Pro "still an iPad")
+
+Stage B. Ingested the late-2018 review wave to L2 (1049→**1057**): **Pixel 3 XL Review**, **RED iPhone XR Unboxing
+& Giveaway**, **OnePlus 6T Review**, **2019 iPad Pro Impressions**, **RED Hydrogen One Review**, **Let's Talk About
+the Foldable Smartphone**, **iPhone XR Review**, and the **iPad Pro Review**. All 8 solo/Marques-fronted →
+persona-eligible; captions clean; no dups, no skips. A rich batch (5 landmark-tier). Ledger @mkbhd now 597 open
+(P2:562, P3:35); L2=1057, L3=0. (Post-pass-16; debt now 3 batches / 23 sources.)
+
+Synthesis notes (for pass 17) —
+**(1) LANDMARK — the vertical-integration insight** (RED Hydrogen One Review, a rare disappointed review of a
+beloved brand): "the most frustrating phone I bought this year — **I wanted this to be so good**"; **why the
+RED-branded cameras are only "okay": "RED doesn't make this sensor — it's off-the-shelf Sony; RED's real cameras
+are incredible because they make the silicon AND control the entire image pipeline end-to-end. Here they're doing
+the best with off-the-shelf parts."** A reusable lens for judging any hardware maker. Plus the modular-pins =
+only-redeeming-quality ("a real RED sensor + interchangeable lens mount 'coming 2019' = the RED camera in your
+pocket we wanted — but right now it's fantasy") and the **"imagine it without the RED name — a hopeless $400 phone;
+with RED behind it, if you trust RED… wait for the modules"** trust-the-company purchase framing. **(2) "The best
+camera got a better phone" — computational-photography peak** (Pixel 3 XL Review): best photos period (better than
+XS/RED Hydrogen/Samsung/LG/Pixel 2); one lens because **software is everything**; the **notch catch-22** ("if we
+only talk about the notch we ignore how good the rest is; if we don't, they think we like it — so a great phone
+gets overshadowed") + **"a poor use of space"**; the 4 GB memory bug (longevity watch). **(3) "Incredible hardware,
+still an iPad"** (iPad Pro Review): the A12X rivals a 15" MacBook Pro but **iOS keeps it from replacing a laptop**
+(no Finder, Safari kicks him to the app, no mouse, no Thunderbolt; USB-C "just loses dongles"); the **prescient
+"when will Apple put these chips in Macs?"** (Apple-Silicon-in-Macs, a prediction-to-track); editing photos on it
+is his favorite. **(4) The Note-Edge foldable framework** (Foldable explainer): "**this is dope tech — but why
+would I fold my phone into a tablet every day?**"; the **Note Edge precedent** (2014 seemed useless → caught on →
+the Infinity Display; **give a new form factor time to find its use, then iterate**); "thank you for trying the
+crazy stuff." **(5) "Don't judge the display by the spec sheet"** (iPhone XR Review, "No Need to Panic"): the
+pixel-density argument (**"326 ppi = the iPhone 8 everyone loved — look at the experience, not the numbers"**); the
+**telephoto-is-actually-a-worse-sensor** insight + **"wide-angle portraits with shallow depth of field are my
+favorite look"**; "the best-seller iPhone for everyone." **(6) OnePlus 6T** — the in-display-fingerprint
+full-brightness-at-night mechanism nitpick + **even OnePlus drops the jack** (he asked them directly: the battery +
+fingerprint took the space; only Samsung/LG left) + "my battery champ." **(7) 2019 iPad Pro** — USB-C on an iPad
+(the 0%→1% USB-C-iPhone hope) + **"not about space anymore — Apple is systematically removing the jack."** Next
+synthesis checkpoint (pass 17) at ~10 batches or the 2018→2019 boundary (the Smartphone Awards 2018 + Blind Test
+are the likely era-closers).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Sep 18 → Oct 16, 8/8 ingested (Techtober: iPhone 'Gates' Explained + Apple Watch S4 + the Pixel 3 "user-vs-YouTuber notch")
 
 Stage B. Ingested the 2018 **"Techtober"** to L2 (1041→**1049**): **Gold iPhone XS Max Unboxing**, **Apple Watch
