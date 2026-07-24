@@ -4,6 +4,49 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Dec 22 → 2019 Jan 26, 8/8 ingested (2018 closes, 2019 opens: My YouTube Rewind 2018 + 2019 Tech I'm Ready For + the Driverless Taxi)
+
+Stage B. Ingested the 2018→2019 turn to L2 (1065→**1073**): **Google Pixel Slate**, **My YouTube Rewind 2018**,
+**2019 Tech I'm Ready For**, **Xiaomi Mi Mix 3**, **The Rollable OLED TV**, **Riding in a Driverless Taxi at CES
+2019**, **First Look at the Hole-Punch Display**, and **Behind the Scenes of the UnboxTherapy Studio**. All 8
+solo/Marques-fronted → persona-eligible; captions clean; no dups, no skips. **This batch crosses the 2018→2019 era
+boundary** — the **2018 era is now complete.** Ledger @mkbhd now 581 open (P2:546, P3:35); L2=1073, L3=0.
+(Post-pass-16; debt now 6 batches / 47 sources — the pass-17 checkpoint is due at the era boundary.)
+
+⚠️ **Attribution:** the **UnboxTherapy BTS** (yt-9ZjlFZ3_b9E) features **Lewis Hilsenteger** describing his OWN
+studio — Lew is a GUEST, quarantined; only Marques's narration + the frictionless-studio takeaway are subject-
+attributed.
+
+Synthesis notes (for pass 17) —
+**(1) BIOGRAPHY GOLDMINE — the 2018 year-in-review** (My YouTube Rewind 2018): **99 videos / 1.5 billion minutes**;
+the **Shorty "Creator of the Decade"** + a **Streamy (2018 Creator in Science & Education)**; the collaboration map
+(**NdGT/StarTalk, Elon + the factory tour, Steph Curry/Under Armour, Hot Ones w/ Sean Evans, iJustine, Peter
+McKinnon (tried coffee), Joe Rogan**); the **2:1 aspect-ratio switch** (Oct 2018); a **team of three**; and the
+**ultimate-frisbee season** (GSU club, NY Empire AUDL — dethroned the #1 seed to the Final Four; a beach nationals
+win). **(2) PREDICTIONS-TO-TRACK — the 2019 slate** (2019 Tech I'm Ready For): the **S10 hole-punch** ("Infinity-O
+is still technically a notch — put it in the middle"); the **iPhone should be more like the iPad Pro** (USB-C /
+120 Hz / boxy / 6 GB); the **modular Mac Pro** (the video-editor's most-wanted); the **Model Y / EV wave** + the
+mission statement **"a big reason I started AutoFocus is to see if EVs are actually any good"**; the hype-discipline
+skips (5G, AirPower). **(3) AUTONOMY, first-hand** (Driverless Taxi): a **fully-driverless Yandex ride on real Vegas
+streets** — "this really feels like the future"; the **sensor-fusion teach-the-mechanism** (lidar/radar/camera,
+250 m, red/green paths); "concept autonomous interiors feel useless while still concepts"; the taxi deployment
+model; **optimism for self-driving.** **(4) PRODUCTION — the "frictionless one-button studio"** (UnboxTherapy BTS):
+"walk in, sit down, hit one button, everything turns on, record — remove any barrier between an idea and recording
+it" (extends his frictionless-turn-footage-into-videos philosophy). **(5) Design taxonomy** — the **notch-avoidance
+map** (Mi Mix 3 manual slider — manual beats motorized on durability; the BlackBerry-Priv-was-grippy materials-
+follow-function insight) + the **hole-punch as the 2019 notch-avoidance** ("still a notch — put it in the middle").
+**(6) The expectation-Delta disappointment framing** (Pixel Slate "tablet bust of the year" — great hardware killed
+by Chrome-OS lag; "terrible rarely becomes great"; the Chrome-OS-tablet-beats-the-iPad-at-laptop-replacement
+observation). **(7) CES-vaporware-vs-real** (Rollable OLED TV; + the variable-aspect-ratio idea; confirms he owns a
+wallpaper TV).
+
+**Next iteration: run Stage S (synthesis pass 17)** — the 2018 era is complete, debt is 6 batches / 47 sources.
+Promote the accumulated H2-2018 material into topics + persona (the Blind-Test "brighter-wins" insight, the
+EV-competition "convenience is the moat" framework + autonomy optimism, the YouTube-Rewind advertiser-vs-creator
+Delta + the 2018 biography ledger, the "no-risk-is-the-curse" + ARM-chips-in-Macs thread, the vertical-integration
+insight, the "incredible-hardware-held-back-by-software" iPad thesis, the notch-catch-22 / brighter-photo-wins /
+hole-punch / slider design threads, the frictionless-studio philosophy), then recompile the system prompt (v17).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Nov 19 → Dec 15, 8/8 ingested (closing out 2018: the Blind Camera Test + Tesla 'Killers' + YouTube Rewind + Auto Focus Ep. 4)
 
 Stage B. Ingested the end of 2018 to L2 (1057→**1065**): **RIP Apollo (for now)**, **My Favorite Wireless
