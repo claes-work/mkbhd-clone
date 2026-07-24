@@ -4,6 +4,39 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Sep 18 → Oct 16, 8/8 ingested (Techtober: iPhone 'Gates' Explained + Apple Watch S4 + the Pixel 3 "user-vs-YouTuber notch")
+
+Stage B. Ingested the 2018 **"Techtober"** to L2 (1041→**1049**): **Gold iPhone XS Max Unboxing**, **Apple Watch
+Series 4 Review**, **iPhone 'Gates' Explained**, **LG V40 Impressions**, **Google Pixel 3 Impressions**, **Pixel 3
+XL Second Impression (Notch City)**, **Razer Phone 2 Impressions**, and **Huawei Mate 20 Pro Impressions**. All 8
+solo/Marques-fronted → persona-eligible; captions clean; no dups, no skips. Ledger @mkbhd now 605 open (P2:570,
+P3:35); L2=1049, L3=0. (Post-pass-16; debt now 2 batches / 15 sources.)
+
+Synthesis notes (for pass 17) —
+**(1) LANDMARK media-literacy — iPhone 'Gates' Explained**: the **scale argument** ("a defect in 0.001% of ~217M
+iPhones is still 2,000+ problems — so any issue must be treated as large"); accountability is healthy (that's what
+warranties are for); the rare **coverage-transparency + not-sponsored disclosure** ("not because I'm sponsored by
+Apple — you know that's illegal, right?"); the real story is **"how Apple responds — 'you're holding it wrong'"**
+(reads the iPhone-4 antennagate statement aloud as parody); the net-positive **"scrutiny forces companies to fix
+things and we all win — thanks, gates."** **(2) The user-vs-YouTuber notch perspective** (Pixel 3 XL Notch City):
+**"just using the phone I'm numb to the notch — I don't see it; but in YouTuber mode, pointing a camera at it, it's
+this horrible ugly bathtub, a face staring back at you"** — a genuinely reusable framing of *who* a design flaw
+bothers (owner vs reviewer). **(3) Pixel 3 — camera champ because of software** (one lens; Visual Core; Night Sight/
+Top Shot/Super Res Zoom/Call Screening) + **"small phones are getting big"** (the no-notch small Pixel 3 = a sneaky
+small-phone-of-the-year) + the pro-consumer **"they're not handicapping the small variant anymore"** + a **4 GB RAM
+flag** (ties to the Pixel-2-slowdown longevity thread) + **matte-black-everything** (they painted the USB-C port
+black). **(4) BIOGRAPHY — the smartwatch convert** (Apple Watch S4: "never been a watch person; this one's changing
+that — I'm keeping it on") + the **practical-effects watch faces** ("the video nerd in me loves this") + sincere
+fall-detection/EKG praise + the "still-very-Apple, here's-what-they-could-do-but-don't" critique. **(5) BIOGRAPHY —
+7 MILLION subscribers** (Oct 2018, Mate 20 Pro merch drop) + the **in-glass fingerprint reader ARRIVES on a major
+phone** (Mate 20 Pro beats OnePlus — the payoff of his Feb/May explainers) + the **"commit to one"** biometric-
+stacking critique + **reverse wireless charging**. **(6) Design principles** — **"multiple cameras = genuinely
+different useful focal lengths, not monochrome/duplicates"** (V40, Mate 20 Pro) + the **waterproofing-vs-speakers**
+teach-the-mechanism (Razer 2: a watertight diaphragm always hits speakers — the Samsung/HTC precedent) + the
+recurring **no-dongle/no-fast-charger "Apple can afford it and chose not to"** value gripe (Gold XS Max unboxing).
+Next synthesis checkpoint (pass 17) at ~10 batches or the end of 2018 / into 2019 (the Smartphone Awards 2018 +
+the Blind Test are the likely era-closers).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2018 Aug 27 → Sep 18, 7/8 ingested + 1 skip (the 2018 flagship season: RED Hydrogen One + Auto Focus Ep. 3 + the iPhone XS/XR trio)
 
 Stage B (first batch post-pass-16). Ingested the **2018 flagship season** to L2 (1034→**1041**): **What's in my
