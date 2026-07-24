@@ -634,6 +634,62 @@ rules._
 - **"I was wrong" (recurring 2023).** A public reversal on the Flip 5 ("one of the biggest updates yet"; "you can't
   ace a foldable without acing the hinge"); the moon-mode correction ("I should have run the experiment"). [2023-08-09] ([[../../sources/2023-08-09-yt-WuljKartv2U]]) · [2023-03-13] ([[../../sources/2023-03-13-yt-1afpDuTb-P0]])
 
+## 2024 additions (synthesis pass 23, 2026-07-24)
+_From the 2024 corpus + early 2025 (through the S25 launch) — the review ethics get stated outright, the AI-feature
+lenses get named, and the Apple-pricing/"spec bump" critiques harden._
+- **"Do Bad Reviews Kill Companies?" — the review ethics, stated outright.** Bad *products* kill companies, not
+  reviews; **"a review is worthless if it's not honest"**; his only duty is to the viewer, never to the maker; he's
+  **"never invested in what I cover"**; honest reviewers converge on the same verdict independently; a review only
+  *accelerates* what was already happening. The clearest single statement of the reviewer-ethics thread.
+  [2024-04-16] ([[../../sources/2024-04-16-yt-QztFpzKsdeA]])
+- **The overrated/underrated per-feature lens + "quick vs fast."** Instead of one verdict, grade each feature as
+  overrated or underrated; and distinguish **quick** (instant response) from **fast** (high top speed) — the
+  Cybertruck is quick but the build/panel-gaps undercut it. [2024-03-29] ([[../../sources/2024-03-29-yt-O0cs8aIXgkc]])
+- **The AI-feature triage: useful / meh / gimmick + "what is a photo?"** Sort each new AI feature into useful, meh,
+  or gimmick rather than hyping the category (Pixel 9); Reimagine and Add Me push the honest question **"what is a
+  photo?"** now that the phone invents content that was never there. [2024-08-21]
+  ([[../../sources/2024-08-21-yt-EGkGRs6YhoM]])
+- **"Smartphone cameras are like headphones' EQ" + the iPhone Camera Control.** No camera is objectively best —
+  each maker tunes its own "EQ curve," a matter of taste; the iPhone 16 Camera Control's tone slider makes that
+  tuning user-adjustable, and the **16 Pro camera is a real step up**, not the usual incremental bump. Plus **"I
+  can't use a 60 Hz $800 phone in 2024."** [2024-09-23] ([[../../sources/2024-09-23-yt-MRtg6A1f2Ko]])
+- **The five pillars of a great smartphone + "AI isn't a pillar yet"; the three 2025-flagship trends.** Restates
+  the pillars and explicitly rules AI out of them for now; the three defining 2025-flagship hardware trends are the
+  **silicon-carbon battery ("the best thing to happen to batteries since the modern smartphone began")**, the
+  **Snapdragon 8 Elite**, and **record-bright displays**. [2025-01-07] ([[../../sources/2025-01-07-yt--kuG6RgL32c]])
+- **"No competition → complacency / the tables have turned" (S25 Ultra).** A bare-minimum spec bump because Samsung
+  faces no real pressure; Samsung is now the go-to *safe* option, but the Ultra is exactly the phone that **should**
+  be crammed with features — so **"why buy anything else" has flipped to "you could buy anything else."** The S25
+  first impressions: a **"textbook spec bump… basically a Galaxy S24S."** [2025-02-05]
+  ([[../../sources/2025-02-05-yt-a4NJNdHqs_I]]) · [2025-01-22] ([[../../sources/2025-01-22-yt-SAb4zRyxrD4]])
+- **"However powerful it is, it's still an iPad" — hardware outpaces software.** The M4 iPad Pro's silicon is
+  wasted because iPadOS caps it, and **Apple has Macs to protect**, so it won't let the iPad become a laptop.
+  [2024-05-08] ([[../../sources/2024-05-08-yt--T0MGehwWvE]]) · [2024-05-22] ([[../../sources/2024-05-22-yt-PHcDrXeyguM]])
+- **"'Starting at' is the biggest lie in tech" + the Apple price ladder.** The M3 MacBook Air "reasons not to buy
+  it" (the base storage/RAM traps); buy the **base** model, because Apple's above-base upgrade pricing is brutal —
+  the M4 Mac mini is a great deal at the entry price and a bad one configured up. [2024-03-20]
+  ([[../../sources/2024-03-20-yt-HN-WH7C4K0Q]]) · [2024-11-07] ([[../../sources/2024-11-07-yt-z19HM7ANZlo]])
+- **Apple Silicon keeps stacking + "all laptops should have this."** M1→M4 is roughly a 200% gain across four
+  generations; the M4 Max MacBook Pro's **nano-texture display** is good enough that "all laptops should have this."
+  [2024-11-18] ([[../../sources/2024-11-18-yt-9HQx5pgUoiY]])
+- **"The second generation tells you a lot" + "two phones in one" = the ideal foldable.** Gen-2 is where a folding
+  design proves itself; the Pixel 9 Pro Fold is **"my favorite flagship foldable ever,"** beating the OnePlus Open —
+  but wait for the custom Tensor. [2024-09-26] ([[../../sources/2024-09-26-yt-nK9zxuXa3OA]])
+- **The budget-phone rule — "find the corner they cut; avoid the *artificial* cuts."** Every cheap phone cuts
+  something; the job is to find where and reject cuts that are artificial rather than necessary — the **Nothing
+  Phone 2A**, and the **CMF Phone 1 "engineered to look cool" at $200**. [2024-03-05]
+  ([[../../sources/2024-03-05-yt-VdOlqcg9uMQ]]) · [2024-07-08] ([[../../sources/2024-07-08-yt-_q45HmRIM08]])
+- **"Don't ship the obvious killer feature and you're an overpriced clone."** The Sonos Ace — **"you had one job"** —
+  is Bluetooth-only and misses the obvious Wi-Fi/ecosystem integration Sonos was built for; the Dyson OnTrac at
+  least aims squarely at the neglected AirPods Max. [2024-06-03] ([[../../sources/2024-06-03-yt-6_3cLlSlTKw]]) ·
+  [2024-08-26] ([[../../sources/2024-08-26-yt-iGYpj2gFu9Q]])
+- **"Once Apple calls something a 'redesign,' expect years of even smaller changes."** The Apple Watch Series 10 —
+  a "redesign" that resets the clock for another run of incremental years. [2024-09-17]
+  ([[../../sources/2024-09-17-yt-Ir1xi2zeuug]])
+- **Pixel is "the smartest smartphone in the room" — but the two-assistants mess.** The Pixel leads on
+  software/AI, yet the overlapping **Gemini-vs-Google-Assistant** split is a genuine confusion he calls out.
+  [2024-05-07] ([[../../sources/2024-05-07-yt-B3szaVzQx0o]]) · [2024-08-21] ([[../../sources/2024-08-21-yt-EGkGRs6YhoM]])
+
 ## Recurring franchises (as review formats)
 - **Smartphone Awards** (annual buyer's guide) → see [[../smartphones/smartphones|Smartphones hub]].
 - **Blind Smartphone Camera Test** (unbiased ELO-scored evaluation) → see [[../smartphones/smartphones|Smartphones hub]].

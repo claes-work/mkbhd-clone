@@ -426,6 +426,43 @@ _From the 2020 corpus — a run of durable Apple-behavior, market-structure, pri
 - **The mixed-reality sliding scale.** VR headsets shrink and smart glasses grow, racing toward each other; "which
   side hits mass adoption first?"; "we're barreling toward a computers-on-our-faces future." [2023-10-17] ([[../../sources/2023-10-17-yt-_XdD-TQseU4]])
 
+## 2024 additions (synthesis pass 23, 2026-07-24)
+- **"AI is a feature, not a product."** The product-vs-feature question decided in favor of features: the Clubhouse
+  cautionary tale (a feature everyone copied, not a lasting product), features usually beat standalone products, with
+  TikTok the exception that proves the rule — "Humane and Rabbit were doomed from the start." Plus the frontier-model
+  barrier: training frontier models is a giants-only game — "maybe the last big set of models." [2024-06-20] ([[../../sources/2024-06-20-yt-sDIi95CqTiM]])
+- **The Apple Intelligence verdict — "the promise is starting to fade."** The could-you-vs-should-you lens; the
+  on-device Photos eraser beats Google's; "the best thing was the base-memory bump (16 GB base Macs)." Set up by WWDC:
+  on-device-first + Private Cloud Compute, "ChatGPT is about as unintegrated as it gets," AI saved for the back half /
+  the "Apple Intelligence" branding, and the iPad's Math Notes. [2024-11-22] ([[../../sources/2024-11-22-yt-haDjmBT9tu4]]) ·
+  [2024-06-11] ([[../../sources/2024-06-11-yt-qkYoBNdcXBU]])
+- **"Developing tech backwards" — ship then finish it.** Shipping unfinished makes a product un-reviewable — "buy it
+  for what it is today" (the Rabbit R1) — but "times have changed": even Apple now ships unfinished (the iPhone 16), so
+  it comes down to trust + a track record. [2024-04-30] ([[../../sources/2024-04-30-yt-ddTV12hErTc]]) · [2024-09-23] ([[../../sources/2024-09-23-yt-MRtg6A1f2Ko]])
+- **"Is the iPhone Illegal?" — the walls, not the integrations.** iMessage is the thickest wall ("buy your mom an
+  iPhone"); healthy competition = "lots of gardens, few walls" (China/WeChat); and every big company has a public
+  reason and a real reason. [2024-04-07] ([[../../sources/2024-04-07-yt-qcH2wgRLiV8]])
+- **"Copy the good stuff" (crystallized) + the failure mode.** The copy-the-good-stuff lens hardened, plus the way it
+  goes wrong: dropping the beloved differentiator, and a cheaper sibling cannibalizing the flagship. [2024-07-23] ([[../../sources/2024-07-23-yt-UKffsivi17Q]])
+- **"No competition → complacency / the tables have turned."** And "Samsung is the go-to safe option" — no US traction
+  for Vivo/Xiaomi/Oppo. [2024-08-21] ([[../../sources/2024-08-21-yt-EGkGRs6YhoM]]) · [2025-02-05] ([[../../sources/2025-02-05-yt-a4NJNdHqs_I]])
+- **Windows on ARM — "does your software run on ARM?"** Native / emulated / broken = the Apple Intel→ARM transition
+  redux; plus the battery-life quantum leap. [2024-08-03] ([[../../sources/2024-08-03-yt-vJEbP2Vdq2U]])
+- **The durability-vs-repairability sliding scale.** [2024-06-07] ([[../../sources/2024-06-07-yt-8reaJG7z-is]])
+- **AI video (Sora) — object permanence + physics are the tells.** Watermarks are croppable → "can't believe anything
+  online"; training-data provenance unresolved; and "this is the worst it'll ever be." [2024-12-09] ([[../../sources/2024-12-09-yt-OY2x0TyKzIQ]])
+- **The AR Goldilocks zone made concrete.** Orion vs Snap; the EMG wristband as a landmark input; "ship a
+  never-for-sale prototype as PR" vs "ship a raw dev kit early." Plus Android XR — in headsets the differentiator is
+  software (Play Store + Gemini), and the Vision Pro's lack of AI is a widening weakness. [2024-11-01] ([[../../sources/2024-11-01-yt-G0eKzU_fV00]]) ·
+  [2025-01-27] ([[../../sources/2025-01-27-yt-az5QL_NLBvg]])
+- **"Small phones are dead."** Positive reviews aren't success and negative reviews aren't why something died — the
+  enthusiast-phone dilemma. [2024-03-14] ([[../../sources/2024-03-14-yt-iR9zBsKELVs]])
+- **"Android has stabilized — the interesting progress moved to AI, which increasingly lives outside the OS."**
+  [2024-05-28] ([[../../sources/2024-05-28-yt-kkX8_nbBqBQ]])
+- **"Apple keeps removing things" + "ships with zero of the advertised AI."** The iPhone 16 unboxing read. [2024-09-18] ([[../../sources/2024-09-18-yt-h3BKjZMGoIw]])
+- **The every-Galaxy-S retrospective.** "Samsung will try anything / throw stuff at the wall"; the Note 7 = the
+  greatest PR disaster; the Exynos split failed. [2024-03-02] ([[../../sources/2024-03-02-yt-eKVTFXQPAhs]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

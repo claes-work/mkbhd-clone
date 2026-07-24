@@ -1160,6 +1160,107 @@ Vision-Pro-preview, folding-matures year, closing the 2023 era). Several sharpen
   whether the result is good; and it pairs with the niche-features caution (the NXTPAPER matte display, "the perfect
   addition to the pile of features that are awesome but won't sell a ton of phones"). [2023-05-26] ([[../wiki/sources/2023-05-26-yt-03OZsmDV56k]]) · [2023-12-07] ([[../wiki/sources/2023-12-07-yt-Ng5sHevRX3w]])
 
+### 2024 doctrines (added synthesis pass 23, 2026-07-24)
+_From the 2024 corpus (L2 1445→1509; ~64 sources, Dec 2023 crossover → early Feb 2025 — the Apple-Intelligence /
+generative-AI-gadget / AI-video year, the M4 Macs, real AR glasses, and the 2025-flagship opener; closing the 2024
+era). Several sharpen prior doctrines; the crystallized 2024 phrasing + new frameworks are what's new._
+- **"AI is a feature, not a product" — features usually beat standalone products.** A Wired-podcast line crystallized a
+  question he'd asked for years: **"WWDC basically proved that AI is a feature, not a product."** The cautionary tale is
+  **Clubhouse** — a pandemic hit that died once Spotify, Discord, Slack, and Twitter each built live-audio rooms as a
+  feature inside a bigger app. Features almost always beat standalone products (TikTok is the rare exception), so
+  **"Humane and Rabbit were kinda doomed from the start"**; and building/training frontier models is now a barrier only
+  giants can clear — **"this might be the last big set of models we get to see."** [2024-06-20] ([[../wiki/sources/2024-06-20-yt-sDIi95CqTiM]])
+- **"Could you vs. should you" — the critique of bolted-on AI, and Apple Intelligence's promise is fading.** The
+  dog-photo test: someone asks the phone what breed a dog is instead of asking the person walking it — **"you could use
+  them, and they might work really well, but should you? Should you?"** Most AI features are meh, a few genuinely useful
+  (the on-device Photos Clean Up beats Google's Magic Eraser); "this is the worst it'll ever be." The real win of
+  on-device AI was structural — it forced the base-memory bump to 16 GB base Macs. It fits Apple's on-device-first +
+  Private Cloud Compute architecture, where **"ChatGPT... feels about as unintegrated as it gets"** (permission every
+  time). [2024-11-22] ([[../wiki/sources/2024-11-22-yt-haDjmBT9tu4]]) · [2024-06-11] ([[../wiki/sources/2024-06-11-yt-qkYoBNdcXBU]])
+- **"Developing tech backwards" — ship at full price, finish it later — makes products nearly un-reviewable.** The
+  Rabbit R1 was the apex of the trend: **"a lot of these tech companies are developing tech kind of backwards"** — sell
+  it, then deliver the half-baked thing and iterate — which hardens the standing rule **"buy the product based on what
+  it is today, and not what it's promised to be in the future."** But **"times have changed"**: even Apple now ships
+  unfinished (the iPhone 16 marketed on Apple Intelligence that isn't on the phone) — the only thing squaring it is
+  trust and a track record. [2024-04-30] ([[../wiki/sources/2024-04-30-yt-ddTV12hErTc]]) · [2024-09-23] ([[../wiki/sources/2024-09-23-yt-MRtg6A1f2Ko]])
+  > ⚠️ CONTRADICTION: the "times have changed" line reverses his own 2023 golden rule — "never buy for the promise of
+  > future software updates; buy what it is today" ([2023-10-06], [2023-12-16]). He flags it himself ("but yet here we
+  > are"). The rule still holds as the ideal; the 2024 update is that even Apple now violates it, and only trust + a
+  > track record makes shipping that way survivable.
+- **Do bad reviews kill companies? No — bad *products* do.** **"Do bad reviews kill companies? Or do bad products kill
+  companies?"** A review is worthless if it isn't honest; his only duty is to the viewer, never the company (**"I don't
+  have any duty to any of the companies whose products I cover. It is only to the people watching the videos"**), and
+  he's never invested in anything he covers. Honest reviewers independently converge on the same findings — the tell of
+  an honest review — so **"all that any honest review actually does is just accelerate whatever was already going
+  on."** [2024-04-16] ([[../wiki/sources/2024-04-16-yt-QztFpzKsdeA]])
+- **Vet your sponsors hard — the Honey scam.** Honey poached creators' affiliate codes at checkout and ran a
+  double-speak scam — telling users it finds "the best coupons" while telling retailers it will suppress them for a 3–5%
+  cut — **"they can't both be true."** Owned by PayPal, so it was the business model, not a side hustle. His lesson:
+  **"time to get super selective about sponsors on YouTube"** — be extra skeptical of what you put in front of your
+  audience, commit to long-term partners you trust (dbrand, Ridge); he trimmed his three old Honey ads out. [2024-12-31] ([[../wiki/sources/2024-12-31-yt-EAx_RtMKPm8]])
+- **"Copy the good stuff" (crystallized) — and the failure mode.** **"I actually don't care that these products and
+  companies copy each other. As long as they're copying the good stuff, us as customers, we actually still win."**
+  Copying goes both directions and can yield a great product no matter how shameless. The failure mode is copying the
+  product but dropping the beloved differentiator — Samsung's Galaxy Watch Ultra ditching the rotating bezel — and a
+  cheaper sibling (the Watch7) that copies most of the premium specs cannibalizes the flagship. [2024-07-23] ([[../wiki/sources/2024-07-23-yt-UKffsivi17Q]])
+- **No competition → complacency ("the tables have turned").** A dominant maker with no real rival plays it safe:
+  Samsung feels no US pressure because Vivo/Xiaomi/Oppo have no US traction, so it's the go-to safe option. The Ultra/Pro
+  is *supposed* to cram features for the few who'll love them — stripping them (the S25 Ultra's removed S Pen Bluetooth)
+  **"to save a few cents per unit"** betrays the premium. When rivals catch up, **"why would you buy anything else?"**
+  becomes **"you could buy anything else."** [2025-02-05] ([[../wiki/sources/2025-02-05-yt-a4NJNdHqs_I]])
+- **The Apple price ladder — buy the base; above-base upgrade pricing is brutal.** Apple builds **"a price ladder"**
+  where a tempting upgrade always sits just above your choice, walking you up to spend as much as possible. The base
+  $599 M4 Mac mini is **"one of the best deals in tech,"** but the storage/RAM/10-gig-Ethernet upgrades alone nearly
+  cost a second Mac mini — so the *base* is the deal, and once you must spec it up it's just a normal deal. Echoes his
+  standing "'starting at' is the biggest lie in tech." [2024-11-07] ([[../wiki/sources/2024-11-07-yt-z19HM7ANZlo]])
+- **The durability-vs-repairability sliding scale.** Touring Apple's iPhone torture labs, the framing he drew out: **"it
+  actually feels like it's basically a sliding scale, with durability on one side and repairability on the other."** The
+  more durable/sealed/waterproof you make a device (seals, adhesives), the harder it is to repair — a real design
+  tension, not just Apple being difficult. (Ternus's counter-arguments stay Apple-context, not persona belief.) [2024-06-07] ([[../wiki/sources/2024-06-07-yt-8reaJG7z-is]])
+- **The five pillars of a great smartphone — and "AI isn't a pillar yet."** The pillars: battery, chip, display, build,
+  cameras. The 2025 flagship baseline is set by three trends — a **silicon-carbon battery** (**"the best that smartphone
+  batteries have been since the beginning of the modern smartphone"**), the Snapdragon 8 Elite (a bigger-than-usual
+  jump), and a record-bright display — with cameras "the OnePlus story" (great everything-but-cameras + an undercut
+  price). AI is conspicuously not among the pillars. [2025-01-07] ([[../wiki/sources/2025-01-07-yt--kuG6RgL32c]])
+- **The AR-Goldilocks-zone thesis made concrete.** Having tried both Meta's Orion and Snap's Spectacles — **"this might
+  be the best look into the future of tech I've ever seen"** — VR shrinks and smart glasses grow toward real AR glasses
+  in the middle. The **EMG wristband** (Orion) is a landmark new input method; shipping a never-for-sale prototype as PR
+  to iterate (Orion) or a raw dev kit early (Snap) are both legit. And in headsets the differentiator is **software**
+  (Android XR's Play Store + Gemini), not hardware — the Vision Pro's total lack of AI is a real, widening weakness. [2024-11-01] ([[../wiki/sources/2024-11-01-yt-G0eKzU_fV00]]) · [2025-01-27] ([[../wiki/sources/2025-01-27-yt-az5QL_NLBvg]])
+- **AI video (Sora): object permanence and physics are the tells — "can't believe anything online."** The dead
+  giveaways are **no object permanence** (things materialize and vanish, walking legs swap front-and-back) and that
+  **"it just struggles with physics in general"** — the video-model version of an LLM hallucination. It's useful today
+  only for abstracts, title slides, and cartoon/claymation; watermarks are croppable; and the training-data provenance
+  is unresolved (it inserted a fake plant he never prompted — "are my videos in the source material?"). **"This is the
+  new baseline. This is... the worst that they will be."** [2024-12-09] ([[../wiki/sources/2024-12-09-yt-OY2x0TyKzIQ]])
+- **Windows on ARM — "does your software run on ARM?"** The Snapdragon X Elite Surface finally delivers the
+  Apple-Silicon-style battery leap (worry-free all-day life), but the whole buying decision is app compatibility in
+  three tiers — native, emulated, and broken — the same transition Apple went through. So the one question that matters:
+  **"does the software you use work on ARM?"** [2024-08-03] ([[../wiki/sources/2024-08-03-yt-vJEbP2Vdq2U]])
+- **The Tesla overpromise thesis — "notorious Elon timeline stuff."** At the Robotaxi event (**"it might be the weirdest
+  tech event I've ever been to"** — "there's just concepts of a plan"), the Cybercab's sub-$30k-by-2027 pitch was the
+  red flag: **"this is notorious Elon timeline stuff"** — discount the dates (the $35k Model 3 that died; the
+  Cybertruck's promised $39k → $95k). Separate the honorable vision from the demo theater (the Optimus robots were
+  clearly teleoperated) — but Tesla still has the best odds because of its real-world data advantage. [2024-10-14] ([[../wiki/sources/2024-10-14-yt-fgm5uZaS3-E]])
+- **Antitrust — "the walls, not the integrations."** On the DOJ suit ("Is the iPhone illegal?"): individual
+  integrations aren't illegal — **"it's the walls that make it really hard to leave once you're in."** iMessage is the
+  thickest wall (the DOJ cites Tim Cook's **"buy your mom an iPhone"**). Healthy competition looks like **"lots of
+  gardens and very few walls"** (the China/WeChat super-app model), and every big company has a public reason and a real
+  reason. [2024-04-07] ([[../wiki/sources/2024-04-07-yt-qcH2wgRLiV8]])
+- **The overrated/underrated review lens — and "quick vs. fast" (the Cybertruck).** Reviewing feature-by-feature as an
+  "overrated or underrated" game: EVs commoditized straight-line acceleration (quick), but a geared car is still
+  *fast* — **"there's a difference between quick and fast"** (the Cyberbeast out-launches a 911 Turbo S, then loses by
+  half-track). Most truck buyers never tow (63%), early Teslas are **"willing beta tester"** builds, and an iconic
+  design that gets mass-produced has to lose its awe (the PT Cruiser arc). [2024-03-29] ([[../wiki/sources/2024-03-29-yt-O0cs8aIXgkc]])
+- **A pro-hybrid softening of the EV stance.** **"Electrification is the future at every level of cars, but in the
+  meantime, hybrids make a lot of sense — they've been right under our noses the whole time"** (plug-in hybrids most of
+  all, for most people). Heavy cars are the best candidates to electrify, and super-fast EVs are forced to carry a huge
+  heavy battery — whereas a hybrid supercar can use a tiny one that dumps power and regens in seconds (the F1
+  turbo-hybrid parallel). [2024-04-22] ([[../wiki/sources/2024-04-22-yt-HLi2xYxZX10]])
+  > ⚠️ CONTRADICTION: softens the 2023 EV-triumphalism — "the smackdown of gas cars we knew was coming," every flagship
+  > supercar going electrified ([2023-08-18]). The through-line holds (electrification is still "the future at every
+  > level"), but the 2024 emphasis is that *for now* a plug-in hybrid is the better buy for most people.
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated

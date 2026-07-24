@@ -560,3 +560,46 @@ descends from._
 - **"Being a new phone company is really hard, unless your name is Carl Pei, apparently."** — the wry-aside register
   (the crypto phone). [2023-09-07] ([[../wiki/sources/2023-09-07-yt-hRSMJGs0YMg]])
 - **"What a time to be alive."** — the wonder register (mixed reality). [2023-10-17] ([[../wiki/sources/2023-10-17-yt-_XdD-TQseU4]])
+
+## 2024 register (added synthesis pass 23, 2026-07-24)
+
+- **"Could you... but should you?"** — the could-you-vs-should-you rhetorical cadence for critiquing bolted-on AI
+  features (the Apple Intelligence dog-photo keynote clip): "You could use them, and they might work really well, but
+  should you? Should you?" [2024-11-22] ([[../wiki/sources/2024-11-22-yt-haDjmBT9tu4]])
+- **"This is the worst it'll ever be."** — the standing AI refrain, restated on Sora ("it's the worst it'll ever
+  be"). A calibrated-optimism register that dates any AI verdict to the moment. [2024-12-09] ([[../wiki/sources/2024-12-09-yt-OY2x0TyKzIQ]]) · [2024-11-22] ([[../wiki/sources/2024-11-22-yt-haDjmBT9tu4]])
+- **"What is a photo anyway?" / "What is a photo?"** — the recurring AI-photo-editing aside register (Reimagine, Add
+  Me, Magic Editor), carried through 2024. [2024-08-21] ([[../wiki/sources/2024-08-21-yt-EGkGRs6YhoM]]) · [2024-08-13] ([[../wiki/sources/2024-08-13-yt-63EVXf_S4WQ]])
+- **"The tables have turned."** — the how-fast-things-flipped register (the S25 Ultra: last year "why would you buy
+  anything else?", this year "you could buy anything else"). [2025-02-05] ([[../wiki/sources/2025-02-05-yt-a4NJNdHqs_I]])
+- **"The bar has been set."** — the sets-the-year's-baseline register (the OnePlus 13, opening the 2025 flagship
+  season). [2025-01-07] ([[../wiki/sources/2025-01-07-yt--kuG6RgL32c]])
+- **"If you're gonna copy stuff, copy the good stuff."** — the copying-is-fine-if-it's-the-good-stuff register (the
+  OnePlus 13's Dynamic Island copycat; the definitive framed version in "When Companies Copy Each Other," "as long as
+  they're copying the good stuff, us as customers still win"). [2024-07-23] ([[../wiki/sources/2024-07-23-yt-UKffsivi17Q]]) · [2025-01-07] ([[../wiki/sources/2025-01-07-yt--kuG6RgL32c]])
+- **"There's a difference between quick and fast."** — the debunk-the-spec register (the Cybertruck's straight-line
+  acceleration: EVs commoditized quick, geared cars are still fast). [2024-03-29] ([[../wiki/sources/2024-03-29-yt-O0cs8aIXgkc]])
+- **"The weight of the publish button is heavy."** and **"Pressure is a privilege."** — the responsibility-of-the-
+  platform register (the year-in-review, on the negative-review debate and being a very visible creator). [2024-12-28] ([[../wiki/sources/2024-12-28-yt-LCpm7cNQ5Vo]])
+- **"You either get it or you don't."** — the niche-product-with-just-enough-missing register (the Boox Palma, a
+  charming offline reader). [2024-08-30] ([[../wiki/sources/2024-08-30-yt-xwTub7_we0w]])
+- **"They didn't have to go this hard, but they did."** — the credit-the-ambition register (the tri-fold). [2024-10-20] ([[../wiki/sources/2024-10-20-yt-Yv_S7KrOlfk]])
+- **"The best camera is the one you have with you."** — the invoke-the-famous-line register (the phone-as-camera
+  piece). [2024-11-11] ([[../wiki/sources/2024-11-11-yt-S6qznDLlHRQ]])
+- **"Smartphone cameras are like headphones' EQ."** — the explain-computational-photography-by-analogy register (each
+  phone applies its own tone curve, like an EQ preset). [2024-09-23] ([[../wiki/sources/2024-09-23-yt-MRtg6A1f2Ko]])
+- **"It's a button."** — the call-it-what-it-is register (insisting the iPhone Camera Control is a button when Apple
+  refused to say the word: "Nobody at Apple is allowed to call it a button; I'm gonna call it a button"). [2024-09-18] ([[../wiki/sources/2024-09-18-yt-h3BKjZMGoIw]]) · [2024-09-23] ([[../wiki/sources/2024-09-23-yt-MRtg6A1f2Ko]])
+- **"That's 100% on me."** / **"If we're going to dish it, we've got to be able to take it too."** — the own-the-
+  mistake / building-in-public-cuts-both-ways register (the Panels app launch backlash). [2024-10-11] ([[../wiki/sources/2024-10-11-yt-65ciAONXv0M]])
+- **The self-deprecating "as a large language model, I cannot help... just kidding — I wrote this myself"** — the
+  disarm-with-a-meta-joke register (the commencement-address opener). [2024-05-23] ([[../wiki/sources/2024-05-23-yt-a7ItChBrY8E]])
+- **"Horrifying and inspiring at the same time"** (Sora); **"concepts of a plan"** (the Robotaxi event); **"why do
+  these exist?"** (Dyson OnTrac); **"you had one job"** (Sonos Ace) — the compressed-title-verdict register, a whole
+  review distilled into one wry line. [2024-12-09] ([[../wiki/sources/2024-12-09-yt-OY2x0TyKzIQ]]) · [2024-10-14] ([[../wiki/sources/2024-10-14-yt-fgm5uZaS3-E]]) · [2024-08-26] ([[../wiki/sources/2024-08-26-yt-iGYpj2gFu9Q]]) · [2024-06-03] ([[../wiki/sources/2024-06-03-yt-6_3cLlSlTKw]])
+- **Structural: the "overrated or underrated?" per-feature game** — reviewing a product by scoring each feature
+  overrated/underrated in turn (the Cybertruck). [2024-03-29] ([[../wiki/sources/2024-03-29-yt-O0cs8aIXgkc]])
+- **Structural: the useful / meh / gimmick AI triage** — sorting a device's AI features into three buckets rather
+  than one verdict (the Pixel 9). [2024-08-21] ([[../wiki/sources/2024-08-21-yt-EGkGRs6YhoM]])
+- **"Holy nits!" / "putting up Wilt Chamberlain numbers."** — the exuberant-benchmark register for a record-breaking
+  spec (the OnePlus 13's 4,500-nit display). [2025-01-07] ([[../wiki/sources/2025-01-07-yt--kuG6RgL32c]])

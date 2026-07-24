@@ -6,11 +6,45 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1445 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
+Synthesized through: **1509 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
 L2=1034 (H1 2018), pass 17 through L2=1073 (the 2018 era complete), pass 18 through L2=1153 (the 2019 era complete),
 pass 19 through L2=1236 (the 2020 era complete), pass 20 through L2=1309 (the 2021 era complete), pass 21 through
-L2=1389 (the 2022 era complete), PLUS **pass 22's whole of 2023 (2026-07-24) — L2 1389→1445, ~56 sources; the 2023
-era is now complete.** The landmarks: **"pay attention to the words"** (Apple never says VR/AI — control +
+L2=1389 (the 2022 era complete), pass 22 through L2=1445 (the 2023 era complete), PLUS **pass 23's whole of 2024 →
+early Feb 2025 (2026-07-24) — L2 1445→1509, ~64 sources; the 2024 era is now complete.** The landmarks: **"AI is a
+feature, not a product"** (the product-vs-feature question; the Clubhouse cautionary tale; "Humane and Rabbit were
+doomed from the start"; frontier models are a giant-only barrier); the **Apple Intelligence verdict** ("the promise is
+starting to fade"; **"could you vs should you"**; the on-device Photos eraser beats Google's; **"the real win was the
+16 GB base-memory bump"**; on-device-first + Private Cloud Compute); **"developing tech backwards"** but **"times have
+changed"** (even Apple ships unfinished → trust + a track record); **"do bad reviews kill companies? no — bad
+*products* do"** ("my only duty is to the viewer"; "I'm never invested in what I cover"; "a review only accelerates
+what was already going on"); **vet your sponsors** (the Honey scam — affiliate-poaching + the double-speak; owned by
+PayPal); **"copy the good stuff"** + the failure mode (dropping the beloved differentiator; a cheaper sibling
+cannibalizing the flagship); **"no competition → complacency / the tables have turned"** (Samsung is the go-to safe
+option; the Ultra should cram features); the **Apple price ladder**; the **five pillars** + "AI isn't a pillar yet" +
+the **three 2025 trends** (silicon-carbon battery / Snapdragon 8 Elite / record display); the **AR-Goldilocks-zone**
+made concrete (Orion vs Snap; the EMG wristband; Android XR — software is the differentiator; the Vision Pro's no-AI
+weakness); **AI video (Sora)** (object permanence + physics are the tells; "can't believe anything online"; "the worst
+it'll ever be"); **Windows on ARM** ("does your software run on ARM?"); the **durability-vs-repairability sliding
+scale**; **"is the iPhone illegal?"** (the walls, not the integrations; "lots of gardens, few walls" — the China/
+WeChat model); the **Cybertruck "quick vs fast"** + the **Tesla Robotaxi overpromise** ("notorious Elon timeline
+stuff"; the teleoperated Optimus; "Tesla still has the best odds — the data advantage"); a **pro-hybrid softening**;
+and **"the best camera is the one you have with you"** (lower production value draws people; "the broadcast is ~99% of
+how people know a sport"). Biography: **World Ultimate GOLD (Team USA Mixed — scored the championship point)**;
+**joined Ridge as chief creative partner**; **launched Panels** (the roasting → "building in public: if we dish it, we
+take it"); **sold the Tesla Model S** (now ~95% the matte-black Porsche 911 Turbo S); **Time 100 Most Influential in
+AI**; the **Stevens commencement + honorary doctorate**; the **FBI/Escobar-Fold story**; the **Lamborghini speeding-
+clip apology**; **"pressure is a privilege"; "the weight of the publish button is heavy"; 2025 = "back to basics,
+quality over quantity."** Topic hubs got pass-23 "2024 additions" sections (**tech-reviews / tech-industry-commentary
+/ ev-cars / production-filmmaking / creator-business**); `persona/beliefs.md` (a "2024 doctrines" subsection — 17
+doctrines, 2 contradiction callouts), `persona/voice.md` (a "2024 register" — 18 entries), `persona/biography.md` (a
+2024 anchors section — 15 beats), and `persona/system-prompt.md` recompiled **v22→v23** (1445→1509 sources; "through
+early Feb 2025"; a woven 2024 lens cluster). Covers every `wiki/sources/` page that was L2 as of 2026-07-24 at the
+1509-source mark. Next checkpoint at ~10 more ingest batches or the next era boundary (through 2025). Resume Stage B
+ingest into 2025 next iteration.
+
+### (superseded) pass 22 high-water detail
+Synthesized through **1445 L2 sources** — pass 22's whole of 2023 (2026-07-24; L2 1389→1445, ~56 sources; the 2023 era
+complete). The landmarks: **"pay attention to the words"** (Apple never says VR/AI — control +
 comparison; they name everything to make it harder to compare); **"you can be a good phone and not new"** (the
 late-mover advantage; the $800 iPhone 15's 60 Hz display withheld to widen the Pro gap; software-locked hardware);
 **iPhone vs Android has no objective winner** (the seven-category rubric — "rate and weight it yourself"; he mains

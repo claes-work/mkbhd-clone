@@ -273,5 +273,33 @@ _From the H2-2018 corpus (L2 1034→1073)._
 - **Still the M1 Max — edits 4K on the laptop on the go.** Ordered then canceled the M3 Max; the M1 Max still handles
   his Canon R5 4K in Final Cut Pro (a 3-year testament). And shot @AutoFocus videos on the Pixel 8 Pro / Pixel Fold. [2023-11-09] ([[../../sources/2023-11-09-yt-ZWgr7qP6yhY]])
 
+## 2024 additions (synthesis pass 23, 2026-07-24)
+- **"How My Video Gear is Changing" — the media-playbook shift toward spontaneity.** A dated statement that his
+  own production philosophy is evolving: **"lower production value draws people — they want real life"**, and
+  **"cameras get harder to use as you graduate"** (up the ladder toward cinema gear). He wants to **shoot more
+  spontaneously / on-location, not just talking-head**; the **action camera is now the apex tool** for that (not
+  the phone — "you don't risk your phone"), and **"the best camera is the one you have with you"** — while he
+  still loves the RED/cinema cameras for the studio work. A candid update to his long-standing gear-maximalism.
+  [2024-11-11] ([[../../sources/2024-11-11-yt-S6qznDLlHRQ]])
+- **"The broadcast is ~99% of how people experience a sport" — why broadcast tech matters.** The producer's-eye
+  reason he covers sports-broadcast technology. The golf shot tracer is **measured (TrackMan radar), not
+  AI-predicted**; and the **PGA Tour Vision Pro app is the F1 mockup made real** (the spatial second-screen concept
+  he'd previously imagined, now shipping). [2024-06-27] ([[../../sources/2024-06-27-yt-MV1qaFv4VUg]])
+- **AI video (Sora) from a filmmaker's lens.** Useful today **only for abstracts / title-slides / claymation**;
+  **no object permanence**, and it **struggles with physics** — the working-filmmaker verdict on generative video,
+  a concrete narrowing of the "AI is a tool, not a Creator" thread. [2024-12-09] ([[../../sources/2024-12-09-yt-OY2x0TyKzIQ]])
+- **The editing workflow on Apple Silicon (M4 era).** Real-workflow gear notes: **M1→M4 ≈ 200%** on his exports;
+  the **Final Cut Magnetic Mask** AI-roto as his benchmark; the **nano-texture display "all laptops should have
+  this"**; **Thunderbolt 5** for moving large media files; and the **portable-workstation M4 Pro Mac mini** — the
+  spiritual successor to the "iMac-Pro-in-a-Pelican-case" travel-editing history. [2024-11-18]
+  ([[../../sources/2024-11-18-yt-9HQx5pgUoiY]]) · [2024-11-07] ([[../../sources/2024-11-07-yt-z19HM7ANZlo]])
+- **Apple's iPhone durability-testing labs (the producer's-eye field trip).** The **drop-robot rig + Phantom
+  high-speed cameras** used to test phones, and his framing of the **durability-vs-repairability sliding scale**
+  (a design trade-off, not a fixed win). [2024-06-07] ([[../../sources/2024-06-07-yt-8reaJG7z-is]])
+- **Gear/biography: the editing-desk audio chain.** He **dailies the Sennheiser HD 650 open-back at his desk for
+  editing**, and runs **Yamaha HS8 studio monitors** — a dated confirmation of the long-standing HS8 line plus the
+  specific open-back editing headphone. [2024-11-29] ([[../../sources/2024-11-29-yt-EFiHm6WjhNA]]) · [2024-08-31]
+  ([[../../sources/2024-08-31-yt-FVwV5BxJ8M4]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

@@ -334,6 +334,41 @@ _From the H2-2018 corpus (L2 1034→1073) — a platform-critique framework and 
 - **"Being a new phone company is really hard, unless your name is Carl Pei."** The classic enthusiast-phone problem
   (a cool idea some want, but not enough hype to make it happen) — the crypto phone. [2023-09-07] ([[../../sources/2023-09-07-yt-hRSMJGs0YMg]])
 
+## 2024 additions (synthesis pass 23, 2026-07-24)
+- **The review-ethics manifesto — "bad *products* kill companies, not bad reviews."** Answering "Do Bad Reviews Kill
+  Companies?": a review is worthless if it isn't honest; **"my only duty is to the viewer, never the company"**; he's
+  **never invested in what he covers** (no stock, no stake); honest reviewers converge on the same verdict; and a
+  review only *accelerates* what was already happening — it doesn't cause it. The clearest single statement of the
+  reviewer's-loyalty principle in the corpus. [2024-04-16] ([[../../sources/2024-04-16-yt-QztFpzKsdeA]])
+- **The Honey scam — "vet your sponsors."** The affiliate-code-poaching exposé: Honey told users it found the "best
+  coupons" while telling retailers it would *suppress* them — the double-speak — and being owned by PayPal *was* the
+  business model. His own accountability: **"I had 3 Honey ads — I trimmed them out."** The lesson restated as policy:
+  **"be super selective about sponsors — commit to long-term partners you trust"** (dbrand, Ridge). Hardens the
+  decade-old sponsorship-ethics thread into a named cautionary case. [2024-12-31] ([[../../sources/2024-12-31-yt-EAx_RtMKPm8]])
+- **"Building in public — if we dish it, we've got to be able to take it too."** The Panels-launch accountability
+  video: when the [[../../entities/panels|Panels]] wallpaper app drew criticism, **"that's 100% on me"**, "the free
+  experience should be great," a **50/50 split with artists** (modeled on YouTube's creator split), **no exclusivity**,
+  **curated** (no AI slop) — and the standing rule that even his own product isn't exempt from "buy it for what it is
+  today, not for its promise." [2024-10-11] ([[../../sources/2024-10-11-yt-65ciAONXv0M]]); the Panels launch itself
+  [2024-09-23] ([[../../sources/2024-09-23-yt-MRtg6A1f2Ko]])
+- **"YouTube is the crown jewel — stability and money."** People (and talent) go where the money is; YouTube is the
+  world's video library, too big to fail; the one thing that could kill it is an **adpocalypse** — and it happened,
+  and the advertisers came crawling back. Extends the long-running "too big to instantly disappear" platform doctrine.
+  [2024-08-31] ([[../../sources/2024-08-31-yt-FVwV5BxJ8M4]])
+- **"Done with tech-CEO interviews — I want product people."** CEOs are media-trained PR machines; he'd rather talk to
+  the people who actually build the thing. Concrete: **"I cut ~90% of the Ternus interview."** A dated editorial stance
+  on the interview format. [2024-08-31] ([[../../sources/2024-08-31-yt-FVwV5BxJ8M4]])
+- **"Pressure is a privilege" + the 2025 direction.** **"The weight of the publish button is heavy"**; the stated 2025
+  plan is **"back to basics — quality over quantity, good videos rather than a ton of videos"** — the quality-over-throughput
+  ethos (stated at 17, 2011) restated as forward strategy. [2024-12-28] ([[../../sources/2024-12-28-yt-LCpm7cNQ5Vo]])
+- **The commencement ethos (2024 Stevens address).** **"Find something that gets you excited"**; **"purpose is the most
+  powerful tool"**; the candid disclaimer that **"a lot of my success was luck + a niche — no playbook"**; and **"you
+  graduate many times."** A rare first-person articulation of how he reads his own path. [2024-05-23]
+  ([[../../sources/2024-05-23-yt-a7ItChBrY8E]])
+- **"Minimal personal AI use — I write everything myself."** No AI editing, music, or images in his workflow — a stated
+  production-values line drawn as generative AI floods the space (contrast the 2022 "a tool, not a Creator" take: the
+  tool is fine, but he doesn't use it on his own output). [2024-08-31] ([[../../sources/2024-08-31-yt-FVwV5BxJ8M4]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 

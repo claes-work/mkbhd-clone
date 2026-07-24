@@ -235,6 +235,44 @@ _From the 2020 corpus — the Taycan review + the "Dear Electric Cars" manifesto
 - **F1 is a science fair — the innovation ecosystem that trickles down to road cars.** The Constructors' engineering
   championship; one team's edge gets copied by all; DRS/paddle-shifters/carbon-fiber trickle down. [2023-12-11] ([[2023-12-11-yt-s8WHY3Gusx0]])
 
+## 2024 additions (synthesis pass 23, 2026-07-24)
+_From the 2024 corpus — the full Cybertruck review, the Robotaxi event reaction, and a pro-hybrid softening of the EV stance._
+- **The Cybertruck review — the "overrated or underrated" per-feature game + "it's a Tesla under the hood."** A month/
+  1,500-mile review structured feature-by-feature. The hook: **"the most dangerous thing about the Cybertruck is the way
+  it makes other people around you on the road behave"** (not the sharp edges or the glare). Verdicts: **steer-by-wire →
+  underrated** (variable ratio + four-wheel steer make it "the most nimble, agile truck I've ever driven"; Tesla didn't
+  have to ship it); **bulletproof stainless steel → overrated** (fingerprint magnet, no normal door handles, hard to
+  stamp — and the windows/tires aren't bulletproof); **truck stuff → overrated** ("63% of truck drivers admit to rarely
+  or never towing" → most will drive it like a **glorified SUV**); **performance → overrated** — the **"quick vs fast"**
+  breakdown: EVs commoditized straight-line launch but the lighter geared car shifts and passes it by half-track, and
+  Tesla's tow-a-911 ad "quietly ran the cheapest Carrera T over an eighth-mile then quoted the quarter-mile time." His
+  **door latch actually fell off** (under-torqued bolts) → **"the Foundation Series badge kind of means willing beta
+  tester."** Product read: **"already an iconic design"** — but iconic cars are almost always *rare* and this is
+  mass-produced, so the awe has to wear off (the **PT Cruiser arc**). Under all the new tech, **"it's still a Tesla under
+  the hood."** [2024-03-29] ([[2024-03-29-yt-O0cs8aIXgkc]])
+- **The Tesla Robotaxi event — "maybe the weirdest tech event I've ever been to"; the timeline is the red flag.** On-the-
+  ground reaction to "We, Robot." The **Cybercab**: a two-seater with scissor doors, **no steering wheel or pedals**, a
+  21" screen, and **wireless charging only — no charge port at all** (can't supercharge or road-trip; "it's purely a
+  taxi"), targeting **~5.5 mi/kWh** (enabling a small ~40 kWh pack). But the pitch is thin: **"there's just concepts of a
+  plan."** His **biggest red flag is the timeline — "notorious Elon stuff"**: the promised "under $30,000 before 2027" is
+  discounted on precedent (the **$35k Model 3** shipped briefly then died; the **Cybertruck went from a promised $39k to
+  $95k**) — **"I'll shave my head on camera... 'cause I'm not confident they won't do it."** Raises the philosophical
+  **"what's the difference vs. a Model 3?"** (mostly cheaper/smaller/fleet-friendly). Dismisses the **Robovan as CES
+  vaporware** and flags the **Optimus robots as teleoperated** ("it's just a person talking through a speaker"), which
+  overshadowed the event. Generous-but-skeptical close: **"if I had to bet on one company to actually get there, it'd be
+  Tesla, for the massive real-world data advantage — I'll believe it when I see it."** [2024-10-14] ([[2024-10-14-yt-fgm5uZaS3-E]])
+- **A pro-hybrid softening of the EV stance — "hybrids are the best option for most people right now."** The clearest
+  pro-hybrid-for-now position in the corpus (three hybrids at $20K vs $2M, each hybrid for a different reason). Thesis:
+  EVs still carry heavy batteries, slow recharge, thin infrastructure — so **"there's this window now where a hybrid is
+  actually the best option for most people,"** and specifically **"plug-in hybrids make the most sense for the most people
+  I see driving them"** (short commute → never buy gas, but road trips still work). Reprises **"cars that are already
+  heavy are the best ones to go electric."** New durable insight: **super-fast EVs are forced to carry a huge heavy
+  battery** (a Model S Plaid needs 100 kWh to export 1,000 hp without draining; the Lucid Air / EV6 GT "fight their
+  weight") whereas a hybrid supercar uses a tiny battery that dumps power and drains in seconds — **exactly the F1
+  turbo-hybrid powertrain** (a demo pull dropped the pack 100%→74% then regenerated right back). Verdict: **"I still fully
+  believe electrification is the future at every level of cars, but in the meantime hybrids make a lot of sense — they've
+  been right under our noses the whole time."** [2024-04-22] ([[2024-04-22-yt-HLi2xYxZX10]])
+
 ## Related
 - Auto Focus channel → [[wiki/entities/auto-focus]]
 - Cybertruck design as *industry* commentary → [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]]
