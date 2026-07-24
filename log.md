@@ -4,6 +4,44 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 3) — the pending Ask-MKBHD Q&As V19/V20/V21 (deliberately un-skipped), 3/3 ingested (biography goldmines)
+
+Stage B (targeted). Deliberately fetched the three Ask-MKBHD monthly Q&As the driver kept auto-marking via
+its title-eyeball (they're persona/biography-rich, not promos/jokes) — V19 (2017-08-10), V20 (09-26), V21
+(10-18) — by running yt-dlp directly for their IDs. All 3 solo → persona-eligible; captions clean; L2=984.
+Also marked the **Pixel 2 Review (yt-KvNis_A6UaI)** as `L1 no-captions` (no subtitle track; re-fetch
+candidate — its content is partly captured via the Pixel-2 unboxing + rumor-roundup). Ledger @mkbhd now 676
+open (P2:641, P3:35).
+
+Synthesis notes (BIOGRAPHY-heavy, for pass 15) —
+**(1) CREATOR INDEPENDENCE — he turned down a TV tech-correspondent job.** "In college a media company (you've
+heard of them) brought me in to be a young TV tech correspondent — I was 100% not interested; the scripted
+live thing isn't me, and the who's-paying-you-vs-what-you-can-say thing is weird. I like being independent
+and talking about whatever I want on YouTube." A cornerstone value. **(2) BIOGRAPHY — Team Crispy origin**
+(first met Austin Evans in person at a Galaxy S3 launch in NYC; the circle forms at tech events); **his first
+video got ~12 views in 24h**; got a **MAINGEAR PC**; editor **"Chatter" now edits basically everything**; the
+**Project Loveday win** (4-person crew, 2 days shooting; **Elon Musk's first-ever tweet** at him). **(3) The
+demonetization read**: largely unaffected; the real problem is **YouTube↔creator communication**; but
+audience-gravity means "I don't see YouTubers leaving — it's the biggest audience." **(4) Position-change —
+"the headphone jack is dead, move on"** (from earlier jack-defense to acceptance; "wishing for it back isn't
+productive"). **(5) Sharp reads**: why Apple shipped Face ID (couldn't get Touch-ID-under-glass in time —
+"a question I'd want to ask Apple"); "Apple needn't build a car to build a self-driving *project*" (Tesla is
+half software); dual-camera preference **telephoto > monochrome**; **you-need-both-hardware-and-software**
+(Apple/Google converging); why products leak (Foxconn supply chains). **(6) PRODUCTION — the coming full-frame
+RED Monstro 8K (Vista Vision)** vs the Super-35 Helium. **(7) Personal**: pro-ultimate offseason (summer
+season; he tweets game info); **Chipotle after a game**; a Clippers fan who follows the **Rockets for Chris
+Paul**; wants **Spotify in the Tesla**; the space-gray-is-always-a-different-color gripe; intro music = Alta.
+
+**2017 era now essentially complete** (Jan–Nov ingested; only the no-captions Pixel-2 review + Pixel-2/
+Essential impressions remain, all L1). **Next iteration runs Stage S — synthesis pass 15** over the full 2017
+era (912→984, ~72 sources): the iPhone X + Face ID + gesture-nav; the Blind Camera Test + DxOMark media-
+literacy; the five-pillars "sixth category"; "skip this great phone" / review-in-a-vacuum; the Model 3
+"EV-for-the-masses" VINDICATED + met-Elon; the RED Hydrogen "two worlds colliding" + RAW-video "why I switched
+to RED"; matte-black/red-and-black identity + the Tesla wrap; the "Dear X" format; creator-independence; and
+the biography (140TB studio, camera lineage, HP-Pavilion-DV7 origin, turned-down-TV-job, Team-Crispy origin,
+4M subs, pro-ultimate-for-Philadelphia, editor "Chatter", MAINGEAR PC). Then recompile persona/system-prompt
+to v15.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2017 Oct 12–Nov 15, 7/7 ingested (DxOMark Explained + the iPhone X review "best yet" + the Tesla wrap)
 
 Stage B. Ingested Oct–Nov 2017 to L2 (974→981): **DxOMark: Explained**, the **Pixel 2** unboxing, the **Razer
