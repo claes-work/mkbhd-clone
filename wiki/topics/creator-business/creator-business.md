@@ -369,6 +369,23 @@ _From the H2-2018 corpus (L2 1034→1073) — a platform-critique framework and 
   production-values line drawn as generative AI floods the space (contrast the 2022 "a tool, not a Creator" take: the
   tool is fine, but he doesn't use it on his own output). [2024-08-31] ([[../../sources/2024-08-31-yt-FVwV5BxJ8M4]])
 
+## 2025 additions (synthesis pass 24, 2026-07-24)
+_From the 2025 corpus — a public accountability video, the Ridge maker-partnership deepening, a subscriber milestone,
+and the reviewer's own workflow._
+- **Public accountability as a franchise — "Every Mistake I Made in 2025."** He and his team re-watched **every ~50+
+  long-form of the year** (+ comments/Reddit) to find and correct **every factual error** in one video; the ethic is
+  **"I'd rather not make any mistakes"** + **Hanlon's razor** against engagement-bait conspiracies. Treats a big
+  discerning audience as a responsibility. [2025-12-23] ([[../../sources/2025-12-23-yt-v-sCZN3FbR0]])
+- **The Ridge chief-creative-partner maker thread deepens (2025).** Helped design the **Biflex** and matte-black
+  **Everything Wallet**; Ridge expanded into tech (the **Find My tracker card**, the **5-in-1 magnetic power bank**).
+  The reviewer-as-maker arc continues. [2025-07-09] ([[../../sources/2025-07-09-yt-bMou1qUMHC4]]) · [2025-11-28] ([[../../sources/2025-11-28-yt-Qqyp00JPJZI]])
+- **20 million subscribers; a merch refresh; ~50+ long-forms — the "quality over quantity" year measured.** The channel
+  crossed **20M subscribers** mid-2025, launched a new **mkbhd.com merch refresh**, and produced ~50+ long-form videos
+  (the "back to basics" intent from 2024, measured). [2025-05-30] ([[../../sources/2025-05-30-yt-eLusurjBcCs]]) · [2025-12-23] ([[../../sources/2025-12-23-yt-v-sCZN3FbR0]])
+- **The reviewer's own workflow — a two-phone daily setup.** A main Android + a secondary iPhone (currently OnePlus 15 +
+  iPhone 17 Pro); he keeps long-term stuff (car key, authenticator) on the iPhone because he swaps Android review units
+  constantly. **Gemini on the lock screen "because Siri is bad."** [2025-11-26] ([[../../sources/2025-11-26-yt-KW21q_7U6Ao]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 

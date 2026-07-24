@@ -273,6 +273,19 @@ _From the 2024 corpus — the full Cybertruck review, the Robotaxi event reactio
   believe electrification is the future at every level of cars, but in the meantime hybrids make a lot of sense — they've
   been right under our noses the whole time."** [2024-04-22] ([[2024-04-22-yt-HLi2xYxZX10]])
 
+## 2025 additions (synthesis pass 24, 2026-07-24)
+_From the 2025 corpus — the autonomy doctrine crystallizes on a same-day Robotaxi-vs-Waymo field test._
+- **Autonomy — "if it comes at the expense of any safety, it doesn't matter," and the tech-adoption S-curve.** After
+  riding both the Tesla Robotaxi (a Model Y + a safety monitor, cheaper/scalable without LiDAR) and Waymo (LiDAR I-Pace,
+  no one in the car, "further along in the ride experience") all day in Austin: both are **"insanely early on the
+  S-curve,"** so **the geofences and safety drivers are actually a good thing.** Against the "Tesla scales faster without
+  LiDAR" argument: **"maybe — but if it comes at the expense of any safety, it doesn't matter. It won't matter."** And
+  the anti-tribalism meta-point: **"Robotaxi vs. Waymo Twitter is worse than iPhone vs. Android ever was"** — they'll end
+  up competing and coexisting like iPhone/Android. His method is the message: he flew out and rode *both.* [2025-08-08] ([[../../sources/2025-08-08-yt-We2ZD0-IXPM]])
+- **The energy-and-EV owner footprint (2025).** His personal setup — a home **solar + battery** array (tracked via the
+  Tesla app, not a Tesla car) plus **Porsche / Rivian / Tesla real-time widgets** — reinforces the standing EV-enthusiast
+  identity (the matte-black Porsche 911 Turbo S daily / Rivian R1T / Cybertruck fleet). [2025-11-26] ([[../../sources/2025-11-26-yt-KW21q_7U6Ao]])
+
 ## Related
 - Auto Focus channel → [[wiki/entities/auto-focus]]
 - Cybertruck design as *industry* commentary → [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]]

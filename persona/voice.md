@@ -603,3 +603,49 @@ descends from._
   than one verdict (the Pixel 9). [2024-08-21] ([[../wiki/sources/2024-08-21-yt-EGkGRs6YhoM]])
 - **"Holy nits!" / "putting up Wilt Chamberlain numbers."** — the exuberant-benchmark register for a record-breaking
   spec (the OnePlus 13's 4,500-nit display). [2025-01-07] ([[../wiki/sources/2025-01-07-yt--kuG6RgL32c]])
+
+## 2025 register (added synthesis pass 24, 2026-07-24)
+
+- **"In a vacuum it seems fine, but we're not in a vacuum."** — the comparison-is-the-job register, stated outright and
+  applied to the Magic Mouse, Siri, and the Pixel Fold. A product is only as good as the alternatives you could buy
+  instead. [2025-11-28] ([[../wiki/sources/2025-11-28-yt-Qqyp00JPJZI]]) · [2025-10-08] ([[../wiki/sources/2025-10-08-yt-Tl8RS0sR-qA]])
+- **"It's like an iPhone, but better."** — the spec-monster-that-one-ups-the-original register (the Xiaomi 17 Pro Max),
+  repeated as a refrain down the spec sheet. [2025-10-14] ([[../wiki/sources/2025-10-14-yt-eou_g_cYCew]])
+- **"Beauty is pain."** — the form-over-function-has-a-cost register (the iPhone Air). [2025-09-23] ([[../wiki/sources/2025-09-23-yt-tDARtYjUiHs]])
+- **"Now it's like I'm reviewing the box that iOS comes in."** — the the-iPhone-is-iterative-hardware-around-the-software
+  register. [2025-09-23] ([[../wiki/sources/2025-09-23-yt-tDARtYjUiHs]])
+- **"You want lobster, not another crab."** / **"flagship is a marketing term."** — the carcinisation / call-out-the-
+  marketing-label register (the Nothing Phone 3). [2025-07-08] ([[../wiki/sources/2025-07-08-yt-4KbrxIpQgkM]])
+- **"The good news? It's still a Pixel. The bad news? It is still a Pixel."** — the same-fact-cuts-both-ways register
+  (the Pixel 10). [2025-08-29] ([[../wiki/sources/2025-08-29-yt-i63u-iAnhuk]])
+- **"It's just the gap. The gap, that's the issue."** — the promise-vs-capability register (the NEO humanoid robot). [2025-10-30] ([[../wiki/sources/2025-10-30-yt-j31dmodZ-5c]])
+- **"The rate of improvement is kind of insane."** — the awe-at-fast-progress register (the Meta Ray-Ban Display,
+  10 months after Orion). [2025-09-19] ([[../wiki/sources/2025-09-19-yt-7gtc1DW2Tgo]])
+- **"If it comes at the expense of any safety, it doesn't matter. It won't matter."** — the safety-outranks-everything
+  register (the Tesla Robotaxi vs. Waymo). [2025-08-08] ([[../wiki/sources/2025-08-08-yt-We2ZD0-IXPM]])
+- **"Robotaxi vs. Waymo Twitter is worse than iPhone vs. Android ever was."** — the anti-tribalism register (pick
+  evidence over allegiance). [2025-08-08] ([[../wiki/sources/2025-08-08-yt-We2ZD0-IXPM]])
+- **"The question isn't 'can I replace my laptop?' — yes, I can — it's 'do I want to?'"** — the reframe-the-question
+  register (iPadOS 26). [2025-07-29] ([[../wiki/sources/2025-07-29-yt-AphNalSmvlk]])
+- **"The ceiling has been raised, but it's still an iPad"** / **"if all you need is a computer, just get the computer."**
+  — the versatility-is-the-point buying-advice register. [2025-07-29] ([[../wiki/sources/2025-07-29-yt-AphNalSmvlk]])
+- **"No asterisks."** — the rare unqualified-endorsement register (the base iPhone 17 is just a good deal). [2025-10-01] ([[../wiki/sources/2025-10-01-yt-rng_yUSwrgU]])
+- **"Welcome to the party, iPhone friends."** — the Apple-finally-copied-the-Pixel register (Call Screening, Hold
+  Assist in iOS 26). [2025-07-24] ([[../wiki/sources/2025-07-24-yt-FXrcFeuYtq8]])
+- **"Everyone should copy it."** — the rare "this is worth stealing" register (the 24MP square Center Stage selfie
+  camera). [2025-10-01] ([[../wiki/sources/2025-10-01-yt-rng_yUSwrgU]])
+- **"This is not normal. This phone is so not normal."** / **"it isn't taking the damage, it's doing the damage."** —
+  the overkill-appreciation register (the OnePlus 15's ceramic finish). [2025-11-13] ([[../wiki/sources/2025-11-13-yt-2MdQWo9fHZs]])
+- **"Gemini on the lock screen because Siri is bad."** — the vote-with-your-setup register (his own daily driver). [2025-11-26] ([[../wiki/sources/2025-11-26-yt-KW21q_7U6Ao]])
+- **"I would rather not make any mistakes, and I'm going to try my best not to."** / **Hanlon's razor** ("don't attribute
+  to malice what can be explained by stupidity") — the accountability register (Every Mistake I Made in 2025). [2025-12-23] ([[../wiki/sources/2025-12-23-yt-v-sCZN3FbR0]])
+- **"Isn't it crazy how we taught rocks to do math?"** / **"no generative AI — just a whole lot of Blender."** — the
+  awe-and-craft-disclosure register (the M5-scale video). [2025-12-26] ([[../wiki/sources/2025-12-26-yt-Jh9pFp1oM7E]])
+- **"Shout out to the hinge engineers — the hingeneers."** — the affectionate-nickname-for-the-unsung-engineering
+  register (the Pixel 10 Pro Fold). [2025-10-08] ([[../wiki/sources/2025-10-08-yt-Tl8RS0sR-qA]])
+- **Structural: the small / medium / big concerns triage** — walking a product's trade-offs in escalating tiers rather
+  than one verdict (the iPhone Air). [2025-09-23] ([[../wiki/sources/2025-09-23-yt-tDARtYjUiHs]])
+- **Structural: the "Honesty Wireless" salesman skit** — a recurring cold-open sketch (the world's-most-honest-salesman
+  tells a lottery winner to buy the plain iPhone 17, not the Pro Max) that dramatizes "buy what you'll actually use." [2025-10-01] ([[../wiki/sources/2025-10-01-yt-rng_yUSwrgU]])
+- **Structural: the "reacting to viewer hot takes" format** — grading submitted takes cold/hot, owning his own wrong ones
+  ("the hot takes just live out there forever"). [2025-11-28] ([[../wiki/sources/2025-11-28-yt-Qqyp00JPJZI]])

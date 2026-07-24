@@ -463,6 +463,39 @@ _From the 2020 corpus — a run of durable Apple-behavior, market-structure, pri
 - **The every-Galaxy-S retrospective.** "Samsung will try anything / throw stuff at the wall"; the Note 7 = the
   greatest PR disaster; the Exynos split failed. [2024-03-02] ([[../../sources/2024-03-02-yt-eKVTFXQPAhs]])
 
+## 2025 additions (synthesis pass 24, 2026-07-24)
+_From the 2025 corpus (Feb → Dec 2025) — the Apple-AI-Crisis diagnosis, the smart-glasses-beat-headsets call, the
+AI-promise-gap doctrine, and the switching-costs framework._
+- **Apple's AI Crisis — "a giant late to a shift dies," and "the second-mover strategy is a *hardware* strategy."**
+  Giants that miss a platform shift die (Nokia/BlackBerry; Skype→Zoom); Apple won't die financially but Apple
+  Intelligence is a real crisis because its "let others go first, then perfect it" playbook doesn't transfer to fast-
+  moving AI. Tells: **Apple has never demoed the new Siri**, the deleted Siri ad, and **"developers don't *want* Siri
+  reaching into their apps."** [2025-03-29] ([[../../sources/2025-03-29-yt-hz6oys4Eem4]])
+- **Smart glasses are winning over headsets — build-up beat build-down, and the social penalty decides.** The $800 Meta
+  Ray-Ban Display shipped a real in-lens HUD 10 months after the $10k Orion prototype ("the rate of improvement is
+  insane"), while the Vision Pro turned out to be "watching movies and gathering dust"; Apple reportedly **scrapped a
+  lightweight "Vision Pro Air" and shifted resources to glasses.** The deciding variable is the social penalty of a
+  face-computer, not capability. [2025-09-19] ([[../../sources/2025-09-19-yt-7gtc1DW2Tgo]]) · [2025-10-21] ([[../../sources/2025-10-21-yt-rU9aqBv0YdY]])
+- **"Sell the finished product, not the dream" — THE GAP is the danger.** On the teleoperated NEO humanoid robot: **"a
+  lost art in waiting for a product to be actually finished before announcing it... you sell the dream before the
+  product, and that is dangerous"** (kin to Humane/Rabbit/Apple Intelligence). NEW mechanism: **the AI-training-data
+  flywheel uses early adopters as unpaid beta testers** (the Tesla-self-driving parallel), with the ethical cost that
+  those who'd benefit most can't be early adopters. [2025-10-30] ([[../../sources/2025-10-30-yt-j31dmodZ-5c]])
+- **Switching costs — "copying is often just lowering switching costs," and iMessage is the moat.** The market is
+  saturated, so the fight is over switchers + first-time buyers; many apparent "copies" (the Pixel Journal app,
+  Pixelsnap/Qi2, RCS) are switching-cost countermeasures; **iMessage/blue-bubble lock-in** is Apple's thickest wall,
+  eroded by RCS/interop. [2025-08-25] ([[../../sources/2025-08-25-yt-eCR17sBh-Qw]])
+- **WWDC 2025 / Liquid Glass — "Apple's AI strength, if any, is integration, not model quality"; the year of live
+  translation.** Apple shelved the big Siri upgrade (to 2026) and shipped Liquid Glass (walked back for readability — "a
+  well-executed theme engine, but that's all it feels like") + a wave of **best-Pixel-software copies** (Call Screening,
+  Hold Assist, circle-to-search). Standing wish: **let me change the defaults.** [2025-07-24] ([[../../sources/2025-07-24-yt-FXrcFeuYtq8]])
+- **"Flagship is a marketing term" + carcinisation; and "US phones lag global hardware."** The spec sheet tells the real
+  story (Nothing Phone 3); and China-only spec monsters (Xiaomi's 7,500mAh, corner-to-corner rear OLED) lap US phones so
+  badly it's **"embarrassing what it does next to the stuff we have available."** [2025-07-08] ([[../../sources/2025-07-08-yt-4KbrxIpQgkM]]) · [2025-10-14] ([[../../sources/2025-10-14-yt-eou_g_cYCew]])
+- **Humanoid robots may be the wrong form factor — specialized robots beat one general humanoid.** "You want the car
+  itself to be the robot, not a humanoid that drives a car"; each appliance becoming its own robot beats one biped doing
+  everything — "why does it have to look like a human? Why not six arms and six legs?" [2025-11-28] ([[../../sources/2025-11-28-yt-Qqyp00JPJZI]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

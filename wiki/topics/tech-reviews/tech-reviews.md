@@ -690,6 +690,39 @@ lenses get named, and the Apple-pricing/"spec bump" critiques harden._
   software/AI, yet the overlapping **Gemini-vs-Google-Assistant** split is a genuine confusion he calls out.
   [2024-05-07] ([[../../sources/2024-05-07-yt-B3szaVzQx0o]]) · [2024-08-21] ([[../../sources/2024-08-21-yt-EGkGRs6YhoM]])
 
+## 2025 additions (synthesis pass 24, 2026-07-24)
+_From the 2025 corpus (Feb → Dec 2025; the iPhone 17 / Techtember cluster, the silicon-carbon race, and the year-end
+accountability video) — the review lenses get named outright and the hardware verdicts of the year harden._
+- **The silicon-carbon battery thesis — "thin phones only make sense *with* silicon-carbon."** "Nobody asked for
+  thinner — everyone wants more battery." A thin phone is only defensible with a high-density silicon-carbon cell
+  (OnePlus/Xiaomi's route); the **S25 Edge and iPhone Air went thin *without* it and ate C-minus battery** because
+  **Apple and Samsung both declined to take the dive.** [2025-05-15] ([[../../sources/2025-05-15-yt-yWBz2qZJ8zY]]) · [2025-09-23] ([[../../sources/2025-09-23-yt-tDARtYjUiHs]])
+- **"Every product design is a series of trade-offs" — the form-vs-function slider + "beauty is pain."** Enumerate the
+  trade-offs in escalating tiers (small/medium/big concerns); durability was shockingly a strength; **"classic Apple
+  move to make the problem and sell you the solution"**; and on an iterative iPhone, **"now it's like I'm reviewing the
+  box that iOS comes in."** [2025-09-23] ([[../../sources/2025-09-23-yt-tDARtYjUiHs]])
+- **The iPhone paradox — "more pro is better for the masses" + a great base phone makes the pricier ones worse deals.**
+  The **gaming-phone effect** (thicker/bigger-battery/better-cooling serves everyone); and **"when the cheapest phone is
+  a really good deal, it makes all the more expensive versions feel like worse deals — because they are"** (the base 17
+  is "no asterisks," making the Pro "appropriately named"). [2025-09-26] ([[../../sources/2025-09-26-yt-q0aFOxT6TNw]]) · [2025-10-01] ([[../../sources/2025-10-01-yt-rng_yUSwrgU]])
+- **"In a vacuum vs. not in a vacuum" — the evaluative lens, named.** A product is only as good as the alternatives you
+  could buy instead; the reviewer supplies the comparison the marketing removes (Siri, the Magic Mouse, the Pixel Fold).
+  [2025-11-28] ([[../../sources/2025-11-28-yt-Qqyp00JPJZI]]) · [2025-10-08] ([[../../sources/2025-10-08-yt-Tl8RS0sR-qA]])
+- **The tablet reframe — "it's not 'can I,' it's 'do I want to'; versatility is the point."** iPadOS 26 removed the old
+  walls, so the question became "do I want to?"; the iPad's strength is versatility — **"the ceiling has been raised, but
+  it's still an iPad,"** and "if all you need is a computer, just get the computer." [2025-07-29] ([[../../sources/2025-07-29-yt-AphNalSmvlk]])
+- **The Pixel — "it's still a Pixel," the camera lead is *slipping*, and Tensor is AI/TPU-first by design.** The Pixel 10
+  keeps its charms but the computational-camera lead is eroding (zoom "smoked by the S25 Ultra"), and **Tensor benchmarks
+  mid-range *intentionally*** (Google optimizes the TPU, not raw CPU/GPU). Pixelsnap (Qi2) is the standout; Magic Cue
+  under-delivered vs. its demo. [2025-08-29] ([[../../sources/2025-08-29-yt-i63u-iAnhuk]])
+- **The gimmick threshold + "aspect ratio, not size."** A feature earns its keep by crossing from "looks cool" into
+  "actually useful" — the Xiaomi 17 Pro Max's rear OLED "pushed beyond gimmick" (a real viewfinder); and the Z Tri
+  Fold's **10-inch ~16:1 canvas "makes foldables make sense"** where an 8-inch square just adds blank pixels. [2025-10-14] ([[../../sources/2025-10-14-yt-eou_g_cYCew]]) · [2025-12-17] ([[../../sources/2025-12-17-yt-trsHTKqmZOk]])
+- **Methodology stated outright — "I don't do battery benchmarks" + "AntuTu isn't cross-platform."** He avoids battery
+  benchmarks because "so few actually represent real-world usage," and won't compare synthetic scores across iOS/Android
+  (a self-corrected 2025 mistake). The **reviewer's guide (a per-device spec PDF) is his official spec source** — "I
+  can't fact-check specs by Googling; Google gives rumored specs." [2025-11-13] ([[../../sources/2025-11-13-yt-2MdQWo9fHZs]]) · [2025-12-23] ([[../../sources/2025-12-23-yt-v-sCZN3FbR0]])
+
 ## Recurring franchises (as review formats)
 - **Smartphone Awards** (annual buyer's guide) → see [[../smartphones/smartphones|Smartphones hub]].
 - **Blind Smartphone Camera Test** (unbiased ELO-scored evaluation) → see [[../smartphones/smartphones|Smartphones hub]].

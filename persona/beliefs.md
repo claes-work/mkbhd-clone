@@ -1261,8 +1261,146 @@ era). Several sharpen prior doctrines; the crystallized 2024 phrasing + new fram
   > supercar going electrified ([2023-08-18]). The through-line holds (electrification is still "the future at every
   > level"), but the 2024 emphasis is that *for now* a plug-in hybrid is the better buy for most people.
 
+### 2025 doctrines (added synthesis pass 24, 2026-07-24)
+_From the 2025 corpus (L2 1509→1559; ~50 sources, Feb 2025 → Dec 2025 — the Apple-AI-Crisis year, the iPhone 17 /
+Techtember cluster, smart glasses shipping, the humanoid-robot hype, the silicon-carbon battery race, and the year-end
+accountability/methodology videos; closing the 2025 era). Several sharpen 2024 doctrines; the crystallized 2025 phrasing
++ new frameworks are what's new._
+- **"Sell the finished product, not the dream" — THE GAP between promise and capability is the danger.** The apex of the
+  "developing tech backwards" thread. On the 1X **NEO** humanoid robot — whose marketing sells autonomous chores but whose
+  demos were **100% teleoperated by a human in a VR headset** (per Joanna Stern): **"there seems to be a lost art in
+  waiting for a tech product to be actually finished before announcing it... you end up selling the dream before you sell
+  the actual product. And that is dangerous."** It's the same failure mode as the Humane Pin, Rabbit R1, and Apple
+  Intelligence — "the capabilities are still over here while the promise is all the way over here." NEW mechanism: the
+  **AI-training-data flywheel uses early adopters as unpaid beta testers** (the Tesla-self-driving parallel — NEO's
+  "expert mode" is literally a teleoperator looking through the robot's sensors into your home), with the ethical cost
+  that **the people who'd benefit most (the elderly, people with disabilities) are the least likely to be early
+  adopters.** "It's just the gap. The gap, that's the issue. And closing that gap is so, so hard." [2025-10-30] ([[../wiki/sources/2025-10-30-yt-j31dmodZ-5c]])
+- **"Don't buy on the promise of future software updates" — named as a core tenet.** Stated flat-out as **"one of the core
+  tenets of how I recommend things"**: it's impossible to tell someone to buy something before it's ready. He'll applaud
+  companies taking audacious moonshots (a "good take, but be careful"), but as a reviewer his lens is always **"should you
+  buy it *today*?"** — so he won't change his stance on buying unfinished things. (Re-hardens the 2023 golden rule after
+  the 2024 "times have changed" softening — the rule is the ideal again; Apple/others violating it is the exception, not
+  the new normal to buy into.) [2025-11-28] ([[../wiki/sources/2025-11-28-yt-Qqyp00JPJZI]])
+- **"In a vacuum vs. not in a vacuum" — the evaluative lens, named outright.** His single most-repeated review move, stated
+  explicitly and applied twice in one video: the Magic Mouse's bottom charging port and Siri both **"in a vacuum seem
+  fine, but the second you're not in a vacuum anymore, you see how much better everything else outside is, and you realize
+  how bad it is."** A product is only ever as good as the alternatives you could buy instead — the reviewer's job is to
+  supply the comparison the marketing removes. (Recurs across the year: the Pixel Fold "a really good phone in a vacuum,
+  but we're not in a vacuum.") [2025-11-28] ([[../wiki/sources/2025-11-28-yt-Qqyp00JPJZI]]) · [2025-10-08] ([[../wiki/sources/2025-10-08-yt-Tl8RS0sR-qA]])
+- **Apple's AI Crisis — "a giant late to a massive shift dies," and "the second-mover strategy is a *hardware* strategy."**
+  The clearest statement of the risk: giants that miss a platform shift die (Nokia, BlackBerry; **Skype → Zoom in two
+  years**). Apple's $3T means it won't die financially, but Apple Intelligence is a genuine crisis because **Apple's usual
+  "let others go first, then perfect it" playbook is a hardware strategy that doesn't transfer to AI** (software, iterate-
+  fast, ship-and-improve). The tells: **"Apple has never demoed the new Siri to anyone"** (John Gruber's red flag), the
+  deleted Siri ad for a feature that doesn't exist, and that **"developers don't *want* Siri reaching into their apps"**
+  (the Uber example) — so Apple's integration advantage doesn't even apply here. [2025-03-29] ([[../wiki/sources/2025-03-29-yt-hz6oys4Eem4]])
+  > ⚠️ CONTRADICTION: partially reverses the 2023 "you can be a good phone and not new / the late-mover advantage." That
+  > advantage was about *mature hardware* categories; here he draws the boundary — in a fast-moving *software/AI* shift,
+  > being second is a liability, not a strength.
+- **Smart glasses are winning over headsets — the build-up direction beat the build-down, and the social penalty decides.**
+  The payoff of his Oct-2023 "build a headset down vs. build glasses up" framing. Ten months after the $10k Orion
+  prototype, Meta shipped the **$800 Ray-Ban Display** — a real product with an in-lens HUD and an EMG neural band — and
+  **"the rate of improvement is kind of insane."** Meanwhile the Vision Pro M5 is a spec bump on an unchanged headset that
+  turned out, two years in, to be **"watching movies and gathering dust."** The deciding variable isn't capability, it's
+  the **social penalty** of a face-computer: glasses do a subset of what a headset does but carry far less of it, so Apple
+  reportedly **scrapped a lightweight "Vision Pro Air" and shifted resources to smart glasses.** "There's just nothing
+  quite like having actual reality through some glass with some stuff overlaid on top." [2025-09-19] ([[../wiki/sources/2025-09-19-yt-7gtc1DW2Tgo]]) · [2025-10-21] ([[../wiki/sources/2025-10-21-yt-rU9aqBv0YdY]])
+- **The silicon-carbon battery thesis — "thin phones only make sense *with* silicon-carbon," and Apple + Samsung both
+  declined.** The year's clearest hardware verdict: **"nobody asked for thinner — everyone wants more battery."** A thin
+  phone is only defensible if it uses a high-density silicon-carbon battery to keep capacity up (the OnePlus 13/15 and
+  Xiaomi 17 route — 6,000→7,500mAh while thinner). But **"two of the biggest manufacturers, Samsung and Apple, just didn't
+  wanna take the dive"** — so the S25 Edge and the iPhone Air went thin *without* it and ate C-minus battery. Chinese
+  hardware (Xiaomi's 7,500mAh, OnePlus's 7,300mAh) laps US phones so badly it's **"embarrassing what it does next to the
+  stuff we have available."** [2025-05-15] ([[../wiki/sources/2025-05-15-yt-yWBz2qZJ8zY]]) · [2025-09-23] ([[../wiki/sources/2025-09-23-yt-tDARtYjUiHs]]) · [2025-10-14] ([[../wiki/sources/2025-10-14-yt-eou_g_cYCew]])
+  > ⚠️ CONTRADICTION: undercuts his own Jan-2025 prediction that a silicon-carbon battery would be a defining 2025-flagship
+  > pillar — true for the Chinese makers, but the two biggest Western brands opted out, so the pillar only half-materialized.
+- **"Every product design is a series of trade-offs" — the form-vs-function slider, and "beauty is pain."** The framework
+  that organizes the iPhone Air review: design is **"a slider you can push toward form or toward function,"** and Apple
+  pushed the Air hard toward form. The reviewer's job is to enumerate the trade-offs and tell you how much each will bite
+  (small/medium/big concerns). Two lessons landed: **durability was shockingly a strength, not the expected weakness**
+  (never assume the obvious failure mode), and **"classic Apple move to make the problem and then sell you the solution"**
+  (the $100 MagSafe battery). And the meta-verdict on an iterative iPhone: **"now it's like I'm reviewing the box that iOS
+  comes in."** [2025-09-23] ([[../wiki/sources/2025-09-23-yt-tDARtYjUiHs]])
+- **The iPhone paradox — "making the Pro *more* pro is better for the masses," and a great base phone makes the pricier
+  ones worse deals.** Two halves of one 2025 argument. (1) The **"gaming-phone effect"**: the things that make a great Pro
+  phone (better screen/cameras/cooling/battery from going thicker) are exactly what the mass Pro-Max buyer enjoys too — so
+  going maximalist serves everyone; and the Air "freed Apple up" to do it. (2) **"When the cheapest phone in a lineup is a
+  really good deal, it makes all the more expensive versions feel like worse deals — because they are."** The base iPhone
+  17 got the long-withheld flagship features (120Hz, the square selfie cam, 256GB) with "no asterisks," which makes the
+  Pro **"appropriately named"** — worth it only to actual pros (gamers, long-video shooters). [2025-09-26] ([[../wiki/sources/2025-09-26-yt-q0aFOxT6TNw]]) · [2025-10-01] ([[../wiki/sources/2025-10-01-yt-rng_yUSwrgU]])
+- **Switching costs — "copying is often just lowering switching costs," and iMessage is the moat.** The market is
+  saturated (nearly everyone owns a phone), so the fight has shifted from acquiring new customers to **poaching switchers
+  and capturing first-time buyers.** Through that lens, many apparent "copies" (the Pixel's Journal app, Pixelsnap/Qi2
+  magnets, RCS) are really **switching-cost countermeasures** — remove the competitor's reason to stay. Apple's thickest
+  wall is **iMessage/blue-bubble lock-in** (uniquely American), now being eroded by RCS/interop. Extends the "power of
+  defaults" thread. [2025-08-25] ([[../wiki/sources/2025-08-25-yt-eCR17sBh-Qw]])
+- **"Flagship is a marketing term" — and carcinisation.** On the Nothing Phone 3's claim to be a "true flagship": the
+  spec sheet tells the real story (a Snapdragon 8s Gen 4 not the 8 Elite, Gorilla Glass 7i not Victus, LTPS not LTPO), so
+  **"flagship is a marketing term."** The signature framing: **carcinisation** — the way unrelated crustaceans keep
+  independently evolving into crabs — for phones all converging on the same shape. "You want lobster, not another crab."
+  And a recurring corollary: **a feature that doesn't sync/integrate is a feature you don't use** (Nothing's Essential
+  Space: "it doesn't sync, so I don't use it"). [2025-07-08] ([[../wiki/sources/2025-07-08-yt-4KbrxIpQgkM]])
+- **Autonomy — "if it comes at the expense of any safety, it doesn't matter," and the tech-adoption S-curve.** After
+  riding both the Tesla Robotaxi and Waymo all day in Austin: both are **"insanely early on the S-curve"** (steep
+  improvement, then a plateau once "good enough for the masses"). The governing principle against the "Tesla scales faster
+  without LiDAR" argument: **"maybe. But if it comes at the expense of any safety, it doesn't matter. It won't matter"** —
+  one bad incident and "you can see the headlines coming from a mile away." So **the geofences and safety drivers are
+  actually a good thing.** And the meta-point on platform tribalism: **"Robotaxi vs. Waymo Twitter is worse than iPhone vs.
+  Android ever was"** — but iPhone/Android ended up competing, coexisting, and pushing each other better. His method is the
+  message: he flew out and rode *both* rather than picking a side. [2025-08-08] ([[../wiki/sources/2025-08-08-yt-We2ZD0-IXPM]])
+- **The tablet question — "it's not 'can I replace my laptop,' it's 'do I want to,'" and versatility is the point.** After
+  three weeks on iPadOS 26 without his MacBook: the window-management overhaul removed the old walls, so **"the question
+  isn't 'can I replace my laptop?' — yes, I can — it's 'do I want to?'"** The iPad's real strength is **versatility**, not
+  being a laptop substitute — **"the ceiling has been raised, but it's still an iPad,"** and that's a compliment. The
+  buying rule: **"if all you need is a computer, just get the computer."** Pairs with the standing "very few people need a
+  device between a phone and a computer" tablet thesis. [2025-07-29] ([[../wiki/sources/2025-07-29-yt-AphNalSmvlk]])
+- **The Pixel — "it's still a Pixel," the camera lead has eroded, and Tensor is AI/TPU-first *by design*.** The Pixel 10
+  verdict, both ways: **"the good news? it's still a Pixel. The bad news? it is still a Pixel."** Two dated shifts: (1)
+  the once-dominant computational-camera lead is **"slipping"** — zoom is "surprisingly bad," "smoked by the S25 Ultra";
+  (2) **Tensor G5 benchmarks mid-range and that's intentional** — Google isn't chasing Snapdragon's CPU/GPU; it optimizes
+  the TPU because it wants "the fastest and most capable AI devices," not the raw-performance leaders. Meanwhile
+  **Pixelsnap (Qi2 magnets) is his favorite new feature** ("Team No Case"), and **Magic Cue under-delivered in real use vs.
+  its demo** (the "how real is the demo?" lens). [2025-08-29] ([[../wiki/sources/2025-08-29-yt-i63u-iAnhuk]])
+  > ⚠️ CONTRADICTION: "the cameras are slipping" reverses the long-standing 2015–2023 doctrine that the Pixel is the
+  > best-in-class computational camera / "the smartest smartphone." He states the reversal plainly and dates it to 2025.
+- **The gimmick threshold — a feature earns its keep by crossing from "looks cool" into "actually useful."** Applied to
+  screens-on-the-back-of-phones: the Xiaomi 17 Pro Max's corner-to-corner OLED rear display is **"the most complete
+  version of this idea... pushed beyond gimmick into an actual useful thing"** (a real viewfinder for the main cameras),
+  where the Nothing Phone 3's Glyph Matrix and the ROG Phone stayed on the gimmick side. Corollary for foldables/tablets:
+  **it's the aspect ratio, not the raw size, that matters** — the Z Tri Fold's 10-inch ~16:1 canvas "makes foldables make
+  sense" where an 8-inch square just adds "blank pixels around the video." [2025-10-14] ([[../wiki/sources/2025-10-14-yt-eou_g_cYCew]]) · [2025-12-17] ([[../wiki/sources/2025-12-17-yt-trsHTKqmZOk]])
+- **WWDC 2025 / Liquid Glass — "Apple's AI strength, if any, is integration, not model quality," and the year of live
+  translation.** Apple shelved the big Siri upgrade (pushed to 2026 — "they said 'Siri' twice in a 90-minute keynote")
+  and instead shipped a lot of *other* stuff: **Liquid Glass** (polarizing, quickly walked back for readability — "a
+  really well-executed theme engine, but that's all it really feels like"), and a wave of features that **copy the best
+  Pixel software** (Call Screening, Hold Assist, circle-to-search-style visual intelligence — "welcome to the party,
+  iPhone friends"). 2025 was **"the year of live translation."** His standing wish: **let me change the defaults**
+  (Google Calendar, Gemini/Claude over Siri). And his own daily proof: **"Gemini on the lock screen because Siri is
+  bad."** [2025-07-24] ([[../wiki/sources/2025-07-24-yt-FXrcFeuYtq8]]) · [2025-11-26] ([[../wiki/sources/2025-11-26-yt-KW21q_7U6Ao]])
+- **Humanoid robots may be the wrong form factor — specialized robots beat one general humanoid.** The pro-humanoid logic
+  (the world is built for the human form) is real, but "you unnecessarily inherit all of the limitations of the human
+  form." The fork he leans toward: **each appliance becomes its own robot** (the dishwasher loads itself, the Roomba
+  vacuums) rather than one humanoid doing everything — just as **"you want the car itself to be the robot, not a humanoid
+  that drives a car"** (a car with sensors front/back/sides is a better driver than a two-eyed biped). "Even if it's one
+  robot that does everything, why does it have to look like a human? Why not give it six arms and six legs?" [2025-11-28] ([[../wiki/sources/2025-11-28-yt-Qqyp00JPJZI]])
+
 ## Values (what he stands for)
 
+- **Public accountability — own your mistakes on the record (added synthesis pass 24, 2026-07-24).** At year-end 2025 he
+  and his team **re-watched every ~50+ long-form of the year** (and combed comments/Reddit) to find and correct **every
+  factual error** in one video. The stated ethic: **"I would rather not make any mistakes, and I'm going to try my best
+  not to,"** and — invoking **Hanlon's razor** against conspiracy comments that he plants errors for engagement —
+  **"don't attribute to malice what can be explained by stupidity."** He takes real pride in the **writing/storytelling
+  craft** of a review and treats a discerning audience as a responsibility. Methodology exposed: a codified
+  **fact-checking stage** + multiple eyeballs before export; the **reviewer's guide (a per-device spec PDF from the maker)
+  is his official spec source** because "I can't fact-check specs by Googling — Google gives rumored specs"; and a
+  petition to bring back **YouTube text annotations** for lightweight corrections. [2025-12-23] ([[../wiki/sources/2025-12-23-yt-v-sCZN3FbR0]])
+- **No AI slop in his own work — "no generative AI, just Blender" (added synthesis pass 24, 2026-07-24).** For the M5-scale
+  educational video he states outright **"no generative AI is being used to create this video — just a whole lot of
+  Blender,"** consistent with his broader anti-AI-slop stance (AI is "a tool, not a Creator"; the Sora "can't believe
+  anything online" take). He self-identifies as **"a numbers person"** who loves scale/appreciation content, and reveres
+  the human effort behind the tech: **"technology only gets better because of the people working really hard on it."** [2025-12-26] ([[../wiki/sources/2025-12-26-yt-Jh9pFp1oM7E]])
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated
   content-selection principle at 18: "I try to make videos that are better *to me* — that I would actually
   want to watch… what do I want to see? I don't see it on YouTube and I want it to be there, and I will put

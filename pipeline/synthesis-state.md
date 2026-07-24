@@ -6,6 +6,39 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
+Synthesized through: **1559 L2 sources** — passes 1–23 through L2=1509 (the 2024 era complete), PLUS **pass 24's whole of
+2025 (2026-07-24) — L2 1509→1559, ~50 sources; the 2025 era is now complete.** The landmarks: **"sell the finished
+product, not the dream" — THE GAP is the danger** (the teleoperated NEO robot; "a lost art in waiting for a product to be
+finished before announcing it"; the AI-training-data flywheel uses early adopters as unpaid beta testers — the Tesla-
+self-driving parallel); **"don't buy on the promise of future software updates" re-hardened as a core tenet**; **"in a
+vacuum vs not in a vacuum" — the evaluative lens, named outright** (Siri/Magic Mouse/Pixel Fold); **Apple's AI Crisis**
+("a giant late to a shift dies"; "the second-mover strategy is a hardware strategy"; "developers don't want Siri reaching
+into their apps"); **smart glasses beat headsets** (build-up beat build-down; the $800 Meta Ray-Ban Display 10 months
+after Orion; the Vision Pro is "movies and gathering dust"; Apple scrapped a "Vision Pro Air" for glasses; the social
+penalty decides); the **silicon-carbon thesis** ("thin only makes sense with silicon-carbon"; Apple AND Samsung declined
+→ the Air/Edge ate C-minus battery; US phones lag global hardware); **"design is a series of trade-offs" / the form-vs-
+function slider / "beauty is pain" / "reviewing the box iOS comes in"**; the **iPhone paradox** ("more pro is better for
+the masses" / the gaming-phone effect / "a great base phone makes the pricier ones worse deals"); **switching costs**
+("copying is lowering switching costs"; iMessage is the moat); **"flagship is a marketing term" + carcinisation**;
+**autonomy "if it comes at the expense of any safety, it doesn't matter" + the S-curve + "worse than iPhone vs Android"**;
+the **tablet reframe** ("it's not 'can I' it's 'do I want to'"; "the ceiling is raised but it's still an iPad"); **the
+Pixel camera lead is *slipping* + Tensor is AI/TPU-first by design** (Pixelsnap the standout; Magic Cue under-delivered);
+the **gimmick threshold + "aspect ratio, not size"**; **WWDC 2025 / Liquid Glass** ("Apple's AI strength is integration,
+not model quality"; the year of live translation); **humanoid robots may be the wrong form factor**. Values: **public
+accountability** (re-watched every ~50+ 2025 long-form to correct every error; Hanlon's razor; the reviewer's-guide-as-
+spec-source); **"no AI slop in my own work"** ("no generative AI, just Blender"; "I'm a numbers person"). Biography:
+**GOLD with Team USA at the World Games in Chengdu** (the panda medal); **a pro Ultimate player on 4 teams at once** (NY
+Empire / PoNY / Team USA World Games / Team USA Mixed beach); **he's 31 (~b.1993), 6'3"**; **20M subscribers**; a
+**two-phone daily** (main Android + secondary iPhone — OnePlus 15 + iPhone 17 Pro; Gemini over Siri); **home solar +
+battery**; the Ridge chief-creative-partner maker thread continues (the Biflex; the Find My card; the 5-in-1 power bank).
+Topic hubs got pass-24 "2025 additions" sections (**tech-reviews / tech-industry-commentary / ev-cars / production-
+filmmaking / creator-business**); `persona/beliefs.md` (a "2025 doctrines" subsection — 17 doctrines, 3 contradiction
+callouts, + 2 new Values), `persona/voice.md` (a "2025 register" — 25 entries), `persona/biography.md` (a 2025 anchors
+section — 11 beats), and `persona/system-prompt.md` recompiled **v23→v24** (1509→1559 sources; "through Dec 2025"; a
+woven 2025 lens cluster). Covers every `wiki/sources/` page that was L2 as of 2026-07-24 at the 1559-source mark. Next
+checkpoint at ~10 more ingest batches or the next era boundary (2026). Resume Stage B ingest into 2026 next iteration.
+
+### (superseded) pass 23 high-water detail
 Synthesized through: **1509 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
 L2=1034 (H1 2018), pass 17 through L2=1073 (the 2018 era complete), pass 18 through L2=1153 (the 2019 era complete),
 pass 19 through L2=1236 (the 2020 era complete), pass 20 through L2=1309 (the 2021 era complete), pass 21 through

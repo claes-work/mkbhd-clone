@@ -301,5 +301,19 @@ _From the H2-2018 corpus (L2 1034→1073)._
   specific open-back editing headphone. [2024-11-29] ([[../../sources/2024-11-29-yt-EFiHm6WjhNA]]) · [2024-08-31]
   ([[../../sources/2024-08-31-yt-FVwV5BxJ8M4]])
 
+## 2025 additions (synthesis pass 24, 2026-07-24)
+_From the 2025 corpus — pro-video tooling on the phone, an ambitious no-AI educational build, and the fact-checking
+process exposed._
+- **Pro-video chops on the iPhone 17 Pro — ProRes RAW + genlock.** He can shoot **ProRes RAW** (change ISO/white
+  balance after the shoot in Final Cut) and use **genlock** (multi-device sync) — and shot an **Auto Focus electric-
+  G-Wagon review on the iPhone 17 Pro** (A-roll on the phone, B-roll on the iPhone for comparison). [2025-09-26] ([[../../sources/2025-09-26-yt-q0aFOxT6TNw]])
+- **An ambitious educational build — "no generative AI, just Blender."** The M5-scale video (shrinking 100× at a time
+  to a 3nm transistor) was a big Blender production in **collaboration with creator Epic Spaceman**, with an explicit
+  "no generative AI is being used" disclosure — a stated production-values line consistent with his anti-AI-slop stance.
+  [2025-12-26] ([[../../sources/2025-12-26-yt-Jh9pFp1oM7E]])
+- **The fact-checking production process, exposed.** The "Every Mistake I Made in 2025" video documented a codified
+  **fact-checking stage + multiple eyeballs before export**, and named the **reviewer's guide (a per-device spec PDF from
+  the maker)** as his official spec source ("I can't fact-check specs by Googling; Google gives rumored specs"). [2025-12-23] ([[../../sources/2025-12-23-yt-v-sCZN3FbR0]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._
