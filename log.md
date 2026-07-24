@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Apr 21 → May 28, 7 ingested + 1 skip (the Paradox of Choice, Right to Repair, the M1 iMac/iPad, and the F-150 Lightning)
+
+Stage B. Ingested the spring-2021 Apple/EV wave to L2 (1255→**1262**): **Colored iMacs? (4/20 event reactions)**
+(★), **The New Purple iPhone 12** (light), **Apple vs The Paradox of Choice** (★★), **What Is Right To Repair?**
+(★★), **M1 iMac Review** (★★), **iPad Pro M1 Review** (★★), and **Ford F150 Lightning Impressions** (★★).
+**Skipped: OnePlus Watch Review** (yt-07mIwEa3xbQ) — garbled foreign auto-captions (Korean-derived ASR gibberish),
+RE-FETCH. All 7 ingested are solo/Marques-fronted → persona-eligible (Right to Repair quarantines Louis Rossmann +
+Simone Giertz — attribution: mixed; sponsored outros flagged: ExpressVPN on the event video, Skylum on the purple
+iPhone, Nebula/CuriosityStream on the Paradox video — note he co-owns Nebula). Ledger @mkbhd now ~367 open
+(P2:~332, P3:35); L2=1262, L3=0. (Post-pass-19; debt ~4 batches since the high-water at 1236 — pass-20 due at ~10
+batches or the end-of-2021 era boundary.)
+
+Synthesis notes (for pass 20, at the 2021 boundary): (1) landmark **"Apple vs The Paradox of Choice"**: the
+**shark-and-remora** metaphor + **"Apple kills companies by presenting it as a choice on a silver platter"** / the
+**paradox of choice (either way Apple wins)** + the **Find-My-network advantage** (AirTags vs Tile) + the ranked
+**kill list** (Flux/styluses/Duet/Watson) + the **antitrust/walled-garden "no easy right answer."** (2) landmark
+**"What Is Right To Repair?"**: **"do you really own it?"** + **repair-saves-money-and-the-environment vs control-
+extends-the-money** + **Apple-certified-is-worthless** + the core **"can't-sell-you-the-part"** problem + **John
+Deere / Tesla** + the **integration-vs-repairability crossroads** (the M1 Macs — "better tech is less
+repairable"). (3) the **M1 iMac design critique**: **"it's a design video (the M1 is the same everywhere)"** +
+**"I don't care how thin it is / nix the chin"** (design-over-substance) + **white-bezels-melt-into-the-wall /
+friendly-family-computer** + **best-mics-ever + finally-1080p-webcam** + the base-model port warning. (4) the
+**M1 iPad Pro**: the **Ferrari-in-city-traffic** hardware-software gap + **"the GOAT of tablets" + "what is a
+computer?"** + the promotable **"is it too good — Apple protecting the Macs / software is the real limit"** thesis
++ **thicker-for-a-bigger-battery** jab + mini-LED-looks-like-OLED. (5) landmark EV **F-150 Lightning**: **"the most
+important EV of the year" (the best-selling VEHICLE)** + **Ford-took-it-seriously / "make it better at everything"**
++ the promotable **under-promise-over-deliver range strategy** (EPA rated with 1,000 lb cargo; ~460 mi empty) +
+the **frunk + bi-directional power** (truck+generator+Powerwall) + the **instant-torque explainer**. (6) content-
+strategy: the **mid-cycle-color-refresh "like clockwork"** + the candid **"this video pays for a better free
+video"** content-economics transparency + the **watch-the-keynote-three-times** production-craft note. None
+inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Mar 19 → Apr 12, 5 ingested + 1 skip + 2 L1 ("I was right" (inside-fold), "Why Did LG Phones Really Die?", and the world's-largest sensor)
 
 Stage B. Ingested the Mar–Apr-2021 wave to L2 (1250→**1255**): **Huawei Mate X2 Impressions: I Was Right!** (★),
