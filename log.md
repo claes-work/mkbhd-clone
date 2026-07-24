@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Sep 17 → Oct 14, 7 ingested + 1 skip (Techtober 2020: the mid-range-tier thesis + "Why Don't People Buy Sony?" + the Porsche Taycan)
+
+Stage B. Ingested the Techtober-2020 wave to L2 (1210→**1217**): **Apple Watch S6: Everything New** (★),
+**Xbox Series X/S Design Impressions** (★), **Porsche Taycan Turbo [Auto Focus Ep 6]** (★★), **Galaxy S20 Fan
+Edition** (★★), **Apple Watch S6 Review "It's Bait!"** (★★), **Why Don't People Buy Sony Smartphones?** (★★), and
+**Pixel 5 Impressions** (★). **Skipped: OnePlus 8T Review** (yt-VHt0LqGZVSY) — garbled foreign auto-captions
+(Korean-derived ASR gibberish), no usable English transcript; ledger `skipped` with a RE-FETCH note. All 7
+ingested are solo/Marques-fronted → persona-eligible; captions otherwise clean. Ledger @mkbhd now ~422 open
+(P2:~388, P3:35); L2=1217, L3=0. (Post-pass-18; debt now ~4 batches / ~64 sources since the high-water at 1153 —
+pass-19 due at ~10 batches or the end-of-2020 era boundary, whichever first.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) the landmark **mid-range-tier thesis** (S20 FE):
+**flagships getting much better AND much more expensive birthed a flourishing mid-range tier** + the **flagship
+etymology** ("the ship with the flag") + the revealed **sales-volume curve** (the S20 Ultra was most popular
+week one, then the mass-market blew past it — **the Ultra ends up LEAST popular**) + Samsung's **phone-at-every-
+price** strategy. (2) the landmark **"why don't people buy Sony?"** market analysis: **enthusiasts are a tiny
+sliver — "to sell volume you need to appeal to everybody"** + **launch execution matters** (unveiled May, in
+hand October, successor already out) + the **pro-competition value** ("the more competition, the better the
+products get") + "Sony is terrible with names." (3) the promotable **"don't compare the new thing to last year's
+in mature categories — most buyers aren't upgrading from last year"** reviewing rule + **"ecosystem bait"** +
+**blood-oxygen skeptic** ("grab a \$25 pulse oximeter") + **"if it ain't broke, don't fix it"** (Apple Watch S6
+review). (4) EV (Porsche Taycan, Auto Focus Ep 6): **interior quality vs. interior layout** (a documented
+mind-change — Porsche wins quality, Tesla still wins layout) + **Tesla's efficiency (Wh/mi) moat + Supercharger-
+network moat** + **"best-driving EV, period"** + **"Porsche put effort into the EV experience / more than one
+right answer, like folding phones."** (5) **fps-over-resolution** + **amortize-the-cost-over-its-lifetime →
+go-future-proof** (Xbox Series X/S) — pairs with the Osborne-Effect need-it-now-vs-keep-it-long lens. (6) **"no
+charger in the box = writing on the wall for the iPhone 12"** (environmental framing over a cost move) +
+**Apple-silicon-team-flexing** (the watch chip ties into the Mac-transition arc). (7) **"a flagship, but not a
+flagship" / "cuts, not trade-offs" / Google admits it can't compete at \$1,000** (Pixel 5) — reinforces the
+mid-range thesis. None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Aug 18 → Sep 12, 8/8 ingested (the 2020 foldables wave + the RED Komodo + "the king, but for what?")
 
 Stage B. Ingested the late-Aug→mid-Sep-2020 foldables wave to L2 (1202→**1210**): **Note 20 Ultra Review** (★★),
