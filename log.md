@@ -4,6 +4,47 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2018 Jun 12 → Jul 5, 7/8 ingested + 1 no-captions (the platform trilogy: On IGTV/YouTube Competition + Dear YouTube! + The Truth About Colored Smartphones)
+
+Stage B. Sixth batch of the 2018 era (1022→**1029 L2**): **HTC U12+ Review**, **Vivo NEX S Impressions**, **On
+IGTV and YouTube Competition**, **Oppo Find X**, **$2400 Sennheiser HD 820**, **Dear YouTube!**, and **The Truth
+About Colored Smartphones**. All 7 solo/Marques-fronted → persona-eligible; captions clean. **1 no-captions skip**
+(see below). Ledger @mkbhd now 628 open (P2:593, P3:35); L2=1029, L3=0. (Post-pass-15; debt now 6 batches / 45
+sources — approaching the ~10-batch checkpoint.)
+
+⚠️ **Special cases:** (a) **Let's Talk About Smartphone Chins!** (yt-ThkMi9fkdEc, 2018-06-19) has **no subtitles**
+→ marked **L1**, not ingested (an explainer essay; ledger-flagged to RE-FETCH if captions appear). (b) the **Oppo
+Find X** unit was **lent by Linus (LTT)** — a credit note; all opinions are Marques.
+
+Synthesis notes (for pass 16) —
+**(1) CREATOR-BUSINESS / platform strategy** (On IGTV and YouTube Competition): "**don't put all your eggs in one
+basket — you don't own your audience on any one platform, so diversify**"; the standing "what if YouTube
+disappeared?" answer ("**too big to instantly disappear** — there'd be a trajectory I could act on"); the
+**graveyard of YouTube challengers** (Periscope/Snapchat-too-late/**Vine RIP** — monetization never secure/Vimeo
+10,000× fewer eyeballs/Facebook 90%-stolen + search dumpster-fire/Google+); IGTV as the most credible #2; "**competition
+is good for us users** — the iPhone would never get better without a rival chomping at the bit"; and the documented
+**anti-→pro vertical-video reversal**. **(2) CREATOR-BUSINESS / platform critique** (Dear YouTube!): the "**Dear X**"
+open letter over the silent **thumbnails A/B test** ("0.3% of 1.9 billion is still **5 million people**"); "**I went
+to business school — I get it's a business decision**" (both-sides method + a biography tell); two asks — **TELL
+everyone** (in the Creator Studio we check daily) + make it **OPT-OUT**; and the durable **over-communication
+principle** ("under-communication is the main crux of why people get mad; **we just want to feel somewhat in
+control, and part of that is knowing what's going on**"). **(3) INDUSTRY-COMMENTARY / teach-the-mechanism** (The
+Truth About Colored Smartphones): why colors stagger — **SKU minimization** (sell as few variations as possible;
+the car-option-bundle analogy) + the **"press cycle" tool** (a new color months later restarts the attention/sales
+cycle — "OnePlus/Samsung/Apple all do it"); **Apple's color-as-status-signal** decoded (**rose gold on the 6s, jet
+black on the 7, the red dot on the LTE Watch** — new color = "spec bump, same design," so you can tell who has the
+new one); "**I love it and I hate it**"; misses **Moto Maker** ("peak smartphone customization"). **(4) The
+good-clicky-buttons principle** (HTC U12+): pressure-sensitive fake buttons w/ a mediocre motor are no match for
+Apple's haptic engine — "**I'll keep praising good clicky buttons until haptics get way better.**" **(5) The
+bezel-less future arrives** (Vivo NEX S: the Apex concept made real, 91.24% screen-to-body) + **reward-creative-
+industrial-design** (Oppo Find X: "I love this, just when phones were getting boring") + the consistent
+**moving-parts durability skepticism** (both pop-up phones). **(6) PRODUCTION/AUDIO** (Sennheiser HD 820): the
+open-soundstage-in-a-closed-back mechanism; the honest "streaming, not getting 100%" (Apollo Twin Mk2); the
+**test-track ritual**; and the memorable **"I'm a video person" audio-as-grading analogy**. Next synthesis
+checkpoint (pass 16) is now close — debt **6 batches / 45 sources** (checkpoint at ~10 batches or the next era
+boundary); the platform trilogy (creator-business), the colored-phones press-cycle decode, and the Duplex AI-thesis
+from the prior batch are the priority promotions.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2018 May 10 → Jun 7, 7/8 ingested + 1 no-captions (Google Duplex "how far does it go" + Auto Focus Ep. 2 Lamborghini + Pixel 2 Revisited)
 
 Stage B. Fifth batch of the 2018 era (1015→**1022 L2**): **Let's Talk About Google Duplex**, **Google Pixel 2
