@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 6) — 2019 Feb 26 → Mar 26, 6/8 ingested + 2 skip/L1 (the OnePlus 6T "best camera vs best experience" + the Tesla Model Y reveal)
+
+Stage B. Ingested the 2019 S10 season + the Model Y to L2 (1080→**1086**): **The Galaxy S10's Incredible
+Display**, **OnePlus 6T Revisited**, **Galaxy S10e Review**, **Tesla Model Y Impressions**, **Top 5 Android Q
+Features**, and **AirPods 2**. All 6 solo/Marques-fronted → persona-eligible; captions clean. **2 unusable** (see
+below). Ledger @mkbhd now 567 open (P2:532, P3:35); L2=1086, L3=0. (Post-pass-17; debt now 2 batches / 13 sources.)
+
+⚠️ **2 unusable this batch:** (a) the **Galaxy S10+ Review "The Bar is Set"** (yt-Lg8B4aTZf7o) — a LANDMARK full
+flagship review — came back **no-captions** → **L1**, flagged to re-fetch (partly covered by the S10-display +
+S10e-review this batch). (b) the driver re-selected **Foldable Phones Aren't Ready** (yt-iLA1XLO8p1A); the re-fetch
+was **still ASR-gibberish** (permanent) → marked **`skipped`** so it stops being re-selected (superseded by the
+clean Nov-2018 foldable explainer).
+
+Synthesis notes (for pass 18) —
+**(1) LANDMARK — the two "best cameras"** (OnePlus 6T Revisited): "there's the camera that takes the **best
+*quality*** (the Pixel — not even close) and the **best overall *experience*** (quality + speed + everything)"; and
+the verdict **"objectively the Pixel is the better phone, but the *experience* of the 6T was often better — more
+impressive at $200+ less."** Plus **"4 GB of RAM actually isn't enough"** (2nd year of Pixel lag) + the Gcam-port
+tip + missed wireless-charging/water-resistance + "there's never a perfect phone." **(2) LANDMARK — the Tesla Model
+Y reveal**: completes the S3XY lineup; **"I think the Model Y could outsell the Model 3, because best-selling SUVs
+constantly outsell best-selling cars"**; a hybrid of the X and 3 (glass roof, auto hatchback liftgate, a cramped
+3rd row → "get a Model X"); the **factory chrome delete** ("satin matte black — no wrap needed," a matte-black
+appreciation); saw the **2020 Roadster** in person ("I want it to exist so bad" — his deposit). **(3) Teach-the-
+mechanism — ultrasonic vs optical fingerprint** (S10 Display): 3D-sound-map, more secure, faster on a light touch,
+no backlight, works through water (demoed beating the OnePlus 6T) + the **"the S10+'s dual cutout is a depth sensor,
+not a second camera"** debunk. **(4) "A better deal, not a better phone"** (S10e Review) + the counterintuitive
+**"the capacitive side-button fingerprint is arguably better than the S10's ultrasonic — way faster"** (older tech
+wins on speed) + "the one most people should get." **(5) AirPods 2** — "the safest 2nd-gen product in a long time,
+if it ain't broke" + the **Lightning-accessories-hint → probably another Lightning iPhone this year** prediction.
+**(6) Android Q** — the refinement-era read + the share-sheet fix + the (buggy) native screen recorder. Next
+synthesis checkpoint (pass 18) at ~10 batches or the end of 2019.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2019 Feb 1 → Feb 24, 7/8 ingested + 1 garbled-L1 (What's on my Tech 2019 + via Twitter for iPhone + Apollo is Back)
 
 Stage B (first batch post-pass-17). Ingested early 2019 to L2 (1073→**1080**): **Sony WH1000XM3 Review**, **The
