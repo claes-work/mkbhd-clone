@@ -4,6 +4,42 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2018 Aug 27 → Sep 18, 7/8 ingested + 1 skip (the 2018 flagship season: RED Hydrogen One + Auto Focus Ep. 3 + the iPhone XS/XR trio)
+
+Stage B (first batch post-pass-16). Ingested the **2018 flagship season** to L2 (1034→**1041**): **What's in my
+Tech Bag 2018**, **RED Hydrogen One Unboxing (Houdini Edition)**, **Living with a Supercar [Auto Focus Ep. 3]**,
+**The Truth About the Pocophone F1**, **iPhone XR Impressions**, **iPhone XS/XS Max Impressions**, and the
+**iPhone XS Review**. All 7 solo/Marques-fronted → persona-eligible; captions clean. Ledger @mkbhd now 613 open
+(P2:578, P3:35); L2=1041, L3=0. (Post-pass-16; debt now 1 batch / 7 sources.)
+
+⚠️ **Resolved a recurring L1:** the driver re-selected **Galaxy Note 9 Impressions** (yt-9AxYQOX5_FM) and re-fetched
+its captions — **still the same foreign auto-translation gibberish** (permanent). Marked it **`skipped`** (not L1)
+so it stops being re-selected; it's superseded by the clean full Note 9 Review ingested last batch. The Auto Focus
+Ep. 3 track owner-instructor "Ari" is a light guest (quarantined; all narration is Marques).
+
+Synthesis notes (for pass 17) —
+**(1) LANDMARK — Auto Focus Ep. 3 + the Roadster deposit** (Living with a Supercar): a week with the Acura NSX as
+an "everyday supercar," explicitly framed by **"as someone who has a deposit in for a 2020 Tesla Roadster…"**
+(confirms the deposit; ⚠️ the "2020" slips per the contradiction-watch); his **supercar definition** ("anything that
+makes big trade-offs for maximum driving performance"); his **first-ever track day** (Monticello); "I feel like I'm
+one of those people." **(2) The RED relationship — "a camera company discovering how hard phones are"** (Hydrogen
+One Houdini unboxing): a fair, non-dunk read on why a great camera company struggles to ship a good phone; the
+unusual **Houdini** prototype-beta program (serial 008/300); "it looks like a RED camera — a tool"; camera-first,
+not a daily driver. **(3) "A curse Apple put on itself" — software longevity vs the upgrade cycle** (iPhone XS
+Review): **iOS 12 made the year-old iPhone X so fast the XS feels barely different** → "by maintaining and updating
+phones so well, Apple makes people with an older phone less likely to upgrade" (the flip side of his "you're
+guessing at longevity" thread) + the camera **"firmly #2 behind the Pixel 2"** + the **depth-map portrait mode**
+(blur-by-distance beats Samsung's generic blur) + the **buy-a-real-camera redirect** ("upgrade to iOS 12 and buy
+an RX100 with that money") + **big-phone-person** ("the Max is my favorite iPhone ever"). **(4) The budget-phone
+thesis extended** (Pocophone F1): "at this price, **copy whatever you want**" + **"ride the line"** (copy the
+noticeable premium stuff, cut corners in the unnoticeable places); MIUI 10 = "the first Xiaomi I could use daily."
+**(5) "The XR is the real hit / the new iPhone 8"** + the **color mini-review** format (Product RED **9.5, day one
+— no more six-month wait**; "soft spot for matte black") — a follow-up to the colored-smartphones press-cycle decode.
+**(6) BIOGRAPHY/gear** (Tech Bag): EDC **minimalism** ("keep it simple — those solar-panel-battery-bank bags are a
+little much"); the **two-laptop system** (13" daily / 15" for video); red-and-black bag + matte-black AirPods;
+daily phones **OnePlus 6 + iPhone X.** Next synthesis checkpoint (pass 17) at ~10 batches or the end of 2018 / into
+2019.
+
 ## [2026-07-24] lint | synthesis pass 16 — the first half of 2018 (984→1034 L2): the frameworks era (walled garden, Duplex AI-thesis, the press cycle), the review method turns inward, and the platform/creator layer matures
 
 Stage S. Drained the **H1-2018 debt** (984→1034 L2, ~50 sources across 7 ingest batches; late-2017 tail → Aug
