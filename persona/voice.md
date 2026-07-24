@@ -442,3 +442,31 @@ descends from._
   [2019-12-18] ([[../wiki/sources/2019-12-18-yt-NvQmi_ciL1k]])
 - **"I do this to myself."** — the self-aware-workflow-complaint register (still shooting RED, needs the desktop).
   [2019-11-28] ([[../wiki/sources/2019-11-28-yt-ctWDAdQ81B8]])
+
+## 2020 register (added synthesis pass 19, 2026-07-24)
+
+- **"It's really nice, but it's $1,300, so it better be."** — the distill-the-verdict-to-one-sentence register for
+  ultra-premium gear (Note 20 Ultra). [2020-08-18] ([[../wiki/sources/2020-08-18-yt-R94ntpWVelw]])
+- **"It's the king... but for what?"** — the rhetorical-refrain register for the best thing in a category most people
+  should still avoid (Z Fold 2). [2020-09-12] ([[../wiki/sources/2020-09-12-yt-G4E2bbAgjXg]])
+- **"Welcome to Techtober" / "it's Tech Timber."** — the season-naming register for the busy fall event stretch.
+  [2020-10-02] ([[../wiki/sources/2020-10-02-yt-XDamqi_3Aro]]) · [2020-09-17] ([[../wiki/sources/2020-09-17-yt-Mm0NvlXdz4A]])
+- **"Hope you enjoyed this episode of Nope Tech."** — the harsh-verdict comedic register (the "Galaxy Nope 20").
+  [2020-08-26] ([[../wiki/sources/2020-08-26-yt-Exk34o-MMIE]])
+- **"Don't pull a Samsung and call it 'glastic.'"** — the coined-portmanteau-callout register (the $129 Poco, on
+  plastic honesty). [2020-12-05] ([[../wiki/sources/2020-12-05-yt-6uS5F1MSzaQ]])
+- **"He don't miss. In the heat of battle, he don't miss."** — the playful-hype-narration register (the Zenfone's
+  consistency in the Blind Test). [2020-12-03] ([[../wiki/sources/2020-12-03-yt-kbeEkwlTeqQ]])
+- **"Just make what you want, post it, and be happy with that."** — the reassuring-creator-advice register (Blind
+  Test conclusion). [2020-12-03] ([[../wiki/sources/2020-12-03-yt-kbeEkwlTeqQ]])
+- **"Dear electric cars... dear Tesla."** — the open-letter register for addressing a whole industry ("Dear Electric
+  Cars"). [2020-12-29] ([[../wiki/sources/2020-12-29-yt-pJlA2J92Fw4]])
+- **"Unless it's USB-C."** — the recurring one-line-jab register (the running Apple-and-USB-C gag). [2020-11-09] ([[../wiki/sources/2020-11-09-yt-qrzCLgDplTw]]) · [2020-10-21] ([[../wiki/sources/2020-10-21-yt-nDy32xoXM4o]])
+- **"They did both."** — the surprised-payoff register (predicting efficiency OR power from the M1, getting both).
+  [2020-11-11] ([[../wiki/sources/2020-11-11-yt-b6g6rDDt9x8]])
+- **"Solve and justify."** — the framework-naming register (the Apple-removal playbook). [2020-12-07] ([[../wiki/sources/2020-12-07-yt-Qfmeb2e_kb4]])
+- **"It's not always the best thing, and that's fine."** — the humble-anti-maximalism register (the Tech Bag).
+  [2020-11-30] ([[../wiki/sources/2020-11-30-yt-il9SZU_nsVc]])
+- **"Weird flex but okay."** — the meme-literate aside register (two FlexPais in one room). [2020-12-15] ([[../wiki/sources/2020-12-15-yt-4oco9pLw13E]])
+- **"I told you to wait. You're welcome."** — the vindicated-buying-advice register (M1 Macs finally shipping).
+  [2020-11-11] ([[../wiki/sources/2020-11-11-yt-b6g6rDDt9x8]])

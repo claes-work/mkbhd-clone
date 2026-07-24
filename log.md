@@ -4,6 +4,49 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] lint | synthesis pass 19 — the 2020 era (L2 1153→1236, ~83 sources): "the Apple way," the mid-range-tier thesis, the foldables arc, and the "Dear Electric Cars" EV manifesto
+
+Stage S. Ran synthesis pass 19 over the whole 2020 corpus (high-water **1153 → 1236**; the 2020 era complete —
+iPhone 12 / M1 / foldables-wave / PS5 year). Promoted the genuinely-new 2020 material into topics + persona; dropped
+pure repeats of established doctrines.
+
+**Promoted:**
+- `persona/beliefs.md` — added `### 2020 doctrines` (24 doctrines): the-Apple-way (+ "unless it's USB-C"), the
+  side-by-side-tell, solve-and-justify (+ Apple-reporting-is-pattern-matching), the-upside-and-downside-of-control
+  (M1 "they did both"), mid-range-tier-flourishing (+ flagship-etymology + sales-volume-curve), "Ultra-not-Note" +
+  opposite-of-the-Apple-strategy, enthusiasts-are-a-tiny-sliver + launch-execution-matters, don't-buy-on-future-
+  software, don't-compare-to-last-year + ecosystem-bait, software-over-everything (Pixel), technically-awesome-
+  cant-recommend, the-two-pricing-tricks + "the-worst-part-is-the-price" + embrace-the-plastic, commoditization-is-
+  good, Blind-Test-2020 (white-balance-underrated + "just make what you want, post it, be happy"), the-reviewer's-
+  creed, all-press-is-good-press, no-charger="writing-on-the-wall", the-controller-connects-you-more-than-graphics
+  + haptic-obsession, "no-single-thing-but-together-adds-up" + fps-over-resolution/fidelity + amortize-the-cost,
+  the-foldables-arc ("the king, but for what?" + practicality-suffers-for-the-fold + opposite-of-the-Samsung-plan +
+  cover-screen-paradox + outer-folding-is-wrong-path + "which-version-of-a-fold-is-best"), 5G-two-sided + MagSafe,
+  the-EV-manifesto (range-baseline + collaborative-Supercharging + only-responsible-premium-EV-is-a-Tesla + Tesla-
+  build-quality-debt + get-better-together + interior-quality-vs-layout + best-driving-EV), "it's-not-always-the-
+  best-thing-and-that's-fine."
+- `persona/voice.md` — added `## 2020 register` (14 registers): "$1,300, so it better be", "the king... but for
+  what?", "Techtober / Tech Timber", "Nope Tech", "don't call it glastic", "he don't miss", "just make what you
+  want, post it, be happy", "Dear electric cars", "unless it's USB-C", "they did both", "solve and justify", "it's
+  not always the best thing, and that's fine", "weird flex but okay", "I told you to wait. You're welcome."
+- `persona/biography.md` — added `## Corpus-derived anchors (2020: LASIK, golf, the Model S daily driver, ICONS,
+  and hosting David Blaine)` (7 anchors): LASIK ("see 2020 by 2020"), golf-since-age-10 + NBA fandom, Model-S-daily-
+  driver + David-Blaine-Ascension, ICONS (first product), the 2020 gear/photo-vs-video split (R5 / A7S3+Komodo;
+  two-phone habit), team+channel (hiring / Retro Tech S2 / weekly Waveform / the YouTube-tech lineage), 2020
+  interviews (Zuckerberg/Obama — quarantined).
+- Topic hubs got `## 2020 additions (synthesis pass 19)` sections: **tech-reviews** (10 bullets), **tech-industry-
+  commentary** (12), **ev-cars** (6), **production-filmmaking** (5).
+- `persona/system-prompt.md` recompiled **v18→v19** (`compiled_from_sources: 1236`; "through Dec 2020; the 2020 era
+  complete"); added the v19 changelog block + wove the 2020 lens clusters into "How you think" (How-you-read-Apple /
+  the-market / immature-tech / cars).
+- `pipeline/synthesis-state.md` high-water advanced to **1236** (pass 19); pass-18 detail moved to superseded.
+- `index.md` system-prompt line bumped to **v19 (1236 sources)**.
+
+Guests stayed quarantined (Zuckerberg/Obama/Gurman/Neil deGrasse Tyson — context only). No contradictions surfaced
+against prior eras; the 2020 doctrines sharpen/extend the 2018–2019 frameworks (competition value, importance-of-
+software, high-refresh, tools-vs-talent, EV range+charging) rather than conflicting. Next: resume ingest into 2021
+(next synthesis checkpoint at ~10 batches or the end-of-2021 era boundary).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Dec 3 → Dec 31, 8/8 ingested (2020 ERA COMPLETE: the Blind Test, the Portless-iPhone framework, and the "Dear Electric Cars" manifesto)
 
 Stage B. Ingested the end-of-2020 wave to L2 (1228→**1236**) — **the 2020 era is now complete**: **The Blind

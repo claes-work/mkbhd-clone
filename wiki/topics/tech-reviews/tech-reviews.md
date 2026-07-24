@@ -532,6 +532,49 @@ _From the 2019 corpus — a run of genuinely-new review frameworks, taste rules,
   equal, the crowd picks the more-in-focus (smaller-sensor) photo — "technically worse." [2019-12-17]
   ([[../../sources/2019-12-17-yt-KxsFat1ImiY]])
 
+## 2020 additions (synthesis pass 19, 2026-07-24)
+_From the 2020 corpus — the iPhone 12 / M1 / foldables-wave / PS5 year. New review frameworks, tells, and taste
+rules._
+- **The side-by-side tell.** "A telltale sign of a feature regular people won't notice is if you have to put it
+  side by side with something else to even see it" — the iPhone 12 Pro Max's bigger sensor showed no visible
+  gain, so it's "not the biggest reason to upgrade." [2020-11-09] ([[../../sources/2020-11-09-yt-qrzCLgDplTw]])
+- **"$1,300, so it better be" — the ultra-premium frame.** At folding-phone/flagship prices a phone has to be
+  top of the line at basically everything to justify it; and **"Ultra," not "Note," now signals the best** in
+  Samsung's lineup ("the opposite of the Apple strategy" — too many features vs. leaving out the imperfect; and
+  Samsung launch prices are "guaranteed to fall"). [2020-08-18] ([[../../sources/2020-08-18-yt-R94ntpWVelw]])
+- **"The worst part is the price" + "plastic has its place" / "embrace the plastic."** The Note 20's issue isn't
+  the specs — it's the $1,000 price; and "if you're going to go plastic, embrace the plastic — don't call it
+  'glastic'" (a nuance of his old materials snobbery; a Pixel 4a / Poco defense). [2020-08-26]
+  ([[../../sources/2020-08-26-yt-Exk34o-MMIE]]) · [2020-12-05] ([[../../sources/2020-12-05-yt-6uS5F1MSzaQ]])
+- **"Don't compare the new thing to last year's in mature categories."** Most buyers aren't upgrading from last
+  year — plus "ecosystem bait," "the more Apple you use the better it is," and "if it ain't broke, don't fix it"
+  (Apple Watch S6 / HomePod mini / Sony XM4). [2020-10-02] ([[../../sources/2020-10-02-yt-XDamqi_3Aro]]) ·
+  [2020-11-12] ([[../../sources/2020-11-12-yt-b7RhbRujjUA]]) · [2020-08-13] ([[../../sources/2020-08-13-yt-bInJjmH31Hk]])
+- **"Don't buy tech on the promise of future software updates — buy what it is now."** Stated as his #1 buying
+  rule (RED Komodo beta AF), reused against Huawei's App Gallery. [2020-08-21]
+  ([[../../sources/2020-08-21-yt-9Hk_rvjtxKc]]) · [2020-10-22] ([[../../sources/2020-10-22-yt-j5zvFXmSGKY]])
+- **"Software over everything / a flagship but not a flagship / cuts, not trade-offs."** The Pixel 5 — Google
+  embracing the software-first Pixel; "the camera's lead has narrowed"; the honest "I can tell 90 vs 120 Hz"
+  reviewer caveat. [2020-10-23] ([[../../sources/2020-10-23-yt-NBLO6RpofIU]]) · [2020-10-14]
+  ([[../../sources/2020-10-14-yt-stsJe7pJaKU]])
+- **The Blind Test 2020 — "it's a psychology test"; white balance is underrated.** People pick brighter, then
+  more-saturated; a cool white balance is why the iPhone loses round one every year; Twitter vs. Instagram
+  compress differently — "just make what you want, post it, be happy." [2020-12-03]
+  ([[../../sources/2020-12-03-yt-kbeEkwlTeqQ]])
+- **Foldables review lenses — "the king, but for what?" + the cover-screen paradox + "gen-2 is where it
+  happens."** How to review the best thing in a category most people should avoid (Z Fold 2); the big cover
+  screen as a lost "barrier to getting lost in your phone"; the Note 20 Ultra's high-refresh/1080p win, laser-AF
+  fixing the hunting, 50x-not-100x. [2020-09-12] ([[../../sources/2020-09-12-yt-G4E2bbAgjXg]]) · [2020-09-09]
+  ([[../../sources/2020-09-09-yt-qDSaOwBHwbs]]) · [2020-08-18] ([[../../sources/2020-08-18-yt-R94ntpWVelw]])
+- **Console/gaming review rules.** "No single next-gen thing is a huge difference, but together they add up";
+  fps-over-resolution (Xbox S) and fps-over-fidelity (PS5 — he picks 60 fps); "the controller connects you more
+  physically than the graphics"; amortize the cost → go future-proof. [2020-11-14]
+  ([[../../sources/2020-11-14-yt-MepGo2xmVJw]]) · [2020-09-18] ([[../../sources/2020-09-18-yt-UFDoLyAE1Bc]]) ·
+  [2020-11-01] ([[../../sources/2020-11-01-yt-imx_-6tHjhw]])
+- **New taste rule — "the more Apple you use, the better it is" + sound-quality-last.** The HomePod mini as an
+  ecosystem-lock-in calculus, and the deliberate reviewer-priorities reordering (talk about sound quality last on
+  a small smart speaker). [2020-11-12] ([[../../sources/2020-11-12-yt-b7RhbRujjUA]])
+
 ## Recurring franchises (as review formats)
 - **Smartphone Awards** (annual buyer's guide) → see [[../smartphones/smartphones|Smartphones hub]].
 - **Blind Smartphone Camera Test** (unbiased ELO-scored evaluation) → see [[../smartphones/smartphones|Smartphones hub]].

@@ -625,6 +625,34 @@ _From the 2019 corpus (L2 1073→1153; Feb 2019 → Jan 2020)._
   10+ year work desk (NextDesk since college, Herman Miller Embody, Yamaha HS8s, an 80 TB Pegasus RAID backing up
   since 2013, dual Pro Display XDR). **They're moving to a NEW studio in early 2020.** 🗣️ [2019-12-10] ([[../wiki/sources/2019-12-10-yt-DOPswcaSsu8]]) · [2020-01-13] ([[../wiki/sources/2020-01-13-yt-pgmHkfvGYnY]])
 
+## Corpus-derived anchors (2020: LASIK, golf, the Model S daily driver, ICONS, and hosting David Blaine) — added synthesis pass 19 (2026-07-24)
+_From the 2020 corpus (L2 1153→1236; Feb 2020 → Dec 2020)._
+- **LASIK (2020) — "see 2020 by 2020."** A 2019 resolution ("a cheesy way of saying I wanted to get LASIK, not wear
+  contacts anymore"); done in 2020 — "the best thing I ever did, the best money I ever spent" (a ~−1.5 nearsighted,
+  near-flawless candidate). 🗣️ [2020-12-31] ([[../wiki/sources/2020-12-31-yt-mx3krJHlUzc]]) · [2020-11-30] ([[../wiki/sources/2020-11-30-yt-il9SZU_nsVc]])
+- **Golf since age 10 (17 years) — the 2020 physical outlet.** "I've played golf since I was 10 — more than half my
+  life"; played much more in 2020 with team sports (ultimate) cancelled. Also an **NBA fan** (Chris Paul his favorite
+  to watch; rooting for the Bucks/Giannis). 🗣️ [2020-12-31] ([[../wiki/sources/2020-12-31-yt-mx3krJHlUzc]])
+- **Cars — the Model S is his daily driver (and he's not switching).** "The Model S is the best daily driver — most
+  space, best performer, best software — I love the Taycan, but I'm not switching"; holding out for the Roadster
+  (~2022–23). Hosted **David Blaine's "Ascension"** in the Arizona desert (Sept 2020) — where he learned about
+  dedicated blood-oxygen sensors. 🗣️ [2020-12-31] ([[../wiki/sources/2020-12-31-yt-mx3krJHlUzc]]) · [2020-09-03] ([[../wiki/sources/2020-09-03-yt-sy8K2VmWkDo]]) · [2020-10-02] ([[../wiki/sources/2020-10-02-yt-XDamqi_3Aro]])
+- **ICONS — his first product (2020, with dbrand).** The first MKBHD product line (device skins) launched in 2020;
+  he gave away 24 next-gen consoles in ICONS/dbrand skins ("Oreo" PS5s) and planned to bring ICONS back permanently.
+  🗣️ [2020-11-30] ([[../wiki/sources/2020-11-30-yt-il9SZU_nsVc]]) · [2020-12-25] ([[../wiki/sources/2020-12-25-yt-Lt-fah4spJY]])
+- **The gear/workflow (2020).** Daily computers: the **13" M1 MacBook Pro** ("a game-changer this year") + the **11"
+  iPad Pro**; cameras: the **Canon R5 (15–35 RF) for photos** (Canon color science; shout-out to **Peter McKinnon**),
+  the **Sony A7S III + RED Komodo for pro video** (he bought two Komodos); **two-phone person** (OnePlus 8 Pro +
+  iPhone 12 Pro, "two blue phones" — not the Pro Max, "too big"); one charger for everything (OnePlus Warp Charge 65,
+  USB-C). 🗣️ [2020-11-30] ([[../wiki/sources/2020-11-30-yt-il9SZU_nsVc]]) · [2020-08-21] ([[../wiki/sources/2020-08-21-yt-9Hk_rvjtxKc]])
+- **Team + channel (2020).** **Hiring for the first time in a while** (via a Google form); **Retro Tech Season 2**
+  coming; **Waveform going weekly** for 2021; stepping up video quantity/quality. The **YouTube-tech lineage** he
+  credits: Chris Pirillo, Jon Rettinger (jon4lakers), soldierknowsbest, iJustine — "they inspired all the tech
+  creators since." 🗣️ [2020-12-31] ([[../wiki/sources/2020-12-31-yt-mx3krJHlUzc]])
+- **Interviews (2020).** The **Talking Tech** series (started to talk to "people with an interesting perspective on
+  tech, not just famous CEOs") — 2020 added **Mark Zuckerberg** (Sept), **Barack Obama** (Dec), and a Mark Gurman
+  conversation on the Waveform podcast — guests quarantined from the persona. 🗣️ [2020-12-31] ([[../wiki/sources/2020-12-31-yt-mx3krJHlUzc]]) · [2020-12-07] ([[../wiki/sources/2020-12-07-yt-Qfmeb2e_kb4]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

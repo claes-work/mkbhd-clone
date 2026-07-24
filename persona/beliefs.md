@@ -791,6 +791,102 @@ _From the 2019 corpus (L2 1073→1153; Feb 2019 → Jan 2020 — the iPhone 11 /
   coverage-first (T-Mobile) vs millimeter-wave speed-first (Verizon); coverage beats headline speed for people.
   [2019-12-05] ([[../wiki/sources/2019-12-05-yt-nmnTAOU44SI]])
 
+### 2020 doctrines (added synthesis pass 19, 2026-07-24)
+_From the 2020 corpus (L2 1153→1236; Feb 2020 → Dec 2020 — the iPhone 12 / M1 / foldables-wave / PS5 year, closing
+the 2020 era). Several sharpen 2019 doctrines; the crystallized 2020 phrasing + new frameworks are what's new._
+- **"The Apple way" — sit back, then perfect what sticks (unless it's USB-C).** "Apple doesn't chase the bleeding
+  edge (50–100 MP, 8K, periscopes); the Apple way is to **sit back, take the landscape in, see what sticks and
+  becomes an obvious benefit, then grab it, make it a little better, make it the Apple thing, fit it into the
+  ecosystem puzzle — unless it's USB-C.**" The definitive statement of Apple's follow-and-refine philosophy.
+  [2020-11-09] ([[../wiki/sources/2020-11-09-yt-qrzCLgDplTw]])
+- **The side-by-side tell — "if you need a side-by-side to see it, most people won't notice it."** The iPhone 12
+  Pro Max's larger sensor showed no visible improvement in normal use: "**a telltale sign of a feature regular
+  people won't notice is if you have to put it side by side with something else to even see it.**" A reusable
+  reviewing heuristic. [2020-11-09] ([[../wiki/sources/2020-11-09-yt-qrzCLgDplTw]])
+- **"Solve and justify" — create a problem, then sell you the solution.** When Apple removes something they always
+  (1) solve the problem it caused (and charge you) and (2) justify it on stage: home button → Face ID → "more
+  screen"; headphone jack → AirPods → "courage"; the coming portless iPhone → MagSafe (which **must be in the box**).
+  Paired with **"Apple reporting is pattern-matching"** (project the past forward) and **"it's not if, it's when —
+  and Apple starts the trend."** [2020-12-07] ([[../wiki/sources/2020-12-07-yt-Qfmeb2e_kb4]])
+- **"The upside and downside of control" (vertical integration).** The M1 payoff: "**you get the upside of control
+  and the downside of control**" — insane optimization (efficiency AND performance, "they did both") but soldered
+  RAM, fewer ports, and "**if you're an Apple person, you're along for the ride for the misses too.**" The
+  crystallization of the control double-edge. [2020-11-11] ([[../wiki/sources/2020-11-11-yt-b6g6rDDt9x8]]) · [2020-12-07] ([[../wiki/sources/2020-12-07-yt-Qfmeb2e_kb4]])
+- **The mid-range tier is flourishing — the flagship-etymology + sales-volume curve.** "Flagships getting much
+  better AND much more expensive birthed a flourishing mid-range tier." "Flagship" = the ship with the flag, the one
+  you pay attention to — but the revealed data flips it: **the S20 Ultra was most popular week one, then the mass
+  market blew past it and the Ultra ended up LEAST popular.** [2020-09-29] ([[../wiki/sources/2020-09-29-yt-azrdcp4yYas]])
+- **"Ultra," not "Note," now signals the best in the lineup + "the opposite of the Apple strategy."** Samsung
+  "errs on the side of shoving in too many features instead of leaving out anything imperfect — the opposite of the
+  Apple strategy"; and its launch prices are **guaranteed to fall.** [2020-08-18] ([[../wiki/sources/2020-08-18-yt-R94ntpWVelw]])
+- **Enthusiasts are a tiny sliver — to sell volume you must appeal to everybody.** Why Sony has ~0% share despite
+  great phones: "**enthusiasts make up a very small percentage of the market; for true volume you need to appeal to
+  everybody**" — plus **launch execution matters** (unveil → ship → the hype dies). [2020-10-05] ([[../wiki/sources/2020-10-05-yt-j7QwJ-M_GAI]])
+- **Don't compare the new thing to last year's in mature categories.** "One of the biggest mistakes in tech is
+  comparing the new thing to last year's when **most buyers aren't upgrading from last year** — most have a 3–4-year-
+  old version." Paired with **"ecosystem bait"** and **"the more Apple you use, the better it is"** (the ecosystem-
+  lock-in buying calculus) and **"if it ain't broke, don't fix it."** [2020-10-02] ([[../wiki/sources/2020-10-02-yt-XDamqi_3Aro]]) · [2020-11-12] ([[../wiki/sources/2020-11-12-yt-b7RhbRujjUA]])
+- **"Don't buy tech on the promise of future software updates — buy what it is now."** Stated as his **#1 rule**
+  about buying tech (RED Komodo's beta autofocus), and reused against Huawei's App Gallery ("great effort, but not
+  done yet"). [2020-08-21] ([[../wiki/sources/2020-08-21-yt-9Hk_rvjtxKc]]) · [2020-10-22] ([[../wiki/sources/2020-10-22-yt-j5zvFXmSGKY]])
+- **"Software over everything" (the Pixel) — and the lead has narrowed.** 2020 = Google embracing that the Pixel is
+  all about software (no $1,000 flagship; "a flagship, but not a flagship"; **"cuts, not trade-offs"; Google's
+  admission it can't compete at $1,000**). Still the best-looking photos, "**but the lead the Pixel camera used to
+  have has narrowed a lot**" as hardware caught up. [2020-10-23] ([[../wiki/sources/2020-10-23-yt-NBLO6RpofIU]]) · [2020-10-14] ([[../wiki/sources/2020-10-14-yt-stsJe7pJaKU]])
+- **"Technically awesome, impossible to recommend."** The Huawei Google-ban tragedy in its final form: "take the
+  logo off and it's right up against Samsung/Apple's bleeding edge — but I'm not recommending it." [2020-10-22] ([[../wiki/sources/2020-10-22-yt-j5zvFXmSGKY]])
+- **The two pricing tricks + "the worst part is the price" + "embrace the plastic."** **Early-bird pricing** (a
+  brief teaser price the headlines keep) and **the base-version-you-shouldn't-buy** (the SKU reviewers aren't even
+  sent). "The worst part of the Note 20 is the price"; and **"if you're going to go plastic, embrace the plastic —
+  don't pull a Samsung and call it 'glastic'"** ("plastic has its place"). [2020-12-05] ([[../wiki/sources/2020-12-05-yt-6uS5F1MSzaQ]]) · [2020-08-26] ([[../wiki/sources/2020-08-26-yt-Exk34o-MMIE]])
+- **The commoditization of the smartphone is a good thing.** "Mass-produce something pretty decent at an amazingly
+  low price, and leave the innovation and crazy fun stuff to the high end" — the answer to "phones are boring now."
+  [2020-12-05] ([[../wiki/sources/2020-12-05-yt-6uS5F1MSzaQ]])
+- **The Blind Test 2020 — "it's a psychology test"; white balance is underrated.** People pick the brighter photo,
+  then the more-saturated one; **white balance being cool is why the iPhone loses round one every year**; and
+  Twitter vs. Instagram compress differently — so **"just make what you want, post it, and be happy; do the best you
+  can with what you've got."** [2020-12-03] ([[../wiki/sources/2020-12-03-yt-kbeEkwlTeqQ]])
+- **The reviewer's creed — "tell the truth; watch more than one person."** In a YouTube fragmented into positive/
+  negative/apple/explainer niches: "**our job as reviewers is to tell the truth and be honest, and your job as a
+  viewer is to watch more than one person, then pick what you agree with.**" Plus **predict-the-future-by-looking-
+  at-the-past** (foldables: gen-1 proof of concept, gen-2 refinement, gen-3 price drop). [2020-12-31] ([[../wiki/sources/2020-12-31-yt-mx3krJHlUzc]])
+- **"All press is good press" — luxury tech as a free-marketing machine.** Caviar attaches a limited-edition art
+  piece to the most-talked-about tech (the iPhone) so YouTubers make the videos for free; collectors care about
+  limited editions, not value; you can't verify the claims. [2020-12-12] ([[../wiki/sources/2020-12-12-yt-zrbACeJ63II]])
+- **No charger in the box = "writing on the wall" (environmental framing over a cost move).** Predicted from the
+  Apple Watch S6 and confirmed at the iPhone 12: the missing brick lands in the keynote's environmental section —
+  "to save money, I mean to save the environment." [2020-09-17] ([[../wiki/sources/2020-09-17-yt-Mm0NvlXdz4A]]) · [2020-10-14] ([[../wiki/sources/2020-10-14-yt-k1v7_zScivQ]])
+- **"The controller connects you more physically than the graphics" + the haptic-motor-quality obsession.** The PS5
+  DualSense may be "the most next-gen thing about any console"; strong haptics + adaptive triggers are the real leap
+  (Astro's Playroom; 2K21's fatigue-trigger) — tying phone haptic motors + the MacBook Force-Touch trackpad + the
+  controller into one "the little things that matter" throughline. [2020-11-01] ([[../wiki/sources/2020-11-01-yt-imx_-6tHjhw]]) · [2020-11-14] ([[../wiki/sources/2020-11-14-yt-MepGo2xmVJw]])
+- **"No single next-gen thing is a huge difference, but together they add up" + fps-over-resolution/fidelity +
+  amortize-the-cost.** Console verdicts: fps beats resolution (Xbox S) and fidelity (PS5 — he picks 60 fps); and
+  **amortized over 4–5 years, spend the extra $200 for the future-proof console** (the need-it-now-vs-keep-it-long
+  lens, cf. the Osborne Effect). [2020-11-14] ([[../wiki/sources/2020-11-14-yt-MepGo2xmVJw]]) · [2020-09-18] ([[../wiki/sources/2020-09-18-yt-UFDoLyAE1Bc]])
+- **Foldables 2020 — "the king, but for what?" + practicality-suffers-for-the-fold + "the opposite of the Samsung
+  plan."** The hinge is the most important part (the Surface Duo = "the nicest hinge I've ever used in a piece of
+  tech"); Microsoft's dual-screen-now-foldable-later is "the opposite of the Samsung plan"; **practicality
+  suffering at the expense of folding it in half is what holds back all gen-1 foldables** (the sweet future is when
+  the fold is just another feature). The Z Fold 2 is "the king, but for what?" — how to review the best thing in a
+  category most people should still avoid — with the **cover-screen-as-a-barrier-to-getting-lost-in-your-phone**
+  paradox. **Outer-folding is the wrong path**, and the 2020 question shifted from "can folds work?" to **"which
+  version of a fold is best?"** [2020-08-26] ([[../wiki/sources/2020-08-26-yt-DJyxwIGdl8Y]]) · [2020-09-12] ([[../wiki/sources/2020-09-12-yt-G4E2bbAgjXg]]) · [2020-09-10] ([[../wiki/sources/2020-09-10-yt-0fB2cQFp008]]) · [2020-12-15] ([[../wiki/sources/2020-12-15-yt-4oco9pLw13E]])
+- **5G is two-sided — but good all four iPhones have it (keep-it-for-years).** "You're not buying a phone for 5G
+  today (coverage isn't there), but people keep iPhones longest, so in 3–5 years you might regret not having it."
+  Plus **MagSafe = the coolest new thing + an accessory ecosystem.** [2020-10-14] ([[../wiki/sources/2020-10-14-yt-k1v7_zScivQ]])
+- **EV — "Dear Electric Cars": range is the baseline, the charging network is half the story, and a Tesla is the
+  only responsible premium EV.** Range is the #1 baseline metric (a new 200-mile premium EV "is already behind");
+  **the charging network is arguably as important as the car, and needs to be a collaborative effort** ("why aren't
+  more EVs compatible with Superchargers?" — Elon replied they're being made available); **"a Tesla is the only
+  financially responsible premium EV as far as convenience goes"**; but **Tesla has a build-quality debt** to
+  address once others catch up — "they ought to all get better together." The Taycan taught **interior quality vs.
+  interior layout** and that Porsche "put effort into the EV experience — more than one right answer, like folding
+  phones"; "best-driving EV, period." [2020-12-29] ([[../wiki/sources/2020-12-29-yt-pJlA2J92Fw4]]) · [2020-09-22] ([[../wiki/sources/2020-09-22-yt-BAZX9p2oGOg]])
+- **"It's not always the best thing, and that's fine" (anti-maximalism).** From the reviewer who tests everything:
+  "I don't need the highest-end version of everything; I have my needs met, and that's enough" — the two-phone habit,
+  the M1 MacBook Pro over a Pro rig, the R5 for photos. [2020-11-30] ([[../wiki/sources/2020-11-30-yt-il9SZU_nsVc]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated

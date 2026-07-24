@@ -6,30 +6,49 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1153 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
-L2=1034 (H1 2018), pass 17 through L2=1073 (H2 2018 → early 2019; the 2018 era complete), PLUS **pass 18's whole of
-2019 → Jan 2020 (2026-07-24) — L2 1073→1153, ~80 sources; the 2019 era is now complete.** The competition value
-crystallizes into a catchphrase (**"companies compete, we win"** — Huawei ban / OnePlus 7 / Bose 700 / Taycan /
-iPhone camera fight), the **importance-of-software** thesis lands outright (**"battery/display/camera are all
-software"**; the Banned Huawei Mate 30 Pro = "the biggest hardware-software delta I've ever seen"; AOSP-without-
-Google isn't viable), high-refresh advocacy becomes the slogan **"high refresh rate all the things"**, the
-tools-vs-talent belief gets its cleanest form (the **"Headroom unlocker"** — a Mac Pro won't make your videos
-better, it lowers the barrier to try), and new frameworks land: **"you can't fake an ultrawide with software" + the
-Pixel-vs-iPhone camera graph** ("closest to the human eye"), **"imperfectly perfect" / if-I-could-pick-one**, the
-**walled garden** (Apple Card) + **"Apple would rather cancel than ship short"** (AirPower) + the **"listen to the
-people" fixing spree**, **"test with real people, not robot hands"** + own-the-failure (the fixed Fold), the
-**CyberTruck design-disruption thesis** + "intentionally-jarring-becomes-iconic", the EV **range-and-charging-first
-+ supercharger-moat** lens, the **two-5G-rollout-strategies** ("not a race"), the **Blind Test 2019 "in-focus
-bias"**, and **"not all specs are equal" → "cheap phones are getting good."** Biography: **110 videos**; **10
-MILLION subscribers** (Dec 2019) + "the best part of my job is sharing a lifelong passion"; the **Waveform** launch;
-**Retro Tech S1**; the **Gates/Nadella/Will Smith interviews**; the **NY Empire 15-0 undefeated AUDL championship**;
-the **triple-motor CyberTruck order**; the **Canon EOS R** (replaced the Hasselblad); the **28-core Mac Pro** +
-**Setup Tour 2020** (moving to a new studio); first devices (**iPod Touch / LG Voyager / iPhone 5s**). Topic hubs
-got pass-18 sections (**tech-reviews / tech-industry-commentary / ev-cars / production-filmmaking**);
-`persona/beliefs.md` (a "2019 doctrines" subsection), `persona/voice.md` (a "2019 register"), `persona/biography.md`
-(a 2019 anchors section), and `persona/system-prompt.md` recompiled **v17→v18** (1073→1153 sources; "through Jan
-2020"). Covers every `wiki/sources/` page that was L2 as of 2026-07-24 at the 1153-source mark. Next checkpoint at
-~10 more ingest batches or the next era boundary (through 2020).
+Synthesized through: **1236 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
+L2=1034 (H1 2018), pass 17 through L2=1073 (the 2018 era complete), pass 18 through L2=1153 (the 2019 era complete),
+PLUS **pass 19's whole of 2020 (2026-07-24) — L2 1153→1236, ~83 sources; the 2020 era is now complete.** The Apple-
+analysis frameworks reach canonical form (**"the Apple way"** — sit back, then perfect what sticks, "unless it's
+USB-C"; **"solve and justify"** — create a problem, sell you the solution; **"Apple reporting is pattern-matching"**;
+**"the upside and downside of control"** — the M1 "they did both"), the market-structure thesis lands (**the
+mid-range tier is flourishing** + the flagship etymology + the sales-volume curve; **"enthusiasts are a tiny sliver
+— appeal to everybody"**; **launch execution matters**), and durable rules crystallize: **the side-by-side tell**
+("if you need a side-by-side to see it, most people won't notice it"), **"don't buy on the promise of future
+software updates,"** **"don't compare the new thing to last year's in mature categories" / "ecosystem bait,"**
+**"technically awesome, impossible to recommend,"** the two pricing tricks (**early-bird** + **base-version-you-
+shouldn't-buy**) + **"embrace the plastic / glastic"** + **commoditization-is-good**, the **Blind Test 2020**
+("psychology test"; white-balance-is-underrated; "just make what you want, post it, be happy"), the **reviewer's
+creed** ("tell the truth; watch more than one person"), **"the controller connects you more than the graphics"** +
+the haptic-motor obsession + fps-over-resolution/fidelity, **no-charger = "writing on the wall,"** **"all press is
+good press"** (Caviar), and the **foldables arc** (the hinge is the most important part; "the opposite of the
+Samsung plan"; "practicality suffers for the fold"; **"the king, but for what?"** + the cover-screen paradox;
+"which version of a fold is best"). EV manifesto **"Dear Electric Cars"**: **range-is-the-baseline-metric**, the
+**charging-network-is-half-the-story + collaborative-Supercharging** (Elon replied), **"the only financially
+responsible premium EV is a Tesla,"** the **Tesla-build-quality-debt**, **"get better together"** (+ the Taycan's
+interior-quality-vs-layout, "best-driving EV, period"). Biography: **LASIK** ("see 2020 by 2020"); **golf since age
+10**; the **Model S daily driver** (not switching to the Taycan); **ICONS** (his first product, with dbrand);
+hosting **David Blaine's "Ascension"**; the **M1 MacBook Pro** daily; **hiring for the first time**, **Retro Tech
+S2**, **Waveform going weekly**; the YouTube-tech lineage (Pirillo/Rettinger/soldierknowsbest/iJustine); 2020
+interviews (**Zuckerberg/Obama** — quarantined). Topic hubs got pass-19 sections (**tech-reviews / tech-industry-
+commentary / ev-cars / production-filmmaking**); `persona/beliefs.md` (a "2020 doctrines" subsection),
+`persona/voice.md` (a "2020 register"), `persona/biography.md` (a 2020 anchors section), and `persona/system-prompt.md`
+recompiled **v18→v19** (1153→1236 sources; "through Dec 2020"). Covers every `wiki/sources/` page that was L2 as of
+2026-07-24 at the 1236-source mark. Next checkpoint at ~10 more ingest batches or the next era boundary (through
+2021).
+
+### (superseded) pass 18 high-water detail
+Synthesized through: **1153 L2 sources** — passes 1–15 through L2=984, pass 16 through L2=1034, pass 17 through
+L2=1073, PLUS **pass 18's whole of 2019 → Jan 2020 — L2 1073→1153, ~80 sources; the 2019 era complete.** The
+competition value crystallizes (**"companies compete, we win"**), the **importance-of-software** thesis lands
+outright, high-refresh becomes **"high refresh rate all the things,"** the tools-vs-talent belief gets its cleanest
+form (the **"Headroom unlocker"**), plus **"you can't fake an ultrawide" + the Pixel-vs-iPhone camera graph**,
+**"imperfectly perfect,"** the **walled garden** + **"Apple would rather cancel than ship short"** + the **fixing
+spree**, **"test with real people"** + own-the-failure, the **CyberTruck design-disruption thesis**, the EV
+**range-and-charging-first + supercharger-moat**, the **two-5G-strategies**, and the **Blind Test 2019 "in-focus
+bias."** Biography: **110 videos**; **10M subscribers** (Dec 2019); the **Waveform** launch; **Retro Tech S1**; the
+**Gates/Nadella/Will Smith** interviews; the **NY Empire 15-0** championship; the **CyberTruck order**; the **Canon
+EOS R**; the **28-core Mac Pro** + **Setup Tour 2020**. Recompiled **v17→v18** (1073→1153; "through Jan 2020").
 
 ### (superseded) pass 17 high-water detail
 Synthesized through: **1073 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
