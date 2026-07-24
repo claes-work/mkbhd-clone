@@ -4,6 +4,40 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Dec 3 → Dec 31, 8/8 ingested (2020 ERA COMPLETE: the Blind Test, the Portless-iPhone framework, and the "Dear Electric Cars" manifesto)
+
+Stage B. Ingested the end-of-2020 wave to L2 (1228→**1236**) — **the 2020 era is now complete**: **The Blind
+Smartphone Camera Test 2020** (★★), **The $129 Smartphone (Poco M3)** (★★), **The Portless iPhone: Let's Talk!**
+(★★, Mark Gurman guest), **The Caviar Moon iPhone** (★, Neil deGrasse Tyson guest), **Outer Folding Phones: It's
+Time to Stop!** (★), **Giving Away 24 PS5s/Xbox** (light — giveaway), **Dear Electric Cars!** (★★, landmark EV
+manifesto), and **2021 Tech I'm Ready For** (★★, biography/persona year-ahead). 8/8 captions clean, no skips/L1
+this batch. Guests quarantined (Gurman's portless predictions, NDT's moon-rock facts — attribution: mixed on
+those two; only Marques-attributed framing trains persona). 2021 Q&A has an ExpressVPN outro (flagged). Ledger
+@mkbhd now ~398 open (P2:~363, P3:33); L2=1236, L3=0.
+
+**>>> CHECKPOINT: the 2020 era is complete → NEXT ITERATION runs Stage S pass 19** (synthesis over the whole
+2020 corpus, high-water 1153 → ~1236), then resumes ingest into 2021.
+
+Synthesis notes (for pass 19, 2020 boundary — RUN NEXT): (1) **content-strategy / creator philosophy**: the
+**Blind-Test findings** ("it's a psychology test"; people pick brighter-then-more-saturated; **white-balance-is-
+underrated** = why the iPhone loses round one; Twitter-vs-Instagram compression) + the promotable **"just make
+what you want, post it, be happy / do the best with what you've got"** + the **"tell the truth / watch more than
+one person"** reviewer creed + the **YouTube-tech lineage** (Pirillo/Rettinger/soldierknowsbest/iJustine) +
+**predict-via-history** (foldables 3rd-gen price drop). (2) **tech-industry-commentary**: the **"solve and
+justify"** Apple-removal framework + **"create a problem, sell you the solution"** + **"Apple reporting is
+pattern-matching"** + **control double-edge** ("along for the ride for the misses") (Portless iPhone); the
+**early-bird-pricing** + **base-version-you-shouldnt-buy** pricing tricks + **commoditization-is-good** + **"embrace
+the plastic / glastic"** ($129 Poco); the **"all press is good press" free-marketing machine** + collectors-care-
+about-limited-editions (Caviar). (3) **EV (landmark "Dear Electric Cars" manifesto)**: **range-is-the-#1-baseline-
+metric** (200 mi = already behind) + **the charging network is half the story + collaborative-Supercharging**
+(Elon replied) + **"the only financially responsible premium EV is a Tesla"** + the **Tesla-build-quality-debt**
+critique + **"get better together"** + the **USB-C-alongside-Lightning** analogy (+ Model-S-is-my-daily-driver,
+not-switching-to-Taycan). (4) **foldables**: **outer-folding-is-the-wrong-path** (unprotected + can't-hide-tricks)
++ **"which version of a fold is best is the new 2020 question"** + discovery-by-elimination + rollables-interest —
+caps the 2020 foldables arc. (5) **BIOGRAPHY/PERSONA** (2021 Q&A + Tech Bag): **LASIK ("see 2020 by 2020")** +
+**golf since age 10 (17 years)** + **NBA fandom (Chris Paul favorite, rooting for the Bucks)** + hiring/RetroTech-
+S2/weekly-Waveform + **AirPods-Max-as-a-"$550-price-enabler."** None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Nov 9 → Nov 30, 5 ingested + 1 skip + 2 L1 (the M1 payoff, the PS5 review, and the "tech I choose" bag)
 
 Stage B. Ingested the late-Nov-2020 wave to L2 (1223→**1228**): **Apple M1 Chip: Let's Talk!** (★★), **HomePod
