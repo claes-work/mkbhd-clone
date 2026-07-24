@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Jun 17 → Jul 14, 8/8 ingested (WWDC "Great Transition" (Apple Silicon) + "Can You Trust MKBHD" ethics manifesto + OnePlus Nord cost-breakdown)
+
+Stage B. Ingested the mid-Jun→mid-Jul-2020 wave to L2 (1186→**1194**): **PS5 Impressions** (★), **Galaxy Buds+:
+The Go-To** (★★), **WWDC 2020: The Great Transition** (★★ Apple Silicon), **Apple Responds w/ Federighi** (★
+mixed), **On the iPhone With No Charger** (★★), **iPhone 12: What to Expect** (★), **Can You Trust MKBHD?** (★★
+landmark ethics), and **OnePlus Nord w/ Carl Pei** (★ mixed). All 8 captions clean; no skips/L1. **2 mixed (guest-
+quarantined): Craig Federighi and Carl Pei.** Ledger @mkbhd now ~446 open (P2:~411, P3:35); L2=1194, L3=0.
+(Post-pass-18; debt 6 batches — pass-19 due at the end-of-2020 era boundary or ~10 batches.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) **THE APPLE SILICON "GREAT TRANSITION"** (WWDC 2020) —
+**his 2018 Apple-Silicon-in-Macs prediction is VALIDATED** ("a MacBook Pro that doesn't throttle"; control-your-
+own-destiny vs Intel; the 2-year transition); plus the **Apple-Android convergence** theme and the ecosystem-as-
+benefit (AirPods auto-switching). (2) **THE DEFINITIVE ETHICS MANIFESTO** ("Can You Trust MKBHD") — no-paid-reviews,
+no-early-look-for-the-maker, no-review-sponsored-by-the-maker, the precise **definition of a review**, sponsored-
+segments-vs-unpaid-collaborations, buy-it-if-I-don't-get-it-early, "I plan on saying the truth every time," and
+**"I work for you — don't get all your tech advice from one person."** Core persona-values material. (3) the **"go-
+to" theory** (every mature category has a checks-all-boxes safe-bet starting point you branch from). (4) the **DSLR-
+ships-without-a-lens** analogy + steelman-both-sides + **"how will Apple spin it"** (the no-charger think-piece). (5)
+**"design is subjective — get-used-to-it ≠ like-it"** (Waze; Big Sur). (6) **flat-sides-feel-better-caseless** +
+the 120Hz/USB-C/matte-black iPhone-12 wishlist. (7) the **console-optimization-vs-PC** advantage (PS5; BIOGRAPHY
+PS4 = first/only console). (8) the **design-locked-6-9-months-ahead** product insight + real part-costs (OnePlus
+Nord, Carl Pei's figures quarantined) answering the Budget Blueprint. None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 May 19 → Jun 16, 6 ingested + 1 skip + 1 L1 (How-Teslas-Upgrade + the Escobar-scam anatomy + "Reflecting on the Color of My Skin")
 
 Stage B. Ingested the late-May→mid-Jun-2020 wave to L2 (1180→**1186**): **How Teslas Upgrade Over Time** (★★),
