@@ -4,6 +4,33 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Aug 18 → Sep 12, 8/8 ingested (the 2020 foldables wave + the RED Komodo + "the king, but for what?")
+
+Stage B. Ingested the late-Aug→mid-Sep-2020 foldables wave to L2 (1202→**1210**): **Note 20 Ultra Review** (★★),
+**6K RED Komodo Impressions** (★★), **Surface Duo Unboxing** (★★), **Galaxy Nope 20** (★★, Note 20 review),
+**Z Fold 2 Unboxing** (★), **Moto Razr 2 Impressions** (★), **Surface Duo Review** (★★), and **Z Fold 2 Review**
+(★★). All 8 solo/Marques-fronted → persona-eligible; captions clean; no skips/L1 (Galaxy Nope 20 has an ExpressVPN
+sponsored outro, flagged — not persona voice). Ledger @mkbhd now ~430 open (P2:~395, P3:35); L2=1210, L3=0.
+(Post-pass-18; debt now ~3 batches since the high-water at 1153 — pass-19 due at ~10 batches or the end-of-2020
+era boundary, whichever first.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) the landmark **"it's the king... but for what?"** frame
+(Z Fold 2 review) — how to review **the best thing in a category most people should still avoid**; pairs with the
+**cover-screen-as-a-barrier-to-getting-lost-in-your-phone** usability paradox (a rare pro-friction observation).
+(2) the **foldables meta-thesis**: **practicality suffering at the expense of folding it in half is what's holding
+back ALL gen-1 foldables** (Surface Duo review) — the sweet future is **when the fold is just another feature, not
+a sacrifice.** (3) **dual-screen-now, foldable-display-later = "the opposite of the Samsung plan"** (Surface Duo)
++ **hinge-is-the-most-important-part** stated at its strongest ("the nicest hinge I've ever used in a piece of
+tech"). (4) **"don't buy tech on the promise of future software updates — buy what it is right now"** (RED Komodo,
+his stated #1 rule) + the **camera-democratization value** ("the cheaper good cameras get, the happier we can all
+be") + **RED-ecosystem-as-a-barrier-to-entry.** (5) Samsung branding/pricing: **"Ultra," not "Note," now signals
+the best in the lineup** + the **opposite-of-the-Apple-strategy** (too-many-features vs leave-out-the-imperfect) +
+**"the worst part is the price"** (Galaxy Nope 20) + **"plastic has its place"** (evolves the old materials
+snobbery). (6) **"the second generation is where the interesting stuff happens"** (Moto Razr 2) + **thin form
+factors can't fit flagship hardware yet** + Samsung **"experiments in the open, learns more from mistakes than
+success."** Biography: hosting **David Blaine's "Ascension"** (Arizona desert, Sept 2020); the RED Komodo + Fold 2
+unboxing **shot on Komodo.** None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Jul 21 → Aug 13, 8/8 ingested (the Pixel 4a budget-camera king + the Osborne-Effect Apple-Silicon dilemma + the Note-20-is-overpriced call)
 
 Stage B. Ingested the late-Jul→mid-Aug-2020 wave to L2 (1194→**1202**): **OnePlus Nord Impressions** (★), **ROG
