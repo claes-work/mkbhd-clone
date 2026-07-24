@@ -4,6 +4,32 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Dec 17 → 2020 Jan 13, 8/8 ingested (2019 CLOSES: Blind Test 2019 + 10M subs + Banned Huawei Mate 30 Pro + Setup Tour 2020)
+
+Stage B. Ingested the 2019→2020 boundary wave to L2 (1145→**1153**): **Blind Smartphone Camera Test 2019** (★★),
+**10,000,000!** (★★ biography), **Would a Walkman work in space** (light), **The Most Expensive iPhone** (Caviar
+$100k), **2020 Tech I'm Ready For** (★★), **Banned Huawei Mate 30 Pro** (★★), **OnePlus Concept One** (CES 2020),
+and **The MKBHD Setup Tour 2020** (★★ biography). All 8 solo/Marques-fronted → persona-eligible; captions clean.
+**The 2019 era is now essentially CLOSED** (Smartphone Awards 2019 already ingested). Ledger @mkbhd now ~494 open
+(P2:~459, P3:35); L2=1153, L3=0.
+
+Synthesis notes: this is the last ingest before **pass 18 (Stage S) synthesis**, which runs NEXT iteration to
+drain the ~9-batch 2019-era debt. Strongest new material from this batch: (1) the **Blind Camera Test 2019**
+media-literacy findings — **brighter-wins (confirmed) + a NEW "in-focus bias"** (with equal brightness, the crowd
+prefers the more-in-focus photo, i.e. the smaller-sensor look, "even though technically it's worse") + compression
+flattens sharpness/detail/contrast. (2) The **"importance of software"** thesis stated outright (Banned Huawei
+Mate 30 Pro: "battery optimization, display responsiveness, camera quality are all software... that'll never be
+not important" — the biggest hardware-software delta he's seen; the Huawei-ban competition-is-bad-for-us callback).
+(3) **"high refresh rate all the things"** restated as an explicit 2020 demand + the OnePlus-7-Pro-won-MVP note.
+(4) BIOGRAPHY, very rich: **10 MILLION subscribers** (Dec 2019) + core motivation ("the best part of my job is
+sharing a lifelong passion"); the **2019 scorecard** (110 videos, Waveform launch, the Musk/Gates/Will Smith/
+Nadella interviews); the **New York Empire's 15-0 undefeated AUDL championship**; and the **Setup Tour 2020**
+studio inventory (NextDesk since college, Herman Miller Embody, Yamaha HS8s, 80TB Pegasus RAID backups since 2013,
+dual Pro Display XDR, his own 28-core/768GB Mac Pro) with the note that **they're moving to a NEW studio in early
+2020.** (5) boxy-design love + best-technical-ultrawide (Huawei); the RED Komodo as his next travel camera. NEXT:
+run pass-18 Stage S synthesis over the full 2019 era (promote into wiki/topics + persona, recompile system-prompt
+to v18). None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Nov 28 → Dec 16, 7 ingested + 1 L1 (the Mac Pro "Headroom unlocker" + 16" MBP review + 5G Part 2 + Dec collabs)
 
 Stage B. Ingested the December-2019 wave to L2 (1138→**1145**): **16" MacBook Pro Review** (★★), **Analog vs
