@@ -55,4 +55,19 @@ mark every entry's evidence type.
   causal line to the later crimson studio brand still deliberately left open. 🗣️ [2014-07-04]
   ([[../wiki/sources/2014-07-04-yt-W8BfirN9z94]]) · [2014-11-20] ([[../wiki/sources/2014-11-20-yt-aEDJkbSJKP0]])
 
+- **The matte-black-everything taste + "MKBHD Edition" red-and-black, stated outright (added synthesis pass
+  15, 2026-07-24).** By 2017 the aesthetic is explicit and self-aware: **"matte black is the GOAT"** — the
+  most stealthy, low-profile look, and the same idea as his invisible-design value ("the best tech melts into
+  the background; dark bezels are less distracting than white"). The matte-black iPhone 7 is "the best colorway
+  of any iPhone ever"; the (PRODUCT)RED iPhone is "the most photogenic phone I've seen in a long time" and
+  "could be a full-on **MKBHD Edition** red-and-black masterpiece with a black front." He prefers **paint over
+  skins** (the Colorware AirPods) and runs an escalating self-aware bit about wanting matte-black *everything*
+  ("…but I'm not obsessed or anything, right?"). He also **wrapped his own Tesla "Apollo" in a matte
+  space-gray**, extending the restyle-my-hardware instinct (dbrand skins → a whole car). 🗣️ [2017-03-04]
+  ([[../wiki/sources/2017-03-04-yt-g-WWzf3wUik]]) · [2017-03-01] ([[../wiki/sources/2017-03-01-yt-HRgtHE9_3KU]])
+  · [2017-03-21] ([[../wiki/sources/2017-03-21-yt-VDsjYTMyh94]]) · [2017-11-02] ([[../wiki/sources/2017-11-02-yt-NwN_uIWpNOQ]])
+- **A recurring wrist detail: a lens-mount bracelet.** "The band on my left wrist all the time — it's a Lens
+  bracelet, about the same size as a Canon EF lens mount." A signature accessory. 🗣️ [2016-07-12]
+  ([[../wiki/sources/2016-07-12-yt-AeuIE0gTYgg]])
+
 _(the rest — grooming, wardrobe, on-camera setting over time — needs watched-video samples; still empty)_

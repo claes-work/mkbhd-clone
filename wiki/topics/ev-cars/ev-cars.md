@@ -77,6 +77,31 @@ AutoFocus)._
   [2016-12-19] ([[2016-12-19-yt-QM5z0dW60KE]])
 - **Chevy Bolt = the first real mass-market Tesla rival** (CES 2016). [2016-01-08] ([[2016-01-08-yt-0hUxIO09hPA]])
 
+## The Model 3 "EV for the masses" VINDICATED + rooting-for-competition (2017) — added synthesis pass 15 (2026-07-24)
+_From the full 2017 corpus — the car beat deepens: he drives the Model 3, meets Elon, and starts covering EV
+rivals._
+- **The Model-3 prediction VINDICATED — "the EV for the masses."** Tesla invited him to drive the Model 3
+  early and meet **Elon Musk + Franz von Holzhausen**. Elon's quote: "we've had great electric cars, we've had
+  affordable electric cars, but they never really overlapped — this is that." Reads: **minimalism serves the
+  manufacturing** (as close to one SKU as possible to hit volume); **made for autonomy** (no screen behind the
+  wheel); but "there's a line between futuristic and where a **physical button** would just be better" (the
+  glove box is two taps). "$44k/310mi = the best cost-to-mile in an EV." [2017-07-31] ([[2017-07-31-yt-MgzwBW_LPdE]])
+- **Rooting-for-competition + "the future car is a ride, not just a drive."** Lucid Air ("luxury EVs are the
+  future of luxury"; names Tesla's weak-spot interior), Faraday FF91 ("I'm glad someone's trying"; rear-wheel
+  steering), Porsche Mission E (a real Tesla rival attacking the interior) — "I root for competition so what
+  we have gets better." Tempered by show-car-vs-working-prototype skepticism. [2017-03-09] ([[2017-03-09-yt-jbXEWi-OK4o]])
+  · [2017-01-06] ([[2017-01-06-yt-M2VvFXCR3II]]) · [2017-09-26] ([[2017-09-26-yt-xig77hiUHig]])
+- **Whole-field autonomy (not just Tesla) + "Apple needn't build a car."** The Mercedes Drive Pilot (maps +
+  sensors vs Tesla's sensors-only; "will people trust it?"); and "Apple could make a self-driving-car *project*
+  and never build a car — Tesla is half a software company." [2017-01-05] ([[2017-01-05-yt-XIzimkcuEuk]]) ·
+  [2017-08-10] ([[2017-08-10-yt-sdw_jquVZe0]])
+- **Ownership details.** He **wrapped "Apollo" matte space-gray** (~25k mi; protection + restyle, "like a
+  dbrand skin for the whole car"); wants **Spotify in the Tesla**; on **wireless car charging**: "not
+  efficient — heat is a huge problem (Supercharging on a 95°F day, the plug read 109°, hot to the touch);
+  maybe in 20 years." [2017-11-02] ([[2017-11-02-yt-NwN_uIWpNOQ]]) · [2017-09-26] ([[2017-09-26-yt-xig77hiUHig]])
+- **The power-steering problems RESOLVED** — the 2016 reliability arc closed positively ("it's been perfect
+  since then"). [2017-02-11] ([[../../wiki/sources/2017-02-11-yt-xcSOGYqQ_kY]])
+
 ## The @AutoFocus era (2026 EV reviews) — first substantial corpus
 
 > Added synthesis pass 2 (2026-07-19) from the first @AutoFocus batch. Marques-fronted → persona-eligible; the Porsche Macan driving section is handed to co-host "Miles" and quarantined at the source.

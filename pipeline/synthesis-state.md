@@ -6,21 +6,50 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **912 L2 sources** — passes 1–8 through L2=500, pass 9 through L2=571, pass 10 through
-L2=643, pass 11 through L2=713, pass 12 through L2=785 (May 2014 → Mar 2015), pass 13 through L2=857 (Mar 2015
-→ Mar 2016), PLUS **pass 14's seven @mkbhd batches (2026-07-23) covering Mar 2016 → Dec 2016 (L2 857→912;
-the 2016 era complete)** — the year the frameworks get canonical statements (the five pillars; the gimmick-vs-
-useful test), he buys a Tesla ("Apollo") and starts reviewing cars like gadgets, the review method
-crystallizes into reusable tests (substance-over-first-impressions, processing-beats-the-sensor + the blind
-test, good-buttons), the industry critiques flatten out ("I hate carrier exclusives," follow-the-incentives,
-"USB-C all the things / dongles are our bridge to the future"), and his rig/life change (4M subs, the
-furnished 2016 studio, pro ultimate for Philadelphia, archiving raw footage). Covers every `wiki/sources/`
-page that was L2 as of 2026-07-23 at the 912-source mark.
+Synthesized through: **984 L2 sources** — passes 1–12 through L2=785, pass 13 through L2=857 (Mar 2015 → Mar
+2016), pass 14 through L2=912 (Mar 2016 → Dec 2016; the 2016 era complete), PLUS **pass 15's full 2017 era
+(2026-07-24) — Jan 2017 → Nov 2017 (L2 912→984, ~72 sources; the 2017 era complete)** — the year the Blind
+Camera Test is born, the iPhone X redefines the phone (notch/Face ID/gesture-nav), his camera-judgment
+consolidates against benchmarks (DxOMark media-literacy), the review method crystallizes into named tests (the
+five-pillars "sixth category," "skip this great phone"/review-in-a-vacuum, the "poor use of space" teardown,
+"build up not cut down"), the commentary voice gets its recurring formats (the "Dear X" wishlists; controlled
+comparisons; hold-the-press/marketing-to-account), the matte-black/red-and-black identity is stated outright,
+the Model-3 "EV for the masses" prediction is VINDICATED (he drives it, meets Elon), and his craft/independence
+come into focus (the camera lineage, the 140TB studio, RAW-video "why I switched to RED," turning down a TV
+job, the Team Crispy origin). Covers every `wiki/sources/` page that was L2 as of 2026-07-24 at the 984-source
+mark.
 
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_None currently — **synthesis pass 14 (2026-07-23)** drained the seven-batch debt accumulated since pass 13
+_None currently — **synthesis pass 15 (2026-07-24)** drained the full 2017 era (912→984 L2, ~72 sources).
+Promotions: `persona/beliefs.md` (a "2017 doctrines" subsection — the Blind Camera Test franchise origin +
+confirmation-bias; DxOMark media-literacy/look-past-the-score/hold-the-press-to-account; the five-pillars
+"sixth category"; skip-this-great-phone/review-in-a-vacuum; "nice, not first, but nice"; the iPhone-X favorite-
+ever-with-sore-spots; copy-the-good-stuff + small-company advantage/disadvantage + feel-over-looks; gimmick-vs-
+useful-on-headline-features + "poor use of space"; build-up-not-cut-down; matte-black-GOAT/best-tech-melts-into-
+the-background/red-and-black-identity; the "Dear X" format + "competition is good but not when copying a free
+product"; the iMac-Pro trap; rooting-for-competition/"future car is a ride"; review-a-car-like-a-gadget
+(Model 3 minimalism-serves-manufacturing/made-for-autonomy); hold-marketing-to-account; controlled-comparison
+methodology; "the headphone jack is dead — move on"; software-is-the-differentiator/"price is the story"/"$1000
+of weird"; creator-independence; + a 2017 predictions ledger — OLED-iPhone ✅, wireless-charging ✅, Face-ID-not-
+under-glass ✅, year-of-the-bezels ✅, ProMotion-on-phones ✅, Porsche-Mission-E ⏳, Apple-self-driving ⏳),
+`persona/biography.md` (a "2017" section — the camera lineage + HP-Pavilion-DV7 origin; the 140TB studio +
+archive-all-raw; drove the Model 3/met Elon + wrapped the Tesla matte-space-gray + the Loveday win/Elon's first
+tweet; turned down a TV tech-correspondent job; the Team Crispy origin + editor "Chatter" + MAINGEAR PC; Final
+Cut editor who switched from PC/Premiere; pro-ultimate/Chipotle/Rockets-Chris-Paul), `persona/voice.md` (a 2017
+register — "stop it, get some help", "skip this great phone", "nice not first but nice", "my favorite iPhone
+ever/iconic", "the headphone jack is dead", "if RED can make a phone anyone can", "poor use of space", "a Moto
+Z had a baby with a tractor", "copy the good stuff, don't copy Siri", the Play-Doh-bikini case riff, the
+hyperloop-but-can't-edit-tweets line, the top-notch pun, "matte black is the GOAT"), `persona/appearance.md`
+(the matte-black-everything + red-and-black "MKBHD Edition" + paint>skins + the Tesla wrap + the lens-mount
+bracelet), and the topic hubs `tech-reviews` (the named-tests + Blind Camera Test), `tech-industry-commentary`
+(the "Dear X" wishlists + hold-the-institution-to-account), `production-filmmaking` (the RAW-video rationale +
+camera lineage + 140TB backbone), and `ev-cars` (the Model-3 VINDICATED + rooting-for-competition).
+`persona/system-prompt.md` recompiled **v14→v15** (912→984 sources). Next checkpoint at ~10 more ingest
+batches or the next era completion (2018+)._
+
+_Historical — **synthesis pass 14 (2026-07-23)** drained the seven-batch debt accumulated since pass 13
 (857→912 L2), covering Mar 2016 → Dec 2016 (triggered by the 2016-era completion). Promotions: `persona/
 beliefs.md` (a "2016 doctrines" subsection — the five-pillars-canonical, the gimmick-vs-useful test, good-
 buttons, substance-over-first-impressions, camera-processing-beats-the-sensor/blind-test, dongles-bridge/USB-C-

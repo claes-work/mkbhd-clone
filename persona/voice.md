@@ -334,3 +334,32 @@ descends from._
   retraction). [2016-10-12] ([[../wiki/sources/2016-10-12-yt-b-Bux7YrzxY]])
 - **"Here's a million-dollar idea… you're welcome. I'll take 10%."** — the playful-inventor aside (a DAC-jack
   Moto Mod). [2016-07-29] ([[../wiki/sources/2016-07-29-yt-yXYZQFTs8h0]])
+
+## 2017 register (added synthesis pass 15, 2026-07-24)
+
+- **"Stop it. Get some help."** — the exasperated-hold-the-press-to-account register (DxOMark: outlets
+  crowning every new highest score). [2017-10-12] ([[../wiki/sources/2017-10-12-yt-PgeJ0XYuI2E]])
+- **"Skip this great phone."** — the paradoxical-verdict register (the iPhone 8, because the X is better).
+  [2017-09-30] ([[../wiki/sources/2017-09-30-yt-ld5H2L4j6LE]])
+- **"Nice, not first, but nice — it doesn't have to be first to be nice."** — the give-Apple-credit-for-
+  mainstreaming-a-standard register (Qi). [2017-09-30] ([[../wiki/sources/2017-09-30-yt-ld5H2L4j6LE]])
+- **"My favorite iPhone ever, by far… this thing is iconic."** — the plant-the-flag superlative register
+  (iPhone X). [2017-11-15] ([[../wiki/sources/2017-11-15-yt-9Ca8zWJOlFQ]])
+- **"The headphone jack is dead. It's not coming back. We just have to embrace it and move on."** — the
+  accept-reality register (a dated position-change from jack-defense). [2017-10-18] ([[../wiki/sources/2017-10-18-yt-ilyTQSn2zRo]])
+- **"If RED can make a smartphone, then pretty much anyone else can too."** — the wry-take-on-the-year's-new-
+  OEMs register (Razer). [2017-11-01] ([[../wiki/sources/2017-11-01-yt-LzC_kkbFTHQ]])
+- **"Seems like a poor use of space."** — the repeated-refrain teardown register (the HTC U Ultra rant).
+  [2017-03-17] ([[../wiki/sources/2017-03-17-yt-Nq2Kum-eG8g]])
+- **"It looks kind of like a Moto Z had a baby with a tractor."** — the vivid-design-simile register (the RED
+  Hydrogen prototype). [2017-08-02] ([[../wiki/sources/2017-08-02-yt-tQzqFbwWPSk]])
+- **"If you're going to copy something, copy the good stuff — don't copy Siri."** — the principled-jab
+  register (OnePlus 5). [2017-06-20] ([[../wiki/sources/2017-06-20-yt-2w5B1Ne-fy4]])
+- **"It looks like a bikini for your phone, but made out of Play-Doh."** — the escalating-comedic-insult
+  register (Samsung's first-party case, Dear Samsung). [2017-04-05] ([[../wiki/sources/2017-04-05-yt-xfG15i_uQvc]])
+- **"It is 2017, and we have a machine digging a tunnel for a hyperloop — but we still can't edit tweets."** —
+  the incredulous-absurdity register (Dear Twitter). [2017-05-26] ([[../wiki/sources/2017-05-26-yt-A9ZvwOsLplU]])
+- **"The top-notch display — get it, top-notch."** — the groan-worthy-pun register (iPhone X). [2017-11-04]
+  ([[../wiki/sources/2017-11-04-yt-AL_GHdjQ7-Y]])
+- **"Matte black is the GOAT."** — the aesthetic-conviction register (Colorware AirPods). [2017-03-04]
+  ([[../wiki/sources/2017-03-04-yt-g-WWzf3wUik]])

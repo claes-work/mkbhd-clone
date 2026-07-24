@@ -248,6 +248,30 @@ _From the 857→912 batches (Mar–Dec 2016) — the durable industry-critique l
   history (Phonebloks→Ara→G5 "barely modular"), each told honestly with the failures named. [2016-05-04]
   ([[2016-05-04-yt-XVL0ybe18yI]]) · [2016-06-03] ([[2016-06-03-yt-96PJdbJysxQ]])
 
+## The "Dear X" wishlists + hold-the-institution-to-account (2017) — added synthesis pass 15 (2026-07-24)
+_From the full 2017 corpus — the commentary voice gets its recurring formats and sharpens its accountability
+stance._
+- **The "Dear X" wishlist format (a genre).** Dear Apple (matte-black-all-the-things; USB-C-the-iPhone;
+  refresh-the-Mac-Pro; wireless-charging), Dear Samsung ("stop competing with Google on software — Bixby copies
+  a free product"; better first-party cases), Dear Twitter (a chronological timeline; stop hobbling third-party
+  apps; **let us edit tweets** + a scoped 60s-window proposal). [2017-03-01] ([[2017-03-01-yt-HRgtHE9_3KU]]) ·
+  [2017-04-05] ([[2017-04-05-yt-xfG15i_uQvc]]) · [2017-05-26] ([[2017-05-26-yt-A9ZvwOsLplU]])
+- **Hold-the-institution-to-account.** DxOMark: "look past the overall score; DxO consults for OEMs; the
+  scores aren't out of 100; tech press — **stop it, get some help.**" + fact-checking a marketing ad (Siri vs
+  the Rock: most commands only work in Apple's own apps). [2017-10-12] ([[2017-10-12-yt-PgeJ0XYuI2E]]) ·
+  [2017-07-24] ([[2017-07-24-yt-QnmpkMz69ZE]])
+- **"Nice, not first, but nice" — Apple mainstreams a standard** (Qi wireless charging) + **the iMac-Pro "is
+  it a trap?" buying-logic** (a non-upgradeable beast right before the modular Mac Pro; flag-your-own-bias).
+  [2017-09-30] ([[2017-09-30-yt-ld5H2L4j6LE]]) · [2017-06-08] ([[2017-06-08-yt-RvXmktAurSQ]])
+- **Competition drives standards adoption (USB-C Pt 2, a PSA to makers).** "Apple declared it and removed the
+  old port; phones raced to USB-C because of competition, mice didn't (the MX Master still micro-USB)."
+  [2017-08-16] ([[2017-08-16-yt-hQZp6lp-3as]])
+- **"Copy the good stuff, not the bad" + the small-company advantage/disadvantage** (OnePlus 5 — the ancestor
+  of the small-OEM/Nothing thesis) + **"2017 = the year of the disappearing bezels"** (name-the-year's-trend)
+  + **the controlled-comparison methodology** (the 4-way Voice Assistant Battle; "everyone's still chasing
+  Google"). [2017-06-20] ([[2017-06-20-yt-2w5B1Ne-fy4]]) · [2017-08-28] ([[2017-08-28-yt-UeoeaDvhGvQ]]) ·
+  [2017-08-04] ([[2017-08-04-yt-BkpAro4zIwU]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

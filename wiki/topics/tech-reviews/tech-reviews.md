@@ -385,6 +385,30 @@ crystallizes into durable, reusable tests._
 - **Update-in-public.** The Note 7 arc: cautiously-positive review → full retraction when the replacements
   also caught fire. [2016-09-27] ([[2016-09-27-yt-lV70CxFlx7w]]) · [2016-10-12] ([[2016-10-12-yt-b-Bux7YrzxY]])
 
+## The named tests + the Blind Camera Test (2017) — added synthesis pass 15 (2026-07-24)
+_From the full 2017 corpus (912→984 L2) — the camera-judgment thread reaches its franchise form and the
+review method crystallizes into named, reusable moves._
+- **THE BLIND CAMERA TEST (franchise origin).** "Cameras are so good now the difference is personal preference,
+  not objective." Identical shots labeled A–E, audience picks blind. The insight: **confirmation bias** ("we go
+  in knowing which one we want to win… a lot of people say 'I hate the iPhone' — and then a lot of you pick the
+  iPhone"). [2017-04-25] ([[2017-04-25-yt-DtmGMcMeEJE]])
+- **DxOMark media-literacy — look past the overall score.** One-number-too-broad (subjective weighting; Note 8
+  beats Pixel 2 for portraits despite a lower overall); DxO also *consults* for OEMs (a conflict of interest);
+  the scores aren't out of 100 (RED Helium = 108); "read the review, not the headline." [2017-10-12]
+  ([[2017-10-12-yt-PgeJ0XYuI2E]])
+- **The five-pillars refinement — the essential five vs. the "sixth category."** The Note 8 nails four of five,
+  then invents its own extras — "what makes the Note the Note." [2017-09-21] ([[2017-09-21-yt-wQD1JvJZXdI]])
+- **"Skip this great phone" / review-in-a-vacuum** (iPhone 8) and **the long-term-review format** ("4 months
+  later — the honeymoon's over, you really get to know it best"; the taptic engine "the best vibration motor,
+  period"). [2017-09-30] ([[2017-09-30-yt-ld5H2L4j6LE]]) · [2017-01-28] ([[2017-01-28-yt-srj-NLj4Kt0]])
+- **The one-lens teardown ("poor use of space") + judge-it-for-its-audience** (HTC U Ultra "skip this one";
+  the BlackBerry KEYone "not in the target demographic, but fair"). [2017-03-17] ([[2017-03-17-yt-Nq2Kum-eG8g]])
+  · [2017-05-11] ([[2017-05-11-yt-6lCQqpvdgLQ]])
+- **"Build up, not cut down" (budget) + great-hardware-fatal-flaw** — the Moto G5 "budget king," vs the
+  Essential Phone "Save Your Money" (great hardware sunk by a bad camera + laggy app; "I've never seen a
+  camera go from not-good to great on software updates alone"). [2017-04-11] ([[2017-04-11-yt-4DlNrCZFNGo]])
+  · [2017-08-31] ([[2017-08-31-yt-ftqaMBDj2oY]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

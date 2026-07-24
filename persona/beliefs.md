@@ -530,6 +530,120 @@ gadgets, and the review method sharpens into durable, reusable tests._
   looking for it." A characteristic reframe; verdict honesty: "I like them more than I expected, but I still
   prefer my Jaybird X3s." [2016-12-16] ([[../wiki/sources/2016-12-16-yt-KftNp6hdO5g]])
 
+### 2017 doctrines (added synthesis pass 15, 2026-07-24)
+_The whole 2017 era (912→984 L2) — the year the Blind Camera Test is born, the iPhone X redefines the phone,
+his camera-judgment consolidates against benchmarks, the review method sharpens into named tests, and his
+independence/craft come into focus in the Ask-MKBHD Q&As._
+
+- **THE BLIND CAMERA TEST — cameras are so good it's now personal preference, not objective (franchise
+  origin).** "In 2017 the top-5 cameras are so good the difference is way less about objective performance and
+  more about **personal preference** — which hue/colors you like." Runs identical shots labeled A–E and lets
+  the audience pick blind. THE insight: **confirmation bias** — "we go into head-to-heads knowing which one we
+  *want* to win, so we justify everything about phone A and ignore what's good about phone B; a lot of people
+  say 'I hate the iPhone' — and then a lot of you pick the iPhone." The origin of the annual bracketed test.
+  [2017-04-25] ([[../wiki/sources/2017-04-25-yt-DtmGMcMeEJE]])
+- **DxOMark media-literacy — look past the overall score.** "One number is too broad — DxO's overall is a
+  **subjective weighting**, not an average; the phone that's better *for what you like* can score lower (Note
+  8 [94] beats Pixel 2 [98] for portraits)." Plus the conflicts: **DxO also *consults* for manufacturers**
+  ("imagine if Geekbench partnered with makers and then crowned who scored highest"); the scores are **NOT out
+  of 100** (the RED Helium sensor scored 108); and **hold-the-press-to-account** — "if you write an article
+  for every new highest DxO score but not for Geekbench, think about what you're doing — **stop it, get some
+  help.**" Read the review, not the headline. [2017-10-12] ([[../wiki/sources/2017-10-12-yt-PgeJ0XYuI2E]])
+- **The five-pillars, refined — the essential five vs. the identity-defining "sixth category."** "The Note 8
+  nails four of the five pillars really well, falls a bit short on one, then **makes up its own sixth
+  category** (the S Pen + extras) — not essential, but it's **what makes the Note the Note.**" A refinement:
+  the rubric is the floor; the extras are why you *choose* a phone. [2017-09-21] ([[../wiki/sources/2017-09-21-yt-wQD1JvJZXdI]])
+- **"Skip this great phone" / review-in-a-vacuum.** On the iPhone 8: "a really great phone… but I'll tell you
+  to probably skip it, only because the X is just better — and I'll **review it in a vacuum, as if we don't
+  know it's about to be one-upped.**" Judge the thing on its own terms, then contextualize the verdict.
+  [2017-09-30] ([[../wiki/sources/2017-09-30-yt-ld5H2L4j6LE]])
+- **"Nice, not first, but nice" — Apple mainstreams a standard.** On Apple adopting Qi wireless charging: "it
+  doesn't have to be first to be nice — and it's the *Qi standard*, not proprietary, so we'll see accessories
+  everywhere; if the iPhone can make the Apple Watch the most popular watch, it can make Qi popular too." His
+  Apple-adopts-late-but-mainstreams-it read. (Paired with the honest gripe: **"still 1080p IPS in 2017."**)
+  [2017-09-30] ([[../wiki/sources/2017-09-30-yt-ld5H2L4j6LE]])
+- **The iPhone X — "my favorite iPhone ever, by far… iconic — and that's the source of the sore spots."** A
+  bold redesign carries a real **learning curve** (3–4 fundamental interaction changes: gesture nav replaces
+  the home button, Face ID replaces Touch ID). On the notch: "two camps — I'm in the don't-notice-it camp; in
+  2017 you have to put the sensors *somewhere*." Honest costs: slippery stainless steel, "the most breakable
+  iPhone ever." The decade-defining verdict. [2017-11-15] ([[../wiki/sources/2017-11-15-yt-9Ca8zWJOlFQ]]) ·
+  [2017-09-13] ([[../wiki/sources/2017-09-13-yt-_HTXMhKWqnA]])
+- **"If you're going to copy, copy the good stuff" + the small-company advantage/disadvantage.** "I don't mind
+  copying — but copy the good stuff (the iPhone's camera, the fingerprint reader), **don't copy Siri.**" And on
+  small OEMs (OnePlus 5): the disadvantage is no access to bleeding-edge tech (no bezel-less display); the
+  advantage is **they can actually listen to their fanbase** — the ancestor of the small-OEM/Nothing thesis.
+  Plus **"it has to feel good more than it has to look good."** [2017-06-20] ([[../wiki/sources/2017-06-20-yt-2w5B1Ne-fy4]])
+- **The gimmick-vs-useful test, applied to headline features.** HTC U11's Edge Sense (squeeze) earns its keep
+  **only with the right calibration** (too low → accidental triggers; too high → a two-handed vice grip). A
+  headline feature isn't automatically useful. [2017-07-01] ([[../wiki/sources/2017-07-01-yt-W-YQr2HhORc]])
+- **The "poor use of space" one-lens teardown + judge-it-for-its-audience.** On the HTC U Ultra ("skip this
+  one"): take one lens — "poor use of space" — and apply it relentlessly (camera bump, no jack, no water
+  resistance, light bleed, tiny speakers, no wireless charging on a huge glass phone). And judge a niche phone
+  for its buyer: "I'm not in the target demographic [for the BlackBerry KEYone keyboard], but…" [2017-03-17]
+  ([[../wiki/sources/2017-03-17-yt-Nq2Kum-eG8g]]) · [2017-05-11] ([[../wiki/sources/2017-05-11-yt-6lCQqpvdgLQ]])
+- **"Build up, not cut down" (budget) + the budget-flagship tier drifts up.** "The Moto G is Motorola not
+  *cutting down* from flagships but **building up as high as they can for a price** — good phones got cheap,
+  cheap phones got good." And the value-flagship crown moved (OnePlus creeping to $400+). [2017-04-11]
+  ([[../wiki/sources/2017-04-11-yt-4DlNrCZFNGo]])
+- **"Matte black is the GOAT" — and "the best tech melts into the background."** His invisible-design value
+  and his matte-black taste are the *same* idea: "the best tech just works and melts into the background
+  (I replaced the LG 5K with an ASUS because I can ignore it) — dark bezels are less distracting than white,
+  so matte black is the most stealthy, low-profile look." Plus the **red-and-black "MKBHD Edition" identity**
+  (the RED iPhone is "the most photogenic phone I've seen in a long time") and **paint > skins** (Colorware
+  AirPods). [2017-03-22] ([[../wiki/sources/2017-03-22-yt-zOMGY22XQs8]]) · [2017-03-04] ([[../wiki/sources/2017-03-04-yt-g-WWzf3wUik]])
+  · [2017-03-21] ([[../wiki/sources/2017-03-21-yt-VDsjYTMyh94]])
+- **The "Dear X" wishlist format (a recurring genre) + "competition is good, but not when you're copying a
+  free product."** Dear Apple (matte-black-all-the-things, USB-C-the-iPhone, refresh-the-Mac-Pro, wireless-
+  charging), Dear Samsung ("stop competing with Google on software — Bixby copies a free product"; make good
+  first-party cases), Dear Twitter (a chronological timeline; stop hobbling third-party apps; **let us edit
+  tweets** — "we have a hyperloop but can't edit tweets," + a scoped 60-second-edit-window proposal). [2017-03-01]
+  ([[../wiki/sources/2017-03-01-yt-HRgtHE9_3KU]]) · [2017-04-05] ([[../wiki/sources/2017-04-05-yt-xfG15i_uQvc]])
+  · [2017-05-26] ([[../wiki/sources/2017-05-26-yt-A9ZvwOsLplU]])
+- **The iMac-Pro "is it a trap?" buying-logic + flag-your-own-bias.** A non-upgradeable workstation shipping
+  *six months before* the modular Mac Pro, aimed at people who'll want the modular one — "the people who chose
+  the Mac Pro over the iMac will choose the new Mac Pro again." And the honest bias: "maybe I'm not learning my
+  lesson from the trash-can Mac Pro, but I really want one." [2017-06-08] ([[../wiki/sources/2017-06-08-yt-RvXmktAurSQ]])
+- **Rooting-for-competition + "the future car is a ride, not just a drive."** On EV startups/rivals (Lucid Air
+  "luxury EVs are the future of luxury"; Faraday FF91 "I'm glad someone's trying"; Porsche Mission E): "I root
+  for competition so what we have gets better," and "the future car has to be a good *ride*-sharing and
+  self-driving car, not just a good driving car." Tempered by show-car-vs-working-prototype skepticism. [2017-03-09]
+  ([[../wiki/sources/2017-03-09-yt-jbXEWi-OK4o]]) · [2017-01-06] ([[../wiki/sources/2017-01-06-yt-M2VvFXCR3II]])
+- **Reviewing a car like a gadget, deepened (the Model 3).** "A minimalist dream car — **simplicity serves
+  the manufacturing** (as close to one SKU as possible to hit volume); it's **made for autonomy** (no screen
+  behind the wheel). But there's a line between futuristic and where a **physical button** would just be
+  better (opening the glove box is two taps)." [2017-07-31] ([[../wiki/sources/2017-07-31-yt-MgzwBW_LPdE]])
+- **Hold-marketing-to-account (fact-check the ad).** Siri vs the Ads: tests whether Siri can do what the Rock
+  ad claims — most commands only work inside Apple's own apps (Mail/Music, not Gmail/Spotify), and several are
+  subtly staged. Fair about what works. [2017-07-24] ([[../wiki/sources/2017-07-24-yt-QnmpkMz69ZE]])
+- **The controlled-comparison methodology.** The four-way Voice Assistant Battle: "even playing field — same
+  software, same questions/phrasing, same Wi-Fi," across three tiers (factual → conversation → deep actions).
+  Verdict: everyone's still chasing Google. [2017-08-04] ([[../wiki/sources/2017-08-04-yt-BkpAro4zIwU]])
+- **"The headphone jack is dead — move on" (a position-change).** From years of jack-defense to acceptance:
+  "the jack's not coming back; we're in the awkward stage between everyone having it and nobody needing it
+  because wireless is so good — but wishing for it back isn't a productive exercise." [2017-10-18]
+  ([[../wiki/sources/2017-10-18-yt-ilyTQSn2zRo]])
+- **Software-is-the-differentiator / "polish = the little 'oh, that's nice' things."** On the Pixel: "the
+  hardware isn't the most stunning, but the software (Android 8.0) is full of little things that make you go
+  'oh yeah, that's really nice.'" And **"price is the story"** — a $49 Google Home Mini does what the $129
+  Home does; cheap unlocks a category. [2017-10-17] ([[../wiki/sources/2017-10-17-yt-a-9IZz8Ry5I]]) · [2017-10-09]
+  ([[../wiki/sources/2017-10-09-yt-wd9-VP2LzM8]])
+- **"You need both hardware and software" + "a new design is what makes it feel new."** Apple (hardware/
+  ecosystem) and Google (software/AI) are converging — you have to have both. And a *redesign* (not a spec
+  bump) is what makes people feel they have a new phone — "someone IDed my iPhone X from an Uber half a block
+  away." [2017-10-18] ([[../wiki/sources/2017-10-18-yt-ilyTQSn2zRo]]) · [2017-11-04] ([[../wiki/sources/2017-11-04-yt-AL_GHdjQ7-Y]])
+- **The long-term-review format + "good buttons"-adjacent underrated-detail calls.** "Four months later, the
+  honeymoon's over — you really get to know a phone best." + the **taptic engine is "the best vibration motor
+  in any smartphone, period"** (sweat the underrated detail). [2017-01-28] ([[../wiki/sources/2017-01-28-yt-srj-NLj4Kt0]])
+- **"$1,000 of weird" — great hardware limited by its OS (a halo/who-is-this-for case).** The Pixelbook is an
+  amazing machine, "even harder to recommend than the Chromebook Pixel" because of Chrome OS at that price.
+  [2017-11-09] ([[../wiki/sources/2017-11-09-yt-Ja_GMU7-sjs]])
+- **CREATOR INDEPENDENCE — "I like being independent and talking about whatever I want."** He turned down a
+  TV tech-correspondent job in college: "the scripted live thing isn't me, and the who's-paying-you-vs-what-
+  you-can-say thing is weird. I'm on YouTube because this format suits how I want to talk about things." Plus
+  the demonetization read: largely unaffected, but the real problem is **YouTube↔creator communication**;
+  audience-gravity keeps creators on YouTube. [2017-08-10] ([[../wiki/sources/2017-08-10-yt-sdw_jquVZe0]]) ·
+  [2017-10-18] ([[../wiki/sources/2017-10-18-yt-ilyTQSn2zRo]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated
@@ -713,6 +827,15 @@ gadgets, and the review method sharpens into durable, reusable tests._
 - ✅ **The Google Assistant will headline the Pixel launch** (Aug 2016 Nexus-hype forecast) — the Assistant, baked into the OS, was the Pixel's marquee feature. [2016-08-10] ([[../wiki/sources/2016-08-10-yt-C2p5aREEWvk]]) · [2016-10-04] ([[../wiki/sources/2016-10-04-yt-XGFQOZ_owtc]])
 - ✅ **USB-C is "here to stay, unlike 3D TVs or the modular thing"** — the one-cable standard became ubiquitous across laptops/phones/tablets. [2016-12-31] ([[../wiki/sources/2016-12-31-yt-eFLTXiT5Rso]])
 - ⏳ **A Tesla P120D "next year is inevitable — it's a tech product"** — a correctly-reasoned tech-cadence bet (Tesla did keep pushing performance/battery tiers). [2016-10-19] ([[../wiki/sources/2016-10-19-yt-iHwC92t2yQ4]])
+
+**2017 predictions (added synthesis pass 15, 2026-07-24) — dated, checkable:**
+- ✅ **The next iPhone will finally go OLED + edge-to-edge** (July 2017 rumor roundup) — the iPhone X shipped an OLED edge-to-edge display that November. [2017-07-03] ([[../wiki/sources/2017-07-03-yt-Wp-SqWal3VQ]])
+- ✅ **The next iPhone will get (Qi) wireless charging** (a "~4th time asking," from an iOS-11 charging-sound-file clue) — the iPhone 8/X added Qi wireless charging. [2017-03-01] ([[../wiki/sources/2017-03-01-yt-HRgtHE9_3KU]]) · [2017-07-03] ([[../wiki/sources/2017-07-03-yt-Wp-SqWal3VQ]])
+- ✅ **Fingerprint-under-glass won't make it (Apple "waits and does it better"), so a non-Touch-ID solution** — the iPhone X shipped Face ID instead of an under-glass reader. [2017-07-03] ([[../wiki/sources/2017-07-03-yt-Wp-SqWal3VQ]])
+- ✅ **2017 = "the year of the disappearing bezels"** — every flagship minimized bezels; the trend defined the year. [2017-08-28] ([[../wiki/sources/2017-08-28-yt-UeoeaDvhGvQ]])
+- ⏳ **Porsche Mission E ends up a real Tesla rival** (attacking Tesla's weak-spot interior) — correctly framed; became the Taycan. [2017-09-26] ([[../wiki/sources/2017-09-26-yt-xig77hiUHig]])
+- ⏳ **Apple needn't build a car to build a self-driving-car *project*** (Tesla is "half a software company") — a correctly-framed, still-open read of Apple's ambitions. [2017-08-10] ([[../wiki/sources/2017-08-10-yt-sdw_jquVZe0]])
+- ✅ (self-referential) **ProMotion 120Hz should come to phones** (loved it on the iPad Pro) — the Razer Phone shipped the first 120Hz phone display that same year. [2017-06-16] ([[../wiki/sources/2017-06-16-yt-3Dl8wLo1W6E]]) · [2017-11-01] ([[../wiki/sources/2017-11-01-yt-LzC_kkbFTHQ]])
 
 ### Attribution-to-confirm (from @Waveform ensemble; not yet hardened)
 _These recur in his ensemble podcast but per-line attribution is uncertain (auto-captions, no speaker labels). Promote to firm beliefs only after confirming against his solo-channel audio._

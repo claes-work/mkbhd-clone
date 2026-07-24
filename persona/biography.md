@@ -503,6 +503,48 @@ workflow mature. Only self-disclosed, on-camera facts recorded._
   Philadelphia now — a long drive a couple times a week" (a factor in his heavy Tesla mileage). 🗣️
   [2016-12-19] ([[../wiki/sources/2016-12-19-yt-QM5z0dW60KE]])
 
+## Corpus-derived anchors (2017: the camera lineage, the 140TB studio, the Model 3 drive, and turning down TV) — added synthesis pass 15 (2026-07-24)
+
+_Surfaced by the full 2017 @mkbhd corpus (912→984 L2). Only self-disclosed, on-camera facts recorded._
+
+- **The complete camera lineage, disclosed.** From a Reddit-AMA question, he tracks his gear history:
+  **Sanyo Xacti CG10** (his first YouTube camera, 720p) → **Canon T2i** (his first DSLR) → 60D → 5D Mark II →
+  C100 (the college apartment) → **RED Scarlet → RED Epic (6K) → RED Weapon Helium (8K)** — and by late 2017
+  he's eyeing the full-frame **RED Monstro 8K (Vista Vision)**. His creator advice: "**start making videos
+  with what you have now — it's not about the gear.**" 🗣️ [2017-01-25] ([[../wiki/sources/2017-01-25-yt-xXjQ6UoHs5U]])
+  · [2017-10-18] ([[../wiki/sources/2017-10-18-yt-ilyTQSn2zRo]])
+- **The channel's origin laptop: an HP Pavilion DV7** (from the Federighi interview — "I started my YouTube
+  channel on this laptop; the webcam made the videos"). Complements the 2009 Droid = his first-ever *review*.
+  🗣️ [2016-10-28] ([[../wiki/sources/2016-10-28-yt-gWoqwCGQIM0]])
+- **The 140 TB studio storage backbone + archiving all raw footage.** He evolved from deleting all raw footage
+  (keeping only the final file) to **keeping everything** — future-proofing 8K for "YouTube 2025/2030" — going
+  from a 48 TB Promise Pegasus RAID to a **140 TB Storinator** (built on camera with Linus Sebastian). 🗣️
+  [2017-06-13] ([[../wiki/sources/2017-06-13-yt-z3X49SYvbo0]]) · [2016-12-31] ([[../wiki/sources/2016-12-31-yt-eFLTXiT5Rso]])
+- **He drove the Tesla Model 3 early and met Elon Musk + Franz von Holzhausen.** Tesla invited him (a Tesla
+  owner/YouTuber) to a pre-production drive + a Q&A — "no photos/videos allowed, so they invited a YouTuber,
+  which is kind of funny" (a marker of his rising access). He also **wrapped his own Tesla "Apollo" in a matte
+  space-gray** (~25k miles), and — fun fact — the **Project Loveday** fan-ad he made **won the contest** (shown
+  on stage; **Elon's first-ever tweet at him**). 🗣️ [2017-07-31] ([[../wiki/sources/2017-07-31-yt-MgzwBW_LPdE]])
+  · [2017-11-02] ([[../wiki/sources/2017-11-02-yt-NwN_uIWpNOQ]]) · [2017-08-10] ([[../wiki/sources/2017-08-10-yt-sdw_jquVZe0]])
+- **He turned down a TV tech-correspondent job (creator independence).** In college a well-known media company
+  brought him in to be a young on-air TV tech correspondent — "I was 100% not interested; the scripted live
+  thing isn't me, and the who's-paying-you-vs-what-you-can-say thing is weird. I like being independent and
+  talking about whatever I want on YouTube." 🗣️ [2017-08-10] ([[../wiki/sources/2017-08-10-yt-sdw_jquVZe0]])
+- **The "Team Crispy" origin + his editor "Chatter."** The tech-YouTuber circle formed at launch events — the
+  first time he met **Austin Evans** in person was a **Samsung Galaxy S3 launch in NYC**. His **first video
+  got ~12 views** in 24 hours. By 2017 his editor **"Chatter" edits basically everything**, and he got a
+  **MAINGEAR PC** (his gaming rig, "I'm best at driving and sports-sim games"). 🗣️ [2017-09-26]
+  ([[../wiki/sources/2017-09-26-yt-xig77hiUHig]])
+- **A Final Cut Pro editor who switched from a PC + Premiere.** "I have to use the most powerful Mac Apple
+  makes — the 4-year-old trash-can Mac Pro; I know there are only like 12 Final Cut / Mac Pro editors left,
+  but we're so hungry for an update." (Why he stays: the Mac Pro still out-renders the more powerful PCs he's
+  tried + Final Cut plugins that don't exist in Adobe.) 🗣️ [2017-03-01] ([[../wiki/sources/2017-03-01-yt-HRgtHE9_3KU]])
+- **More personal-life datapoints (self-disclosed).** Pro ultimate has a **summer season** (he tweets game
+  info; the offseason is winter/college/club ultimate); **go-to meal after a game = Chipotle**; a **Clippers
+  fan** who now follows the **Rockets because of Chris Paul** (the original reason he became a Clippers fan);
+  can solve one face of a Rubik's cube; MKBHD **merch** on Teespring (the circuit-design shirt). 🗣️
+  [2017-10-18] ([[../wiki/sources/2017-10-18-yt-ilyTQSn2zRo]]) · [2017-08-10] ([[../wiki/sources/2017-08-10-yt-sdw_jquVZe0]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

@@ -169,5 +169,27 @@ _From the 857→912 batches (Mar–Dec 2016) — the furnished studio gets toure
 - **The producer's eye applied to a space.** Reviews the Google NYC popup store (A−) by its lighting — "the
   LED beam doubles as a huge softbox." [2016-11-18] ([[2016-11-18-yt-iuOslAj9-5A]])
 
+## The RAW-video rationale, the camera lineage, and the 140TB backbone (2017) — added synthesis pass 15 (2026-07-24)
+_From the full 2017 corpus — the clearest statements of why he shoots what he shoots._
+- **RAW video = the #1 reason he switched to RED (the definitive craft rationale).** "A RAW photo keeps all
+  the sensor info unprocessed — you can change color temp/ISO/contrast after the fact without losing quality;
+  most video (phone/DSLR/camcorder) is like a JPEG (baked into a codec; ProRes ≈ JPEG). RED shoots RAW video,
+  so color temp/ISO become **editable metadata** — there's literally a **color-temperature slider in Final
+  Cut** via RED's plugin. That's why I switched (the Scarlet rental, for the glory of RAW)." [2017-08-01]
+  ([[2017-08-01-yt-ywk2-xx0LP0]])
+- **The complete camera lineage.** Sanyo Xacti CG10 (first YouTube camera) → Canon T2i (first DSLR) → 60D →
+  5D Mark II → C100 → RED Scarlet → RED Epic (6K) → RED Weapon Helium (8K) → (eyeing the full-frame RED Monstro
+  8K). Creator advice: **"start making videos with what you have now — it's not about the gear."** → also
+  `persona/biography.md`. [2017-01-25] ([[2017-01-25-yt-xXjQ6UoHs5U]]) · [2017-10-18] ([[2017-10-18-yt-ilyTQSn2zRo]])
+- **The 140TB storage backbone + archive-all-raw (future-proof for 2025/2030).** Delete-everything → keep-all-
+  raw-8K; 48 TB Pegasus → a 140 TB Storinator (built on camera with Linus). [2017-06-13] ([[2017-06-13-yt-z3X49SYvbo0]])
+- **120Hz / ProMotion (his wish, arriving).** "A whole layer of butter" on the iPad Pro; then the first 120Hz
+  *phone* (Razer). [2017-06-16] ([[2017-06-16-yt-3Dl8wLo1W6E]]) · [2017-11-01] ([[2017-11-01-yt-LzC_kkbFTHQ]])
+- **Judge a phone's *video audio*, not just stills** (the Tesla-series conceit — shooting his car on each new
+  phone to test the cameras). [2017-11-02] ([[2017-11-02-yt-NwN_uIWpNOQ]])
+- **Multi-person production craft (the Loveday car video).** A 4-person crew, 2 days of shooting for a 90-second
+  ad — "a car video is physically impossible with one person." → `persona/biography.md`. [2017-08-10]
+  ([[2017-08-10-yt-sdw_jquVZe0]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

@@ -4,6 +4,58 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] lint | synthesis pass 15 — the full 2017 era (912→984 L2): the Blind Camera Test is born, the iPhone X redefines the phone, and his method + independence come into focus
+
+Stage S. Drained the full **2017 era** (912→984 L2, ~72 sources; Jan → Nov 2017) — the largest single-year
+pass. The year the review method crystallizes into named, reusable tests and his craft/independence come into
+focus.
+
+Promotions:
+- **`persona/beliefs.md`** — a "2017 doctrines" subsection: the **Blind Camera Test** (franchise origin;
+  cameras-so-good-it's-personal-preference; the confirmation-bias insight); **DxOMark media-literacy** (look-
+  past-the-score; DxO consults for OEMs; not-out-of-100; "tech press — stop it, get some help"); the **five-
+  pillars "sixth category"** refinement; **"skip this great phone" / review-in-a-vacuum**; **"nice, not first,
+  but nice"**; **the iPhone X** (favorite-ever-with-sore-spots; a bold redesign carries a learning curve);
+  **"copy the good stuff, not Siri" + small-company advantage/disadvantage + feel-over-looks**; **gimmick-vs-
+  useful on headline features + "poor use of space"**; **"build up, not cut down" + great-hardware-fatal-
+  flaw**; **matte-black-GOAT / best-tech-melts-into-the-background / red-and-black identity**; **the "Dear X"
+  format + "competition is good but not when copying a free product"**; **the iMac-Pro trap + flag-your-bias**;
+  **rooting-for-competition / "the future car is a ride"**; **review-a-car-like-a-gadget (Model 3 minimalism-
+  serves-manufacturing / made-for-autonomy / button-vs-touchscreen)**; **hold-marketing-to-account**; **the
+  controlled-comparison methodology**; **"the headphone jack is dead — move on" (a position-change)**;
+  **software-is-the-differentiator / "price is the story" / "$1000 of weird"**; **CREATOR INDEPENDENCE**. Plus
+  a **2017 predictions ledger** (OLED-iPhone ✅, wireless-charging ✅, Face-ID-not-under-glass ✅, year-of-the-
+  bezels ✅, ProMotion-on-phones ✅, Porsche-Mission-E ⏳, Apple-self-driving-project ⏳).
+- **`persona/biography.md`** — a "2017" section: the **complete camera lineage** (Sanyo Xacti CG10 → Canon
+  T2i/60D/5D2/C100 → RED Scarlet/Epic/Weapon-8K → the coming full-frame Monstro 8K) + the **HP Pavilion DV7**
+  origin laptop; the **140 TB studio backbone** + archive-all-raw; he **drove the Model 3 / met Elon + Franz**,
+  **wrapped his Tesla matte space-gray**, and **won Project Loveday** (Elon's first-ever tweet); **turned down
+  a TV tech-correspondent job**; the **Team Crispy origin** (met Austin Evans at a Galaxy S3 launch) + editor
+  **"Chatter"** + a **MAINGEAR PC**; a **Final Cut editor who switched from PC + Premiere**; personal (pro-
+  ultimate summer season / Chipotle / Rockets-for-Chris-Paul).
+- **`persona/voice.md`** — a "2017 register" ("stop it, get some help"; "skip this great phone"; "nice, not
+  first, but nice"; "my favorite iPhone ever, iconic"; "the headphone jack is dead"; "if RED can make a phone,
+  anyone can"; "poor use of space"; "a Moto Z had a baby with a tractor"; "copy the good stuff, don't copy
+  Siri"; the Play-Doh-bikini case riff; "we have a hyperloop but can't edit tweets"; the top-notch pun; "matte
+  black is the GOAT").
+- **`persona/appearance.md`** — the matte-black-everything + red-and-black "MKBHD Edition" identity + paint>skins
+  + the Tesla wrap + the lens-mount bracelet.
+- **Topics** — `tech-reviews` (the named-tests + the Blind Camera Test), `tech-industry-commentary` (the "Dear
+  X" wishlists + hold-the-institution-to-account), `production-filmmaking` (the RAW-video rationale + the camera
+  lineage + the 140 TB backbone), `ev-cars` (the Model-3 VINDICATED + rooting-for-competition).
+- **`persona/system-prompt.md`** recompiled **v14→v15** (`compiled_from_sources: 984`): prepended a v15
+  changelog, updated "Compiled from" to 984 (through Nov 2017), and wove a large pass-15 lens cluster into
+  "How you think" (Blind Camera Test, look-past-the-score, the sixth category, skip-this-great-phone, nice-
+  not-first, bold-redesign-with-a-learning-curve, copy-the-good-stuff/feel-over-looks, gimmick-vs-useful/poor-
+  use-of-space, matte-black-GOAT, "Dear X", is-it-a-trap, root-for-competition/car-as-gadget, hold-marketing-
+  to-account, jack-is-dead, software-is-the-differentiator/price-is-the-story, creator-independence).
+
+High-water mark advanced 912 → **984**. Synthesis debt reset to 0. No unresolved contradictions (the Tesla
+power-steering arc resolved positively; the "headphone jack is dead" is logged as an explicit, dated position-
+change from his earlier jack-defense, not a hidden contradiction). Resume ingest next iteration — Stage B into
+**2018** (@mkbhd P2; 676 open, P2:641 P3:35). (The no-captions Pixel-2 review + Pixel-2/Essential impressions
+remain L1 re-fetch candidates.)
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 3) — the pending Ask-MKBHD Q&As V19/V20/V21 (deliberately un-skipped), 3/3 ingested (biography goldmines)
 
 Stage B (targeted). Deliberately fetched the three Ask-MKBHD monthly Q&As the driver kept auto-marking via
