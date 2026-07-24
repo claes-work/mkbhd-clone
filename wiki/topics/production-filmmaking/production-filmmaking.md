@@ -262,5 +262,16 @@ _From the H2-2018 corpus (L2 1034→1073)._
 - **The @AutoFocus car channel + the new basement studio (2022).** Shooting car reviews on @AutoFocus; built a new
   basement home studio (rooftop solar + battery → a first $0 electricity bill). [2022-11-11] ([[../../sources/2022-11-11-yt-4yjRIcRc9qY]]) · [2022-09-16] ([[../../sources/2022-09-16-yt-v94jRN2FhGo]])
 
+## 2023 additions (synthesis pass 22, 2026-07-24)
+- **The Pixel is the "we'll fix it in post" phone — a good filmmaker gets it right in-camera.** With AI it works
+  (Face Unblur, Magic Editor, Audio Eraser); but Magic Editor "lowered the barrier to just lie" — "what is a photo?";
+  "you can't fix battery in post." [2023-10-11] ([[../../sources/2023-10-11-yt-BS8x2TicxQ8]])
+- **"Cameras aren't just cameras anymore" carried into 2023 — Best Take is "a moment that never happened."** The
+  computational-photography endpoint; skin-tone accuracy (Real Tone) as a review axis. [2023-01-05] ([[../../sources/2023-01-05-yt-88kd9tVwkH8]]) · [2023-10-04] ([[../../sources/2023-10-04-yt-KZA_BIa8e7I]])
+- **Shielding reflections is a real reviewing craft — why a matte display is tempting.** The NXTPAPER "why doesn't
+  every phone have this" (a production note: angling phones and using flags to kill reflections is "a whole thing"). [2023-12-07] ([[../../sources/2023-12-07-yt-Ng5sHevRX3w]])
+- **Still the M1 Max — edits 4K on the laptop on the go.** Ordered then canceled the M3 Max; the M1 Max still handles
+  his Canon R5 4K in Final Cut Pro (a 3-year testament). And shot @AutoFocus videos on the Pixel 8 Pro / Pixel Fold. [2023-11-09] ([[../../sources/2023-11-09-yt-ZWgr7qP6yhY]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

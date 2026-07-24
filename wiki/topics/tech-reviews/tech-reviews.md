@@ -614,6 +614,26 @@ rules._
 - **"A really good and a really bad product at the same time" — resisting a single number rating.** (HomePod 2:
   great speaker, bad smart speaker, still a Siri speaker.) [2023-01-31] ([[../../sources/2023-01-31-yt-gvqZCMGjh3s]])
 
+## 2023 additions (synthesis pass 22, 2026-07-24)
+- **iPhone vs Android has no objective winner — rank and weight the seven categories yourself.** The definitive
+  framework (customization/features/ease-of-use/support/apps/excitement/ecosystem); iPhone wins 4/7 but he mains
+  Android; "buying a phone is one of the most personal decisions you make; the winner is us." [2023-09-01] ([[../../sources/2023-09-01-yt-nHkKJ87FS6s]])
+- **The Pixel is the "we'll fix it in post" smartphone — and "you can't fix battery in post."** A good filmmaker
+  gets it right in-camera; Magic Editor "lowered the barrier to just lie"; the software-locked Pro/non-Pro
+  separation is "even more obvious when Google does it — same computer." [2023-10-11] ([[../../sources/2023-10-11-yt-BS8x2TicxQ8]])
+- **"You can be a good phone and not new" — the iPhone 15 late-mover advantage.** The $800 60 Hz display (the target
+  buyer doesn't notice; 90 Hz withheld to widen the Pro gap); "just get the boring new iPhone that's USB-C." [2023-10-02] ([[../../sources/2023-10-02-yt-0X0Jm8QValY]])
+- **"Power-user features don't sell phones" — folds nail all five pillars but aren't a great buy for everyone.**
+  Price / durability / the power-user problem; kin to "if I made my own phone I'd want to use, this is it" (Zenfone
+  10) and the flagship-vs-midrange Five-Pillars-as-percentages method (the A54). [2023-10-19] ([[../../sources/2023-10-19-yt-jD9n01Mck0Q]]) · [2023-07-07] ([[../../sources/2023-07-07-yt-6aK407STsGA]])
+- **"You don't have to buy a new Mac every year" — reinforced.** Ordered a maxed M3 Max then canceled it; still
+  dailies the M1 Max (3 years); "the Mac's gaming problem is the missing games, not power." [2023-11-09] ([[../../sources/2023-11-09-yt-ZWgr7qP6yhY]])
+- **Niche features that won't sell phones — the NXTPAPER matte display.** "Why doesn't every phone have this?" — the
+  catch cuts light/sharpness/contrast; "the perfect addition to the pile of features that are awesome but won't sell
+  a ton of phones." [2023-12-07] ([[../../sources/2023-12-07-yt-Ng5sHevRX3w]])
+- **"I was wrong" (recurring 2023).** A public reversal on the Flip 5 ("one of the biggest updates yet"; "you can't
+  ace a foldable without acing the hinge"); the moon-mode correction ("I should have run the experiment"). [2023-08-09] ([[../../sources/2023-08-09-yt-WuljKartv2U]]) · [2023-03-13] ([[../../sources/2023-03-13-yt-1afpDuTb-P0]])
+
 ## Recurring franchises (as review formats)
 - **Smartphone Awards** (annual buyer's guide) → see [[../smartphones/smartphones|Smartphones hub]].
 - **Blind Smartphone Camera Test** (unbiased ELO-scored evaluation) → see [[../smartphones/smartphones|Smartphones hub]].

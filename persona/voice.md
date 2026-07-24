@@ -530,3 +530,33 @@ descends from._
 - **"5G sucks right now — expectations are the thief of joy."** — the hot-take register. [2022-12-04] ([[../wiki/sources/2022-12-04-yt-u2mUpkApObk]])
 - **"A really good product and a really bad product at the same time — both are true."** — the resist-the-number-
   rating register (HomePod 2); and the sign-off gag **"Siri sucks seamlessly."** [2023-01-31] ([[../wiki/sources/2023-01-31-yt-gvqZCMGjh3s]])
+
+## 2023 register (added synthesis pass 22, 2026-07-24)
+
+- **"Pay attention to the words."** — the look-past-the-spectacle register (Apple's Forbidden Words). [2023-06-15] ([[../wiki/sources/2023-06-15-yt-kvN5_GXlg2Y]])
+- **"You can be a really good phone and not new — they aren't mutually exclusive."** — the reframe-the-boring-verdict
+  register (iPhone 15). [2023-10-02] ([[../wiki/sources/2023-10-02-yt-0X0Jm8QValY]])
+- **"Just get the boring new iPhone with nothing that's actually new. It's just gonna work."** — the
+  anti-hype-buying-advice register. [2023-10-02] ([[../wiki/sources/2023-10-02-yt-0X0Jm8QValY]])
+- **"There's no objective winner to a decision this personal... the winner is us."** — the refuse-the-false-verdict
+  register (iPhone vs Android). [2023-09-01] ([[../wiki/sources/2023-09-01-yt-nHkKJ87FS6s]])
+- **"Convenience is king."** — the adoption-truth register (Project Starline). [2023-05-18] ([[../wiki/sources/2023-05-18-yt-J1oEWiUsKgU]])
+- **"It's a promise, and Google breaks promises all the time."** — the earned-skepticism register (Can You Trust
+  Google). [2023-10-06] ([[../wiki/sources/2023-10-06-yt-dxVaP0-aFIE]])
+- **"We'll fix it in post."** — the filmmaker-metaphor-as-verdict register (the Pixel). [2023-10-11] ([[../wiki/sources/2023-10-11-yt-BS8x2TicxQ8]])
+- **"What is a photo?"** — the recurring-provocation register, carried through 2023 (Best Take / Magic Editor). [2023-10-11] ([[../wiki/sources/2023-10-11-yt-BS8x2TicxQ8]])
+- **"It's a science fair."** — the reframe-as-tech register (F1). [2023-12-11] ([[../wiki/sources/2023-12-11-yt-s8WHY3Gusx0]])
+- **"To beat the iPhone, you must... be the iPhone?"** — the ironic-title-thesis register (Nothing Chats). [2023-11-14] ([[../wiki/sources/2023-11-14-yt-ji5HwS3bhlU]])
+- **"A phone can hit all five pillars and not be a great buy for everyone."** — the nuance-over-the-score register
+  (the OnePlus Open). [2023-10-19] ([[../wiki/sources/2023-10-19-yt-jD9n01Mck0Q]])
+- **"I don't need it though. I don't need it. I definitely don't need it."** — the resisting-the-upgrade register
+  (space black M3). [2023-10-31] ([[../wiki/sources/2023-10-31-yt-t4ejFV6n4b8]])
+- **"It's the most classic Apple thing — a new look so you know you have the new one."** — the naming-the-tactic
+  register. [2023-10-31] ([[../wiki/sources/2023-10-31-yt-t4ejFV6n4b8]])
+- **"I was wrong, so..."** — the own-the-mistake register, recurring in 2023 (the Flip 5; the brushed-titanium
+  fingerprints; softening on vertical video). [2023-08-09] ([[../wiki/sources/2023-08-09-yt-WuljKartv2U]])
+- **"30 frames per second is the correct frame rate, and anyone who says otherwise is probably lying to you."** — the
+  playful-hardline-opinion register (his synthesized Personal Voice demo). [2023-07-14] ([[../wiki/sources/2023-07-14-yt-5LWDl5qaQbA]])
+- **"Being a new phone company is really hard, unless your name is Carl Pei, apparently."** — the wry-aside register
+  (the crypto phone). [2023-09-07] ([[../wiki/sources/2023-09-07-yt-hRSMJGs0YMg]])
+- **"What a time to be alive."** — the wonder register (mixed reality). [2023-10-17] ([[../wiki/sources/2023-10-17-yt-_XdD-TQseU4]])

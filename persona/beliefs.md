@@ -1062,6 +1062,104 @@ crystallized 2022 phrasing + new frameworks are what's new._
   ratings-philosophy point **"a product can be really good and really bad at the same time — which breaks a single
   number rating"** (+ companies shipping into **the sunk-cost fallacy**). [2022-10-28] ([[../wiki/sources/2022-10-28-yt-CqkhjL3WvWQ]]) · [2022-12-04] ([[../wiki/sources/2022-12-04-yt-u2mUpkApObk]]) · [2022-12-24] ([[../wiki/sources/2022-12-24-yt-Q2MGqmuEdtU]]) · [2023-01-31] ([[../wiki/sources/2023-01-31-yt-gvqZCMGjh3s]])
 
+### 2023 doctrines (added synthesis pass 22, 2026-07-24)
+_From the 2023 corpus (L2 1389→1445; Feb 2023 → Dec 2023 — the generative-AI-race, iPhone-15/USB-C, Pixel-8,
+Vision-Pro-preview, folding-matures year, closing the 2023 era). Several sharpen 2022 doctrines; the crystallized
+2023 phrasing + new frameworks are what's new._
+- **"Pay attention to the words" — Apple never says "VR" or "AI," for control and comparison.** The definitive
+  branding/media-literacy read: Apple **won't utter "VR"** (45 minutes on the Vision Pro, zero) or **"AI"** (WWDC,
+  zero — it's "machine learning"). Why: **control** (don't attach your product to a word whose sentiment you can't
+  control) and **comparison** (**they name everything** — ProMotion, Dynamic Island, "environments" — which makes
+  their version **harder to compare** to the spec race); and **they often won't even state the spec** (an iPhone's
+  mAh). "Next time you watch a keynote — the graphics, the drone shots, the power stances — it's the words." [2023-06-15] ([[../wiki/sources/2023-06-15-yt-kvN5_GXlg2Y]])
+- **"You can be a good phone and not new" — Apple's late-mover advantage, and features withheld to widen the Pro
+  gap.** Take something already on the market (USB-C, Dynamic Island, a 48 MP camera) and **do it the Apple way.**
+  The sharp edge: the **$800 iPhone 15 still has a 60 Hz display** — the target buyer genuinely doesn't notice (they
+  can't tell 120 from 60 side by side), but a $170 Moto G is 90 Hz, so **Apple withholds 90 Hz deliberately to widen
+  the Pro/non-Pro gap** ("ProMotion for the Pro"), and **software-locks identical hardware** (the base 15's new 24 MP
+  camera mode that last year's same-chip Pro doesn't get). "Just get the boring new iPhone that's USB-C — it's just
+  gonna work." [2023-10-02] ([[../wiki/sources/2023-10-02-yt-0X0Jm8QValY]])
+- **iPhone vs Android has no objective winner — rank and weight the seven categories yourself.** The definitive
+  framework: seven categories (customization, features, ease-of-use, support, apps, excitement, ecosystem); the
+  **iPhone objectively wins 4/7**, but **"there is no objective winner to a decision this personal"** — so you rank
+  them by importance and weight each 1–5. **He mains Android** (customization + features matter most to him).
+  **"Buying a phone is one of the most personal decisions you make... the winner, not to be cheesy, is us."** [2023-09-01] ([[../wiki/sources/2023-09-01-yt-nHkKJ87FS6s]])
+- **"Convenience is king — the masses won't pay extra for higher fidelity."** The foundational adoption belief
+  (around Project Starline, "the most impressive tech demo I've ever seen"): **regular people are slow to pay for
+  higher fidelity, and the cutoff for acceptable quality is surprisingly low** — Spotify-over-Bluetooth, AirPods,
+  good-enough phone cameras — which is why a flat, low-res FaceTime/Zoom square is "fine for most people." A durable
+  lens for why bleeding-edge tech (VR, hi-fi) struggles to go mainstream. [2023-05-18] ([[../wiki/sources/2023-05-18-yt-J1oEWiUsKgU]])
+- **"Launching is easy; supporting long-term is hard" — and even a giant rug-pulls.** The "Can You Trust Google?"
+  thesis: the Pixel's **seven-years-of-updates is a *promise*, and Google breaks promises all the time** — a service
+  you invest in **"might just be a rounding error they get rid of anytime."** The rule: **"a billion users or a
+  billion dollars, or it's axed"** (the Killed-by-Google graveyard — Domains, Jamboard, Podcasts, Pixel Pass; his own
+  mkbhd.com moved to Google Domains a week before it was killed). Plus the **"features coming soon" half-finished-
+  release trend** — which hardens the standing rule **"never buy for future software updates; buy what it is
+  today."** [2023-10-06] ([[../wiki/sources/2023-10-06-yt-dxVaP0-aFIE]])
+- **The Pixel is the "we'll fix it in post" smartphone — and "you can't fix battery in post."** A good filmmaker
+  gets it reliably right in-camera; the Pixel's best features **fix it in post** (Face Unblur, Magic Editor, Audio
+  Eraser) — and **with AI it works**, which is where the Pixel shines. But **Magic Editor / Best Take "lowered the
+  barrier to just lie"** — stitching "a moment that never happened" (**"what is a photo?"** carried into 2023). The
+  hardware limit: **"you can't fix battery in post."** And the **software-locking of identical hardware into Pro /
+  non-Pro is "even more obvious when Google does it — same computer."** [2023-10-11] ([[../wiki/sources/2023-10-11-yt-BS8x2TicxQ8]]) · [2023-10-04] ([[../wiki/sources/2023-10-04-yt-KZA_BIa8e7I]])
+- **The Porsche-Cayenne strategy — an enthusiast-only maker needs a mass-market product to fund the enthusiast
+  line.** Sony's phones are **"endangered species for a reason"** (we lost HTC, LG); like Porsche 20 years ago, Sony
+  needs its **Cayenne** — a mass-market ($600–800) phone that keeps the Sony character so reviewers can recommend it
+  and fund the rest. The three fixes: **smartly cut specs (1080p not 4K), a much better *automatic* camera** (Sony
+  makes the world's best sensors yet loses in full-auto — "most people just want a quick auto snap to be the best
+  possible"), and **ship 1–2 weeks after announcing** (the months-long gap kills the hype). [2023-06-03] ([[../wiki/sources/2023-06-03-yt-PCp1BmME6QA]])
+- **The mixed-reality sliding scale — VR shrinks and smart glasses grow, racing toward each other.** VR headsets
+  (Quest 3) shrink toward normal glasses while smart glasses (Ray-Ban Meta) gain capability — **"both racing toward
+  each other,"** and the open question companies must answer before investing is **"which side hits mass adoption
+  first?"** (the Vision Pro is still the best pass-through; Quest 3 is great for $500). **"We're barreling toward a
+  computers-on-our-faces future" — "what a time to be alive."** [2023-10-17] ([[../wiki/sources/2023-10-17-yt-_XdD-TQseU4]])
+- **The two-levels-of-AI framework, and "the biggest problem is confident wrongness."** **Level one** — AI fools you
+  when you're not looking (the Pope-in-a-puffer photo); **level two** — it fools you **even when you know** (an
+  AI-Jay-Z verse he still enjoys); **"this is the worst this technology will ever be," and everything aims at level
+  two.** And the core flaw: **"sometimes it's just wrong — and it doesn't know it's telling the truth"** (to an
+  expert its answers are B-plus at best) — so **"anything we do with these tools should be a collaboration with the
+  human touch; check its work first."** Detection tools, not bans. [2023-04-03] ([[../wiki/sources/2023-04-03-yt-AFthdsIcOxw]]) · [2023-02-18] ([[../wiki/sources/2023-02-18-yt-7emz4zZ226E]])
+- **"Vertical integration is optimization" — Apple designs, it doesn't manufacture.** The custom-silicon capstone
+  (from "How Apple is Taking Back the iPhone"): every product sits on an **off-the-shelf → fully-custom gradient**,
+  and custom is **peak optimization** (the **triangle-of-square-blocks analogy**). "Taking back the iPhone" (its own
+  radios, micro-LED) is **"a Tim Cook supply-chain story"**; the distinction is **owning the technology (micro-LED)**
+  vs merely customizing an off-the-shelf part. And **Apple doesn't manufacture — it's a world-class design firm** (TSMC
+  builds the chips). [2023-02-03] ([[../wiki/sources/2023-02-03-yt-bMLbnsKGRfo]])
+- **The iMessage lock-in — "87% of US teens have an iPhone; they got them early."** The most damning lock-in stat
+  (first phone → customer for life; it's the only way into the group chats). To break in, a challenger must **embrace
+  the other side's biggest asset** (Nothing built iMessage into Android — at the cost of an **enormous security
+  risk**, your Apple ID on someone else's Mac Mini). Apple **can't retaliate publicly under antitrust pressure**
+  without exposing the lock-in ("Apple will probably do nothing" — Carl Pei); and **"if Apple cares about security,
+  it should support RCS."** [2023-11-14] ([[../wiki/sources/2023-11-14-yt-ji5HwS3bhlU]])
+- **"Power-user features don't sell phones" — a phone can nail all five pillars and not be a great buy for everyone.**
+  The OnePlus Open nails all five pillars, yet folds don't go mainstream — held back by price, durability, and **the
+  power-user problem: folding is a power-user feature, and power-user features don't sell a ton of phones** (the
+  LG/Sony/Asus graveyard). Kin to **"people want a bigger screen as long as it doesn't sacrifice too much"** (the 15"
+  MacBook Air *succeeded*; the mini iPhone got *discontinued* — people don't buy small phones) and **"the ecosystem
+  effect beats YouTube comments"** (the enthusiast features that do YouTube numbers are bought by almost no one). [2023-10-19] ([[../wiki/sources/2023-10-19-yt-jD9n01Mck0Q]]) · [2023-08-15] ([[../wiki/sources/2023-08-15-yt-sl0UUhmaiDU]]) · [2023-12-16] ([[../wiki/sources/2023-12-16-yt-PA9iymey_lM]])
+- **The battery-acceptance thesis, and "don't announce until you're ready to ship."** Two durable
+  industry-mechanics reads: **devices settle at the *accepted* battery standard** (a full day for phones, 18 hrs for
+  the Apple Watch) and makers **spend every efficiency gain on other features** (brighter screens, more sensors)
+  rather than more battery — "the Nokia 2310 lasted a month because it did nothing." And **"don't announce until
+  you're about to ship"** — the Cybertruck's four-year-old overpromise (the **biggest promised-vs-delivered Delta**
+  he's seen) made it read overpriced when it's really just **overhyped, not overpriced** (in line with its EV-truck
+  segment). [2023-12-16] ([[../wiki/sources/2023-12-16-yt-PA9iymey_lM]])
+- **EVs — the future is now proven electrified, "even if it didn't come from Tesla," and the multiple-personality
+  advantage.** The Rimac Nevera is **"the smackdown of gas cars we knew was coming"** (23 production-car world
+  records; it walked a 911 Turbo S) — and **every flagship supercar (Corvette, Ferrari, Lamborghini, Bugatti,
+  McLaren) is going electrified.** The recurring EV insight: **the Jekyll-and-Hyde / multiple-personality factor** —
+  a great EV is both soft/docile and a vicious weapon at the turn of a knob. And the pricing logic: **when the tech
+  is expensive you compete at the high end with the best overall product** (so EVs are expensive, cheap EVs scarce —
+  the Rivian R1S). [2023-08-18] ([[../wiki/sources/2023-08-18-yt-sF9xYtouZjY]]) · [2023-04-11] ([[../wiki/sources/2023-04-11-yt-wR-0knMVSGw]])
+- **F1 is a science fair — the compounding-innovation ecosystem that trickles down.** The world's highest-end tech
+  competition: the Constructors' (engineering) championship, where you improve your equipment between every race and
+  spend hundreds of millions for tenths of a second — and, like tech, **one team's real edge gets copied by all, then
+  trickles down to road cars** (DRS, paddle shifters, carbon fiber). [2023-12-11] ([[../wiki/sources/2023-12-11-yt-s8WHY3Gusx0]])
+- **"I don't mind products copying each other, as long as they copy the good stuff."** The permission-to-copy stance
+  (the OnePlus Pad cloning the iPad's pencil/cursor/Center-Stage): copying the good stuff is fine — what matters is
+  whether the result is good; and it pairs with the niche-features caution (the NXTPAPER matte display, "the perfect
+  addition to the pile of features that are awesome but won't sell a ton of phones"). [2023-05-26] ([[../wiki/sources/2023-05-26-yt-03OZsmDV56k]]) · [2023-12-07] ([[../wiki/sources/2023-12-07-yt-Ng5sHevRX3w]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated

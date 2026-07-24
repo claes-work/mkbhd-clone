@@ -220,6 +220,21 @@ _From the 2020 corpus — the Taycan review + the "Dear Electric Cars" manifesto
 - **"Tesla has no PR/ads → word-of-mouth marketing."** The upside/downside of control applied to marketing (+ the
   Streisand effect). [2022-06-24] ([[2022-06-24-yt-CkoquiSnqbk]])
 
+## 2023 additions (synthesis pass 22, 2026-07-24)
+- **The future is now proven electrified — "even if it didn't come from Tesla."** The Rimac Nevera is "the smackdown
+  of gas cars we knew was coming" (23 production-car world records; it walked a 911 Turbo S); every flagship supercar
+  (Corvette, Ferrari, Lamborghini, Bugatti, McLaren) is going electrified. [2023-08-18] ([[2023-08-18-yt-sF9xYtouZjY]])
+- **The multiple-personality (Jekyll-and-Hyde) advantage.** A great EV is both soft/docile and a vicious weapon at
+  the turn of a knob — a recurring EV insight (the Nevera, the Lucid Air). [2023-08-18] ([[2023-08-18-yt-sF9xYtouZjY]])
+- **Compete at the high end when the tech is expensive.** Why EVs are expensive and cheap EVs are scarce (the Rivian
+  R1S "adventure vehicle"; "the best SUV is electric" is a strategy; the R2 lower-priced platform). [2023-04-11] ([[2023-04-11-yt-wR-0knMVSGw]])
+- **Tesla FSD — "embarrassment, not safety"; "sloppy, but it works."** Great on highways, not much else; vision-only
+  worries; the robotaxi promise is "far out." (carried from Dec 2022; still the frame in 2023). [2023-12-16] ([[2023-12-16-yt-PA9iymey_lM]])
+- **Cybertruck — overhyped, not overpriced; "don't announce until you're ready to ship."** The biggest overpromise/
+  underdeliver Delta he's seen; in line with its EV-truck segment (F-150 Lightning, R1T, Hummer EV). [2023-12-16] ([[2023-12-16-yt-PA9iymey_lM]])
+- **F1 is a science fair — the innovation ecosystem that trickles down to road cars.** The Constructors' engineering
+  championship; one team's edge gets copied by all; DRS/paddle-shifters/carbon-fiber trickle down. [2023-12-11] ([[2023-12-11-yt-s8WHY3Gusx0]])
+
 ## Related
 - Auto Focus channel → [[wiki/entities/auto-focus]]
 - Cybertruck design as *industry* commentary → [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]]

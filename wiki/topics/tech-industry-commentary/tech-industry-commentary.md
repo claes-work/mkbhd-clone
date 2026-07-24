@@ -397,6 +397,35 @@ _From the 2020 corpus — a run of durable Apple-behavior, market-structure, pri
 - **Ratings philosophy — "a product can be really good and really bad at the same time"; companies ship into "the
   sunk-cost fallacy."** (HomePod 2). And "an ecosystem question as much as a skills question" (assistants). [2023-01-31] ([[../../sources/2023-01-31-yt-gvqZCMGjh3s]]) · [2022-12-24] ([[../../sources/2022-12-24-yt-Q2MGqmuEdtU]])
 
+## 2023 additions (synthesis pass 22, 2026-07-24)
+- **"Pay attention to the words" — Apple never says "VR" or "AI."** For control (don't attach to a word you can't
+  control) and comparison (they *name everything* — ProMotion, Dynamic Island — to make it harder to compare); they
+  often won't even state the spec. [2023-06-15] ([[../../sources/2023-06-15-yt-kvN5_GXlg2Y]])
+- **"You can be a good phone and not new" — Apple's late-mover advantage.** Do it the Apple way; withhold obvious
+  features (the $800 iPhone 15's 60 Hz display) to widen the Pro gap (ProMotion); software-lock identical hardware. [2023-10-02] ([[../../sources/2023-10-02-yt-0X0Jm8QValY]])
+- **"Vertical integration is optimization" — Apple designs, it doesn't manufacture.** The off-the-shelf→custom
+  gradient; the triangle-of-square-blocks analogy; "taking back the iPhone" is a Tim Cook supply-chain story;
+  owning the tech (micro-LED) ≠ customizing an off-the-shelf part. [2023-02-03] ([[../../sources/2023-02-03-yt-bMLbnsKGRfo]])
+- **"Launching is easy; supporting is hard" — even a giant rug-pulls.** Seven years of updates is a promise, and
+  "Google breaks promises all the time"; "a billion users or a billion dollars, or it's axed"; the "features coming
+  soon" trend; "never buy for future software updates." [2023-10-06] ([[../../sources/2023-10-06-yt-dxVaP0-aFIE]])
+- **The iMessage lock-in — "87% of US teens have an iPhone; they got them early."** To break in, embrace the other
+  side's biggest asset (Nothing built iMessage into Android); Apple can't retaliate under antitrust without exposing
+  the lock-in; "if Apple cares about security, support RCS." [2023-11-14] ([[../../sources/2023-11-14-yt-ji5HwS3bhlU]])
+- **The two-levels-of-AI framework + "the biggest problem is confident wrongness."** Level one fools you when not
+  looking; level two fools you even when you know; "this is the worst it will ever be"; to an expert its answers are
+  B-plus; "a collaboration with the human touch." [2023-04-03] ([[../../sources/2023-04-03-yt-AFthdsIcOxw]]) · [2023-02-18] ([[../../sources/2023-02-18-yt-7emz4zZ226E]])
+- **The Porsche-Cayenne strategy — an enthusiast maker needs a mass-market product to fund the enthusiast line.**
+  Sony's phones are "endangered species for a reason"; fix the *automatic* camera; ship 1–2 weeks after announcing. [2023-06-03] ([[../../sources/2023-06-03-yt-PCp1BmME6QA]])
+- **"Power-user features don't sell phones" + "people want a bigger screen if it doesn't sacrifice too much."** A
+  phone can nail all five pillars and not be a great buy for everyone (folds; the LG/Sony/Asus graveyard); the 15"
+  Air succeeded while the mini iPhone failed; "the ecosystem effect beats YouTube comments." [2023-10-19] ([[../../sources/2023-10-19-yt-jD9n01Mck0Q]]) · [2023-08-15] ([[../../sources/2023-08-15-yt-sl0UUhmaiDU]])
+- **The battery-acceptance thesis + "don't announce until you're ready to ship."** Devices settle at the accepted
+  battery standard and spend the gains on features; the Cybertruck's overpromise Delta made it read overpriced when
+  it's really overhyped. [2023-12-16] ([[../../sources/2023-12-16-yt-PA9iymey_lM]])
+- **The mixed-reality sliding scale.** VR headsets shrink and smart glasses grow, racing toward each other; "which
+  side hits mass adoption first?"; "we're barreling toward a computers-on-our-faces future." [2023-10-17] ([[../../sources/2023-10-17-yt-_XdD-TQseU4]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

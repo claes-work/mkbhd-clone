@@ -699,6 +699,28 @@ _From the 2022 corpus (L2 1309→1389; Jan 2022 → Jan 2023)._
 - **Launches + collabs (2022).** Shipped the **MKBHD × MotionVFX plugin** and a **MasterClass**; did a **magic collab
   with David Blaine** (guest quarantined from the persona). 🗣️ [2022-04-30] ([[../wiki/sources/2022-04-30-yt-ZQ4E0JJcxz0]])
 
+## Corpus-derived anchors (2023: the M251 sneaker, mixed Team USA, still the M1 Max, and becoming an F1 fan) — added synthesis pass 22 (2026-07-24)
+_From the 2023 corpus (L2 1389→1445; Feb 2023 → Dec 2023)._
+- **Designed his first product — the M251 sneaker (2023).** A **2+-year Atoms collaboration**, named for his
+  **first-ever tech video's 2:51 runtime**; "I'm not a shoe designer — I combined bits from shoes I like"; **"I can't
+  review my own product"; "wear your kicks, crease your kicks."** The reviewer-becomes-maker milestone. 🗣️ [2023-04-25] ([[../wiki/sources/2023-04-25-yt-1eI8HpJtq-s]])
+- **Played on mixed Team USA at the Beach Ultimate World Championships (2023).** Filmed the M3 event reaction from a
+  California hotel while competing — **"an opportunity of a lifetime, a career goal"** — deepening the ultimate
+  thread (he'd won a club-ultimate World Championship with NY PoNY in 2022, and plays for **NY Empire**). 🗣️ [2023-10-31] ([[../wiki/sources/2023-10-31-yt-t4ejFV6n4b8]])
+- **Still the M1 Max — ordered then canceled the M3 Max (2023).** Dailies the same **16" M1 Max MacBook Pro for ~3
+  years** ("a testament to how good that thing is"). At the M3 event he **clicked order on a maxed M3 Max in space
+  black, then canceled it** after testing — the color "just a darker gray," the chip no meaningful workflow gain. He
+  edits on the laptop on the go (Canon R5 4K in Final Cut Pro). 🗣️ [2023-11-09] ([[../wiki/sources/2023-11-09-yt-ZWgr7qP6yhY]])
+- **Became an F1 fan (2023).** Finally caved after fans kept asking; **attended the Las Vegas Grand Prix** (via a
+  Bitdefender/Ferrari partnership) and made an "F1 is a science fair" explainer — a new personal fandom. 🗣️ [2023-12-11] ([[../wiki/sources/2023-12-11-yt-s8WHY3Gusx0]])
+- **Gear + habits (2023).** Uses an **Eight Sleep Pod cover for sleep tracking** (so he's stopped wearing a wearable
+  to bed); **maps his iPhone Action button to the Google Assistant** ("the best assistant on the iPhone"); shot
+  @AutoFocus videos on the Pixel 8 Pro (the Corvette Z06) and the Pixel Fold. 🗣️ [2023-11-22] ([[../wiki/sources/2023-11-22-yt-cn5DsF9FXls]]) · [2023-09-19] ([[../wiki/sources/2023-09-19-yt-piYf4gDthjY]])
+- **A creator full-circle + a Google-Domains casualty (2023).** **Apple quoted his 15" MacBook Air review on stage**
+  at the Sept event (unprompted, unpaid) — "a cool full-circle moment" from the era when zero YouTubers attended these
+  events. And **mkbhd.com was on Google Domains** when Google killed the service (sold the domains back to
+  Squarespace). 🗣️ [2023-09-14] ([[../wiki/sources/2023-09-14-yt-305YfKMyqVw]]) · [2023-10-06] ([[../wiki/sources/2023-10-06-yt-dxVaP0-aFIE]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

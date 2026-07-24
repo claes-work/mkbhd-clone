@@ -6,6 +6,34 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
+Synthesized through: **1445 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
+L2=1034 (H1 2018), pass 17 through L2=1073 (the 2018 era complete), pass 18 through L2=1153 (the 2019 era complete),
+pass 19 through L2=1236 (the 2020 era complete), pass 20 through L2=1309 (the 2021 era complete), pass 21 through
+L2=1389 (the 2022 era complete), PLUS **pass 22's whole of 2023 (2026-07-24) — L2 1389→1445, ~56 sources; the 2023
+era is now complete.** The landmarks: **"pay attention to the words"** (Apple never says VR/AI — control +
+comparison; they name everything to make it harder to compare); **"you can be a good phone and not new"** (the
+late-mover advantage; the $800 iPhone 15's 60 Hz display withheld to widen the Pro gap; software-locked hardware);
+**iPhone vs Android has no objective winner** (the seven-category rubric — "rate and weight it yourself"; he mains
+Android; "the winner is us"); **"convenience is king — the masses won't pay for higher fidelity"**; **"launching is
+easy, supporting is hard"** ("Google breaks promises"; "a billion users or a billion dollars"; "never buy for future
+updates"); the Pixel **"we'll fix it in post"** ("you can't fix battery in post"; Magic Editor "lowered the barrier
+to just lie / what is a photo"); **"vertical integration is optimization"** ("Apple designs, doesn't manufacture");
+the **iMessage lock-in** ("87% of US teens"; "if Apple cares about security, support RCS"); the **Porsche-Cayenne
+strategy**; **"power-user features don't sell phones"** + "people want a bigger screen if it doesn't sacrifice too
+much"; the **two-levels-of-AI** + "confident wrongness" / "a collaboration with the human touch"; the **mixed-reality
+sliding scale** ("computers on our faces"); the **battery-acceptance thesis** + "don't announce until you're ready to
+ship"; **"the future is now proven electrified, even if not from Tesla"** (the Rimac Nevera; the Jekyll-and-Hyde EV);
+**"F1 is a science fair"**; and **"copy the good stuff."** Biography: **the M251 sneaker** (his first designed
+product); **mixed Team USA at the Beach Ultimate World Championships**; **still the M1 Max — ordered then canceled the
+M3 Max**; **became an F1 fan** (the Las Vegas GP); **Apple quoted his MacBook Air review on stage**; **mkbhd.com on
+Google Domains** (killed). Topic hubs got pass-22 sections (**tech-reviews / tech-industry-commentary / ev-cars /
+production-filmmaking / creator-business**); `persona/beliefs.md` (a "2023 doctrines" subsection — 17 doctrines),
+`persona/voice.md` (a "2023 register"), `persona/biography.md` (a 2023 anchors section), and
+`persona/system-prompt.md` recompiled **v21→v22** (1389→1445 sources; "through Dec 2023"). Covers every
+`wiki/sources/` page that was L2 as of 2026-07-24 at the 1445-source mark. Next checkpoint at ~10 more ingest batches
+or the next era boundary (through 2024).
+
+### (superseded) pass 21 high-water detail
 Synthesized through: **1389 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
 L2=1034 (H1 2018), pass 17 through L2=1073 (the 2018 era complete), pass 18 through L2=1153 (the 2019 era complete),
 pass 19 through L2=1236 (the 2020 era complete), pass 20 through L2=1309 (the 2021 era complete), PLUS **pass 21's

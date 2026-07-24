@@ -321,6 +321,19 @@ _From the H2-2018 corpus (L2 1034→1073) — a platform-critique framework and 
   the human touch; the error rate and the credit/consent problem. [2022-12-09] ([[../../sources/2022-12-09-yt-0gNauGdOkro]])
 - **The @AutoFocus channel launched (2022).** A dedicated car channel (the R1T first) alongside MKBHD Shorts. [2022-08-25] ([[../../sources/2022-08-25-yt-d7y9z7pjCRM]])
 
+## 2023 additions (synthesis pass 22, 2026-07-24)
+- **"Convenience is king — the masses won't pay for higher fidelity."** The cutoff for acceptable quality is
+  surprisingly low (Spotify/AirPods/phone-cameras) — a durable lens for why bleeding-edge formats struggle to go
+  mainstream. [2023-05-18] ([[../../sources/2023-05-18-yt-J1oEWiUsKgU]])
+- **Designed his first product — the M251 sneaker (Atoms collab).** Named for his first video's 2:51 runtime; "I
+  can't review my own product"; "wear your kicks, crease your kicks" — the reviewer-becomes-maker milestone. [2023-04-25] ([[../../sources/2023-04-25-yt-1eI8HpJtq-s]])
+- **A creator full-circle.** Apple quoted his 15" MacBook Air review on stage (unprompted, unpaid) — a full-circle
+  moment from the era when zero YouTubers attended these events. [2023-09-14] ([[../../sources/2023-09-14-yt-305YfKMyqVw]])
+- **"I say no to 99%" + "creators don't sign guaranteed-video contracts."** The inbox-challenge economics ("a good
+  problem to have"); and the Coca-Cola Realme "11/10, the best brand collab in a while." [2023-03-03] ([[../../sources/2023-03-03-yt-mv9afG2Dm9I]])
+- **"Being a new phone company is really hard, unless your name is Carl Pei."** The classic enthusiast-phone problem
+  (a cool idea some want, but not enough hype to make it happen) — the crypto phone. [2023-09-07] ([[../../sources/2023-09-07-yt-hRSMJGs0YMg]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 
