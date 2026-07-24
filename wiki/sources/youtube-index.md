@@ -1564,6 +1564,8 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2025-12-05 — [[2025-12-05-yt-Mb6H7trzMfI|Driving Xiaomi's Electric Car: Are we Cooked?]] ★ · ev-cars, tech-industry-commentary, consumer-tech-culture _(Xiaomi SU7; Ridge sponsored)_
 - 2025-12-08 — [[2025-12-08-yt-sfyL4BswUeE|Smartphone Awards 2025!]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary _(iPhone 17 MVP; iPhone 16 Bust)_
 - 2025-12-17 — [[2025-12-17-yt-trsHTKqmZOk|Samsung Galaxy Z Tri Fold Impressions: NOW It Makes Sense!]] · smartphones, tech-reviews _(the comments called it a gimmick, but **"this is a device that's actually starting to make foldables make sense to me"**; folds **twice** into a **10-inch ~16:1 widescreen tablet in your pocket** — **the rectangular aspect ratio, not the size, is the point** (vs "blank pixels around the video" on an 8" square fold); a **"U"-fold** vs the Huawei Mate XT's Z-fold; Snapdragon 8 Elite for Galaxy; 5,600 mAh (**"silicon carbon, maybe next gen"**); the only phone that runs **standalone DeX**; ~$2,500–3,000 (imported from Korea); a first-gen durability asterisk; **"Samsung is conservative on the S line but throws moonshots at the wall on foldables"**)_
+- 2025-12-23 — [[2025-12-23-yt-v-sCZN3FbR0|Every Mistake I Made in 2025]] ★★ · creator-business, consumer-tech-culture _(an accountability/process landmark: he + team **re-watched every ~50+ long-form of 2025** (+ comments/Reddit) to find and correct **every factual error**; his codified **fact-checking stage** + multiple eyeballs; the **reviewer's guide is his spec source** ("I can't fact-check specs by Googling — Google gives rumored specs"); two error types (annotation-worthy vs pinned-comment); a petition to bring back **YouTube text annotations**; closes with **Hanlon's razor** rebutting "he plants errors for engagement" conspiracies — "I would rather not make any mistakes"; inspired by Tom Scott)_
+- 2025-12-26 — [[2025-12-26-yt-Jh9pFp1oM7E|I shrunk down into an M5 chip]] · consumer-tech-culture, production-filmmaking _(an educational scale video — shrinking 100× at a time from human scale to a **3nm M5 transistor** — to make keynote transistor counts tangible; **Moore's law** + photolithography; **built entirely in Blender with explicitly "no generative AI"** (a values datapoint); **BIOGRAPHY: "I'm 6'3""** + "I'm a numbers person"; a phone with 80-year-old transistors would be "the size of New Jersey"; collab with Epic Spaceman)_
 
 ## @Waveform
 
@@ -1619,4 +1621,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_1557 videos ingested (L2) so far._
+_1559 videos ingested (L2) so far._
