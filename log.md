@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Oct 14 → Nov 9, 6 ingested + 1 skip + 1 L1 (the iPhone 12 / PS5 wave: "the Apple way," the DualSense, the Pixel-5 software thesis)
+
+Stage B. Ingested the iPhone-12/PS5 wave to L2 (1217→**1223**): **iPhone 12 Lineup Reactions** (★), **iPad Air
+2020: The Real iPad Pro Killer** (★), **Huawei Mate 40 Pro Impressions** (★), **Pixel 5 Review: Software Special**
+(★), **PS5 Controller: Major Key** (★), and **iPhone 12 Pro Max Review** (★★). **Skipped: iPhone 12 Pro Review**
+(yt-eWI_BtcDJu0) — garbled auto-captions (music/ASR gibberish); ledger `skipped` + RE-FETCH note (content largely
+covered by the 12 Pro Max review). **L1 (no-captions): LG Wing** (yt-t0XN-dJftSU) — driver-marked, RE-FETCH. All
+6 ingested are solo/Marques-fronted → persona-eligible (iPhone 12 reactions has an ExpressVPN sponsored outro,
+flagged). Ledger @mkbhd now ~414 open (P2:~381, P3:33); L2=1223, L3=0. (Post-pass-18; debt now ~5 batches / ~70
+sources since the high-water at 1153 — **pass-19 due soon: at ~10 batches OR the end-of-2020 era boundary
+(Smartphone Awards 2020, 2020-12-23), whichever first** — the end-of-2020 boundary is ~1-2 batches out.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) the promotable **"the Apple way"** characterization
+(iPhone 12 Pro Max): **sit back, take the landscape in, see what sticks and becomes an obvious benefit, then grab
+it and make it the Apple thing — "unless it's USB-C"** + the reviewing heuristic **"if you have to put it side by
+side to see it, most people won't notice it"** (the bigger-sensor-but-no-visible-difference finding) + the
+**computational-photography plateau.** (2) the Pixel-5 **"software over everything / Google finally embracing
+what the Pixel is"** thesis + the honest **"I can tell 90 vs 120 Hz" reviewer caveat** + **the Pixel camera's
+lead has narrowed** as hardware caught up + the **765G-downgrade-was-smart-for-efficiency** read. (3) **5G is
+two-sided** (not ready now, but good all four iPhones have it — keep-it-for-years lens) + **MagSafe = coolest new
+thing + an accessory ecosystem** + the **no-charger-in-the-box call came true** (environmental framing over a
+cost move) + the structured **"defend-Apple-no-matter-what" critique** of the missing 120 Hz ProMotion. (4) the
+**PS5 DualSense**: **"the controller connects you more physically than the graphics"** + strong-haptics +
+adaptive-triggers = genuinely next-gen + (durable persona signal) his **haptic-motor-quality obsession** tying
+phones + the MacBook Force-Touch trackpad + the controller. (5) the **iPad Air = "the real iPad Pro killer"**
+(most people don't need the Pro; USB-C-is-good-for-everybody-not-just-the-Pro; ProMotion is the one real gap) +
+the **fallen Android-tablet ecosystem** + Apple's **attack-a-wider-range-of-prices** (reinforces the mid-range
+thesis). (6) Huawei Mate 40 Pro: the **"technically awesome, impossible to recommend"** refrain (Google-ban
+tragedy) + reinforces **don't-buy-on-the-promise-of-future-software** + **curved-display critique** + the
+**"take the logo off" thought experiment** + pro-competition. None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Sep 17 → Oct 14, 7 ingested + 1 skip (Techtober 2020: the mid-range-tier thesis + "Why Don't People Buy Sony?" + the Porsche Taycan)
 
 Stage B. Ingested the Techtober-2020 wave to L2 (1210→**1217**): **Apple Watch S6: Everything New** (★),
