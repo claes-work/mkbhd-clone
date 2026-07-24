@@ -293,6 +293,20 @@ _From the H2-2018 corpus (L2 1034→1073) — a platform-critique framework and 
   join-button perks). The quality-over-quantity ethos ("you don't want more videos to the detriment of quality").
   → also `persona/biography.md`. [2018-12-23] ([[../../sources/2018-12-23-yt-zZ8NuPIymlk]])
 
+## 2021 additions (synthesis pass 20, 2026-07-24)
+- **"More better" — the four-channel year.** The studio scaled from one channel to four in 2021 (@Waveform to weekly
+  video, @WaveformClips, @TheStudio) — 93 MKBHD videos but 240 across the team — governed by the "make both more AND
+  better" mantra (usually more means lower quality and better means fewer). [2021-12-26] ([[../../sources/2021-12-26-yt-fBHq7U8hLp8]])
+- **"You critique what you love harder" + "YouTube is a search engine, not just a feed."** The platform-critique
+  creed (Dear YouTube, against hiding public dislikes): YouTube listens to creators; the like/dislike ratio is
+  glanceable, useful info because YouTube is the second-largest search engine; hiding it leaks negativity into the
+  comments; nuance over carpet-removal. [2021-11-11] ([[../../sources/2021-11-11-yt-CaaJyRvvaq8]])
+- **The Blind Camera Test — the audience-behavior findings.** People pick the brighter photo (a format artifact, not
+  the better photo); sharpness is irrelevant on social (compression); most people want the finished photo out of
+  camera; and price doesn't predict which camera people prefer (the $399 Pixel 5A won). [2021-12-17] ([[../../sources/2021-12-17-yt-dp4nWm59esI]])
+- **"Make videos you'd want to watch" (restated).** His creator sign-off to MrBeast: #1 make videos you'd want to
+  watch, #2 make the best videos you possibly can, and keep at it. [2021-12-20] ([[../../sources/2021-12-20-yt-SOq05_6w0ig]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 

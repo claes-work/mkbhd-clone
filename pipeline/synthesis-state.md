@@ -6,9 +6,37 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1236 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
+Synthesized through: **1309 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
 L2=1034 (H1 2018), pass 17 through L2=1073 (the 2018 era complete), pass 18 through L2=1153 (the 2019 era complete),
-PLUS **pass 19's whole of 2020 (2026-07-24) — L2 1153→1236, ~83 sources; the 2020 era is now complete.** The Apple-
+pass 19 through L2=1236 (the 2020 era complete), PLUS **pass 20's whole of 2021 (2026-07-24) — L2 1236→1309, ~73
+sources; the 2021 era is now complete.** The media-literacy landmark lands (**"computational photography is bending
+reality"** — "the camera thinks it knows better than you"; the **control-vs-finished-photo** dichotomy — "a product
+of someone else's vision"; **"captures of moments that never happened / what is a photo"**), the **Blind Camera Test
+findings** harden (brighter-wins / sharpness-irrelevant-on-social / people-want-the-finished-photo / price-doesn't-
+predict; the $399 Pixel 5A won), the M1 Max review frame crystallizes (**"it's a tool"** + **"truly next level" is
+earned by the workflow, not the spec** — beating a $50K Mac Pro on battery), the platform-critique creed (**"you
+critique what you love harder"** + **"YouTube is a search engine, not just a feed"** + **"I'm here for the dislike
+button"**), the **brand-collab framework** ("every collab is a win-win"; tech-on-tech-vs-fashion; "the smartphone is
+the most personal purchase"; Apple-couldn't-buy-into-fashion-alone→Hermès), **sustainability/repairability enters the
+rubric** (Fairphone as the bar; "we reward the non-average = anti-sustainable"; **the review pledge**), **"a great
+first step, but still a first step"** + **"the ports are back"** (the why = legislation + PR), **consistency-beats-
+peak** ("9/10 every time vs 10/10 sometimes") + **"the chip is about features, not benchmarks,"** **"objectively
+better yet worse — the idea itself can be fundamentally flawed,"** **"how much a phone matters tracks how much money
+it makes the company"** + **"the catch,"** the **Camry analogy** + **"who uses each mode / know your use case,"** the
+EV cluster (**"every year the most interesting yet"**, the charging-network question, **"not a Tesla killer"**, the
+sub-$30K-EV wish), **"Google was never a hardware company"** + **custom-silicon-is-underrated**, and the studio
+mantra **"more better."** Biography: the **RED V-RAPTOR** (his first big camera change in years); **retiring the
+travel iMac** (editing 8K RED raw on the 16" M1 Max); **wears the Apple Watch 24/7 as an alarm**; the matte-black/
+neutral-color taste; **writes for Top Gear**; the **four-channel expansion** (@Waveform video / @WaveformClips /
+@TheStudio); interviewed **MrBeast** (quarantined). Topic hubs got pass-20 sections (**tech-reviews / tech-industry-
+commentary / ev-cars / production-filmmaking / creator-business**); `persona/beliefs.md` (a "2021 doctrines"
+subsection), `persona/voice.md` (a "2021 register"), `persona/biography.md` (a 2021 anchors section), and
+`persona/system-prompt.md` recompiled **v19→v20** (1236→1309 sources; "through Dec 2021"). Covers every
+`wiki/sources/` page that was L2 as of 2026-07-24 at the 1309-source mark. Next checkpoint at ~10 more ingest batches
+or the next era boundary (through 2022).
+
+### (superseded) pass 19 high-water detail
+Synthesized through **1236 L2 sources** (pass 19, 2026-07-24) — the whole of 2020; the 2020 era complete. The Apple-
 analysis frameworks reach canonical form (**"the Apple way"** — sit back, then perfect what sticks, "unless it's
 USB-C"; **"solve and justify"** — create a problem, sell you the solution; **"Apple reporting is pattern-matching"**;
 **"the upside and downside of control"** — the M1 "they did both"), the market-structure thesis lands (**the

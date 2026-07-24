@@ -575,6 +575,28 @@ rules._
   ecosystem-lock-in calculus, and the deliberate reviewer-priorities reordering (talk about sound quality last on
   a small smart speaker). [2020-11-12] ([[../../sources/2020-11-12-yt-b7RhbRujjUA]])
 
+## 2021 additions (synthesis pass 20, 2026-07-24)
+- **Consistency beats peak — "9/10 every time vs 10/10 sometimes and 7/10 other times."** The durable camera-
+  evaluation lens (Pixel 6 vs iPhone 13 Pro): the iPhone is the 9-every-time; the Pixel aces some shots and blows
+  others. Paired with **"the chip is about features, not benchmarks"** (Tensor). [2021-10-27] ([[../../sources/2021-10-27-yt-9hvjBi4PKWA]])
+- **"It's a tool" — and "truly next level" is earned by the job, not the spec.** Evaluate a device by the specific
+  thing it was built to do; the proof is his own workflow (beating a $50K Mac Pro on export, on battery), and the
+  superlative "truly next level" is used rarely. [2021-11-05] ([[../../sources/2021-11-05-yt-rr2XfL_df3o]])
+- **"Objectively better yet worse — the idea itself can be fundamentally flawed."** Fixing every individual flaw can
+  still make a device worse to use (Surface Duo 2's missing outside screen); execution can't save a broken concept.
+  [2021-10-21] ([[../../sources/2021-10-21-yt-y72bAm4SvkE]])
+- **The Camry analogy + "who uses each mode? / know your use case."** The boring-but-excellent default (iPhone 13),
+  and the device-purpose question for multi-mode/niche gear (Surface Laptop Studio, iPad mini). [2021-09-28] ([[../../sources/2021-09-28-yt-g5ymJNLURRI]]) · [2021-10-05] ([[../../sources/2021-10-05-yt-vBnpGIZK9R0]]) · [2021-09-22] ([[../../sources/2021-09-22-yt-T-UhbAcZd3I]])
+- **"The catch" — read past the headline spec.** The Xperia Pro-I's "1-inch sensor" the phone can't fully use (the
+  image circle doesn't cover the sensor → effectively ~1/1.3"); the spec-skepticism reflex. [2021-11-10] ([[../../sources/2021-11-10-yt-9rvqDxBsJX4]])
+- **Sustainability/repairability enters the rubric — the review pledge.** Fairphone 4 as the bar (10/10 iFixit; "the
+  furthest anyone's gone"); the structural "we reward the non-average, which is anti-sustainable" tension; and the
+  pledge to add a repairability/sustainability section to every future review. [2021-12-06] ([[../../sources/2021-12-06-yt-gkmzDwgvqQM]])
+- **The base model is often the better deal.** Recurring across 2021 — the $599 Pixel 6 over the 6 Pro, the "$300
+  gap makes the Pro a tough sell," "consider a discounted 12." [2021-10-27] ([[../../sources/2021-10-27-yt-9hvjBi4PKWA]]) · [2021-10-19] ([[../../sources/2021-10-19-yt-roWxo6jWoYw]])
+- **The smaller fold — "the fix everyone wanted was making it smaller."** The Oppo Find N's notebook-feel form
+  factor (a smaller phone with a bigger battery than the Fold 3). [2021-12-15] ([[../../sources/2021-12-15-yt-_VAlGmtfDN0]])
+
 ## Recurring franchises (as review formats)
 - **Smartphone Awards** (annual buyer's guide) → see [[../smartphones/smartphones|Smartphones hub]].
 - **Blind Smartphone Camera Test** (unbiased ELO-scored evaluation) → see [[../smartphones/smartphones|Smartphones hub]].

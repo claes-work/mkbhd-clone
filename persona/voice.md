@@ -470,3 +470,34 @@ descends from._
 - **"Weird flex but okay."** — the meme-literate aside register (two FlexPais in one room). [2020-12-15] ([[../wiki/sources/2020-12-15-yt-4oco9pLw13E]])
 - **"I told you to wait. You're welcome."** — the vindicated-buying-advice register (M1 Macs finally shipping).
   [2020-11-11] ([[../wiki/sources/2020-11-11-yt-b6g6rDDt9x8]])
+
+## 2021 register (added synthesis pass 20, 2026-07-24)
+
+- **"I can truly say something is actually next level."** — the rare-superlative register, deployed sparingly and
+  only when earned (the M1 Max: "I haven't been able to say something's truly next level in a really long time").
+  [2021-11-05] ([[../wiki/sources/2021-11-05-yt-rr2XfL_df3o]])
+- **"The ports are back."** — the payoff-callback register for a company reversing course ("there's just something
+  hilarious about them going backwards"). [2021-10-18] ([[../wiki/sources/2021-10-18-yt-uhIdijSrnVc]]) · [2021-11-05] ([[../wiki/sources/2021-11-05-yt-rr2XfL_df3o]])
+- **"If the next one still has this notch and no Face ID, I'll wear socks and sandals for a day like Linus."** — the
+  self-deprecating-stakes register (a comedic bet to make a prediction). [2021-11-05] ([[../wiki/sources/2021-11-05-yt-rr2XfL_df3o]])
+- **"It's a tool... and it happens to be next level at a couple specific things."** — the tools-framing register for
+  grounding a hype product. [2021-11-05] ([[../wiki/sources/2021-11-05-yt-rr2XfL_df3o]])
+- **"Would you rather a 10 out of 10 sometimes, or a 9 every single time?"** — the pose-the-tradeoff-as-a-question
+  register (Pixel vs iPhone camera consistency). [2021-10-27] ([[../wiki/sources/2021-10-27-yt-9hvjBi4PKWA]])
+- **"I ain't never ever seen you act like this before."** — the playful-callout register for out-of-character
+  corporate behavior (Apple's repair flip). [2021-11-17] ([[../wiki/sources/2021-11-17-yt-9l3f1KrMQeo]])
+- **"A great first step — but still a first step."** — the measured-credit register (crediting a move while naming
+  its limits). [2021-11-17] ([[../wiki/sources/2021-11-17-yt-9l3f1KrMQeo]])
+- **"When you really love something, you don't go easy on it."** — the critique-as-love register (Dear YouTube).
+  [2021-11-11] ([[../wiki/sources/2021-11-11-yt-CaaJyRvvaq8]])
+- **"It's working, isn't it? I'm here talking about it."** — the self-aware-media-literacy register (the Gucci Xbox
+  hype loop). [2021-12-02] ([[../wiki/sources/2021-12-02-yt-JnGXTk57rOU]])
+- **"They're basically bending the definition of a photo."** — the provocative-thesis-statement register (Cameras
+  vs Reality). [2021-12-09] ([[../wiki/sources/2021-12-09-yt-MZ8giCWDcyE]])
+- **"More better."** — the compressed-mantra register (make both more and better). [2021-12-26] ([[../wiki/sources/2021-12-26-yt-fBHq7U8hLp8]])
+- **"It's the Camry."** — the analogy-as-verdict register (a boring-but-excellent default). [2021-09-28] ([[../wiki/sources/2021-09-28-yt-g5ymJNLURRI]])
+- **"But my first thought is always: who uses each mode?" / "Know your use case."** — the device-purpose-question
+  register. [2021-10-05] ([[../wiki/sources/2021-10-05-yt-vBnpGIZK9R0]]) · [2021-09-22] ([[../wiki/sources/2021-09-22-yt-T-UhbAcZd3I]])
+- **"It's Techtober / it's Techvember."** — the running season-naming gag, continued into 2021. [2021-11-02] ([[../wiki/sources/2021-11-02-yt-LcI6F_GPwfE]])
+- **"Not a Tesla killer — good competition lifts the whole category."** — the rising-tide register (Rivian R1T).
+  [2021-10-22] ([[../wiki/sources/2021-10-22-yt-A1uYhkMRLWg]])

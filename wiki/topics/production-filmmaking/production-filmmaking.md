@@ -237,5 +237,16 @@ _From the H2-2018 corpus (L2 1034→1073)._
 - **The M1 payoff for creators — "they did both."** The M1 (efficiency AND performance) is the Apple-silicon transition landing; he's "most excited for the desktops" (optimize purely for power) after a year impressed by the Mac Pro; the 13" M1 MacBook Pro becomes his daily travel machine. [2020-11-11] ([[../../sources/2020-11-11-yt-b6g6rDDt9x8]]) · [2020-11-30] ([[../../sources/2020-11-30-yt-il9SZU_nsVc]])
 - **The Blind Test as a production-literacy lesson.** White balance and exposure are "just sliders you can fix" — what you really want is as much information/dynamic range as possible; and every platform (Twitter, Instagram, YouTube) compresses your photos and videos differently, so "make what you want, post it, be happy." [2020-12-03] ([[../../sources/2020-12-03-yt-kbeEkwlTeqQ]])
 
+## 2021 additions (synthesis pass 20, 2026-07-24)
+- **The RED V-RAPTOR — his first big camera change in years.** The 8K VV cine camera became the studio's main
+  camera (a notable gear milestone); by November he was editing full videos shot in 8K RED raw. [2021-09-29] ([[../../sources/2021-09-29-yt-gny4B5YOV0s]]) · [2021-11-05] ([[../../sources/2021-11-05-yt-rr2XfL_df3o]])
+- **Retiring the travel iMac — editing 8K RED raw on the 16" M1 Max.** The M1 Max MacBook Pro retired the maxed-out
+  iMac Pro he'd lugged through airports in a Pelican case ("I can safely edit everything on a laptop"), after
+  beating a $50K Mac Pro on export, on battery. The vertical-integration / ProRes-media-engine payoff for creators.
+  [2021-11-05] ([[../../sources/2021-11-05-yt-rr2XfL_df3o]])
+- **"Bending the definition of a photo" — the production-literacy endpoint.** Computational photography that outputs
+  "captures of moments that never happened," and the enthusiast's want for the neutral, information-rich file (to
+  keep editing control) vs the finished photo. [2021-12-09] ([[../../sources/2021-12-09-yt-MZ8giCWDcyE]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

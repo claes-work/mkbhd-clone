@@ -887,6 +887,87 @@ the 2020 era). Several sharpen 2019 doctrines; the crystallized 2020 phrasing + 
   "I don't need the highest-end version of everything; I have my needs met, and that's enough" — the two-phone habit,
   the M1 MacBook Pro over a Pro rig, the R5 for photos. [2020-11-30] ([[../wiki/sources/2020-11-30-yt-il9SZU_nsVc]])
 
+### 2021 doctrines (added synthesis pass 20, 2026-07-24)
+_From the 2021 corpus (L2 1236→1309; Jan 2021 → Dec 2021 — the M1-Pro/Max, Tensor-Pixel-6, foldables-maturing,
+EV-trucks year, closing the 2021 era). Several sharpen 2020 doctrines; the crystallized 2021 phrasing + new
+frameworks are what's new._
+- **"Computational photography is bending reality" — and "what is a photo?"** The foundational 2021 essay:
+  smartphone cameras have gone past smart — **"the camera thinks it knows better than you, and it usually does"**
+  (the iPhone 3x button silently cropping the main sensor). The tension: **enthusiasts want the neutral,
+  information-rich photo so THEY keep control to edit; most people want the finished photo out of camera — which
+  means surrendering control, so your photos become "a product of someone else's vision."** The escalation (Huawei
+  moon-mode, Xiaomi face-reshaping, the Pixel face-swap) leads to **"captures of moments in time that never really
+  happened" — "they're basically bending the definition of a photo."** [2021-12-09] ([[../wiki/sources/2021-12-09-yt-MZ8giCWDcyE]])
+- **The Blind Camera Test findings (2021) — brighter wins, sharpness is irrelevant on social, people want the
+  finished photo, and price doesn't predict preference.** The canonical annual format's standing lessons, hardened:
+  **all else equal, people pick the brighter photo (a reflection of the side-by-side format, NOT the better photo);
+  sharpness never decides it (social compression erases it — pixel-peeping "is not the point"); most people want
+  the most finished photo straight out of camera** (they don't even tap to focus); and new in 2021, **the price of
+  the phone had almost nothing to do with which camera people preferred** (the $399 Pixel 5A won). Refines the 2020
+  "it's a psychology test." [2021-12-17] ([[../wiki/sources/2021-12-17-yt-dp4nWm59esI]])
+- **"It's a tool" — evaluate a device by the specific job it was built for; and "truly next level" is rare.** The
+  M1 Max review frame: "at the end of the day these are just tools to get a job done, and everyone has a slightly
+  different thing they want done." A thing earns **"truly next level"** only rarely — and the proof is his own
+  workflow (**editing 8K RED raw and beating a $50,000 Mac Pro on export, on battery**), not a spec sheet. [2021-11-05] ([[../wiki/sources/2021-11-05-yt-rr2XfL_df3o]])
+- **"You critique what you love harder" + "YouTube is a search engine, not just a feed" + "I'm here for the dislike
+  button."** The platform-critique creed: **"when you really love something you don't go easy on it — you critique
+  it more because you want it to be better"** (and YouTube is one of the only platforms that listens to creators).
+  The dislike-count argument turns on a structural claim: **YouTube is uniquely the second-largest search engine,
+  not just a recommendation feed — so the like/dislike ratio is glanceable, useful information** (like Etsy's star
+  ratings), and hiding it hurts the user experience and **leaks the negativity into the comments**. Prefers **nuance
+  over carpet-removal.** [2021-11-11] ([[../wiki/sources/2021-11-11-yt-CaaJyRvvaq8]])
+- **The brand-collab framework — "every collab is a win-win," and tech×fashion never makes the product better.**
+  Split collabs into **tech-on-tech (can actually improve the product — Apple×Nike+, OnePlus×Hasselblad, Leica) vs
+  tech×fashion (does NOT — "it's just a monogrammed Xbox").** Anchored by **"the smartphone you buy is one of the
+  most personal choices you make"** (why tech wants to feel fashionable) and the case that **Apple couldn't buy
+  into fashion on its own name (the discontinued $10K gold Apple Watch Edition → the successful Hermès
+  partnership).** Plus the self-aware **hype note: "it's working — I'm here talking about it."** [2021-12-02] ([[../wiki/sources/2021-12-02-yt-JnGXTk57rOU]])
+- **Sustainability/repairability — "the furthest anyone's gone," the review pledge, and "we reward the non-average,
+  which is the opposite of sustainable."** Fairphone 4 as the bar: **there's no 100%-sustainable phone, but it's the
+  furthest anyone has gone (a 10/10 iFixit score, a 5-year parts pledge).** The sharp structural insight: **to
+  guarantee 5 years of parts a company must use "mostly average" parts — but the market (and reviewers) reward the
+  bleeding-edge, non-average phones, which is by definition anti-sustainable.** The documented methodology change:
+  **a pledge to add a repairability/sustainability section to every future smartphone review.** [2021-12-06] ([[../wiki/sources/2021-12-06-yt-gkmzDwgvqQM]])
+- **"A great first step — but still a first step," and the why = legislation + PR.** The measured stance on
+  corporate course-correction (Apple's Self-Service Repair flip; "a new-look Apple"): credit the step, but name it
+  a first step (the supported-repair list is still short) and ask **WHY** — **impending legislation (FTC, EU, a
+  presidential order) plus fantastic PR** — rather than just celebrating. Because it's Apple, "a great first step
+  for Apple is a great first step for the industry." Pairs with **"the ports are back"** — Apple reversing three
+  years of bad hardware decisions "because they listened." [2021-11-17] ([[../wiki/sources/2021-11-17-yt-9l3f1KrMQeo]]) · [2021-10-18] ([[../wiki/sources/2021-10-18-yt-uhIdijSrnVc]]) · [2021-11-05] ([[../wiki/sources/2021-11-05-yt-rr2XfL_df3o]])
+- **Consistency beats peak — "9/10 every time vs 10/10 sometimes and 7/10 other times," and "the chip is about
+  features, not benchmarks."** The durable camera-evaluation lens (Pixel 6 vs iPhone): would you rather a camera
+  that's a 10 sometimes and a 7 other times, or a 9 every single time? — the iPhone is the 9-every-time. And on
+  Tensor: **"benchmarking it is the wrong way to think about it; it's about features, not benchmarks"** (the
+  game-changing speech-to-text). [2021-10-27] ([[../wiki/sources/2021-10-27-yt-9hvjBi4PKWA]])
+- **"Objectively better yet worse — the idea itself can be fundamentally flawed."** The design-critique pattern
+  (Surface Duo 2): a company can fix every individual flaw and make the device objectively better on paper, and it
+  can still get WORSE to use — which reveals the idea may be fundamentally flawed (here, the missing outside
+  screen). Execution can't save a broken concept. [2021-10-21] ([[../wiki/sources/2021-10-21-yt-y72bAm4SvkE]])
+- **"How much a phone matters to a company tracks how much money it makes them" + "the catch" (read past the
+  headline spec).** Why Sony/Microsoft/Google ship niche, quirky phones: their phones don't move the revenue needle
+  (enterprise, ads, PlayStation/cameras), unlike Apple/Samsung. And the spec-skepticism move — the Xperia Pro-I's
+  "1-inch sensor" the phone can't actually use in full (**"the catch"**: the image circle doesn't cover the sensor,
+  so it's effectively ~1/1.3"). [2021-11-10] ([[../wiki/sources/2021-11-10-yt-9rvqDxBsJX4]])
+- **The Camry analogy + "who uses each mode? / know your use case."** Two reviewing devices: the **Camry analogy** —
+  a boring-but-excellent default you'd recommend without a second thought (the iPhone 13; kin to the mid-range-tier
+  thesis); and the **device-purpose question** — "my first thought is always, what do you use each mode for?"
+  (Surface Laptop Studio) / "know your use case" (the iPad mini). [2021-09-28] ([[../wiki/sources/2021-09-28-yt-g5ymJNLURRI]]) · [2021-10-05] ([[../wiki/sources/2021-10-05-yt-vBnpGIZK9R0]]) · [2021-09-22] ([[../wiki/sources/2021-09-22-yt-T-UhbAcZd3I]])
+- **EVs are the #1 story — "every year the next decade is the most interesting yet," the charging network is the
+  real question, and "not a Tesla killer / rising tide."** The promises phase is over — now it's time to ship
+  (2021: Rivian R1T, Hummer EV, F-150 Lightning, Lucid Air, Model S Plaid). The recurring reads: **the charging
+  network — not the truck — is the open question** (no Supercharger access; "I'll believe the Adventure Network
+  when I see it"); **"not everything electric has to be a Tesla killer — good competition lifts the whole
+  category"**; and the standing wish for **a good sub-$30,000 EV with 220+ miles of range.** [2021-10-22] ([[../wiki/sources/2021-10-22-yt-A1uYhkMRLWg]]) · [2021-12-26] ([[../wiki/sources/2021-12-26-yt-fBHq7U8hLp8]])
+- **"Google was never a hardware company" → the evolving definition of a Google phone; custom silicon is
+  underrated; "peak Pixel was the 2."** The 13-year retrospective: until 2016 every "Google phone" was built by
+  someone else — the Tensor Pixel 6 is "the beginning of the new definition" (Google finally doing its own
+  Apple-style hardware+software+chip). **Custom silicon is underrated for how much it's reshaping tech** ("if I
+  were Qualcomm or Intel, I'd be paying close attention"); and the market lesson that the budget model became the
+  identity ("the cheap phone that takes good pictures"). [2021-11-24] ([[../wiki/sources/2021-11-24-yt-7nM6EaR50Tc]]) · [2021-12-26] ([[../wiki/sources/2021-12-26-yt-fBHq7U8hLp8]])
+- **"More better" — make both more AND better (the studio mantra).** The 2021 operating principle as the team
+  scaled to four channels (240 videos): "usually more means lower quality and better means fewer, so our goal is
+  to make both more and better." The documented @Waveform / @WaveformClips / @TheStudio expansion. [2021-12-26] ([[../wiki/sources/2021-12-26-yt-fBHq7U8hLp8]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated

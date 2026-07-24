@@ -360,6 +360,24 @@ _From the 2020 corpus — a run of durable Apple-behavior, market-structure, pri
 - **No charger in the box = "writing on the wall" (environmental framing over a cost move).** Predicted from the Apple Watch S6, confirmed at the iPhone 12. [2020-09-17] ([[../../sources/2020-09-17-yt-Mm0NvlXdz4A]]) · [2020-10-14] ([[../../sources/2020-10-14-yt-k1v7_zScivQ]])
 - **The reviewer's creed — "tell the truth; viewers, watch more than one person."** A response to YouTube fragmenting into positive/negative/apple/explainer niches; plus predict-the-future-by-looking-at-the-past. [2020-12-31] ([[../../sources/2020-12-31-yt-mx3krJHlUzc]])
 
+## 2021 additions (synthesis pass 20, 2026-07-24)
+- **"Computational photography is bending reality" — and "what is a photo?"** The camera thinks it knows better than
+  you; the finished photo means surrendering control so your photos become "a product of someone else's vision"
+  (Huawei moon-mode, face-reshaping); the endpoint is "captures of moments that never happened." [2021-12-09] ([[../../sources/2021-12-09-yt-MZ8giCWDcyE]])
+- **The brand-collab framework — "every collab is a win-win"; tech×fashion never makes the product better.** Tech-on-
+  tech can improve the product (Nike+, Hasselblad); tech×fashion is "just a monogrammed Xbox." Anchored by "the
+  smartphone is the most personal purchase you make" and "Apple couldn't buy into fashion alone → Hermès." [2021-12-02] ([[../../sources/2021-12-02-yt-JnGXTk57rOU]])
+- **"A great first step — but still a first step," and the why = legislation + PR.** The measured stance on corporate
+  course-correction (Apple's Self-Service Repair flip; "the ports are back") — credit the step, name its limits, and
+  ask WHY. Because it's Apple, it moves the whole industry. [2021-11-17] ([[../../sources/2021-11-17-yt-9l3f1KrMQeo]]) · [2021-10-18] ([[../../sources/2021-10-18-yt-uhIdijSrnVc]])
+- **"How much a phone matters to a company tracks how much money it makes them."** Why Sony/Microsoft/Google ship
+  niche, quirky phones (their phones don't move the revenue needle), unlike Apple/Samsung. [2021-11-10] ([[../../sources/2021-11-10-yt-9rvqDxBsJX4]])
+- **"Google was never a hardware company" → the evolving definition + custom silicon is underrated.** The Pixel/Nexus
+  retrospective (the Tensor Pixel 6 as "the new definition"); "if I were Qualcomm or Intel, I'd be paying close
+  attention"; the budget model became the identity. [2021-11-24] ([[../../sources/2021-11-24-yt-7nM6EaR50Tc]]) · [2021-12-26] ([[../../sources/2021-12-26-yt-fBHq7U8hLp8]])
+- **The 5 movements of 2021.** Short-form is here to stay; crypto/web3; custom silicon (underrated); alternate form
+  factors gaining momentum; and EVs #1. [2021-12-26] ([[../../sources/2021-12-26-yt-fBHq7U8hLp8]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

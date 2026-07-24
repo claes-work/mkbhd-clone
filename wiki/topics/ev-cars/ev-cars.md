@@ -192,6 +192,18 @@ _From the 2020 corpus — the Taycan review + the "Dear Electric Cars" manifesto
 - **The Taycan — interior quality vs. interior layout + "best-driving EV, period."** A documented mind-change: "there's a difference between interior quality and interior layout" (Porsche wins quality, Tesla still wins layout); Tesla's efficiency (Wh/mi) moat is real; "Porsche put effort into the EV experience instead of coughing out an electric version of an existing car — more than one right answer, like folding phones." [2020-09-22] ([[2020-09-22-yt-BAZX9p2oGOg]])
 - **The Model S is his daily driver (and he's not switching).** "Most space, best performer, best software — I love the Taycan, but I'm not switching"; holding out for the Roadster (~2022–23); the USB-C-alongside-Lightning analogy for Supercharger compatibility. [2020-12-31] ([[2020-12-31-yt-mx3krJHlUzc]]) · [2020-12-29] ([[2020-12-29-yt-pJlA2J92Fw4]])
 
+## 2021 additions (synthesis pass 20, 2026-07-24)
+- **EVs are the #1 tech story — "every year for the next decade is the most interesting yet."** The promises phase is
+  over; now it's time to ship (2021: Rivian R1T, Hummer EV, F-150 Lightning, Lucid Air, Model S Plaid), plus the
+  lower-priced volume EVs (ID.4, Leaf, Mini). [2021-12-26] ([[2021-12-26-yt-fBHq7U8hLp8]])
+- **The Rivian R1T — the most promising startup EV, and "the charging network is the real question."** The most
+  dailyable electric truck (size, range, comfort) and the most fun he's driven — but no Supercharger access, and
+  "I'll believe the Adventure Network when I see it." [2021-10-22] ([[2021-10-22-yt-A1uYhkMRLWg]])
+- **"Not a Tesla killer — good competition lifts the whole category."** The rising-tide framing: not everything
+  electric has to kill Tesla; the whole category benefits from good entries. [2021-10-22] ([[2021-10-22-yt-A1uYhkMRLWg]])
+- **The standing wish — a good sub-$30,000 EV with 220+ miles of range.** The #1 thing that didn't ship in 2021 (the
+  rumored Tesla Model 2, or whoever beats them to it). [2021-12-26] ([[2021-12-26-yt-fBHq7U8hLp8]])
+
 ## Related
 - Auto Focus channel → [[wiki/entities/auto-focus]]
 - Cybertruck design as *industry* commentary → [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]]

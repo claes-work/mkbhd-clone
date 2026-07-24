@@ -653,6 +653,29 @@ _From the 2020 corpus (L2 1153→1236; Feb 2020 → Dec 2020)._
   tech, not just famous CEOs") — 2020 added **Mark Zuckerberg** (Sept), **Barack Obama** (Dec), and a Mark Gurman
   conversation on the Waveform podcast — guests quarantined from the persona. 🗣️ [2020-12-31] ([[../wiki/sources/2020-12-31-yt-mx3krJHlUzc]]) · [2020-12-07] ([[../wiki/sources/2020-12-07-yt-Qfmeb2e_kb4]])
 
+## Corpus-derived anchors (2021: the four-channel year, the RED V-RAPTOR, retiring the travel iMac, and "more better") — added synthesis pass 20 (2026-07-24)
+_From the 2021 corpus (L2 1236→1309; Jan 2021 → Dec 2021)._
+- **The four-channel expansion (2021).** The studio scaled from one channel to four: **@Waveform went to weekly
+  video** (a built-out podcast studio), the **@WaveformClips** channel started, and the **@TheStudio** channel
+  launched (a behind-the-curtain look at how the team makes videos). Totals: **93 MKBHD videos** (short of his ~100
+  goal, down from 121 in 2020) but **240 videos across all four channels** — governed by the **"more better"**
+  mantra (make both more AND better). 🗣️ [2021-12-26] ([[../wiki/sources/2021-12-26-yt-fBHq7U8hLp8]])
+- **The RED V-RAPTOR — his first big camera change in years (2021).** Adopted the RED V-RAPTOR (8K VV) as the
+  studio's main camera — a notable gear milestone (his first big camera change in a while); by November he was
+  **editing full MKBHD videos shot in 8K RED raw** on the 16" M1 Max. 🗣️ [2021-09-29] ([[../wiki/sources/2021-09-29-yt-gny4B5YOV0s]]) · [2021-11-05] ([[../wiki/sources/2021-11-05-yt-rr2XfL_df3o]])
+- **Retiring the travel iMac (2021).** For years he lugged a maxed-out iMac Pro in a Pelican case through airports to
+  edit at events — the **16" M1 Max MacBook Pro retired it** ("I can safely edit everything on a laptop"), after it
+  beat a $50,000 Mac Pro on export. His pick: **16" M1 Max** (for the GPU cores + the bigger editing screen). 🗣️ [2021-11-05] ([[../wiki/sources/2021-11-05-yt-rr2XfL_df3o]])
+- **Habits + gear (2021).** **Wears the Apple Watch 24/7 as a haptic alarm** (so charging happens only in brief
+  windows — why faster charging is the S7 change that applied to him); a **two-phone person** still; the durable
+  **matte-black / neutral-color taste** (won't upgrade to a Series 7 for lack of a baseline black aluminum). His
+  **cursed ears** don't fit hard-tip AirPods — he takes silicon tips (AirPods Pro) every time. 🗣️ [2021-10-13] ([[../wiki/sources/2021-10-13-yt-BsosQkfa2L8]]) · [2021-11-02] ([[../wiki/sources/2021-11-02-yt-LcI6F_GPwfE]])
+- **Writes for Top Gear; a Cash App–sponsored stretch (2021).** Mentioned **writing articles for Top Gear** alongside
+  the videos (the EV beat); **Cash App** became a channel sponsor in late 2021 (with a Girls Who Code donation tie).
+  🗣️ [2021-12-26] ([[../wiki/sources/2021-12-26-yt-fBHq7U8hLp8]]) · [2021-12-02] ([[../wiki/sources/2021-12-02-yt-JnGXTk57rOU]])
+- **Interviews (2021).** Sat down with **MrBeast** (20 Questions, on the Squid Game set) — guest quarantined from the
+  persona. 🗣️ [2021-12-20] ([[../wiki/sources/2021-12-20-yt-SOq05_6w0ig]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])
