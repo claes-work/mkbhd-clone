@@ -4,6 +4,39 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Aug 17 → Sep 17, 8/8 ingested (the Tesla Bot, the 1000-mile gas-vs-electric test, tech-leak culture, and the iPhone 13)
+
+Stage B. Ingested the late-summer/iPhone-13 wave to L2 (1277→**1285**): **Google Pixel 5A: Spot the Difference**
+(★), **Z Fold 3 Review: Let's Talk Ambition** (★), **The Tesla Bot: Explained** (★★), **Z Flip 3 Review: The First
+Big Step** (★), **Driving 1000 Miles in 3 Cars: Gas vs Electric** (★★), **Real Thoughts on Tech Leaks** (★★),
+**iPhone 13 Event Reaction** (★), and **3 Features the iPhone 13 Didn't Add** (★★). 8/8 captions clean, no skips/L1
+this batch. All solo/Marques-fronted → persona-eligible (the Tesla Bot quarantines an Elon Musk factory clip —
+attribution: mixed; sponsored outros flagged: ExpressVPN on the Pixel 5A, Crucial on the Z Flip 3 review). Ledger
+@mkbhd now ~342 open (P2:~307, P3:35); L2=1285, L3=0. (Post-pass-19; debt ~7 batches / ~49 sources since the
+high-water at 1236 — **pass-20 due soon: at ~10 batches OR the end-of-2021 era boundary (Smartphone Awards 2021),
+~2-3 batches out.**)
+
+Synthesis notes (for pass 20, at the 2021 boundary): (1) landmark **"The Tesla Bot: Explained"**: **"Tesla is a
+software/robotics company"** + the promotable **"the human form is very inefficient — build single-purpose robots"
+("the vacuum IS the robot; the self-driving car IS the robot")** + **Boston-Dynamics-Atlas-isn't-for-sale** +
+**training-a-humanoid-is-an-order-of-magnitude-harder-than-self-driving** + **"no good reason, but good free PR."**
+(2) landmark **"Driving 1000 Miles in 3 Cars"** (EV experiment): Tesla +1h32m / Mach-E +7h32m per 1,000 mi + the
+counterintuitive **"the real factor is the accuracy of the info in the car, not range or the network"** (software-
+is-the-moat) + **Tesla-quotes-max-EPA-range (~15% less)** vs **Ford/Porsche-under-promise-over-deliver** + the
+**"Supercharger=Lightning, CCS=USB-C"** analogy. (3) landmark **"Real Thoughts on Tech Leaks"** (media-literacy):
+the **Gizmodo iPhone-4** saga + **two-types-of-leaks (serious/industry-secret vs casual/aesthetic/entertainment)**
++ **companies-intentionally-leak / the OnePlus slow-drip** + **do-leaks-ruin-launches** + **"it's basically
+impossible to generate the correct level of hype — it's all a show."** (4) the **"iPhone plays it safe with
+hardware"** thesis (3 Features): **120W-charging-vs-battery-health ("Apple would throttle before overworking the
+battery")** + the **2nd-gen under-display camera (nearly-invisible-but-bad-photos)** + the **high-res + pixel-
+binning explainer** (12MP since the 6s; 8K needs 33MP). (5) foldables: the promotable **AMBITION frame** (Fold 3 —
+high-ambition-means-worse-at-normal-things-but-one-thing-no-other-phone-has; "keep the Note") + the **folding-
+endgame restatement** (Flip 3 — "folding-in-half as just another feature"; "'fine everywhere' is an accomplishment";
+crease-is-the-next-fix). (6) the **iPhone 13 event** (small-update-huge-show; **ProMotion-finally-but-only-on-the-
+Pros**; ProRes-locked-to-256GB "brutal") + the **Pixel 5A** analysis (**Tensor-saved-for-the-Pixel-6 / don't-
+debut-silicon-in-a-mid-ranger**; "use the flagship chip in the A-series like Apple's SE"). None inline-promoted
+(L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Jul 7 → Aug 11, 8/8 ingested (the YouTuber-money explainer, Tensor's vertical-integration thesis, and the Z Fold/Flip 3)
 
 Stage B. Ingested the mid-2021 wave to L2 (1269→**1277**): **iPadOS 15 Review: Dropped Expectations** (★★), **How
