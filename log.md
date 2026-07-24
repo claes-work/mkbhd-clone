@@ -4,6 +4,49 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] lint | synthesis pass 17 — the second half of 2018 → early 2019 (1034→1073 L2): the review lenses mature (Blind Test, vertical integration, hardware-held-back-by-software), the EV/platform frameworks sharpen, and the 2018 era closes
+
+Stage S. Drained the **H2-2018 → early-2019 debt** (1034→1073 L2, ~40 sources across 6 ingest batches; the 2018
+flagship season → Jan 2019). **The 2018 era is now complete.** The through-line: the review lenses reach their
+mature, reusable form, and the EV/platform commentary frameworks sharpen.
+
+Promotions (dated + cited; pure repeats dropped) —
+- **wiki/topics/tech-reviews** — the **16-phone Blind Test** ("brighter-almost-always-wins-but-brighter≠better",
+  the iPhone-XS-vs-BlackBerry upset, my flat/natural/more-info preference); the **vertical-integration** insight
+  (RED Hydrogen — make-the-silicon-AND-own-the-pipeline); **"incredible hardware, held back by software"** (iPad
+  Pro / Mate 20 Pro / Pixel Slate "this ain't it chief"); **"a curse Apple put on itself" + "no risk is the
+  curse"**; **"don't judge the display by the spec sheet"** + the telephoto-is-a-worse-sensor insight; the
+  expectation-Delta framing; the notch-catch-22 / notch-avoidance-taxonomy / hole-punch design threads.
+- **wiki/topics/tech-industry-commentary** — the **scale-argument** media literacy (iPhone 'Gates' — "0.001% of
+  217M is still 2,000+; the real story is how they respond; thanks, gates" + not-sponsored transparency); the
+  **PRESCIENT Apple-Silicon-in-Macs** call; **"systematic jack removal — not about space"**; the **Note-Edge
+  foldable framework** (reward experimentation, then iterate).
+- **wiki/topics/ev-cars** — the **EV-competition framework** (design/price/specs/CONVENIENCE; **convenience is the
+  moat** — mass-production + a-billion-Autopilot-miles + the-Supercharger-network; legacy-makers-lack-ambition;
+  "no Tesla killer, but we don't need one"); first-hand **autonomy optimism** (the driverless taxi); Auto Focus
+  Ep 3/4 (the everyday-supercar method + the Roadster-training-wheels/AWD preference); the **Apollo crash**.
+- **wiki/topics/creator-business** — the **advertiser-vs-creator Delta** (YouTube Rewind "became a giant ad for
+  YouTube"; leave-stuff-out) + the **2018 career ledger** (99 videos/1.5B minutes; the Shorty + Streamy; the
+  collab map; the 2:1 switch; the team of three; memberships).
+- **wiki/topics/production-filmmaking** — the **frictionless one-button studio** + the 2:1 aspect-ratio switch +
+  "I refuse to render 8K on a laptop."
+- **persona/beliefs.md** — a new **"2018 (H2) doctrines"** subsection (all the above, dated + cited).
+- **persona/voice.md** — a new **"2018 (H2) register"** (12 lines: "this ain't it chief," "I wanted this to be so
+  good," "the best camera got a better phone," "no Tesla killer but we don't need one," "this really feels like the
+  future," "nothing to panic about," "thanks gates," "it became a giant ad for YouTube," "dope tech — but why
+  though?," "the ultimate frictionless studio," "nothing actually sucks anymore").
+- **persona/biography.md** — an **H2-2018 → Jan-2019 anchors** section (the year-in-review: 99 videos/1.5B minutes,
+  the Shorty + Streamy awards, the collab map, the 2:1 switch, the team-of-three, the ultimate-frisbee season, the
+  Apollo crash, becoming a consistent Apple Watch wearer).
+- **persona/system-prompt.md** — recompiled **v16 → v17** (1034 → 1073 sources; "through Jan 2019"); prepended the
+  v17 version + changelog; wove the v17 lens cluster into "How you think" (brighter≠better, vertical integration,
+  judge-where-the-OS-caps-the-silicon, the scale argument, the EV-convenience-moat, the advertiser-vs-creator
+  Delta, reward-experimentation-then-iterate, the frictionless studio).
+- **pipeline/synthesis-state.md** high-water mark advanced to **1073**; **index.md** system-prompt line → v17.
+
+Next: resume ingest (Stage B) at @mkbhd P2 from 2019-01-26 onward (the 2019 flagship season — the Galaxy S10, the
+foldables, the modular Mac Pro). Next synthesis checkpoint (pass 18) at ~10 more batches or the end of 2019.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Dec 22 → 2019 Jan 26, 8/8 ingested (2018 closes, 2019 opens: My YouTube Rewind 2018 + 2019 Tech I'm Ready For + the Driverless Taxi)
 
 Stage B. Ingested the 2018→2019 turn to L2 (1065→**1073**): **Google Pixel Slate**, **My YouTube Rewind 2018**,

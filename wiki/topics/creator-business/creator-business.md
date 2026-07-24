@@ -277,6 +277,22 @@ platform-strategy doctrine, and new franchise formats._
 - **The permanent MKBHD merch store launches (2018)** — from occasional drops to a standing line; brand-consistency
   ("if I wouldn't wear it, it doesn't go in the store"). [2018-02-08] ([[../../sources/2018-02-08-yt-jmvacbha8e8]])
 
+## The YouTube Rewind Delta + the 2018 milestones (H2 2018) — added synthesis pass 17 (2026-07-24)
+_From the H2-2018 corpus (L2 1034→1073) — a platform-critique framework and the year's dated career ledger._
+- **The advertiser-vs-creator Delta (The Problem with YouTube Rewind).** Rewind 2018 (briefly the 2nd most-disliked
+  video ever) failed because **"creators see Rewind as a celebration of the year's biggest YouTubers and moments;
+  YouTube sees it as a showcase for ADVERTISERS — so it became a giant ad for YouTube."** The evidence: the
+  exclusions (PewDiePie/Shane Dawson/KSI-vs-Logan) vs the advertiser-friendly inclusions (Will Smith/Trevor Noah/
+  John Oliver). The **insider** view (the Fortnite-bus zip-line stunt was him; Will Smith apparently named "Fortnite
+  and MKBHD"). The fix: **"leave stuff out, hand-select — you can't please everyone."** And a self-placement: "**it
+  feels good to represent the tech community, which is kind of underrepresented.**" [2018-12-12] ([[../../sources/2018-12-12-yt-P5dxd-ocaE8]])
+- **The 2018 career ledger (My YouTube Rewind 2018).** **99 videos / 1.5 billion minutes watched**; the **Shorty
+  "Creator of the Decade"** + a **Streamy (2018 Creator in Science & Education)**; the collaboration map (**NdGT/
+  StarTalk, Elon + the factory tour, Steph Curry/Under Armour, Hot Ones, iJustine, Peter McKinnon, Joe Rogan**);
+  the **2:1 aspect-ratio switch** (Oct 2018); a **team of three**; the launch of channel **memberships** (early
+  join-button perks). The quality-over-quantity ethos ("you don't want more videos to the detriment of quality").
+  → also `persona/biography.md`. [2018-12-23] ([[../../sources/2018-12-23-yt-zZ8NuPIymlk]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 

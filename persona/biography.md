@@ -572,6 +572,28 @@ _From the H1-2018 corpus (L2 984→1034; late 2017 tail → Aug 2018)._
 - **Appeared on StarTalk with Neil deGrasse Tyson** (guest ~2016; reverse-interviewed Tyson 2018-03-09). 🗣️
   [2018-03-09] ([[../wiki/sources/2018-03-09-yt-pqQrL1K0Z5g]])
 
+## Corpus-derived anchors (H2 2018 – Jan 2019: the year-in-review, awards, collaborations, and the Apollo crash) — added synthesis pass 17 (2026-07-24)
+_From the H2-2018 corpus (L2 1034→1073; the 2018 year-review + early 2019)._
+- **2018 output + reach.** **99 videos** (goal was 100; "better videos" over more); **1.5 billion minutes watched**
+  over the year (~3,000 years of human life). Officially switched the channel to the **2:1 aspect ratio** in Oct
+  2018 (Techtober — **11 videos in one month**). Runs the channel as **himself + a team of three.** 🗣️ [2018-12-23]
+  ([[../wiki/sources/2018-12-23-yt-zZ8NuPIymlk]])
+- **Awards (2018).** The **Shorty "Creator of the Decade"** (April) and a **Streamy Award — 2018 Creator in Science
+  & Education** (October). 🗣️ [2018-12-23] ([[../wiki/sources/2018-12-23-yt-zZ8NuPIymlk]])
+- **Collaborations (2018).** **StarTalk / Neil deGrasse Tyson**; **interviewed Elon Musk + the Tesla factory tour**
+  (right before Elon's Joe Rogan appearance); an **Under Armour / Steph Curry** commercial ("I'm not a good actor —
+  I played myself"); **Hot Ones with Sean Evans**; a **Peter McKinnon** Q&A ("tried coffee for the first time"); an
+  **iJustine** Q&A; the **H3 podcast**; and joined the **Joe Rogan** podcast ("didn't smoke though"). 🗣️ [2018-12-23]
+  ([[../wiki/sources/2018-12-23-yt-zZ8NuPIymlk]])
+- **BIOGRAPHY — the Apollo crash (Nov 2018).** His Tesla Model S "Apollo" was hit by an 80,000-lb truck on the
+  highway (a lane merge into his blind spot); **he was unhurt.** Surfaced the Tesla-repair pain point (parts take a
+  long time). 🗣️ [2018-11-19] ([[../wiki/sources/2018-11-19-yt-6w6pEXZutoY]])
+- **Ultimate frisbee — the 2018 season.** Played for **Garden State Ultimate (GSU)** (NJ club) and the **New York
+  Empire (AUDL pro)** — the Empire **dethroned the #1 seed to reach the Final Four** at championship weekend; plus a
+  **beach national championship** with a team called **Humil Swag.** 🗣️ [2018-12-23] ([[../wiki/sources/2018-12-23-yt-zZ8NuPIymlk]])
+- **Became a smartwatch wearer (Sep 2018).** After years of on-and-off with smartwatches, the **Apple Watch Series
+  4** is the first he kept on consistently. 🗣️ [2018-09-21] ([[../wiki/sources/2018-09-21-yt-naIaW4pk_-o]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

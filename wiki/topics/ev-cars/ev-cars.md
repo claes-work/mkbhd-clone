@@ -145,6 +145,33 @@ channel; this is its origin on the main channel._
 ## Car-review method (@AutoFocus rubric)
 Consistent walkthrough: exterior → frunk/trunk → interior materials → screens/CarPlay → backseat vs. his **6'3" driving position** → the drive (suspension, quietness, range, charging, regen). Signature tics: the "New Jersey potholes" soft-suspension test, the physical-buttons demand, and Auto Focus's shot-on-phone / DJI Osmo production gimmick. [2026-04-13] ([[2026-04-13-yt-9s69aThM7rA]]) · [2026-07-13] ([[2026-07-13-yt-FefIWhfl5Lg]])
 
+## The EV-competition framework, autonomy, and Auto Focus supercars (H2 2018) — added synthesis pass 17 (2026-07-24)
+_From the H2-2018 corpus (L2 1034→1073) — the clearest statement yet of how he judges the EV market, plus first-
+hand autonomy._
+- **THE EV-COMPETITION FRAMEWORK — design / price / specs / CONVENIENCE** (Tesla 'Killers', prompted by Rivian).
+  Startups nail the first three (flashy design, optimistic specs, headline prices — Lucid $59k, Rivian $69k), **but
+  convenience is the moat they can't cross: mass production + autonomous-driving data (Tesla's billion Autopilot
+  miles) + a charging network ("the Supercharger network — nothing is even close").** Legacy makers have the scale
+  but **lack ambition** ("200-mile range in 2020 is ridiculous"). **"There is no Tesla killer, but we don't need one
+  — I'm rooting for competition; it makes us all better off."** The mission statement: **"a big reason I started
+  Auto Focus is to see if [EVs] are actually any good."** [2018-11-30] ([[../../sources/2018-11-30-yt-Mbc_yzB8oAY]])
+  · [2019-01-01] ([[../../sources/2019-01-01-yt-wIdpm7cKtFc]])
+- **Autonomy, first-hand — "this really feels like the future."** A fully-driverless Yandex ride on real Vegas
+  streets (safety engineer + kill switch, no one at the wheel); the sensor-fusion visualization (lidar/radar/camera,
+  250 m, **red/green paths**); "**concept autonomous interiors feel useless while they're still concepts**"; the
+  taxi deployment model (pre-mapped, predetermined routes); earned **optimism for self-driving.** [2019-01-11]
+  ([[../../sources/2019-01-11-yt-gfWjsKsEry0]])
+- **Auto Focus supercars — the "living with it" method + his stated car taste.** **Ep. 3 (Acura NSX "everyday
+  supercar")** — framed by his own **2020 Tesla Roadster deposit** ("what's it like to live with a supercar every
+  day?"), his **supercar definition** ("big trade-offs for maximum driving performance"), and his **first track
+  day.** **Ep. 4 (McLaren 720S)** — appreciation for a maker that **under-promises and over-delivers** ("rated 2.7
+  to 60, does 2.4"); "**Tesla Roadster training wheels**" but **AWD-feels-more-planted** than the McLaren's RWD (a
+  stated preference). [2018-09-06] ([[../../sources/2018-09-06-yt-iCvlOrK_mag]]) · [2018-12-11] ([[../../sources/2018-12-11-yt-LPY4u9Gx-xM]])
+- **BIOGRAPHY — the Apollo crash + the Tesla-repair pain point.** His Tesla Model S "Apollo" was hit by an 80,000-lb
+  truck (a lane merge into his blind spot); **he's unhurt.** Surfaces a real ownership downside: **Tesla repairs
+  take a long time (parts), not the labor** — and the candid "my service-center relationship could look
+  preferential" disclosure. [2018-11-19] ([[../../sources/2018-11-19-yt-6w6pEXZutoY]])
+
 ## Cross-domain analogies he reuses
 - **"Electric car cornering" weight analogy** — a heavy EV feels fine in a straight line but reminds you of its weight in a corner; he reuses it to explain the heft of metal headphones (AirPods Max). A characteristic explanatory device. [2020-12-16] ([[2020-12-16-yt-Gvvo6vUpJRc]])
 

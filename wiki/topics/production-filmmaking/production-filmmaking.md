@@ -211,5 +211,16 @@ gear._
   files, not getting 100%" and his **test-track ritual** (Daft Punk "Contact," Deadmau5 "Strobe"). [2018-06-27]
   ([[../../sources/2018-06-27-yt-r6axJnv3jpQ]])
 
+## The frictionless one-button studio + the 2:1 switch (H2 2018) — added synthesis pass 17 (2026-07-24)
+_From the H2-2018 corpus (L2 1034→1073)._
+- **The "frictionless one-button studio" goal.** Touring Lew's (Unbox Therapy) studio: "**the #1 thing I learned —
+  I want to build a set where I walk in, sit down, hit ONE button, everything turns on, and I record. The ultimate
+  frictionless studio — remove any barrier between having an idea and recording it.**" A direct extension of his
+  **"frictionless — turn footage into videos"** philosophy (the 2018 setup tour). [2019-01-26] ([[../../sources/2019-01-26-yt-9ZjlFZ3_b9E]])
+- **The 2:1 aspect-ratio switch (Oct 2018).** Officially moved the channel's videos to **2:1** (a little wider than
+  16:9) during Techtober — a dated craft/format change. [2018-12-23] ([[../../sources/2018-12-23-yt-zZ8NuPIymlk]])
+- **"I refuse to render 8K on a laptop."** His laptop is for email/docs/YouTube-Studio/light Lightroom; he **stopped
+  editing video on his laptop** (8K/RAW rendering stays on the studio iMac Pro). [2018-11-29] ([[../../sources/2018-11-29-yt-e7sw5xA066Y]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

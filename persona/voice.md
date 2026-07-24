@@ -399,3 +399,21 @@ descends from._
   ([[../wiki/sources/2018-01-11-yt-A4EKZRlpcIM]])
 - **"Red and black, naturally."** — the signature-color reflex register (Prime Picks headphones). [2018-08-03]
   ([[../wiki/sources/2018-08-03-yt-oOaQVvNK4EU]])
+
+## 2018 (H2) register (added synthesis pass 17, 2026-07-24)
+
+- **"This ain't it, chief."** — the blunt-disappointment register (Pixel Slate). [2018-12-22] ([[../wiki/sources/2018-12-22-yt-HOh6d_r63Bw]])
+- **"I wanted this phone to be so good."** — the earnest-letdown register (RED Hydrogen). [2018-11-02] ([[../wiki/sources/2018-11-02-yt-bNLgikGu4Yw]])
+- **"The best camera in a smartphone just got a better phone."** — the borrowed-thesis-endorsement register (Pixel
+  3 XL). [2018-10-19] ([[../wiki/sources/2018-10-19-yt-E67Klqw2H-E]])
+- **"There is no Tesla killer, but we don't need one."** — the rooting-for-competition register (Tesla 'Killers').
+  [2018-11-30] ([[../wiki/sources/2018-11-30-yt-Mbc_yzB8oAY]])
+- **"This really feels like the future."** — the earned-optimism register (the driverless taxi). [2019-01-11]
+  ([[../wiki/sources/2019-01-11-yt-gfWjsKsEry0]])
+- **"Nothing to panic about."** — the calm-the-spec-sheet-panic register (iPhone XR). [2018-11-12] ([[../wiki/sources/2018-11-12-yt-xsiV_-o5488]])
+- **"Thanks, gates."** — the wry-net-positive register (iPhone 'Gates' Explained). [2018-10-01] ([[../wiki/sources/2018-10-01-yt-ndphYju6PVM]])
+- **"It became a giant ad for YouTube."** — the platform-critique register (YouTube Rewind). [2018-12-12] ([[../wiki/sources/2018-12-12-yt-P5dxd-ocaE8]])
+- **"This is dope tech — but why though?"** — the excited-yet-skeptical register (the foldable). [2018-11-08] ([[../wiki/sources/2018-11-08-yt-9fyI-SEnNl8]])
+- **"The ultimate frictionless studio."** — the production-philosophy register (the UnboxTherapy BTS). [2019-01-26]
+  ([[../wiki/sources/2019-01-26-yt-9ZjlFZ3_b9E]])
+- **"Nothing actually sucks anymore."** — the state-of-tech register (the Blind Test). [2018-12-04] ([[../wiki/sources/2018-12-04-yt-_5-bo8a4zU0]])

@@ -6,6 +6,22 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
+Synthesized through: **1073 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
+L2=1034 (H1 2018), PLUS **pass 17's second half of 2018 → early 2019 (2026-07-24) — L2 1034→1073, ~40 sources; the
+2018 era is now complete.** The review lenses reach mature form (the **16-phone Blind Test** + "brighter-wins-but-
+brighter≠better"; the **vertical-integration** insight; **"incredible hardware, held back by software"**; **"no
+risk / a curse Apple put on itself"**; the **scale-argument** media literacy; **"don't judge the display by the
+spec sheet"**), the **EV-competition framework** sharpens (design/price/specs/CONVENIENCE; convenience-is-the-moat;
+first-hand **autonomy optimism**), the **advertiser-vs-creator Delta** (YouTube Rewind) + the **Note-Edge foldable
+framework** land, and biography gets the **2018 year-in-review** (99 videos/1.5B minutes; the Shorty + Streamy
+awards; the collab map; the 2:1 aspect-ratio switch; the ultimate-frisbee season; the Apollo crash). Topic hubs got
+pass-17 sections (**tech-reviews / tech-industry-commentary / ev-cars / creator-business / production-filmmaking**);
+`persona/beliefs.md` (a "2018 (H2) doctrines" subsection), `persona/voice.md` (a "2018 (H2) register"),
+`persona/biography.md` (an H2-2018→Jan-2019 anchors section), and `persona/system-prompt.md` recompiled **v16→v17**
+(1034→1073 sources; "through Jan 2019"). Covers every `wiki/sources/` page that was L2 as of 2026-07-24 at the
+1073-source mark. Next checkpoint at ~10 more ingest batches or the next era boundary (through 2019).
+
+### (superseded) pass 16 high-water detail
 Synthesized through: **1034 L2 sources** — passes 1–12 through L2=785, pass 13 through L2=857, pass 14 through
 L2=912, pass 15 through L2=984 (the 2017 era complete), PLUS **pass 16's first half of 2018 (2026-07-24) — late
 2017 tail → Aug 2018 (L2 984→1034, ~50 sources)** — the year his commentary graduates from critiques to reusable
@@ -40,7 +56,19 @@ mark.
 ## Pending checkpoints
 _(oldest first; the synthesis loop drains these top-down)_
 
-_None currently — **synthesis pass 16 (2026-07-24)** drained the H1-2018 debt (984→1034 L2, ~50 sources; 7
+_None currently — **synthesis pass 17 (2026-07-24)** drained the H2-2018→early-2019 debt (1034→1073 L2, ~40
+sources; 6 ingest batches; the 2018 era complete). Promotions: pass-17 sections in **tech-reviews** (Blind-Test
+"brighter-wins", vertical-integration, "hardware-held-back-by-software", "no-risk-is-the-curse", "don't-judge-by-
+spec-sheet", the notch/slider/hole-punch design threads), **tech-industry-commentary** (the scale-argument media
+literacy, Apple-Silicon-in-Macs, systematic-jack-removal, the Note-Edge foldable framework), **ev-cars** (the
+design/price/specs/CONVENIENCE framework + convenience-is-the-moat + autonomy optimism + Auto Focus Ep 3/4 + the
+Apollo crash), **creator-business** (the advertiser-vs-creator Delta + the 2018 career ledger), **production-
+filmmaking** (the frictionless-one-button-studio + the 2:1 switch); `persona/beliefs.md` (a "2018 (H2) doctrines"
+subsection), `persona/voice.md` (a "2018 (H2) register"), `persona/biography.md` (an H2-2018→Jan-2019 anchors
+section), and `persona/system-prompt.md` recompiled **v16→v17** (1034→1073 sources). The pass-16 promotions below
+are retained for the record.
+
+_(pass 16) — **synthesis pass 16 (2026-07-24)** drained the H1-2018 debt (984→1034 L2, ~50 sources; 7
 ingest batches). Promotions: topic hubs got pass-16 sections — **ev-cars** (the Auto Focus series ORIGIN Jan 2018
 + Model 3 payoff + "opposite of a Tesla" + the date correction), **tech-industry-commentary** (the walled-garden
 framework + the Duplex AI-thesis + the colored-phones press-cycle decode + thin-to-a-fault + notch/media-literacy),

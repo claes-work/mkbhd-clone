@@ -305,6 +305,30 @@ that explain how the industry actually works._
   economics: ~3 iPhones/yr vs hundreds of Androids). [2018-03-14] ([[../../sources/2018-03-14-yt-xIvaQ1Hv2Ug]]) ·
   [2018-02-01] ([[../../sources/2018-02-01-yt-C-DfipidnOE]])
 
+## Media literacy, foldables, and the Apple-Silicon call (H2 2018) — added synthesis pass 17 (2026-07-24)
+_From the H2-2018 corpus (L2 1034→1073) — the commentary voice adds a scale-based media-literacy tool and a couple
+of prescient calls._
+- **The scale argument (iPhone 'Gates' Explained) — media literacy.** "**A defect in just 0.001% of ~217M iPhones
+  is still 2,000+ problems — so any issue has to be treated as large.**" Accountability is healthy (that's what
+  warranties are for). The real story is always **"how Apple responds — 'you're holding it wrong'"** (he reads the
+  iPhone-4 antennagate statement aloud as parody). The net-positive close: **"scrutiny forces companies to fix
+  things — we all win. Thanks, gates."** Plus the rare **coverage-transparency + not-sponsored disclosure** ("not
+  because I'm sponsored by Apple — you know that's illegal, right?"). [2018-10-01] ([[../../sources/2018-10-01-yt-ndphYju6PVM]])
+- **PRESCIENT — "when will Apple put these chips in Macs?" (Apple Silicon).** Raised in both the iPad Pro review
+  ("the A12X rivals a 15" MacBook Pro") and the MacBook Air review ("maybe they inevitably switch to those **ARM
+  chips**" — the Air runs "a slightly underpowered Intel chip"). An early, dated call on the Apple-Silicon
+  transition. [2018-11-15] ([[../../sources/2018-11-15-yt-N1e_voQvHYk]]) · [2018-11-29] ([[../../sources/2018-11-29-yt-e7sw5xA066Y]])
+- **"Systematic jack removal — not about space anymore" + "Apple can afford it and chose not to."** The 2018 iPad
+  Pro drops the jack ("obviously there's space in a tablet — with Apple it's about **systematically removing the
+  jack across the lineup** where we don't need it"). And the Gold XS Max unboxing: **Apple removed the dongle AND
+  ships no fast charger — "they can afford it and chose not to," to nudge people to wireless.** [2018-10-30]
+  ([[../../sources/2018-10-30-yt-Fd7BrGUSxqQ]]) · [2018-09-18] ([[../../sources/2018-09-18-yt-zHOr6Ej_jd4]])
+- **The Note-Edge foldable framework (reward experimentation, then iterate).** "**This is dope tech — but why would
+  I fold my phone into a tablet every day?**" The Royole FlexPai ("the ugliest thing I've ever seen") vs Samsung's
+  Infinity Flex prototype. The reusable model: **the Note Edge (2014) seemed useless → caught on → became the
+  Infinity Display; give a new form factor time to find its use, then iterate.** "Thank you for trying the crazy
+  stuff, Samsung." [2018-11-08] ([[../../sources/2018-11-08-yt-9fyI-SEnNl8]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

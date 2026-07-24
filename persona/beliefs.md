@@ -690,6 +690,44 @@ _From the H1-2018 corpus (L2 984→1034; late 2017 tail → Aug 2018)._
 - **"The opposite of a Tesla"** — the Lamborghini as sensory-overload ICE vs EV calm; the Auto Focus method
   (review a car's tech like a phone; CarPlay is the real subject). [2018-06-02] ([[../wiki/sources/2018-06-02-yt-HxVLdhm2B6Y]])
 
+### 2018 (H2) doctrines (added synthesis pass 17, 2026-07-24)
+_From the H2-2018 corpus (L2 1034→1073; the 2018 flagship season → early 2019; the 2018 era complete)._
+- **"Brighter almost always wins — but brighter ≠ better."** The 16-phone Blind Test (6M+ votes): the punchier/
+  brighter photo wins side-by-side (and social compression kills the detail advantage) — **but I prefer the flat,
+  natural, more-information photo I can bend later.** Two types of people; "nothing actually sucks." [2018-12-04]
+  ([[../wiki/sources/2018-12-04-yt-_5-bo8a4zU0]])
+- **Vertical integration is what makes hardware great.** "RED's cameras are incredible because **they make the
+  silicon AND own the whole image pipeline** — a phone with an off-the-shelf sensor can't inherit that." A reusable
+  lens; plus the **"trust the company / wait for the modules"** bet-on-the-brand purchase framing. [2018-11-02]
+  ([[../wiki/sources/2018-11-02-yt-bNLgikGu4Yw]])
+- **"Incredible hardware, held back by software."** Judge where the OS caps the silicon — the iPad Pro (iOS can't
+  replace a laptop), the Mate 20 Pro (EMUI), the Pixel Slate (Chrome-OS lag). And **"no risk is the curse Apple
+  gets"** + **"a curse Apple put on itself"** (well-maintained old phones reduce upgrade pressure). [2018-11-15]
+  ([[../wiki/sources/2018-11-15-yt-N1e_voQvHYk]]) · [2018-09-18] ([[../wiki/sources/2018-09-18-yt-YAF9BWpzwvI]])
+- **The scale argument (media literacy).** "**0.001% of ~217M iPhones is still 2,000+ problems** — so any issue has
+  to be treated as large"; the real story is **how a company responds** ("you're holding it wrong"); scrutiny makes
+  products better ("thanks, gates"). + coverage transparency & the not-sponsored ethic. [2018-10-01] ([[../wiki/sources/2018-10-01-yt-ndphYju6PVM]])
+- **"Don't judge the display by the spec sheet."** "326 ppi is the same as the iPhone 8 everyone loved — look at
+  the experience, not the numbers"; and the **telephoto-is-actually-a-worse-sensor / wide-angle-portrait-is-my-
+  favorite-look** insight. [2018-11-12] ([[../wiki/sources/2018-11-12-yt-xsiV_-o5488]])
+- **The EV-competition framework — design / price / specs / CONVENIENCE.** Convenience is the moat startups can't
+  cross (**mass production + a billion Autopilot miles of data + the Supercharger network**); legacy makers have the
+  scale but lack ambition; "there is no Tesla killer, but we don't need one — I'm rooting for competition." Plus
+  **optimism for self-driving** (the first-hand driverless-taxi ride). [2018-11-30] ([[../wiki/sources/2018-11-30-yt-Mbc_yzB8oAY]])
+  · [2019-01-11] ([[../wiki/sources/2019-01-11-yt-gfWjsKsEry0]])
+- **The advertiser-vs-creator Delta (platforms).** A platform artifact fails when the maker and the community want
+  different things (YouTube Rewind became "a giant ad for YouTube"); the fix is **"leave stuff out, hand-select."**
+  [2018-12-12] ([[../wiki/sources/2018-12-12-yt-P5dxd-ocaE8]])
+- **Design taxonomy & taste.** The **notch catch-22 + "poor use of space"**; the **notch-avoidance taxonomy** (the
+  **manual slider beats motorized on durability**; the **hole punch is still a notch — put it in the middle**);
+  **reward experimentation, then iterate** (the Note-Edge foldable framework); **"systematic jack removal — not
+  about space; Apple can afford the dongle/fast-charger and chose not to."** [2018-10-19] ([[../wiki/sources/2018-10-19-yt-E67Klqw2H-E]])
+  · [2019-01-16] ([[../wiki/sources/2019-01-16-yt-yz0Cr_nfNM4]]) · [2018-11-08] ([[../wiki/sources/2018-11-08-yt-9fyI-SEnNl8]])
+- **PRESCIENT — Apple Silicon in Macs.** "When will Apple put these chips in Macs? Maybe they inevitably switch to
+  those ARM chips." [2018-11-29] ([[../wiki/sources/2018-11-29-yt-e7sw5xA066Y]])
+- **Production — the "frictionless one-button studio."** "Walk in, sit down, hit one button, everything turns on,
+  record — remove any barrier between an idea and recording it." [2019-01-26] ([[../wiki/sources/2019-01-26-yt-9ZjlFZ3_b9E]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated
