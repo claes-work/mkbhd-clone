@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2017 Oct 12–Nov 15, 7/7 ingested (DxOMark Explained + the iPhone X review "best yet" + the Tesla wrap)
+
+Stage B. Ingested Oct–Nov 2017 to L2 (974→981): **DxOMark: Explained**, the **Pixel 2** unboxing, the **Razer
+Phone**, the **Space Gray Tesla Wrap**, **iPhone X vs 8**, the **Pixelbook**, and the **iPhone X review**. 7/7
+solo/Marques-fronted → persona-eligible; captions clean; no dups. (The driver again auto-marked an Ask-MKBHD
+Q&A; those remain open — I'll deliberately fetch them next.) Ledger @mkbhd now 679 open (P2:641, P3:38);
+L2=981, L3=0. (Debt now 9 batches since pass 14.)
+
+Synthesis notes (for pass 15) —
+**(1) LANDMARK media-literacy — DxOMark: Explained.** "One number is too broad — **look past the overall
+score**" (the weighting is subjective; Note 8 [94] vs Pixel 2 [98] — but for portraits you'd pick the Note 8);
+**DxO is a *consulting* company too** = a conflict of interest ("imagine if Geekbench partnered with makers
+and then crowned who scored highest"); the scores are **NOT out of 100** (the RED Helium sensor scored 108) —
+a widespread press error; and **hold-the-press-to-account**: "if you write an article for every new highest
+DxO score but not for Geekbench, think about what you're doing — **stop it, get some help**." A cornerstone
+of his benchmark-skepticism + read-the-review-not-the-headline stance. **(2) The iPhone X review — "my
+favorite iPhone ever, by far… iconic — and that's the source of the sore spots."** The bold-redesign-carries-
+a-learning-curve trade-off (3–4 fundamental interaction changes); the notch "don't-notice-it" camp (an
+engineering necessity); slippery stainless steel; "the most breakable iPhone ever"; a wish for an X Plus. The
+decade-defining verdict. **(3) BIOGRAPHY/APPEARANCE — he wrapped his own Tesla** matte space-gray (~25k mi;
+why-wrap = protection + restyle "like a dbrand skin for the whole car"); + a production note on **judging a
+phone's video *audio*, not just stills**. **(4) The first 120Hz phone** (Razer) — ProMotion arrives on a
+phone (his wish); "big bezels ON PURPOSE" (gaming grip + the huge front speakers he's always wanted).
+**(5) Software-is-the-differentiator / "polish = the little oh-that's-nice things"** (Pixel 2, Android 8.0).
+**(6) A-new-design-is-what-makes-it-feel-new** (iPhone X vs 8; the IDs-from-an-Uber anecdote — design as a
+recognizable signal). **(7) "$1,000 of weird" — great-hardware-limited-by-its-OS** (Pixelbook; the Chromebook-
+Pixel halo intensified). **PASS 15 IS NOW DUE — 9 batches / ~69 sources since pass 14 (912→981), and the
+2017 flagship era is essentially covered.** Next iteration: one short Stage B to grab the pending Ask-MKBHD
+Q&As + the Pixel 2 review (finishing 2017), then **Stage S — synthesis pass 15** over the full Jan–Dec 2017
+era.
+
 ## [2026-07-23] ingest | yt batch (@mkbhd, 7) — 2017 Sep 11–Oct 9, 7/7 ingested (the iPhone X arrives + the Note-8 five-pillars + "skip this great phone")
 
 Stage B. Ingested fall 2017 to L2 (967→974): the **Xiaomi Mi Mix 2**, the **iPhone X** impressions, the
