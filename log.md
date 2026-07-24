@@ -4,6 +4,31 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Apr 27 → May 15, 7 ingested + 1 skip (the $700 wheels luxury-brand explainer + iPhone-11-Pro-6-months + the budget-phone blueprint)
+
+Stage B. Ingested the late-Apr→mid-May-2020 wave to L2 (1173→**1180**): **Moto Edge+ Review** (★★), **iPhone 11
+Pro: 6 Months Later** (★★), **Google Pixel Buds Review** (★), **2020 13" MacBook Pro Impressions** (★), **The $700
+Mac Pro Wheels: Explained** (★★), **The Fastest Phone of 2020** (★★ Nubia Red Magic), and **The Budget Phone
+Blueprint** (★★ Poco X2). All 7 solo/Marques-fronted → persona-eligible; captions clean. **World's FASTEST Gaming
+PC (yt-IUyrlM1qkGU) → skipped** (music-only montage, no usable spoken transcript). Ledger @mkbhd now ~462 open
+(P2:~427, P3:35); L2=1180, L3=0. (Post-pass-18; debt 4 batches — pass-19 due at the end-of-2020 era boundary or
+~10 batches.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) the **$700-wheels "Apple as the luxury brand of tech"**
+explainer — luxury needs absurd halo products (Rolex/Bugatti); **price signals quality** (identical-item studies);
+competitive where it matters ($329 iPad / $400 SE) but sacrifice products "for the memes"; **all-press-is-good-
+press.** (2) **"never buy tech on the promise of future software updates"** (iPhone 11 Pro 6-months — U1 / Deep
+Fusion never materialized) + the **long-term-review** format + the **no-case "glass is glass"** philosophy + the
+candid **"I was wrong about 3D Touch."** (3) the **diminishing-returns-on-refresh-rate** framework (60→120 was
+huge; the sweet spot is 90-120; a future 240Hz will be like the 4K Sony phone) — an important QUALIFIER to "high
+refresh all the things." (4) the **"$17 budget-phone blueprint"** trade-off game (software+camera matter most;
+seller-vs-buyer on marketing; "a phone that seems to go over budget is a good deal" = why the SE disrupts). (5) the
+**"it's okay to roll back on things"** anti-extreme-curved-display petition (form over function; Samsung went
+flat). (6) **nail-the-fundamentals / most-likely-to-use** (Pixel Buds top-3 over the better-sounding Sennheisers).
+(7) **frequent-minor-updates-are-good** advocacy + the awkward-middle-child pricing (13" MBP). (8) recurring: the
+2 MP macro-camera-nobody-asked-for gripe; the worst-fingerprint-reader tie (Moto Edge+ / Red Magic). BIOGRAPHY:
+quarantine → headphones-everywhere; switched to the smaller iPhone 11 Pro. None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Mar 20 → Apr 20, 8/8 ingested (the studio move + OnePlus 8 pair + iPhone SE "95% of people" + Magic Keyboard)
 
 Stage B. Ingested the late-Mar→Apr-2020 wave to L2 (1165→**1173**): **2020 MacBook Air Impressions** (★),
