@@ -4,6 +4,28 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Mar 20 → Apr 20, 8/8 ingested (the studio move + OnePlus 8 pair + iPhone SE "95% of people" + Magic Keyboard)
+
+Stage B. Ingested the late-Mar→Apr-2020 wave to L2 (1165→**1173**): **2020 MacBook Air Impressions** (★),
+**Huawei P40 Pro: What We Should Copy** (★★), **What's On My Phone 2020** (★ biography), **Last Video in this
+Studio** (★★ biography landmark), **OnePlus 8 Pro: Finally a Flagship** (★★), **OnePlus 8: Special No More** (★★),
+**iPhone SE 2020: Honest Thoughts** (★★), and **Apple Magic Keyboard: Floating iPad Pro** (★). All 8 solo/Marques-
+fronted → persona-eligible; captions clean; no skips/L1. Ledger @mkbhd now ~470 open (P2:~435, P3:35); L2=1173,
+L3=0. (Post-pass-18; debt 3 batches — pass-19 due at the end-of-2020 era boundary or ~10 batches.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) the **price-stratification** market map (OnePlus 8 —
+$200-300 budget / $400-600 mid / $700-900 premium / $1000-1400 ultra; the middle OnePlus owned got crowded) + the
+method shift **"I'm going to start including price because positioning is why phones live or die."** (2) the **"95%
+of people / tech bubble"** stay-grounded thesis (iPhone SE — most people don't care about bezels/refresh/hole-punch)
++ **"Apple's best deal ever"** + **software-support-longevity** as value. (3) **"what should others copy?"** as a
+generous lens for a non-recommendable phone (Huawei P40 Pro) + the **balance-over-numbers camera philosophy** (the
+anti-S20-Ultra). (4) the **pop-up-camera-was-BETTER-than-the-hole-punch** hot take (OnePlus 8 Pro) + "finally a
+flagship." (5) **"Apple silently admitting fault"** by removing butterfly switches (MacBook Air). (6) the **"two
+types of iPad people"** framework + iPad-alternative-not-replacement (Magic Keyboard). (7) BIOGRAPHY, rich: the
+**move out of Studio A** (COVID-expedited, a new tenant takes it May 1; the new space is same-building; **he moves
+it himself — won't trust movers with the RED gear**); his **2020 daily is the S20 Ultra** + his de-Samsung setup;
+tempted to daily the MacBook Air. None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Feb 25 → Mar 17, 6 ingested + 1 skip + 1 L1 (the Mac Pro review + S20 Ultra "Attack of the Numbers" + the Escobar Fold exposé + COVID onset)
 
 Stage B. Ingested the late-Feb→Mar-2020 wave to L2 (1159→**1165**): **2020 Mac Pro: A Silent Killer** (★★),
