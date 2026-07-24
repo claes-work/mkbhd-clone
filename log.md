@@ -4,6 +4,28 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Jul 11 → Aug 27, 6 ingested + 1 skip + 1 L1 (the walled-garden Apple Card + Note 10 duo + "cheap phones are getting good")
+
+Stage B. Ingested the mid/late-summer-2019 wave to L2 (1109→**1115**): **What's in my Tech Bag 2019** (biography
+gear), **The iPhone 11 Models** (dummy-model leak), **Redmi K20 Pro Review** (★★), **Note 10/10+ Impressions**
+(★★), **Apple Card Unboxing** (★★), and **Note 10: But Why Tho** (smaller Note). All 6 solo/Marques-fronted →
+persona-eligible; captions clean. **Boosted Rev "Tesla of scooters" (yt-JqyzwbpYYqc) → skipped** (garbled
+foreign-auto-caption ASR gibberish, not usable English — same pattern as the Note 9 / Foldable videos).
+**Note 10+ Review "The Favorite Child" (yt-0T0rop9pE58) → L1** (no captions; RE-FETCH flagged — the companion
+Impressions + the Note 10 review cover much of it). Ledger @mkbhd now ~534 open (P2:~499, P3:35); L2=1115, L3=0.
+(Post-pass-17; debt now ~4 batches — pass-18 due at ~10 batches or the end-of-2019 era boundary.)
+
+Synthesis notes: for pass 18 — (1) **walled-garden / ecosystem-lock-in** gets its canonical restatement (Apple
+Card: "another tool to trap you in the Apple ecosystem — imagine having to give up your credit card to switch to
+Android"); (2) the **spec-on-paper-vs-real-life / "not all specs are created equal"** principle is now triangulated
+(Redmi K20 Pro + Note 10's 1080p + earlier iPod Touch) → strong belief; (3) the sharpened budget thesis **"cheap
+phones are getting good"** (a deliberate reframing of the older "good phones are getting cheap"); (4) **"the
+headphone-jack removal is a choice, not a space issue"** stance; (5) continued **high-refresh-rate advocacy**
+(recommends the OnePlus 7 Pro over both Notes); (6) the **anti-camera-bump / post-Jony-Ive-Apple** design thread
+(iPhone 11 "they mailed it in"); (7) BIOGRAPHY anchors — **9M subscribers**, **Retro Tech S1 finished shooting /
+in editing**, **Waveform podcast officially launched** (all Aug 2019), and the **Canon EOS R replacing the
+Hasselblad** as everyday camera. None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Jun 6 → Jul 2, 8/8 ingested (the WWDC software wave + the Dream Phone + "companies compete, we win")
 
 Stage B. Ingested the summer-2019 wave to L2 (1101→**1109**): **Top 5 iOS 13 Features** (WWDC — dark mode +
