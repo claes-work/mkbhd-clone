@@ -4,6 +4,45 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2018 May 10 → Jun 7, 7/8 ingested + 1 no-captions (Google Duplex "how far does it go" + Auto Focus Ep. 2 Lamborghini + Pixel 2 Revisited)
+
+Stage B. Fifth batch of the 2018 era (1015→**1022 L2**): **Let's Talk About Google Duplex**, **Google Pixel 2
+Revisited**, **In-Glass Fingerprint: Testing the Limits**, **OnePlus 6 Impressions**, **Driving Lamborghini
+Aventador S [Auto Focus Ep. 2]**, **Top 5 WWDC 2018**, and **Top 5 iOS 12 Features**. All 7 solo/Marques-fronted
+→ persona-eligible; captions clean. **1 no-captions skip** (see below). Ledger @mkbhd now 636 open (P2:601,
+P3:35); L2=1022, L3=0. (Post-pass-15; debt now 5 batches / 38 sources.)
+
+⚠️ **No-captions skip — a LANDMARK:** **Top 5 Smartphone Cameras: The Blind Test! [2018]** (yt-oD_3wMh5kLg,
+2018-05-21) has **no subtitles** → marked **L1**, NOT ingested (never Whisper without approval). This is the
+annual **Blind Camera Test** (a canonical MKBHD series) — ledger-flagged to **RE-FETCH if captions ever appear**.
+Also: the **Lamborghini Aventador S** (Auto Focus Ep. 2) had **Casey Neistat** as location photographer — a collab
+note; his content is separate/quarantined, all narration/verdicts are Marques.
+
+Synthesis notes (for pass 16) —
+**(1) AI COMMENTARY — Google Duplex "how far does it go?"** (Let's Talk About Google Duplex): "**did Google
+Assistant just pass the Turing test?** — amazing and kind of terrifying"; the **engineered "um" as deliberate
+deception** ("Google programmed it to convince the person they're human"); the **disclosure ethics argued both
+ways** (he'd want to know, but Google has to mimic a human to make it work); the precise **triggered-vs-answered**
+distinction (I know it's a robot when *I* trigger it; the creepy part is being *fooled* on an incoming call); and
+the durable **"the goalposts keep getting wider — weather → book my haircut → edit my videos → run my company →
+drive me to work — how far does it go? keep it in the box"** AI-trajectory thesis (links his NdGT + wished-for-Elon
+threads). **(2) LANDMARK — Auto Focus Ep. 2, the tech-reviewer-does-cars method** (Lamborghini Aventador S): the
+first supercar on the series, and the **real subject is Apple CarPlay** ("Teslas don't have it") — CarPlay/Android
+Auto as the fix for bad in-car UIs; **"it's kind of the opposite of a Tesla"** (sensory overload vs EV calm); and a
+public **Android-Auto headline correction** (fact-check rigor). **(3) "Still the best camera in any smartphone,
+period"** (Pixel 2 Revisited — his software-first thesis restated) + **"a camera that encourages you to take
+photos"** + **front-facing stereo speakers "severely underrated"** (bezel-less kills speakers) + the **wireless-
+charging "moonshot"** ("even a little glass — set it on a mat — I don't need the whole back to be glass"). **(4) The
+stress-test methodology** (In-Glass Fingerprint Testing the Limits): abuse it (water/sauce/dust/screen-protectors/
+scratches) but **always controlled-compare against Touch ID**; "first-gen, like early Touch ID — it'll mature."
+**(5) Near-stock-Android-done-right** (OnePlus 6: OxygenOS "you could barely call it a skin" — his clearest
+statement of the preference) + "made peace with the notch." **(6) DARK MODE love** (WWDC 2018: macOS Mojave; the
+prescient "they should do an iOS dark mode too") + the recurring Apple-TV-no-4K-YouTube gripe + Siri Shortcuts
+"sorry, Bixby." **(7) Format/biography — his FIRST iOS "top features" video** (iOS 12) + the Screen-Time exercise-
+bike-hypocrisy media read. Next synthesis checkpoint (pass 16) approaching — debt now **5 batches / 38 sources**
+(checkpoint at ~10 batches or the next era boundary); the Duplex AI-thesis, the Auto-Focus method, and the
+software>hardware/"best camera period" thread are the priority promotions.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Mar 20 → May 2, 8/8 ingested (the Shorty "Creator of the Decade" win + the Huawei P20 Pro "software > hardware" + iPhone X Revisited)
 
 Stage B. Fourth batch of the 2018 era (1007→**1015 L2**): **Galaxy S9 Review**, **Bixby Speaker Impressions**
