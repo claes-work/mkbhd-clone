@@ -4,6 +4,31 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Feb 25 → Mar 17, 6 ingested + 1 skip + 1 L1 (the Mac Pro review + S20 Ultra "Attack of the Numbers" + the Escobar Fold exposé + COVID onset)
+
+Stage B. Ingested the late-Feb→Mar-2020 wave to L2 (1159→**1165**): **2020 Mac Pro: A Silent Killer** (★★),
+**S20 Ultra Review: Attack of the Numbers** (★★), **Oppo Find X2 Pro** (★ SPONSORED highlight), **The Truth About
+the Escobar Folding Phone** (★★ ethics exposé), **Galaxy S20 Review: All the Right Moves** (★ Judner collab, mixed),
+and **The Rollable Smartphone** (★★ COVID-onset Q&A). Captions clean for the 6. **MKBHD Studio 2020 Build Part 1
+(yt-NZzQQ1090wc) → skipped** (garbled foreign-auto-caption gibberish; RE-FETCH — notable biography). **Z Flip vs
+Moto Razr (yt-mx8ZDMb5MBg) → L1** (no captions; both phones already covered). Ledger @mkbhd now ~479 open (P2:~444,
+P3:35); L2=1165, L3=0. (Post-pass-18; debt 2 batches — pass-19 due at the end-of-2020 era boundary or ~10 batches.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) the Mac Pro's **"you probably shouldn't buy it, but I'm
+glad they made it"** inverted verdict + **"Apple chose to make a very expensive machine"** reframe + the "products
+Apple should make but doesn't" wishlist. (2) the S20 Ultra's **"attack of the numbers / numbers don't translate"**
+(the big-sensor razor-thin-focus physics → fringy bokeh + jumpy AF; **"8K — I recommend against using it"**) and
+the promotable **100x-zoom speaker/decibel analogy** (don't trash spec headroom for being bad at its max). (3)
+ETHICS/creator-values (Escobar Fold): **"I buy pretty much everything I review,"** **refused to guarantee coverage
+for a free unit**, and **"treat preferential treatment with a grain of salt."** (4) the **"default Android plays
+it safe"** strategy (S20) + **high-refresh vindicated** ("there were naysayers") + the **smaller-sensor-beats-the-
+Ultra** payoff + the **headphone-jack-acceptance** position change. (5) 120Hz+1440p-simultaneously proves the S20U
+either/or was a choice (Oppo); "overkill specs are the new norm." (6) the **selfie-camera tier list** (pop-up +
+hole-punch = A; under-display = future S) and **rollable-vs-foldable** form-factor thinking. (7) BIOGRAPHY — the
+**COVID onset** ("I'm not an expert, listen to the CDC"; empty studio), **7.4 BILLION watch-minutes** over 12
+years, the **new studio** progress (fiber gigabit, acoustics), the **iPhone 12 wishlist** (120Hz/USB-C/Touch-ID),
+and **$40k+ on the Mac Pro he edits on.** None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Jan 15 → Feb 12, 6 ingested + 2 L1 (2020 opens: Why-Copy-AirPods + Peak Smartphone + the S20/foldables wave)
 
 Stage B. First batch of the **2020 era** to L2 (1153→**1159**): **Why Everyone is Copying AirPods** (★★), **YouTube
