@@ -4,6 +4,33 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2017 Nov 16 → 2018 Jan 2, 8/8 ingested (Portrait Mode Explained + the iMac Pro replaces the Mac Pro + 5 MILLION subs)
+
+Stage B. Ingested the late-2017 tail into early 2018, to L2 (984→992): the **OnePlus 5T**, the **Tesla
+Roadster 2020**, the **Razer Phone** review, the **$1000 Smartphone Giveaway**, **Portrait Mode: Explained**,
+the **iMac Pro 1-week**, the **Google Home Max**, and **New Year New MKBHD 2018**. All 8 solo/Marques-fronted
+→ persona-eligible; captions clean; no dups, no skips. **This batch opens the 2018 era** (the Jan 2 New-Year
+update). Ledger @mkbhd now 668 open (P2:633, P3:35); L2=992, L3=0. (Post-pass-15; debt now 1 batch / 8 sources.)
+
+Synthesis notes (for pass 16) —
+**(1) BIOGRAPHY — 5 MILLION subscribers + the one-man-to-team shift** (New Year 2018): "in 2017 the channel
+passed 5M subscribers, 800M total views; 95 of a goal-100 videos (1.1 billion watch-minutes)." And the key
+inflection: **"I keep saying *we* — it turned into a team effort"** (third-person/moving shots he couldn't do
+solo); 2018 plans (car videos that ship, Studio Tours/Deadmau5, merch). **(2) PRODUCTION/GEAR — the Hasselblad
+X1D medium-format** (Portrait Mode Explained): "I've taken the best photos of my life with it" (DxOMark 102 >
+100 — consistent with his not-out-of-100 point); the **Portrait-Mode teach-the-mechanism** (what bokeh
+emulation is; the iPhone-7-Plus-portrait-was-"garbage"-then-Apple-stuck-with-it-via-software arc). **(3)
+PRODUCTION milestone — the iMac Pro REPLACED the 2013 trash-can Mac Pro** as his editing rig (following through
+on the "give it a chance" promise from the trap video). **(4) "The opposite of the iPhone X"** (Razer Phone
+review, "the real deal") — a boxy matte-black brick that stands out against the converging pebble look;
+substance-over-first-impressions (loved it more over time); "the buttons are terrible." **(5) The $1000-flagship
+value question** ("worth it? debatable — but you can't argue with free"). **(6) A spec sheet that leaves him
+"speechless — and I own a P100D"** (Roadster 2.0, 0–60 in 1.9s) + the Roadster history. ⚠️ CONTRADICTION-WATCH:
+the "Roadster 2020" slips years past 2020 — flag when a follow-up is ingested. **(7) "Good buttons" + the
+honest "we just trust it"** (OnePlus 5T low-light camera) + fast-face-unlock-vs-security. **(8) Price-buys-
+dedicated-audio + real stereo (an edge over the HomePod)** (Google Home Max). Next synthesis checkpoint (pass
+16) at ~10 batches or the next era boundary (the 2018 flagship season).
+
 ## [2026-07-24] lint | synthesis pass 15 — the full 2017 era (912→984 L2): the Blind Camera Test is born, the iPhone X redefines the phone, and his method + independence come into focus
 
 Stage S. Drained the full **2017 era** (912→984 L2, ~72 sources; Jan → Nov 2017) — the largest single-year
