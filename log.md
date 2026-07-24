@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Jul 21 → Aug 13, 8/8 ingested (the Pixel 4a budget-camera king + the Osborne-Effect Apple-Silicon dilemma + the Note-20-is-overpriced call)
+
+Stage B. Ingested the late-Jul→mid-Aug-2020 wave to L2 (1194→**1202**): **OnePlus Nord Impressions** (★), **ROG
+Phone 3 Review** (★), **Model Y Auto Focus** (★★), **The TRUTH About OnePlus Nord** (★★), **Pixel 4a Review** (★★),
+**Note 20 Ultra Impressions** (★★), **The Last Intel Mac vs the Osborne Effect** (★★), and **Sony WH-1000XM4
+Review** (★). All 8 solo/Marques-fronted → persona-eligible; captions clean; no skips/L1. Ledger @mkbhd now ~438
+open (P2:~403, P3:35); L2=1202, L3=0. (Post-pass-18; debt ~8 batches — pass-19 due at ~10 batches or the end-of-
+2020 era boundary.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) the **Osborne Effect** framework + the **need-it-now-vs-
+keep-it-long** buy-vs-wait decision lens (for the Apple Silicon transition) + **"frequent updates are good, like
+Tesla."** (2) the **budget-camera KING / keep-it-simple / no-useless-cameras** thesis (Pixel 4a — a single great
+camera beats a padded quad array), reinforced by the **"cut the useless cameras / camera-count is marketing"**
+argument (OnePlus Nord — the macro auto-switch tell) and the **"just don't add the bad macro camera"** ROG gripe.
+(3) **manufacturing/QC-is-Tesla's-challenge** (Model Y panel gaps even on the review unit) + the **everything-on-
+touchscreen wish-for-manual-control** + the **fundamentals-vs-tweakable-details (review-unit-vs-what-you-get)**
+framing carried from phones to cars. (4) the **"Note 20 is overpriced"** value call (first in Note history) + the
+**S-Pen-matches-the-Apple-Pencil** (9ms) latency win + **"100x was a mistake, 50x is right."** (5) the **OnePlus
+brand-strategy** analysis ("this was inevitable" — no clout at $1k+, so a mid-range Nord to keep the good-cheap
+reputation) + the **balanced-package-vs-all-in-on-one-spec** budget read. (6) the **ANC-king** pick (XM4) + the
+**"knock down the nitpicks"** iterate-on-feedback appreciation (multipoint). (7) recurring self-correction (the
+Nord's plastic rails) + specs-need-software (ROG). None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Jun 17 → Jul 14, 8/8 ingested (WWDC "Great Transition" (Apple Silicon) + "Can You Trust MKBHD" ethics manifesto + OnePlus Nord cost-breakdown)
 
 Stage B. Ingested the mid-Jun→mid-Jul-2020 wave to L2 (1186→**1194**): **PS5 Impressions** (★), **Galaxy Buds+:
