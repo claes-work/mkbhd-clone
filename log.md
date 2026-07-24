@@ -4,6 +4,45 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Mar 20 → May 2, 8/8 ingested (the Shorty "Creator of the Decade" win + the Huawei P20 Pro "software > hardware" + iPhone X Revisited)
+
+Stage B. Fourth batch of the 2018 era (1007→**1015 L2**): **Galaxy S9 Review**, **Bixby Speaker Impressions**
+(April Fool's satire), **Product RED iPhone 8 Unboxing**, **Thank You!** (biography), **$750 Mini Boosted Board
+Impressions**, **Huawei P20 Pro Review**, **iPhone X Revisited**, and **LG G7 ThinQ Impressions**. All 8
+solo/Marques-fronted → persona-eligible; captions clean; no dups, no skips. Two attribution-gated (see note).
+Ledger @mkbhd now 644 open (P2:609, P3:35); L2=1015, L3=0. (Post-pass-15; debt now 4 batches / 31 sources.)
+
+⚠️ **Special cases this batch:** (a) the **Bixby Speaker Impressions** (yt-rsJlT53jU_4) is an **April Fool's Day
+SATIRE** — a fake smart speaker; **non-literal, zero product content** (voice/deadpan-humor only), tagged like the
+Nokia-3310 April Fool's bit. (b) the **Mini Boosted Board** (yt-Er-hGFBcosc) features **Casey Neistat** as a
+Boosted expert ("his opinions helped influence mine") — Casey is a GUEST, **quarantined**; Marques's narration is
+subject-attributed.
+
+Synthesis notes (for pass 16) —
+**(1) BIOGRAPHY — the Shorty "Creator of the Decade" WIN** (Thank You!): won over **Casey Neistat, Liza Koshy,
+Jenna Marbles, Lilly Singh (Superwoman), and Rhett & Link**; 2017 was a YouTuber-of-the-Year finalist. Same
+weekend, a **Stevens Institute of Technology Alumni Achievement Award** (noting the **SpaceX CIO is also a Stevens
+alum**). Introduces the **"new media" (vs old/traditional media)** framing and the 10-year history of tech YouTube
+"from an afterthought → a staple of new media"; restates the **"kid in a bedroom talking to a camera about tech,
+because it's fun as hell"** origin; "**don't let anyone tell you to stop.**" **(2) SOFTWARE > HARDWARE camera
+thesis** (Huawei P20 Pro): a huge 40 MP 1/1.7" sensor + DxO 109, but "**it almost feels like the software is
+holding back the hardware — the Pixel 2 still takes better photos, because of the software**"; the **"nail all the
+pillars, then push one to the extreme"** evolution of the five-pillars framework; **anti-automatic-enhancement**
+("AI blasts the green/blue channel — I just want a photo of what I'm shooting"); **thick-for-battery** advocacy
+restated ("make it as thick as you want — bravo, Huawei"). **(3) The "Revisited" long-term-review format**
+(iPhone X Revisited): "**a glass phone is still a glass phone**"; the self-deprecating "I broke it — slid off a
+counter, slipperiest/most-cased phone ever"; "**ages gracefully**" (Apple long-support); **Face ID off-axis on a
+table** still the top frustration; the iPhone-11 wishlist (bigger screen + smaller notch). **(4) The remappable-
+button fairness principle** (LG G7): "I didn't roast the Bixby button because Bixby is bad — because it wasn't
+**remappable**; the Google Assistant button isn't either — let us remap it" (same standard regardless of brand) +
+**AI-buzzword fatigue** ("no one knows what they want to do with AI in the camera yet"). **(5) APPEARANCE — the
+red-and-black "MKBHD Edition"** identity confirmed by the RED iPhone 8 (black front); wants a red iPhone X.
+**(6) "Boosted is the Tesla of electric skateboards"** cross-domain analogy (longboard = Model S, Mini = Model 3,
+Mini X = long-range) + switches his daily transport to the Mini. **(7) "A nearly perfect [brand] phone"** framing
+(Galaxy S9 — judge against the brand's own audience) + the restated **Pixel 2 #1 / iPhone X #2 / S9 #3** camera
+ranking. Next synthesis checkpoint (pass 16) at ~10 batches or the next era boundary — debt now 4 batches; the
+Shorty-win biography + the software>hardware thesis + the "Revisited" format are the priority promotions.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Feb 21 → Mar 16, 8/8 ingested (the "Explained" run: the Apple Ecosystem walled-garden + State of Bezels + iMac Pro "Not a Trap") — crosses 1000 L2
 
 Stage B. Third batch of the 2018 era (999→**1007 L2** — crosses the 1000-source milestone): **The In-Glass
