@@ -545,6 +545,33 @@ _Surfaced by the full 2017 @mkbhd corpus (912→984 L2). Only self-disclosed, on
   can solve one face of a Rubik's cube; MKBHD **merch** on Teespring (the circuit-design shirt). 🗣️
   [2017-10-18] ([[../wiki/sources/2017-10-18-yt-ilyTQSn2zRo]]) · [2017-08-10] ([[../wiki/sources/2017-08-10-yt-sdw_jquVZe0]])
 
+## Corpus-derived anchors (late 2017 – Aug 2018: the Shorty win, the 2018 rig, Auto Focus launches, and the daily-driver switch) — added synthesis pass 16 (2026-07-24)
+_From the H1-2018 corpus (L2 984→1034; late 2017 tail → Aug 2018)._
+- **Milestones (2018).** Passed **5 million subscribers** (new-year 2018: 95 videos in 2017 = ~1.1 billion watch-
+  minutes); won the **Shorty "Creator of the Decade"** (over Casey Neistat, Liza Koshy, Jenna Marbles, Lilly Singh,
+  Rhett & Link; 2017 was a YouTuber-of-the-Year finalist); honored the same weekend with a **Stevens Institute of
+  Technology Alumni Achievement Award** (noting **the SpaceX CIO is also a Stevens alum**). 🗣️ [2018-01-02]
+  ([[../wiki/sources/2018-01-02-yt-Js3WIRF595U]]) · [2018-04-16] ([[../wiki/sources/2018-04-16-yt-TKGA7MhxPWc]])
+- **He went to business school** (stated in Dear YouTube! — "I get that this is a business decision"). 🗣️
+  [2018-06-29] ([[../wiki/sources/2018-06-29-yt-E5jxF9uMgKo]])
+- **The one-man-to-team shift** ("I keep saying *we* — it turned into a team effort," enabling moving/third-person
+  shots he couldn't do solo). 🗣️ [2018-01-02] ([[../wiki/sources/2018-01-02-yt-Js3WIRF595U]])
+- **The 2018 editing rig** (the definitive setup tour): X-Desk Air Pro, Yamaha HS8, 80 TB Promise Pegasus, iMac
+  Pro **10-core → maxed 18-core** (his full daily editor now, replacing the trash-can Mac Pro), HD800 ColorWare +
+  Apollo Twin Mk2, Herman Miller Embody, Hasselblad X1D; **mouse-right/trackpad-left "I'm not lefty."** 🗣️
+  [2018-01-04] ([[../wiki/sources/2018-01-04-yt-6UR_H5XJkeM]]) · [2018-03-02] ([[../wiki/sources/2018-03-02-yt-jn9mHzXJIV0]])
+- **Auto Focus car series launches (Jan 2018).** Ep. 1 = driving the Model 3 (2018-01-18); Ep. 2 = the Lamborghini
+  Aventador S (2018-06-02). ⚠️ Corrects the earlier assumption that Auto Focus began in 2026. 🗣️ [2018-01-18]
+  ([[../wiki/sources/2018-01-18-yt-9O5PhuW927w]])
+- **Daily-driver phones (2018).** Two-phone system: **iPhone X** (iPhone of choice) + Android-of-choice; the
+  Android daily driver **switched from the Pixel 2 XL to the OnePlus 6 in Aug 2018** (over performance — the Pixel
+  2 slowed down). Also rode a **Boosted Mini** as his main mobile transport. 🗣️ [2018-01-25] ([[../wiki/sources/2018-01-25-yt-FjsQkOt553Q]])
+  · [2018-08-01] ([[../wiki/sources/2018-08-01-yt-5_5zZnuB71w]]) · [2018-04-18] ([[../wiki/sources/2018-04-18-yt-Er-hGFBcosc]])
+- **Merch (2018): the permanent MKBHD store launches** (from occasional drops to a standing line); **6'3", wears a
+  large.** 🗣️ [2018-02-08] ([[../wiki/sources/2018-02-08-yt-jmvacbha8e8]])
+- **Appeared on StarTalk with Neil deGrasse Tyson** (guest ~2016; reverse-interviewed Tyson 2018-03-09). 🗣️
+  [2018-03-09] ([[../wiki/sources/2018-03-09-yt-pqQrL1K0Z5g]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

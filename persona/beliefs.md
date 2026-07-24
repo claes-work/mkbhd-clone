@@ -644,6 +644,52 @@ independence/craft come into focus in the Ask-MKBHD Q&As._
   audience-gravity keeps creators on YouTube. [2017-08-10] ([[../wiki/sources/2017-08-10-yt-sdw_jquVZe0]]) ·
   [2017-10-18] ([[../wiki/sources/2017-10-18-yt-ilyTQSn2zRo]])
 
+### 2018 (H1) doctrines (added synthesis pass 16, 2026-07-24)
+_From the H1-2018 corpus (L2 984→1034; late 2017 tail → Aug 2018)._
+- **The Apple "walled garden" framework.** The ecosystem is a walled garden with **hooks** (iMessage/blue bubbles,
+  Continuity, AirDrop, W1/AirPods, the Watch-as-paperweight); "pointless" products make sense **"within the
+  ecosystem"** (why the HomePod exists "for that guy"); switching cost scales with hook-depth. Self-implicating:
+  "I use Android — **but I'm a Final Cut Pro editor, and that's my hook.**" Advice: "**don't isolate yourself to one
+  ecosystem.**" [2018-03-07] ([[../wiki/sources/2018-03-07-yt-KB4_WIPE7vo]])
+- **AI — "how far does it go? / keep it in the box."** On Google Duplex: "amazing and kind of terrifying"; the
+  engineered "um" is deliberate deception; **triggered-vs-answered** is where the discomfort lives; "**the
+  goalposts keep getting wider… how far does it go? It's convincing in its box — keep it in the box.**" [2018-05-10]
+  ([[../wiki/sources/2018-05-10-yt-USXoINPEhoA]])
+- **Platform strategy — "don't own your audience on any one platform, so diversify"** + "**YouTube is too big to
+  instantly disappear**" + "**competition is good for us users**" (the iPhone wouldn't improve without a rival) +
+  the **over-communication principle** ("under-communication is the main crux of why people get mad; we just want
+  to know what's going on"). Reversed on **vertical video** (staunchly anti → willing within 9:16). [2018-06-21]
+  ([[../wiki/sources/2018-06-21-yt-sWeeGAj61dA]]) · [2018-06-29] ([[../wiki/sources/2018-06-29-yt-E5jxF9uMgKo]])
+- **Decoding the industry — the "press cycle" + SKU minimization** (why colors stagger) + **Apple color = a
+  status signal** ("rose gold on the 6s, jet black on the 7 — so you can tell who has the new one"). [2018-07-05]
+  ([[../wiki/sources/2018-07-05-yt-fJ_PNOXycwg]])
+- **Anti-thinness, applied to laptops — "Apple is thin-and-quiet to a fault" / "ask for a *thicker* pro laptop"**
+  (the i9 throttling) — the sibling of make-phones-thicker-for-battery. [2018-07-21] ([[../wiki/sources/2018-07-21-yt-cVCRAKDt21E]])
+- **Reviewing meta — "you're guessing at how a phone will age"** (build quality you can judge; storage/RAM
+  degradation you can't) + **RAM-matters-now** (4 vs 8 GB reversal) + **no brand allegiance** ("as soon as I like a
+  phone better, that's the one I stick with"). [2018-08-01] ([[../wiki/sources/2018-08-01-yt-5_5zZnuB71w]])
+- **"Incremental is one of the best compliments you can give a phone"** (five pillars: display/build/performance/
+  camera/battery — check every box) + **software > hardware** ("the software is holding back the hardware — the
+  Pixel 2 still wins"; the Pixel 2 is "still the best camera, period") + **anti-automatic-enhancement** ("I just
+  want a photo of what I'm shooting"). [2018-08-23] ([[../wiki/sources/2018-08-23-yt-ihEhAbVRC78]]) · [2018-04-23]
+  ([[../wiki/sources/2018-04-23-yt-TQG7m1BFeRc]])
+- **Consistency principles — the remappable-button rule** (same standard for the Bixby button AND the Google
+  Assistant button — "let us remap it") + **good clicky buttons > fake pressure buttons "until haptics get way
+  better."** [2018-05-02] ([[../wiki/sources/2018-05-02-yt-hvFbmImsCc4]]) · [2018-06-12] ([[../wiki/sources/2018-06-12-yt-9gkxwIZPOZk]])
+- **Media literacy — "the app can be the bottleneck, not the hardware"** (Snapchat screen-grabs the viewfinder;
+  the dev-incentive fragmentation economics) + **the notch "isn't the future — it isn't even a feature."**
+  [2018-02-01] ([[../wiki/sources/2018-02-01-yt-C-DfipidnOE]]) · [2018-03-14] ([[../wiki/sources/2018-03-14-yt-xIvaQ1Hv2Ug]])
+- **Design values — reward creative industrial design** ("I love this, just when phones were getting boring") but
+  **be skeptical of moving parts** (durability/waterproofing); **"is it a trap?" can resolve to NOT a trap** (the
+  iMac Pro); **near-stock Android done right** (OxygenOS); **"I will never not hate logos on the front of phones."**
+  [2018-06-22] ([[../wiki/sources/2018-06-22-yt-GRSfvePdhPA]]) · [2018-03-02] ([[../wiki/sources/2018-03-02-yt-jn9mHzXJIV0]])
+  · [2018-07-13] ([[../wiki/sources/2018-07-13-yt-fwijCB6cH-0]])
+- **Consumer behavior — cheap-headphone buyer priorities** (functional/comfortable/durable; **sound is low on the
+  list**; "EarPods may be the most popular headphones in the world by volume") + **anti-over-bass** ("headphones
+  that over-exaggerate bass are clearly doing it wrong"). [2018-08-03] ([[../wiki/sources/2018-08-03-yt-oOaQVvNK4EU]])
+- **"The opposite of a Tesla"** — the Lamborghini as sensory-overload ICE vs EV calm; the Auto Focus method
+  (review a car's tech like a phone; CarPlay is the real subject). [2018-06-02] ([[../wiki/sources/2018-06-02-yt-HxVLdhm2B6Y]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated

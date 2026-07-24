@@ -409,6 +409,42 @@ review method crystallizes into named, reusable moves._
   camera go from not-good to great on software updates alone"). [2017-04-11] ([[2017-04-11-yt-4DlNrCZFNGo]])
   · [2017-08-31] ([[2017-08-31-yt-ftqaMBDj2oY]])
 
+## No-allegiance, longevity, and "incremental is a compliment" (H1 2018) — added synthesis pass 16 (2026-07-24)
+_From the H1-2018 corpus (L2 984→1034) — the review method turns inward on its own limits (how do you judge a
+phone you can't yet know?) and hardens several buyer-facing principles._
+- **No brand allegiance + the daily-driver reveal.** "**I have no allegiance — as soon as I like a phone better,
+  that's the one I stick with.**" Reveals his Android daily driver quietly switched **Pixel 2 XL → OnePlus 6**
+  (iPhone X stays the iPhone-of-choice). [2018-08-01] ([[../../sources/2018-08-01-yt-5_5zZnuB71w]])
+- **"You're guessing at how a phone will age" (the reviewing meta-insight).** "You don't fully know how a phone
+  will bear out over time — **you're guessing.** You can tell if build quality will hold up physically, but whether
+  the **flash storage or RAM degrades/slows down** — you find out when it happens." Grounded in the **Pixel 2
+  slowing down in under a year** (two units, animations dropping below 60 fps) and the **RAM-matters-now reversal**
+  ("a couple years ago I'd have said OnePlus put extra RAM in just to impress spec-sheet readers — now I observe
+  4 vs 8 GB makes a real-world difference"). [2018-08-01] ([[../../sources/2018-08-01-yt-5_5zZnuB71w]])
+- **"Incremental is one of the best compliments you can give a phone."** When the base was already phone-of-the-
+  year, incremental = it now does everything. Applied to the Note 9 via the **five pillars** (display/build/
+  performance/camera/battery) — "checks every box and finally fixes the battery." [2018-08-23] ([[../../sources/2018-08-23-yt-ihEhAbVRC78]])
+- **Software > hardware (the camera thesis restated).** The Huawei P20 Pro's huge 40 MP sensor (DxO 109) still
+  loses: "**it almost feels like the software is holding back the hardware — the Pixel 2 still takes better photos,
+  because of the software**"; + "**nail all the pillars, then push one to the extreme**" (the five-pillars
+  evolution) + **anti-automatic-enhancement** ("AI blasts the green/blue channel — I just want a photo of what I'm
+  shooting") + **thick-for-battery** ("bravo, Huawei"). And the Pixel 2 restated as **"still the best camera in any
+  smartphone, period."** [2018-04-23] ([[../../sources/2018-04-23-yt-TQG7m1BFeRc]]) · [2018-05-11] ([[../../sources/2018-05-11-yt-XU69_u7eXa0]])
+- **Consistency principles — the remappable-button rule + good-clicky-buttons.** "I didn't roast the Bixby button
+  because Bixby is bad — because it wasn't **remappable**; the Google Assistant button isn't either — let us remap
+  it" (same standard regardless of brand; restated on the Note 9). And "**I'll keep praising good clicky buttons
+  until haptics get way better**" (vs the HTC U12+'s fake pressure buttons). [2018-05-02] ([[../../sources/2018-05-02-yt-hvFbmImsCc4]])
+  · [2018-06-12] ([[../../sources/2018-06-12-yt-9gkxwIZPOZk]])
+- **"Is it a trap?" RESOLVED — not a trap** (the 18-core iMac Pro becomes his daily editor, replacing the trash-can
+  Mac Pro; the "games of Rocket League" render benchmark; buyer-first by app suite) + **reward creative industrial
+  design** ("I love this — a creative design just when phones were getting boring" — Oppo Find X) tempered by a
+  consistent **moving-parts durability skepticism**. [2018-03-02] ([[../../sources/2018-03-02-yt-jn9mHzXJIV0]]) ·
+  [2018-06-22] ([[../../sources/2018-06-22-yt-GRSfvePdhPA]])
+- **The "Revisited" long-term-review format matures + near-stock-Android-done-right.** "A glass phone is still a
+  glass phone" (iPhone X Revisited: the durability realism, Face-ID-off-axis, the case for a smaller notch); and
+  OxygenOS as the clearest statement of his **near-stock preference** ("you could barely call it a skin").
+  [2018-04-28] ([[../../sources/2018-04-28-yt-OJfOsoUYPts]]) · [2018-05-16] ([[../../sources/2018-05-16-yt-F0rYqvRk9r8]])
+
 ## Landmark review — Humane AI Pin (2024-04-14)
 The canonical statement of several of the lenses above in one video ("The Worst Product I've Ever Reviewed… For Now", `[[2024-04-14-yt-TitZV6k8zfA]]`): the qualified "in its current state" verdict, "smartphones are OP," the golden rule, and "victim of its future ambition." A frequently-misquoted source — cite the verbatim, qualified wording. → also [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]], [[../../../persona/beliefs|beliefs]].
 

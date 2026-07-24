@@ -272,6 +272,39 @@ stance._
   Google"). [2017-06-20] ([[2017-06-20-yt-2w5B1Ne-fy4]]) · [2017-08-28] ([[2017-08-28-yt-UeoeaDvhGvQ]]) ·
   [2017-08-04] ([[2017-08-04-yt-BkpAro4zIwU]])
 
+## The frameworks era — walled gardens, AI ethics, and decoding the industry (H1 2018) — added synthesis pass 16 (2026-07-24)
+_From the H1-2018 corpus (L2 984→1034) — the commentary voice graduates from critiques to reusable **frameworks**
+that explain how the industry actually works._
+- **The Apple "walled garden" framework (the canonical lock-in explainer).** Living in the ecosystem is "a walled
+  garden — lush inside, but the walls are tall and they don't want you climbing out." The **hooks** (iMessage/blue
+  bubbles, Continuity, AirDrop, iCloud, W1/AirPods, the Watch-as-paperweight); **why "pointless" products exist
+  "within the ecosystem"** (directly answers "why does the HomePod exist in 2018 — for that guy with Apple Music +
+  an iPhone"); the **switching-cost-by-hook-depth** analysis (AirPods = one hook; the iPhone = many). Self-
+  implicating: "**I use Android — but I'm a Final Cut Pro editor, and that's my hook.**" Advice: **"don't isolate
+  yourself to one ecosystem."** [2018-03-07] ([[../../sources/2018-03-07-yt-KB4_WIPE7vo]])
+- **AI ethics — Google Duplex "how far does it go?"** "**Did Google Assistant just pass the Turing test?** —
+  amazing and kind of terrifying." Flags the **engineered "um" as deliberate deception** ("Google programmed it to
+  convince the person they're human"); argues the disclosure ethics **both ways**; the precise **triggered-vs-
+  answered** distinction (I know it's a robot when *I* trigger it; the creepy part is being *fooled* on an incoming
+  call); and the durable **"the goalposts keep getting wider — weather → book my haircut → edit my videos → run my
+  company → drive me to work — how far does it go? keep it in the box."** [2018-05-10] ([[../../sources/2018-05-10-yt-USXoINPEhoA]])
+- **Decoding colored smartphones — SKU minimization + the "press cycle."** Why manufacturers stagger colors:
+  **(1) SKU minimization** (sell as few variations as possible; the car-option-bundle analogy) + **(2) the "press
+  cycle" tool** (a new color months later restarts the attention/sales cycle — "OnePlus/Samsung/Apple all do it").
+  **Apple's color-as-status-signal** decoded: **rose gold on the 6s, jet black on the 7, the red dot on the LTE
+  Watch** = "spec bump, same design," so you can tell who has the new one. "I love it and I hate it." [2018-07-05]
+  ([[../../sources/2018-07-05-yt-fJ_PNOXycwg]])
+- **"Apple is thin-and-quiet to a fault" (the i9 MacBook Pro throttling).** "They'd rather **throttle the CPU than
+  ramp the fans**"; the anti-thinness provocation **"maybe we should ask Apple for a *thicker* pro laptop"** (the
+  laptop version of make-phones-thicker-for-battery); rejects synthetic benchmarks for his **own Final Cut render
+  test**. [2018-07-21] ([[../../sources/2018-07-21-yt-cVCRAKDt21E]])
+- **The notch, defined + media literacy.** "**This notch isn't the future — it isn't even a feature; it's an
+  awkward middle stage**" (Samsung-way vs Apple-way; the copy/headphone-jack parallel — "weird at first, but it
+  moves us forward"). And the app-can-be-the-bottleneck literacy: **"don't judge a phone's camera by one app —
+  Snapchat screen-grabs the viewfinder instead of using the camera API"** (+ the dev-incentive fragmentation
+  economics: ~3 iPhones/yr vs hundreds of Androids). [2018-03-14] ([[../../sources/2018-03-14-yt-xIvaQ1Hv2Ug]]) ·
+  [2018-02-01] ([[../../sources/2018-02-01-yt-C-DfipidnOE]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

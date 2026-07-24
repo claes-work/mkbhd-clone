@@ -102,9 +102,29 @@ rivals._
 - **The power-steering problems RESOLVED** — the 2016 reliability arc closed positively ("it's been perfect
   since then"). [2017-02-11] ([[../../wiki/sources/2017-02-11-yt-xcSOGYqQ_kY]])
 
+## The Auto Focus series is BORN (Jan–Jun 2018) + "the opposite of a Tesla" — added synthesis pass 16 (2026-07-24)
+_From the H1-2018 corpus (L2 984→1034). ⚠️ **CORRECTION:** the dedicated **Auto Focus** car series did NOT begin
+in 2026 — it **launched 2018-01-18** with the Model 3. The "@AutoFocus era (2026)" section below is the mature
+channel; this is its origin on the main channel._
+- **Auto Focus Ep. 1 — the series origin + the Model 3 master-plan payoff.** Explicitly "**episode one**" of his
+  dedicated car series ("the tech reviewer's take on cars — the same way I look at phones, pointed at the car").
+  Frames the Model 3 as "**the car the entire master plan was building toward — the mass-market Tesla**"; his
+  signature **price-reality** move ("**it starts at $35k — the one I'm in is closer to $57k** as configured — let's
+  be real"); minimalism-serves-manufacturing/made-for-autonomy (consistent with the 2017 reveal read).
+  [2018-01-18] ([[../../sources/2018-01-18-yt-9O5PhuW927w]])
+- **Auto Focus Ep. 2 — the tech-reviewer-does-cars method + "the opposite of a Tesla."** Reviews a $500k
+  **Lamborghini Aventador S**, but the **real subject is Apple CarPlay** ("Teslas don't have it") — CarPlay/Android
+  Auto as the fix for bad in-car UIs. The Lambo is **"sensory overload… kind of the opposite of a Tesla"** (huge
+  sound/power vs EV calm) — a memorable ICE-vs-EV contrast from an EV guy. Publicly **corrects the "most expensive
+  car with Android Auto" headline** (it's CarPlay only) — fact-check rigor. [2018-06-02] ([[../../sources/2018-06-02-yt-HxVLdhm2B6Y]])
+- **"Boosted is the Tesla of electric skateboards" — the cross-domain analogy.** The Boosted longboard = Model S,
+  the **Mini = Model 3** (most important/cheapest yet); Mini S ($750/7mi) vs **Mini X ($1000/14mi) = "the long-range
+  version."** A clean example of his electrification-and-price-down lens; switches his own daily transport to the
+  Mini. [2018-04-18] ([[../../sources/2018-04-18-yt-Er-hGFBcosc]])
+
 ## The @AutoFocus era (2026 EV reviews) — first substantial corpus
 
-> Added synthesis pass 2 (2026-07-19) from the first @AutoFocus batch. Marques-fronted → persona-eligible; the Porsche Macan driving section is handed to co-host "Miles" and quarantined at the source.
+> Added synthesis pass 2 (2026-07-19) from the first @AutoFocus batch. Marques-fronted → persona-eligible; the Porsche Macan driving section is handed to co-host "Miles" and quarantined at the source. **NB:** the series actually launched in 2018 (see the pass-16 section above) — this block covers the mature 2026 channel.
 
 - **EV design thesis — "EVs look like blobs."** Current battery energy density forces an obsessive low-drag/teardrop shape, so EVs converge on the same slippery blob; "when battery tech improves, we can have design again." He turns it into a **critical position on the Ferrari Luce**: a Ferrari shouldn't chase aero efficiency — "it should look like a Ferrari… now it just looks like a Nissan Leaf." High-confidence, repeated. [2026-05-25] ([[2026-05-25-yt-6Reu1WS3BhM]]) · [2026-06-01] ([[2026-06-01-yt-clsbuM6uf1A]])
 - **One-pedal driving is a near-universal review criterion.** Dings the Mercedes CLA, the Nissan Leaf ("e-Step" that isn't true one-pedal), and the Porsche Macan ("please, please give us the option") for lacking or half-implementing it. [2026-04-13] ([[2026-04-13-yt-9s69aThM7rA]]) · [2026-06-01] ([[2026-06-01-yt-clsbuM6uf1A]]) · [2026-07-13] ([[2026-07-13-yt-FefIWhfl5Lg]])

@@ -4,6 +4,55 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] lint | synthesis pass 16 — the first half of 2018 (984→1034 L2): the frameworks era (walled garden, Duplex AI-thesis, the press cycle), the review method turns inward, and the platform/creator layer matures
+
+Stage S. Drained the **H1-2018 debt** (984→1034 L2, ~50 sources across 7 ingest batches; late-2017 tail → Aug
+2018). The through-line: his commentary graduates from one-off **critiques** to reusable **frameworks** that
+explain how the industry works, and the review method turns inward on its own limits.
+
+Promotions (dated + cited; pure repeats dropped) —
+- **wiki/topics/ev-cars** — a pass-16 section: ⚠️ **CORRECTS the "Auto Focus began in 2026" assumption** — the
+  series **launched 2018-01-18** (Ep. 1 Model 3 = the master-plan payoff + the $35k-vs-$57k price-reality; Ep. 2
+  the Lamborghini = the tech-reviewer-does-cars method, CarPlay is the real subject, **"the opposite of a Tesla,"**
+  + the Android-Auto headline correction); "Boosted is the Tesla of e-skateboards."
+- **wiki/topics/tech-industry-commentary** — the **Apple "walled garden" framework** (hooks / "within the
+  ecosystem" / switching-cost-by-hook-depth / "Final Cut is my hook" / "don't isolate yourself"); the **Google
+  Duplex AI-thesis** (Turing-test / engineered-"um" deception / triggered-vs-answered / **"how far does it go? keep
+  it in the box"**); **decoding colored smartphones** (SKU + press-cycle + Apple color-as-status-signal); **"Apple
+  is thin-and-quiet to a fault"** / "ask for a thicker pro laptop"; the notch "not the future, not even a feature"
+  + "the app can be the bottleneck, not the hardware."
+- **wiki/topics/creator-business** — the **platform trilogy** (don't-own-your-audience/diversify; YouTube-too-big-
+  to-disappear; competition-good-for-users; the over-communication principle/Dear YouTube; the anti-→pro vertical-
+  video reversal); the **Shorty "Creator of the Decade" win** + Stevens alumni award + "new media"; the **"Prime
+  Picks"** franchise + the permanent merch store.
+- **wiki/topics/tech-reviews** — **no brand allegiance**; **"you're guessing at how a phone will age"** + the
+  Pixel-2-slowdown + **RAM-matters-now**; **"incremental is one of the best compliments"** (five pillars); **software
+  > hardware** ("the Pixel 2 still wins" / "still the best camera, period") + anti-auto-enhancement; the
+  **remappable-button rule** + good-clicky-buttons; **"is it a trap?" → NOT a trap** (iMac Pro) + reward-creative-
+  design + moving-parts skepticism; the "Revisited" format + near-stock-Android-done-right.
+- **wiki/topics/production-filmmaking** — the **2018 editing rig** (X-Desk/HS8/80TB Pegasus/iMac Pro 18-core/HD800/
+  Embody/X1D; mouse-right/trackpad-left "not lefty"); **own-workflow render testing** (the i9 Final Cut numbers +
+  the Rocket-League metric); **"I'm a video person"** (audio as color grading).
+- **persona/beliefs.md** — a new **"2018 (H1) doctrines"** subsection (all the above, dated + cited).
+- **persona/voice.md** — a new **"2018 register"** (17 signature lines: "how far does it go? / keep it in the box,"
+  "I have no allegiance," "you're guessing," "incremental is a compliment," "skip this great laptop," "I'll keep
+  praising good clicky buttons…," "I will never not hate logos on the front of phones," "the app can be the
+  bottleneck," "I'm a video person," "competition is good for us users," "err on the side of over-communication,"
+  "this notch isn't the future — it isn't even a feature," "the opposite of a Tesla," "best-sounding — and the
+  dumbest," "I was a skeptic and I was wrong," "red and black, naturally").
+- **persona/biography.md** — a **late-2017 → Aug-2018 anchors** section (5M subs; the Shorty win over Casey/Liza/
+  Jenna/Lilly/Rhett & Link + the Stevens alumni award + SpaceX-CIO-alum; **he went to business school**; the
+  one-man-to-team shift; the 2018 rig; **Auto Focus launched Jan 2018**; the daily-driver switch **Pixel 2 →
+  OnePlus 6**; the permanent merch store + 6'3"/large; the StarTalk/NdGT appearance).
+- **persona/system-prompt.md** — recompiled **v15 → v16** (984 → 1034 sources; "through Aug 2018"); prepended the
+  v16 version + changelog block; wove the v16 lens cluster into "How you think" (walled garden, AI "keep it in the
+  box," decode-the-industry, anti-thinness-everywhere, no-allegiance/you're-guessing, incremental-is-a-compliment/
+  software-beats-hardware, same-standard-for-everyone, platform-strategy-for-creators, "I'm a video person").
+- **pipeline/synthesis-state.md** high-water mark advanced to **1034**; **index.md** system-prompt line → v16.
+
+Next: resume ingest (Stage B) at @mkbhd P2 from 2018-08-23 onward (the 2018 flagship season — iPhone XS / Pixel 3).
+Next synthesis checkpoint (pass 17) at ~10 more batches or the end of 2018 / into 2019.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 5) — 2018 Jul 13 → Aug 23, 5/8 ingested + 3 L1 (the i9 MacBook Pro thermal-throttling exposé + "Why I Don't Use the Pixel" + the Note 9 five-pillars review)
 
 Stage B. Seventh batch of the 2018 era (1029→**1034 L2**): **Prime Picks: #1 Unlocked Smartphone (Moto G6)**,

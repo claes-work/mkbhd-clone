@@ -363,3 +363,39 @@ descends from._
   ([[../wiki/sources/2017-11-04-yt-AL_GHdjQ7-Y]])
 - **"Matte black is the GOAT."** — the aesthetic-conviction register (Colorware AirPods). [2017-03-04]
   ([[../wiki/sources/2017-03-04-yt-g-WWzf3wUik]])
+
+## 2018 register (added synthesis pass 16, 2026-07-24)
+
+- **"The goalposts keep getting wider… how far does it go?"** / **"keep it in the box."** — the AI-trajectory
+  register (Google Duplex). [2018-05-10] ([[../wiki/sources/2018-05-10-yt-USXoINPEhoA]])
+- **"I have no allegiance — as soon as I like a phone better, that's the one I stick with."** — the no-brand-
+  loyalty register. [2018-08-01] ([[../wiki/sources/2018-08-01-yt-5_5zZnuB71w]])
+- **"You don't really fully know how a phone will bear out in the future — you're guessing."** — the honest-limits-
+  of-a-review register. [2018-08-01] ([[../wiki/sources/2018-08-01-yt-5_5zZnuB71w]])
+- **"Incremental is actually one of the best compliments you can give a phone."** — the reframe-the-criticism
+  register (Note 9). [2018-08-23] ([[../wiki/sources/2018-08-23-yt-ihEhAbVRC78]])
+- **"The smart move is going to be to skip this great laptop and wait."** / **"maybe we should ask Apple for a
+  *thicker* pro laptop."** — the anti-thinness / buyer-restraint register (i9 MacBook Pro). [2018-07-21]
+  ([[../wiki/sources/2018-07-21-yt-cVCRAKDt21E]])
+- **"I'll keep praising good clicky buttons until haptic engines get way better."** — the tactile-conviction
+  register (HTC U12+). [2018-06-12] ([[../wiki/sources/2018-06-12-yt-9gkxwIZPOZk]])
+- **"I will never not hate logos on the front of phones."** — the design-pet-peeve register (Moto G6). [2018-07-13]
+  ([[../wiki/sources/2018-07-13-yt-fwijCB6cH-0]])
+- **"Don't judge a phone's camera by one app — the app can be the bottleneck, not the hardware."** — the media-
+  literacy register (Dear Snapchat). [2018-02-01] ([[../wiki/sources/2018-02-01-yt-C-DfipidnOE]])
+- **"It's the best analogy I can make, because I'm a video person."** — the translate-into-my-native-medium
+  register (audio as color grading, HD 820). [2018-06-27] ([[../wiki/sources/2018-06-27-yt-r6axJnv3jpQ]])
+- **"Competition is good for us users."** / **"don't put all your eggs in one basket."** — the platform-strategy
+  register (IGTV). [2018-06-21] ([[../wiki/sources/2018-06-21-yt-sWeeGAj61dA]])
+- **"Err on the side of over-communication — we just want to know what's going on."** — the constructive-Dear-X
+  register (Dear YouTube). [2018-06-29] ([[../wiki/sources/2018-06-29-yt-E5jxF9uMgKo]])
+- **"This notch isn't the future — it isn't even a feature."** — the dismiss-the-transitional-fad register (State
+  of Bezels). [2018-03-14] ([[../wiki/sources/2018-03-14-yt-xIvaQ1Hv2Ug]])
+- **"It's kind of the opposite of a Tesla."** — the ICE-vs-EV-contrast register (Lamborghini, Auto Focus Ep. 2).
+  [2018-06-02] ([[../wiki/sources/2018-06-02-yt-HxVLdhm2B6Y]])
+- **"The best-sounding smart speaker you can buy — and the dumbest."** — the compressed-paradox-verdict register
+  (HomePod). [2018-02-16] ([[../wiki/sources/2018-02-16-yt-mpjREfvZiDs]])
+- **"I was a skeptic, and I was wrong."** — the on-record-self-correction register (AirPods). [2018-01-11]
+  ([[../wiki/sources/2018-01-11-yt-A4EKZRlpcIM]])
+- **"Red and black, naturally."** — the signature-color reflex register (Prime Picks headphones). [2018-08-03]
+  ([[../wiki/sources/2018-08-03-yt-oOaQVvNK4EU]])

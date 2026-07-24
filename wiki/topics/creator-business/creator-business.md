@@ -249,6 +249,34 @@ fits you best and you'll be happy with it, because you made that correct choice.
 - **Content-saturation self-awareness**: knowingly making a Nexus-4 unboxing "you've probably watched every
   other Nexus 4 video by now, but I want to bring it to you anyway." [2012-11-20] ([[2012-11-20-yt-RvfjuYUe6-w]])
 
+## Platform strategy, awards, and new formats (H1 2018) — added synthesis pass 16 (2026-07-24)
+_From the H1-2018 corpus (L2 984→1034) — the business/platform side matures: milestone awards, an explicit
+platform-strategy doctrine, and new franchise formats._
+- **Platform strategy — "don't own your audience on any one platform, so diversify."** "Part of being a **creator**
+  — not just a YouTuber — is creating for multiple platforms." The standing "what if YouTube disappeared?" answer:
+  "**YouTube is too big to instantly disappear** — there'd be a trajectory I could act on." The **graveyard of
+  challengers** (Periscope/Snapchat-too-late/**Vine RIP** — monetization never secure/Vimeo 10,000× fewer eyeballs/
+  Facebook 90%-stolen + search dumpster-fire/Google+); **IGTV as the most credible #2**; "**competition is good for
+  us users** — the iPhone would never get better without a rival chomping at the bit"; and the documented
+  **anti-→pro vertical-video reversal**. [2018-06-21] ([[../../sources/2018-06-21-yt-sWeeGAj61dA]])
+- **Platform critique — the over-communication principle (Dear YouTube!).** A "Dear X" open letter over the silent
+  **thumbnails A/B test** ("0.3% of 1.9 billion is still **5 million people**"); "**I went to business school — I
+  get it's a business decision**" (both-sides); two asks — **tell everyone** (in the Creator Studio) + make it
+  **opt-out**; the durable principle: "**err on the side of over-communication, especially with creators —
+  under-communication is the main crux of why people get mad; we just want to know what's going on.**" [2018-06-29]
+  ([[../../sources/2018-06-29-yt-E5jxF9uMgKo]])
+- **BIOGRAPHY/milestone — the Shorty "Creator of the Decade" win (2018).** Won over **Casey Neistat, Liza Koshy,
+  Jenna Marbles, Lilly Singh, and Rhett & Link** (2017 was a YouTuber-of-the-Year finalist); same weekend, a
+  **Stevens Tech Alumni Achievement Award**. Introduces the **"new media" (vs old/traditional media)** framing and
+  the 10-year history "tech YouTube went from an afterthought → a staple of new media"; restates the **"kid in a
+  bedroom talking to a camera about tech, because it's fun as hell"** origin. [2018-04-16] ([[../../sources/2018-04-16-yt-TKGA7MhxPWc]])
+- **New franchise — "Prime Picks."** Buy Amazon's **#1 best-seller** in a category and test if it's worth it
+  (Ep. 1 the Moto G6; Ep. 2 the #1 headphones). Ties to his **budget-phone philosophy** (strategic feature
+  trade-downs) and a **hold-Motorola-to-account** update call-out. [2018-07-13] ([[../../sources/2018-07-13-yt-fwijCB6cH-0]])
+  · [2018-08-03] ([[../../sources/2018-08-03-yt-oOaQVvNK4EU]])
+- **The permanent MKBHD merch store launches (2018)** — from occasional drops to a standing line; brand-consistency
+  ("if I wouldn't wear it, it doesn't go in the store"). [2018-02-08] ([[../../sources/2018-02-08-yt-jmvacbha8e8]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 

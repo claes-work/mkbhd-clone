@@ -191,5 +191,25 @@ _From the full 2017 corpus — the clearest statements of why he shoots what he 
   ad — "a car video is physically impossible with one person." → `persona/biography.md`. [2017-08-10]
   ([[2017-08-10-yt-sdw_jquVZe0]])
 
+## The 2018 editing rig, mobile-render testing, and "I'm a video person" (H1 2018) — added synthesis pass 16 (2026-07-24)
+_From the H1-2018 corpus (L2 984→1034) — the definitive 2018 studio rig plus how he actually tests and talks about
+gear._
+- **The definitive 2018 editing rig.** X-Desk Air Pro (~6yr, motorized), Yamaha HS8 monitors, an **80 TB Promise
+  Pegasus R3**, the **iMac Pro 10-core → maxed 18-core** (which becomes his full daily editor, replacing the trash-
+  can Mac Pro), **Sennheiser HD800 ColorWare + Apollo Twin Mk2**, a Herman Miller Embody, a Hasselblad X1D; the
+  **mouse-right/trackpad-left "I'm not lefty, just a weird way of doing things"** quirk; daily-driver phones on the
+  desk (Pixel 2 XL panda / iPhone X / white OnePlus 5T). Philosophy: **"frictionless — turn footage into videos"**
+  + the anti-flex **"it comes together over time"** + the meta "**two ways to watch a setup tour** — gather
+  inspiration, don't copy." [2018-01-04] ([[../../sources/2018-01-04-yt-6UR_H5XJkeM]]) · [2018-03-02] ([[../../sources/2018-03-02-yt-jn9mHzXJIV0]])
+- **Own-workflow render testing (not synthetic benchmarks).** For the i9 MacBook Pro he ran **his real Final Cut
+  RED-8K export**: iMac Pro **6:53** / 2017 MBP **25:38** / 2018 i9 **21:21** (≈15% faster). The "how many games of
+  **Rocket League** we can play before it's done exporting" studio metric. He measures gear against the work he
+  actually does. [2018-07-21] ([[../../sources/2018-07-21-yt-cVCRAKDt21E]]) · [2018-03-02] ([[../../sources/2018-03-02-yt-jn9mHzXJIV0]])
+- **"I'm a video person" — audio explained as color grading.** On the $2,400 Sennheiser HD 820: "a regular pair
+  floods your senses; switch to these and it seems flat at first, then the **highlights, shadows, and textures**
+  get vibrant — best analogy I've got, **because I'm a video person**." + the honest "I'm streaming compressed
+  files, not getting 100%" and his **test-track ritual** (Daft Punk "Contact," Deadmau5 "Strobe"). [2018-06-27]
+  ([[../../sources/2018-06-27-yt-r6axJnv3jpQ]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._
