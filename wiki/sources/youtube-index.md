@@ -1017,7 +1017,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2019-04-16 — [[2019-04-16-yt-x4yF3a3Zn4Y|Samsung Galaxy Fold Unboxing: Magnets!]] · tech-reviews, smartphones, consumer-tech-culture
 - 2019-04-18 — [[2019-04-18-yt-vtqtyyGZvXM|The Broken Galaxy Folds: Explained!]] ★ · tech-reviews, smartphones, tech-industry-commentary
 - 2019-04-19 — [[2019-04-19-yt-Oy8zSYKkczI|Retro Tech: Game Boy]] ★ · consumer-tech-culture, tech-industry-commentary, tech-reviews _(documentary; Casey Neistat + historians guests — quarantined)_
+- 2019-05-08 — [[2019-05-08-yt-vcaXm9dgcpI|Google Pixel 3a Impressions: Flips the Script!]] ★ · tech-reviews, consumer-tech-culture _("flips the script": budget phones usually cut camera/screen/build, the $399 3a cut specs instead and kept a flagship camera + OLED + headphone jack)_
 - 2019-05-17 — [[2019-05-17-yt-jFZ0MFYup-o|Dope Tech: The Probe Lens!]] · production-filmmaking, consumer-tech-culture
+- 2019-05-20 — [[2019-05-20-yt-JEWzl4V2YBI|OnePlus 7 Pro: What You Didn't Know!]] ★ · tech-reviews, consumer-tech-culture _(follow-up loose ends — two evergreen frameworks: screen-on-time is NOT cross-reviewer comparable; un-certified water resistance = paying for the seals, not the certificate; pop-up free-fall retraction math)_
+- 2019-05-22 — [[2019-05-22-yt-qZGpmWrVSaU|The Huawei Ban: Explained!]] ★★ · tech-industry-commentary, consumer-tech-culture _(LANDMARK explainer — "competition is good for consumers, even if you're not a fan"; hardware survivable (Kirin silicon, stockpile) but software isn't (AOSP without Google services / no viable app store); the ZTE 2018 precedent; folding-phone knock-on)_
+- 2019-05-24 — [[2019-05-24-yt-XnSqlX1kCQo|Google Pixel 3a Review: A for Ace!]] ★ · tech-reviews, consumer-tech-culture _(full review — camera "A" (vs pixel 3's A+), miles ahead of the class; the display is the real downgrade; fine-not-fast; battery beats the flagship; no Pixel Visual Core → near-zero visible effect)_
+- 2019-05-29 — [[2019-05-29-yt-ySMGudnpdXQ|Asus ZenFone 6: Swivel Camera Magic!]] ★ · tech-reviews, consumer-tech-culture _(motorized swivel camera = another notch WORKAROUND, not the permanent solution (cf. notches/hole-punches/pop-ups); the 2013 Oppo N1 callback; A+/B-minus camera scale; "I'm a sucker for camera quality over anything")_
+- 2019-05-31 — [[2019-05-31-yt-xjFPX7EoINs|The 2019 iPod Touch: Why Does It Exist?]] ★★ · tech-reviews, consumer-tech-culture, creator-business _(BIOGRAPHY — his first-ever tech purchase was an iPod Touch bought with allowance in HS, stolen from his locker, then a Zune HD; "specs on paper don't tell the whole story"; only the $200 one makes sense)_
+- 2019-06-04 — [[2019-06-04-yt-QJxbqIo5pC0|2019 Mac Pro Impressions: Cheese Grater is Back!]] ★★ · tech-reviews, production-filmmaking, tech-industry-commentary _(ends the "don't cancel the Mac Pro" saga — modularity/upgradeability is back; "no tool makes you better at creating; pros pay for quality control + speed"; the $1,000-stand PR lesson; his most-anticipated pro tool)_
 - 2019-07-20 — [[2019-07-20-yt-ROkXM3csNWY|The Last (and First) Folding Phone!]] ★ · smartphones, tech-reviews
 - 2019-08-19 — [[2019-08-19-yt-_CTUs_2hq6Y|5G: Explained!]] ★ · tech-industry-commentary, smartphones, consumer-tech-culture
 - 2019-09-06 — [[2019-09-06-yt-XoH8no1MQWA|Dope Tech #20: Dual Screen Tech!]] ★ · consumer-tech-culture, tech-reviews, smartphones, production-filmmaking
@@ -1145,4 +1152,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_1094 videos ingested (L2) so far._
+_1101 videos ingested (L2) so far._

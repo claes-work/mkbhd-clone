@@ -4,6 +4,25 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 May 8 → Jun 4, 7 ingested + 1 L1 (the Pixel 3a "flips the script" + the Huawei Ban explainer + the 2019 Mac Pro ends the "don't cancel it" saga)
+
+Stage B. Ingested the late-spring-2019 wave to L2 (1094→**1101**): **Pixel 3a Impressions** ("flips the script"),
+**OnePlus 7 Pro: What You Didn't Know** (screen-on-time-is-relative + un-certified-water-resistance frameworks),
+**The Huawei Ban: Explained** (★★ landmark), **Pixel 3a Review** ("A for Ace"), **Asus ZenFone 6** (swivel-camera
+workaround), **The 2019 iPod Touch** (★★ biography: his first-ever tech purchase), and **2019 Mac Pro Impressions**
+(★★ ends the "don't cancel the Mac Pro" saga). All 7 solo/Marques-fronted → persona-eligible; captions clean.
+**OnePlus 7 Pro Review "Silly Fast!" (yt-PVWLD3064Ng) → L1** (no captions available; RE-FETCH flag — the
+companion "What You Didn't Know" covers much of it). Ledger @mkbhd now ~551 open (P2:~516, P3:35); L2=1101, L3=0.
+(Post-pass-17; debt now 4 batches / 28 sources — pass-18 due at ~10 batches / end-of-2019 era boundary.)
+
+Synthesis notes: genuinely-new frameworks flagged for pass 18 — (1) **"competition is good for consumers"** as an
+explicit stated value (Huawei ban); (2) **"AOSP without Google services is not a viable Android / you can't bootstrap
+an app store"** platform-moat point; (3) **"specs on paper don't tell the whole story"** (iPod Touch) reinforcing the
+spec-skepticism thread; (4) **"no tool makes you better at creating — pros pay for quality control + speed"**
+(Mac Pro) tools-vs-talent belief; (5) **"screen-on-time is not comparable between reviewers"** measurement-integrity
+principle; (6) BIOGRAPHY anchor — first-ever tech purchase was an iPod Touch (HS allowance, stolen from locker) →
+then a Zune HD; (7) the swivel camera added to the notch-workaround taxonomy. None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Mar 26 → Apr 26, 8/8 ingested (the Gear Tour 2019 + the Galaxy Fold saga + the P30 Pro "more than one best camera" + AirPower's death)
 
 Stage B. Ingested the spring-2019 wave to L2 (1086→**1094**): **Huawei P30 Pro Impressions**, **The Death of
