@@ -4,6 +4,40 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2018 Jan 4 → Feb 16, 7/7 ingested (the AutoFocus series is BORN + the iMac Pro setup rig + HomePod "dumbest smart speaker")
+
+Stage B. Second batch of the 2018 era (992→999 L2): the **iMac Pro Setup Tour 2018**, **AirPods for Android**,
+**Driving a Tesla Model 3! [Auto Focus Ep. 1]**, **What's On My Phone 2018**, **Dear Snapchat**, **MKBHD Merch
+Review 2018**, and **Apple HomePod Review: The Dumbest Smart Speaker**. All 7 solo/Marques-fronted →
+persona-eligible; captions clean; no dups. The driver again auto-marked the accumulating **Ask-MKBHD Q&A**
+(yt-6joCzIxiUaE, "Free Tesla Roadster? Ask MKBHD V24!", 2018-01-23) — left OPEN for a deliberate later fetch
+(these are persona-rich biography, not skips). Ledger @mkbhd now 661 open (P2:626, P3:35); L2=999, L3=0.
+(Post-pass-15; debt now 2 batches / 15 sources.)
+
+Synthesis notes (for pass 16) —
+**(1) LANDMARK — the Auto Focus car series is BORN** (Driving a Tesla Model 3 [Auto Focus Ep. 1], 2018-01-18):
+explicitly "episode one" of his dedicated car channel/series. ⚠️ **CORRECTS the ev-cars hub**, which labeled
+Auto Focus "2026" — the series actually launched **2018-01-18**. Model 3 framed as "the car the entire master
+plan was building toward — the mass-market Tesla"; the **$35k-vs-actual-$57k price-reality** move; minimalism-
+serves-manufacturing/autonomy; measured against his own Model S. **(2) PRODUCTION/BIOGRAPHY — the definitive
+2018 editing rig** (iMac Pro Setup Tour): X-Desk Air Pro (~6yr), Yamaha HS8, 80TB Promise Pegasus R3, iMac Pro
+10-core (18-core ordered), Sennheiser HD800 ColorWare + Apollo Twin Mk2, Herman Miller Embody ("everyone in the
+studio has this now"), Hasselblad X1D; the **mouse-right/trackpad-left "I'm not lefty, just a weird way of doing
+things"** quirk; daily drivers **Pixel 2 XL panda (primary) / iPhone X / white OnePlus 5T**; philosophy
+"frictionless — turn footage into videos" + the anti-flex **"it comes together over time"** + the meta "two ways
+to watch a setup tour" (gather inspiration, don't copy). **(3) TEACH-THE-MECHANISM / "Dear X"** (Dear Snapchat):
+Snapchat screen-grabs the viewfinder instead of using the camera API → potato snaps on great cameras; the
+**dev-incentive fragmentation economics** (~3 iPhones/yr vs hundreds of Androids = low ROI); media-literacy rule
+**"the app can be the bottleneck, not the hardware."** **(4) MEMORABLE VERDICT + "classic Apple" walled-garden**
+(HomePod, "The Dumbest Smart Speaker"): "best-sounding smart speaker you can buy — and the dumbest; the hardware
+is fantastic, **Siri is the ceiling**"; can't even use it as a normal computer/TV speaker; buyer-first "who is
+this for" close. **(5) "I was a skeptic and I was wrong"** (AirPods for Android) — on-record self-correction +
+the jack-is-dead / forced-wireless-improvement thesis vindicated. **(6) two-phone system stated plainly**
+(What's On My Phone 2018): Pixel 2 XL panda primary / iPhone X secondary, "isn't switching annoying? yes — but
+it's the job." **(7) CREATOR-BUSINESS — the permanent MKBHD merch store launches** (Merch Review 2018) + biography
+data point **6'3", wears a large** + brand-consistency "if I wouldn't wear it, it doesn't go in the store." Next
+synthesis checkpoint (pass 16) at ~10 batches or the next era boundary (the 2018 flagship season).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2017 Nov 16 → 2018 Jan 2, 8/8 ingested (Portrait Mode Explained + the iMac Pro replaces the Mac Pro + 5 MILLION subs)
 
 Stage B. Ingested the late-2017 tail into early 2018, to L2 (984→992): the **OnePlus 5T**, the **Tesla
