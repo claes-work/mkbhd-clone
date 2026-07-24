@@ -1177,6 +1177,14 @@ is Marques-attributed (persona/voice data); no per-line quarantine needed._
 - 2020-10-27 — [[2020-10-27-yt-QtMzV73NAgk|PlayStation 5 Unboxing & Accessories!]] · consumer-tech-culture, tech-reviews
 - 2020-11-01 — [[2020-11-01-yt-imx_-6tHjhw|PlayStation 5 Controller: Major Key!]] ★ · tech-reviews, consumer-tech-culture, gaming _(the DualSense may be the most "next-gen" thing about any console — "the controller connects you more physically than the graphics"; strong haptics + adaptive triggers (Astro's Playroom); his haptic-motor-quality obsession, tying phones + the MacBook trackpad + the controller)_
 - 2020-11-09 — [[2020-11-09-yt-qrzCLgDplTw|iPhone 12 Pro Max Review: The Biggest Ever!]] ★★ · tech-reviews, tech-industry-commentary, production-filmmaking _(the biggest-and-best everything; a real camera-hardware jump but "not much happened"; the promotable "if you need a side-by-side to see it, most people won't notice" tell; "the Apple way = wait-and-perfect-what-sticks (unless it's USB-C)"; the computational-photography plateau)_
+- 2020-11-09 — iPhone 12 Mini Review: Tiny Tradeoffs! · (skipped — garbled foreign captions; RE-FETCH)
+- 2020-11-11 — [[2020-11-11-yt-b6g6rDDt9x8|Apple M1 Chip: Let's Talk!]] ★★ · tech-industry-commentary, tech-reviews, production-filmmaking _(the Apple-silicon transition payoff — predicted efficiency OR power, "they did both"; "the upside and downside of control" (soldered RAM, fewer ports); claims-vs-real-life graph skepticism; most excited for the desktops (optimize for power); "I told you to wait")_
+- 2020-11-12 — [[2020-11-12-yt-b7RhbRujjUA|HomePod Mini Review: Big Sound, Tiny Box!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _("the more Apple you use, the better it is" (ecosystem lock-in as a buying calculus); "sound quality last"; Siri is still behind; "peek over the walls of the garden" (HomeKit a distant third))_
+- 2020-11-14 — [[2020-11-14-yt-MepGo2xmVJw|PlayStation 5 Review: Next Gen Gaming!]] ★ · tech-reviews, consumer-tech-culture, gaming _("no single thing, but together it adds up" = next-gen; the statement-piece design (higher ceiling AND lower floor); fidelity vs performance (he picks 60 fps); the DualSense is great but underutilized (2K21 the exception); console-as-a-cheap-long-lived-PC)_
+- 2020-11-17 — Apple M1 Mac Review: Time to Recalibrate! · (L1 — no captions available; RE-FETCH)
+- 2020-11-24 — [[2020-11-24-yt-noKpc8fo-R0|The First Folding Screen Tablet!]] ★ · tech-reviews, tech-industry-commentary, production-filmmaking _(Lenovo ThinkPad X1 Fold, SPONSORED; foldables at scale as a learning device; the hinge is the hardest part (even at laptop scale); a real keyboard still beats virtual; foldables need developers; the "more people work on it, the better" flywheel)_
+- 2020-11-27 — The FIRST MKBHD Product: ICONS! · (L1 — no captions available; RE-FETCH)
+- 2020-11-30 — [[2020-11-30-yt-il9SZU_nsVc|What's in my Tech Bag! [2020]]] ★★ · content-strategy, production-filmmaking, consumer-tech-culture _(biography/persona; "tech I choose" — "it's not always the best thing, and that's fine"; the two-phone (Android + iPhone) habit; LASIK; R5-for-photos (Peter McKinnon) + A7S3/Komodo-for-video; ICONS; one-charger-USB-C-everything)_
 - 2020-12-10 — [[2020-12-10-yt-UdfSrJvqY_E|AirPods Max Unboxing & Impressions: $550?!]] · tech-reviews, consumer-tech-culture, production-filmmaking
 - 2020-12-16 — [[2020-12-16-yt-I49VNQ6lmKk|Some Quick Advice from Barack Obama!]] ★ · tech-industry-commentary, creator-business, consumer-tech-culture _(interview; Obama quarantined)_
 - 2020-12-16 — [[2020-12-16-yt-Gvvo6vUpJRc|AirPods Max Review: Luxury Listening!]] ★ · tech-reviews, consumer-tech-culture, production-filmmaking
@@ -1275,4 +1283,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_1223 videos ingested (L2) so far._
+_1228 videos ingested (L2) so far._

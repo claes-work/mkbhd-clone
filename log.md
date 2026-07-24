@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Nov 9 → Nov 30, 5 ingested + 1 skip + 2 L1 (the M1 payoff, the PS5 review, and the "tech I choose" bag)
+
+Stage B. Ingested the late-Nov-2020 wave to L2 (1223→**1228**): **Apple M1 Chip: Let's Talk!** (★★), **HomePod
+Mini Review** (★), **PlayStation 5 Review: Next Gen Gaming** (★), **The First Folding Screen Tablet** (★, Lenovo
+ThinkPad X1 Fold, SPONSORED), and **What's in my Tech Bag [2020]** (★★, biography/persona). **Skipped: iPhone 12
+Mini Review** (yt-Yhze-aRR6o0) — garbled foreign auto-captions (Dutch-derived ASR gibberish), RE-FETCH. **L1
+(no-captions): Apple M1 Mac Review: Time to Recalibrate!** (yt-f4g2nPY-VZc) and **The FIRST MKBHD Product: ICONS!**
+(yt-l4bNwGCx1FA) — both driver-marked, RE-FETCH. All 5 ingested are solo/Marques-fronted → persona-eligible (the
+ThinkPad X1 Fold is a paid Lenovo showcase, flagged). Ledger @mkbhd now ~406 open (P2:~373, P3:33); L2=1228,
+L3=0. (Post-pass-18; debt now ~6 batches / ~75 sources since the high-water at 1153 — **pass-19 due at the
+end-of-2020 era boundary (Smartphone Awards 2020, 2020-12-23), which is the very NEXT batch (AirPods Max / Obama /
+Smartphone Awards).**)
+
+Synthesis notes (for pass 19, at the 2020 boundary — NEXT iteration): (1) the **Apple-silicon M1 payoff**
+(landmark): the validated prediction **"efficiency OR power → they did both"** + the promotable **"the upside and
+downside of control"** (soldered RAM, fewer ports — insane optimization + insane control over what you pay) +
+**claims-vs-real-life** marketing-graph skepticism + **most-excited-for-the-desktops** (optimize purely for
+power) + **"I told you to wait"** — extends the WWDC "Great Transition" + Osborne-Effect arc. (2) **HomePod mini**:
+the promotable **"the more Apple you use, the better it is"** ecosystem-lock-in calculus + **sound-quality-last**
+reviewer-priorities + **Siri-is-still-behind** + **"peek over the walls of the garden"** (honest cross-shop —
+HomeKit a distant third). (3) **PS5 review**: **"no single next-gen thing is a huge difference by itself, but
+together they add up"** + the **statement-piece higher-ceiling/lower-floor** design read + **fidelity-vs-
+performance (he picks 60 fps)** + the honest **DualSense-is-underutilized** follow-up (2K21 fatigue-trigger the
+exception) + **console-as-a-cheap-long-lived-PC**. (4) **foldables at scale** (ThinkPad X1 Fold): a **learning
+device**; **the hinge is the hardest part even at laptop scale**; **a real keyboard still beats virtual**; the
+**foldables-need-developers** bottleneck; the **"more people work on it, the better it gets"** flywheel. (5)
+**BIOGRAPHY/PERSONA** (Tech Bag 2020): the promotable **"it's not always the best thing, and that's fine"**
+anti-maximalism (from the guy who tests everything) + the **two-phone (Android + iPhone) habit** (OnePlus 8 Pro +
+iPhone 12 Pro, "two blue phones"; not the Pro Max — too big) + **LASIK** + **R5-for-photos (Canon color science,
+Peter McKinnon) / A7S3 + Komodo-for-video** + **one-charger-USB-C-everything** + the **ICONS** product line +
+red-and-black aesthetic → feed persona/biography + voice + beliefs. None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Oct 14 → Nov 9, 6 ingested + 1 skip + 1 L1 (the iPhone 12 / PS5 wave: "the Apple way," the DualSense, the Pixel-5 software thesis)
 
 Stage B. Ingested the iPhone-12/PS5 wave to L2 (1217→**1223**): **iPhone 12 Lineup Reactions** (★), **iPad Air
