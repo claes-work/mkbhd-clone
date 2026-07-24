@@ -4,6 +4,47 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Feb 21 → Mar 16, 8/8 ingested (the "Explained" run: the Apple Ecosystem walled-garden + State of Bezels + iMac Pro "Not a Trap") — crosses 1000 L2
+
+Stage B. Third batch of the 2018 era (999→**1007 L2** — crosses the 1000-source milestone): **The In-Glass
+Fingerprint Reader: Explained**, **Galaxy S9 Impressions**, **Galaxy S9 Camera: What's New**, **18-core iMac Pro
+Review: Not a Trap!**, **The 🍎 Ecosystem: Explained!**, **Talking Tech with Neil deGrasse Tyson**, **The State
+of Bezels! (2018)**, and **Top 5 Android Pie Features**. 7 solo/Marques-fronted → persona-eligible; captions
+clean; no dups, no skips. **1 guest-dominated** (NdGT interview — see attribution note below). A dense
+teach-the-mechanism/"Explained" cluster. Ledger @mkbhd now 652 open (P2:617, P3:35); L2=1007, L3=0.
+(Post-pass-15; debt now 3 batches / 23 sources.)
+
+⚠️ **Attribution discipline this batch:** the **Neil deGrasse Tyson** interview (yt-pqQrL1K0Z5g) is
+guest-dominated — NdGT + Chuck Nice are GUESTS and are **quarantined**; only Marques's StarTalk-collab biography
+note and his tech-trickle-down question are subject-attributed (the on-camera "you were 12/14" is jokey
+hyperbole, NOT a literal age). The **Apple Ecosystem** video (yt-KB4_WIPE7vo) opens with vox-pop clips of other
+creators — those are quarantined; all narration is Marques.
+
+Synthesis notes (for pass 16) —
+**(1) LANDMARK teach-the-mechanism — the Apple "walled garden" framework** (The 🍎 Ecosystem: Explained): the
+canonical MKBHD lock-in explainer — the **hooks** (iMessage/blue bubbles, Continuity, AirDrop, iCloud, W1/AirPods,
+the Watch-as-paperweight), **why "pointless" products exist "within the ecosystem"** (directly answers "why does
+the HomePod exist in 2018"), the **switching-cost-by-hook-depth** analysis (AirPods = one hook; the iPhone = many),
+the self-implicating confession **"I use Android, but I'm a Final Cut Pro editor — that's my hook,"** and the
+closing **"don't isolate yourself to one ecosystem — take a peek over the walls."** Extends the "classic Apple"
+critique from the HomePod review into a whole framework. **(2) The "is it a trap?" arc RESOLVED — NOT a trap**
+(18-core iMac Pro Review): the maxed 18-core ($13k) becomes his **full-time daily editor, replacing the trash-can
+Mac Pro**; the **"how many games of Rocket League" render benchmark** (signature bit); **8K REDCODE** timeline
+playback "almost like ProRes"; buyer-first by app suite (Final Cut = 100% no-brainer; **go 10-core + Vega 64**).
+Closes the Dec-2017 "give it a chance" promise. **(3) The notch, defined** (State of Bezels): **"this notch isn't
+the future — it isn't even a feature; it's an awkward middle stage"**; the component-relocation mechanism
+(in-glass fingerprint, **piezoelectric earpiece**, motorized pop-up front cam / Vivo Apex "a concept for a
+reason"); **Samsung-way vs Apple-way**; the **copy / headphone-jack parallel** ("weird at first, but it moves us
+forward — the shame is everyone copying it"); Essential's design award. **(4) Camera-literacy — variable aperture
+explained** (Galaxy S9): first smartphone f/1.5↔f/2.4; **"the wider you go, the softer it is — stop down for
+sharpness"**; calibrated "top camera of the year — just #1/2/3" pre-verdict; **AR Emoji = "Animoji ripoff,
+creepy."** **(5) In-glass fingerprint — "what Face ID wanted to be"** (optical CMOS under OLED; faster than Face
+ID, slower than Touch ID; touch-anywhere trajectory). **(6) The "refinement era" framing + privacy-first instinct**
+(Android P: bg apps can't use mic/cam, lockdown mode). **(7) BIOGRAPHY — the StarTalk / NdGT collaboration**
+(guest ~2016, reverse-interview 2018-03-09) + the "consumer tech trickles down from military/space R&D" framing.
+Next synthesis checkpoint (pass 16) at ~10 batches or the next era boundary (the 2018 flagship season) — debt now
+3 batches; the walled-garden framework + the trap-resolution + the notch-definition are the priority promotions.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2018 Jan 4 → Feb 16, 7/7 ingested (the AutoFocus series is BORN + the iMac Pro setup rig + HomePod "dumbest smart speaker")
 
 Stage B. Second batch of the 2018 era (992→999 L2): the **iMac Pro Setup Tour 2018**, **AirPods for Android**,
