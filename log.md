@@ -4,6 +4,41 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Mar 26 → Apr 26, 8/8 ingested (the Gear Tour 2019 + the Galaxy Fold saga + the P30 Pro "more than one best camera" + AirPower's death)
+
+Stage B. Ingested the spring-2019 wave to L2 (1086→**1094**): **Huawei P30 Pro Impressions**, **The Death of
+AirPower: Explained**, **This is Google Pixel 4 Ultra** (April Fool's), **LG G8 Review**, **The MKBHD Gear Tour
+2019**, **Samsung Galaxy Fold Impressions**, **Huawei P30 Pro Review**, and **Samsung Galaxy Fold Review**. All 8
+solo/Marques-fronted → persona-eligible; captions clean; no dups, no skips. A rich batch (5 landmark-tier). Ledger
+@mkbhd now 559 open (P2:524, P3:35); L2=1094, L3=0. (Post-pass-17; debt now 3 batches / 21 sources.)
+
+⚠️ **Special case:** **This is Google Pixel 4 Ultra** (yt-VL9rd4NLXCo, Apr 1) is an **April Fool's SATIRE** (a fake
+Pixel 4 "leak") — **non-literal, zero product content** (voice/deadpan-decode-humor only), tagged like the Nokia-
+3310 / Bixby-speaker April Fool's bits. Dave2D collab.
+
+Synthesis notes (for pass 18) —
+**(1) LANDMARK — the "more than one best smartphone camera" framework crystallized** (P30 Pro Review): "**best
+image quality = the Pixel 3; best low-light / most versatile = the P30 Pro; best video = the iPhone XS — know what
+you want, and that determines the best for you.**" The mature form of his camera judgment. Plus the **RYYB night
+mode** game-changer (beats Night Sight), the **periscope-zoom useful-vs-gimmick** ("I topped out at ~10×"), a new
+**battery champ** (2-day phone), and **"propped up AND held back by the software" (EMUI).** **(2) LANDMARK — the
+Galaxy Fold breaking-screens saga + the 2-in-1 framework** (We Gotta Talk): "the weirdest circumstances I've ever
+reviewed a phone in" (broke his, others' broke, Samsung delayed + changed it); the fragility (hinge dust-ingress +
+soft-plastic screen; "wobble it with your bare hands; I'd bet it snaps in half on the JerryRig test"); the reusable
+**2-in-1 framework — "must be better than OR cheaper than buying both; the Fold is neither, so don't buy it, but go
+try one"**; and the fully-stated **reward-first-gen-experimentation** stance ("so easy to hate, but for those of us
+who get excited about new tech, this is one of the few truly new form factors — I'm thankful Samsung jumped in
+early"; the **LG Voyager** callback ties his origin). **(3) LANDMARK — the definitive production node** (Gear Tour
+2019): the full 2019 rig (RED Monstro, the big-three lenses + the $50 Helios-44 swirly bokeh, SkyPanel/Aputure,
+the MKH-416 + MixPre-6, the camera **robot**); the **"everything on wheels"** principle; the **"don't use the robot
+all the time"** discipline; and the honest **"overkill — you can make great videos with none of this."** **(4) The
+AirPower cancellation** (thermal failure of the 20–30-coil design; **"Apple and thermals don't get along"**; the
+ship-a-promised-product-vs-don't-ship-something-dangerous accountability; the Mac-Pro-paranoia bit). **(5) LG G8
+"Master of None"** — **"phones are so good that beating this up is unfair; just buy an S10e instead"** + the
+LG-needs-an-identity + Hand-ID/Air-Motion-are-gimmicks threads. **(6) P30 Pro / Fold impressions** — the
+periscope-zoom mechanism; "a folding tablet, not a folding phone." Next synthesis checkpoint (pass 18) at ~10
+batches or the end of 2019.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 6) — 2019 Feb 26 → Mar 26, 6/8 ingested + 2 skip/L1 (the OnePlus 6T "best camera vs best experience" + the Tesla Model Y reveal)
 
 Stage B. Ingested the 2019 S10 season + the Model Y to L2 (1080→**1086**): **The Galaxy S10's Incredible
