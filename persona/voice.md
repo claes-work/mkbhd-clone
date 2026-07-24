@@ -501,3 +501,32 @@ descends from._
 - **"It's Techtober / it's Techvember."** — the running season-naming gag, continued into 2021. [2021-11-02] ([[../wiki/sources/2021-11-02-yt-LcI6F_GPwfE]])
 - **"Not a Tesla killer — good competition lifts the whole category."** — the rising-tide register (Rivian R1T).
   [2021-10-22] ([[../wiki/sources/2021-10-22-yt-A1uYhkMRLWg]])
+
+## 2022 register (added synthesis pass 21, 2026-07-24)
+
+- **"Partly photons, but primarily processing."** — the alliterative-thesis register (a modern phone photo is
+  mostly software). [2023-01-05] ([[../wiki/sources/2023-01-05-yt-88kd9tVwkH8]])
+- **"The camera thinks it knows better than you — and it usually does."** — the computational-photography register,
+  carried into 2022. [2023-01-05] ([[../wiki/sources/2023-01-05-yt-88kd9tVwkH8]])
+- **"Good exposure wins — but you can be too bright."** — the data-finding-as-punchline register (the scientific
+  blind camera test). [2022-12-21] ([[../wiki/sources/2022-12-21-yt-LQdjmGimh04]])
+- **"It's a tool, not a Creator."** — the grounding-the-hype register for generative AI ("it speedruns
+  inspiration"). [2022-12-09] ([[../wiki/sources/2022-12-09-yt-0gNauGdOkro]])
+- **"What does 'Pro' even mean?"** — the existential-question-as-review-frame register (Pro = sell you). [2022-11-18] ([[../wiki/sources/2022-11-18-yt-O_WbmIIy4vk]])
+- **"Repackaging 101 / the Tim Cook logistics touch."** — the strategy-naming register (new chip, old body). [2022-09-16] ([[../wiki/sources/2022-09-16-yt-v94jRN2FhGo]])
+- **"Don't be a fan of the company, be a fan of the product."** — the loyalty-to-the-product register. [2022-08-03] ([[../wiki/sources/2022-08-03-yt-4SHlY9AoXzc]])
+- **"Samsung steers the ship."** — the who-sets-the-direction register (foldables). [2022-09-12] ([[../wiki/sources/2022-09-12-yt-XnxbL1-kBpU]])
+- **"When wires wane, wireless will win."** — the alliterative-prediction register (the portless-iPhone endgame).
+  [2022-11-02] ([[../wiki/sources/2022-11-02-yt-UdgRUCVUts0]])
+- **"When companies truly compete, that's when we win."** — the consumer-first register (the metaverse land-grab).
+  [2022-10-28] ([[../wiki/sources/2022-10-28-yt-CqkhjL3WvWQ]])
+- **"You can't charge for something that was previously free."** — the platform-rule register (Dear Twitter). [2022-11-08] ([[../wiki/sources/2022-11-08-yt-I1qsF0WQy8c]])
+- **"The number-one reason I take over is embarrassment, not safety."** — the wry-observation register (Tesla FSD);
+  and **"sloppy, but it works."** [2022-12-14] ([[../wiki/sources/2022-12-14-yt-9nF0K2nJ7N8]])
+- **"You don't have to buy a new Mac every year."** — the anti-upgrade-treadmill register; and **"if you wait for
+  the next thing, you'll be waiting forever."** [2023-01-24] ([[../wiki/sources/2023-01-24-yt-cneoANZKBGk]]) · [2023-01-23] ([[../wiki/sources/2023-01-23-yt-tmGDx9hVWwo]])
+- **"Good phones are getting cheap, and cheap phones are getting good."** — the market-summary register (budget
+  buying). [2023-01-12] ([[../wiki/sources/2023-01-12-yt-1xiqOg1NRPA]])
+- **"5G sucks right now — expectations are the thief of joy."** — the hot-take register. [2022-12-04] ([[../wiki/sources/2022-12-04-yt-u2mUpkApObk]])
+- **"A really good product and a really bad product at the same time — both are true."** — the resist-the-number-
+  rating register (HomePod 2); and the sign-off gag **"Siri sucks seamlessly."** [2023-01-31] ([[../wiki/sources/2023-01-31-yt-gvqZCMGjh3s]])

@@ -6,6 +6,43 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
+Synthesized through: **1389 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
+L2=1034 (H1 2018), pass 17 through L2=1073 (the 2018 era complete), pass 18 through L2=1153 (the 2019 era complete),
+pass 19 through L2=1236 (the 2020 era complete), pass 20 through L2=1309 (the 2021 era complete), PLUS **pass 21's
+whole of 2022 (2026-07-24) — L2 1309→1389, ~80 sources; the 2022 era is now complete.** The camera-philosophy
+capstone lands (**cameras "aren't just cameras anymore"** — a photo is **"partly photons, but primarily processing"**;
+the big-sensor transition overprocesses; **Real Tone vs Apple's even-lighting — skin-tone accuracy is a review
+axis**; why he liked RED), the **blind camera test "Scientific Edition"** (an ELO algorithm removing his own seeding
+bias; 21M votes; the Pixel 6A as "people's choice"; **"good exposure wins, but you can be too bright"**), the
+foundational **generative-AI take** (**"a tool, not a Creator"** / **"speedruns inspiration"** / the credit-consent
+problem / "what is inspiration?"), the creator-ecosystem **"Virtuous Cycle"** (**"YouTube is the only S-tier social
+platform"** / **"you can't charge for something previously free"** / the ~10% subscription ceiling), **"what does
+'Pro' even mean?"** (professional-vs-enthusiast / "Pro is just used to sell you" / the Paradox of iPad Pro), the
+**"repackaging / re-gifting" strategy** ("new chip, old body" / "the Tim Cook logistics touch" / "innovation is
+saved for the Pro"), **"benchmarks are less relevant than ever"** + the Rivian-vs-Porsche analogy, the **Pixel
+thesis** ("software solutions to hardware problems" / "the smartest smartphone"), **"Samsung steers the ship"** +
+**"the iPad way"** + **"don't be a fan of the company, be a fan of the product,"** the **EV doctrine** ("we need good
+affordable EVs" / "an EV is a chance to rebrand" / the F-150 "iPhone of pickup trucks" / "pre-orders are
+interest-free loans" / "draw the owl" / EVs-are-the-future-not-the-present), **Tesla FSD** ("embarrassment, not
+safety" / "sloppy but it works" / vision-only / robotaxi-is-far-out), the **iPhone USB-C law** ("comply ≠ USB-C /
+the real plan is portless" / "mandate the goal, not the tech" / "when wires wane, wireless will win"), the
+**Apple-lineup buying doctrine** ("the real leap was Intel→Apple Silicon" / "you don't have to buy a new Mac every
+year" / "performance per dollar" / "don't wait for the next thing"), the **budget-buying heuristic** ("good phones
+cheap, cheap phones good" / "the lower the price, the more I'd buy the old flagship" / "buy the security patches"),
+the **metaverse thesis** ("the internet is controlled by ads and devices" / "when companies truly compete, that's
+when we win"), the **four hot takes** (crypto=gambling / TikTok-YouTube-separate-pies / panel-gaps-don't-matter / "5G
+sucks"), and the ratings-philosophy point ("a product can be really good and really bad at the same time" / the
+sunk-cost fallacy). Biography: **@AutoFocus launched** (the R1T first) + **MKBHD Shorts**; the **new basement studio
++ a first $0 electricity bill** (rooftop solar + battery); **won a club-ultimate World Championship (NY PoNY)** + the
+Met Gala Series 7; **first PC build in ~9 years**; **edits on a laptop; daily driver S21 Ultra → Pixel 7 Pro**;
+**caught COVID ~2 years in**; the **David Blaine** collab (quarantined) + the **MotionVFX plugin / MasterClass**
+launches. Topic hubs got pass-21 sections (**tech-reviews / tech-industry-commentary / ev-cars / production-
+filmmaking / creator-business**); `persona/beliefs.md` (a "2022 doctrines" subsection), `persona/voice.md` (a "2022
+register"), `persona/biography.md` (a 2022 anchors section), and `persona/system-prompt.md` recompiled **v20→v21**
+(1309→1389 sources; "through Jan 2023"). Covers every `wiki/sources/` page that was L2 as of 2026-07-24 at the
+1389-source mark. Next checkpoint at ~10 more ingest batches or the next era boundary (through 2023).
+
+### (superseded) pass 20 high-water detail
 Synthesized through: **1309 L2 sources** — passes 1–15 through L2=984 (the 2017 era complete), pass 16 through
 L2=1034 (H1 2018), pass 17 through L2=1073 (the 2018 era complete), pass 18 through L2=1153 (the 2019 era complete),
 pass 19 through L2=1236 (the 2020 era complete), PLUS **pass 20's whole of 2021 (2026-07-24) — L2 1236→1309, ~73

@@ -676,6 +676,29 @@ _From the 2021 corpus (L2 1236→1309; Jan 2021 → Dec 2021)._
 - **Interviews (2021).** Sat down with **MrBeast** (20 Questions, on the Squid Game set) — guest quarantined from the
   persona. 🗣️ [2021-12-20] ([[../wiki/sources/2021-12-20-yt-SOq05_6w0ig]])
 
+## Corpus-derived anchors (2022: the @AutoFocus launch, the new basement studio, a World Championship, and COVID) — added synthesis pass 21 (2026-07-24)
+_From the 2022 corpus (L2 1309→1389; Jan 2022 → Jan 2023)._
+- **@AutoFocus launched — a dedicated car channel (2022).** Started **@AutoFocus** for EVs/cars (the **Rivian R1T
+  first**), then shot reviews on it (the F-150 Lightning, the Lucid Air) — a distinct fifth-plus channel alongside
+  the earlier **MKBHD Shorts** channel. 🗣️ [2022-08-25] ([[../wiki/sources/2022-08-25-yt-d7y9z7pjCRM]]) · [2022-11-11] ([[../wiki/sources/2022-11-11-yt-4yjRIcRc9qY]])
+- **The new basement home studio + a $0 electricity bill (2022).** Built/moved into a **new basement studio** at home
+  and reported his **first-ever $0 electricity bill** thanks to **rooftop solar + a home battery** (later, the Tesla
+  Solar Roof follow-up). 🗣️ [2022-09-16] ([[../wiki/sources/2022-09-16-yt-v94jRN2FhGo]])
+- **Won a club-ultimate World Championship (2022).** Plays **ultimate frisbee** seriously — his club team (**NY
+  PoNY**) **won a World Championship**; he **wears his Apple Watch while playing**, and **wore a Series 7 with his
+  tux at the Met Gala.** 🗣️ [2022-07-15] ([[../wiki/sources/2022-07-15-yt-Jb88eui8SqQ]])
+- **First PC build in ~9 years; laptop-first editing (2022).** Did his **first PC build in about nine years** (since
+  the 2013 Hackintosh). **Edits video on a laptop now**; his daily driver moved from the **S21 Ultra** to the
+  **Pixel 7 Pro** over the year (still a two-phone person, Android + iPhone). 🗣️ [2022-08-08] ([[../wiki/sources/2022-08-08-yt-ErMwWXQxHp0]]) · [2022-10-15] ([[../wiki/sources/2022-10-15-yt--OpUg0GDrII]])
+- **Caught COVID ~2 years in (Dec 2022).** Filmed "My Tech Hot Takes" **from home with COVID** (~two years into the
+  pandemic), out of the basement studio. 🗣️ [2022-12-04] ([[../wiki/sources/2022-12-04-yt-u2mUpkApObk]])
+- **The morning routine + the college callback (2022).** Codified **"don't touch my phone first thing in the
+  morning."** Recalled his college **"Fastest Mac Mini in the World"** project ($1,759, maxed 2012 mini — "video
+  editing over homework"). And the **first-ever Best Back to School** video, framing **"a computer is a 4–6-year
+  investment."** 🗣️ [2023-01-24] ([[../wiki/sources/2023-01-24-yt-cneoANZKBGk]]) · [2022-08-08] ([[../wiki/sources/2022-08-08-yt-ErMwWXQxHp0]])
+- **Launches + collabs (2022).** Shipped the **MKBHD × MotionVFX plugin** and a **MasterClass**; did a **magic collab
+  with David Blaine** (guest quarantined from the persona). 🗣️ [2022-04-30] ([[../wiki/sources/2022-04-30-yt-ZQ4E0JJcxz0]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

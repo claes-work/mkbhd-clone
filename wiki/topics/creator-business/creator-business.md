@@ -307,6 +307,20 @@ _From the H2-2018 corpus (L2 1034→1073) — a platform-critique framework and 
 - **"Make videos you'd want to watch" (restated).** His creator sign-off to MrBeast: #1 make videos you'd want to
   watch, #2 make the best videos you possibly can, and keep at it. [2021-12-20] ([[../../sources/2021-12-20-yt-SOq05_6w0ig]])
 
+## 2022 additions (synthesis pass 21, 2026-07-24)
+- **The creator-ecosystem "Virtuous Cycle" — "YouTube is the only S-tier social platform."** Good creator tools →
+  creators bring audiences → advertisers follow → creators get paid → more creators; YouTube is S-tier because it
+  actually pays and listens. [2022-11-08] ([[../../sources/2022-11-08-yt-I1qsF0WQy8c]])
+- **"You can't charge for something that was previously free" + the ~10% subscription ceiling.** Platform-monetization
+  rules (the $8 verified badge); ads-vs-subscriptions has a ceiling. [2022-11-08] ([[../../sources/2022-11-08-yt-I1qsF0WQy8c]])
+- **"The comments are what make YouTube YouTube" + "every problem is a problem at scale."** Community-vs-platform
+  solutions; scale changes everything (Eric Schmidt). [2022-06-21] ([[../../sources/2022-06-21-yt-mrkAmmMakMg]])
+- **The blind camera test, "Scientific Edition" — an audience-scale ELO format.** Remove your own seeding bias; 21M
+  votes; "good exposure wins, but you can be too bright"; the Pixel 6A as "people's choice." [2022-12-21] ([[../../sources/2022-12-21-yt-LQdjmGimh04]])
+- **Generative AI for creators — "a tool, not a Creator," it "speedruns inspiration."** Brainstorm with it, then add
+  the human touch; the error rate and the credit/consent problem. [2022-12-09] ([[../../sources/2022-12-09-yt-0gNauGdOkro]])
+- **The @AutoFocus channel launched (2022).** A dedicated car channel (the R1T first) alongside MKBHD Shorts. [2022-08-25] ([[../../sources/2022-08-25-yt-d7y9z7pjCRM]])
+
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 

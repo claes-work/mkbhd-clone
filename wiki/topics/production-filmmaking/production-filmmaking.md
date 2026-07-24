@@ -248,5 +248,19 @@ _From the H2-2018 corpus (L2 1034→1073)._
   "captures of moments that never happened," and the enthusiast's want for the neutral, information-rich file (to
   keep editing control) vs the finished photo. [2021-12-09] ([[../../sources/2021-12-09-yt-MZ8giCWDcyE]])
 
+## 2022 additions (synthesis pass 21, 2026-07-24)
+- **"Partly photons, but primarily processing" — and skin-tone accuracy.** The production-literacy capstone: a modern
+  phone photo is mostly software; Google's Real Tone represents his skin tone accurately where Apple "evenly lights
+  faces" — one of the earliest reasons he liked **RED cameras** (accurate skin-tone rendering over Sony/ARRI/Canon).
+  [2023-01-05] ([[../../sources/2023-01-05-yt-88kd9tVwkH8]])
+- **The ProRes-export benchmark — "Pro = what it lets you do faster."** The media-engine payoff (a 3.5-min screen
+  recording to ProRes: $15K Intel Mac Pro 56s → M1 Max 32s → M2 Max 23s); the real-workflow proof over spec sheets.
+  [2023-01-23] ([[../../sources/2023-01-23-yt-tmGDx9hVWwo]])
+- **Generative AI in the workflow — "a tool, not a Creator," it "speedruns inspiration."** Use it to brainstorm and
+  break blank-page paralysis, then put the human touch on top; the credit/consent problem (LAION-5B scraped his own
+  work). [2022-12-09] ([[../../sources/2022-12-09-yt-0gNauGdOkro]])
+- **The @AutoFocus car channel + the new basement studio (2022).** Shooting car reviews on @AutoFocus; built a new
+  basement home studio (rooftop solar + battery → a first $0 electricity bill). [2022-11-11] ([[../../sources/2022-11-11-yt-4yjRIcRc9qY]]) · [2022-09-16] ([[../../sources/2022-09-16-yt-v94jRN2FhGo]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

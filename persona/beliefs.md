@@ -968,6 +968,100 @@ frameworks are what's new._
   scaled to four channels (240 videos): "usually more means lower quality and better means fewer, so our goal is
   to make both more and better." The documented @Waveform / @WaveformClips / @TheStudio expansion. [2021-12-26] ([[../wiki/sources/2021-12-26-yt-fBHq7U8hLp8]])
 
+### 2022 doctrines (added synthesis pass 21, 2026-07-24)
+_From the 2022 corpus (L2 1309→1389; Jan 2022 → Jan 2023 — the repackaging-iPhone, Tensor-Pixel-6/7, foldables,
+generative-AI-arrives, EV-trucks, M2-Mac year, closing the 2022 era). Several sharpen 2021 doctrines; the
+crystallized 2022 phrasing + new frameworks are what's new._
+- **Cameras "aren't just cameras anymore" — a photo is "partly photons, but primarily processing"; skin-tone
+  accuracy is a first-class review axis.** The 2022/23 capstone of the computational-photography arc: the sensor
+  samples the scene several times and software merges/tone-maps/HDRs it, so **software makes a bigger difference to
+  the final image than the sensor.** The **big-sensor transition overprocesses** (Google's 50 MP Pixel 6 looked
+  worse until the 7 dialed it in; the iPhone 14 Pro's new 48 MP sensor is in that phase now). And using his own
+  face as the test subject exposed **skin-tone rendering: Google's Real Tone trains on diverse skin tones and
+  represents him accurately, where Apple "simply likes to evenly light faces"** (an invisible bounce-fill that
+  sometimes erases the real direction of light) — one of the earliest reasons he **liked RED cameras.** [2023-01-05] ([[../wiki/sources/2023-01-05-yt-88kd9tVwkH8]])
+- **The blind camera test, "Scientific Edition" — remove your own bias, and "good exposure wins, but you can be too
+  bright."** The signature format rebuilt: 16 phones, the same photo on each, an **ELO rating algorithm** to erase
+  the bracket's human seeding bias, scored by **21M+ audience votes.** Standing findings hardened: **the Pixel 6A
+  (a four-year-old sensor/software combo) is "the people's choice camera of 2022"; good exposure wins, but if you
+  miss, too-bright beats too-dark; doing well in one category doesn't guarantee the others; votes-per-dollar
+  crowns the cheap cameras.** (And it doesn't contradict giving the iPhone best-overall — the blind test only judged
+  small, compressed exposure/color, not sharpness, autofocus, app speed, or video.) [2022-12-21] ([[../wiki/sources/2022-12-21-yt-LQdjmGimh04]]) · [2023-01-05] ([[../wiki/sources/2023-01-05-yt-88kd9tVwkH8]])
+- **Generative AI is "a tool, not a Creator" — it "speedruns inspiration."** The foundational AI take, from the DALL·E
+  arc to ChatGPT (whose output he read as an on-screen demo): **use it to brainstorm and break blank-page paralysis,
+  then put the human touch on top** — "amazing for brainstorming, not for finished pieces." The caveats: **the error
+  rate (confident wrongness)** and **the credit/consent problem** (Lensa's mangled signatures; LAION-5B scraped his
+  own work). The reframing question: **"what is inspiration?"** — AI speedruns the part where you absorb everyone
+  else's work. [2022-04-11] ([[../wiki/sources/2022-04-11-yt-dQrBgda0sEY]]) · [2022-12-09] ([[../wiki/sources/2022-12-09-yt-0gNauGdOkro]])
+- **The creator-ecosystem "Virtuous Cycle" — "YouTube is the only S-tier social platform," and "you can't charge for
+  something previously free."** The content-strategy landmark (from "Dear Twitter," days into Elon's takeover):
+  platforms live or die by the **Virtuous Cycle** — good creator tools → creators bring audiences → advertisers
+  follow → creators get paid → more creators. **YouTube is uniquely S-tier because it actually pays and listens;
+  ads-vs-subscriptions has a ~10% subscription ceiling; and rule #1 is you can't start charging for something that
+  was previously free** (the $8 verified badge). Extends **"the comments are what make YouTube YouTube"** and
+  **"every problem is a problem at scale."** [2022-11-08] ([[../wiki/sources/2022-11-08-yt-I1qsF0WQy8c]]) · [2022-06-21] ([[../wiki/sources/2022-06-21-yt-mrkAmmMakMg]])
+- **"What does 'Pro' even mean?" — professional vs enthusiast, and "Pro is just used to sell you."** The iPad Pro M2
+  essay: going through every Apple "Pro" product yields **two buckets — the professional who makes money using it,
+  and the enthusiast who just likes the high-end version** — and the lines bend, so **"the word 'Pro' is clearly
+  just used to sell you, to make you feel like you're getting the best thing."** Kin to the Apple Watch Ultra's
+  **"what 'Pro' means to Apple" / "if you have to ask, you don't need it."** Capped by **"the Paradox of iPad Pro"**
+  (he keeps using his 3-year-old A12Z because iPadOS wastes the silicon). [2022-11-18] ([[../wiki/sources/2022-11-18-yt-O_WbmIIy4vk]]) · [2022-09-21] ([[../wiki/sources/2022-09-21-yt-HjEqOWjTkHE]])
+- **The "repackaging / re-gifting" strategy — "new chip, old body," and "innovation is saved for the Pro."** The
+  iPhone 14 thesis generalizing the SE formula: Apple **repackages last year's proven platform** (the 14 got the
+  13 Pro's A15 and design) — **"the Tim Cook logistics touch," "less than an S update," "the baseline iPhone is just
+  boring"** because **innovation is deliberately saved for the Pro** (Dynamic Island, the 48 MP bump). Ties to the
+  pricing-ladder / SE-headroom threads. [2022-09-16] ([[../wiki/sources/2022-09-16-yt-v94jRN2FhGo]])
+- **"Benchmarks are less relevant than ever" — custom-silicon accelerators matter more than raw scores.** The 2022
+  tech-industry frame: what a chip *accelerates* (media engines, ML/Tensor, ProRes) matters more than its Geekbench
+  number, because most people never hit the ceiling. Anchored by **the Rivian-vs-Porsche analogy — pick the thing by
+  what you actually want to DO with it, not the spec that "wins."** [2022-09-19] ([[../wiki/sources/2022-09-19-yt-ltD4TVN9wAY]])
+- **The Pixel thesis — "software solutions to hardware problems," and Tensor is about ML, not raw power.** What makes
+  a Pixel special isn't throwing hardware at a problem (Samsung/Apple) but **solving it in software** (call screening,
+  Magic Eraser, the best computational camera) — **"the smartest smartphone."** The Pixel 7 Pro becomes his daily
+  driver. Sharpens the 2021 "Tensor is about features, not benchmarks." [2022-10-15] ([[../wiki/sources/2022-10-15-yt--OpUg0GDrII]])
+- **"Samsung steers the ship" — the foldables taxonomy, and Samsung subsidizes the weird R&D.** The State-of-Foldables
+  landmark: everyone converges on the Samsung Fold/Flip form factor, so **Samsung sets the direction of the whole
+  category** and eats the R&D cost of the weird bets (the under-display camera that still takes the worst selfies);
+  foldables need a material-science breakthrough, not another spec bump. [2022-09-12] ([[../wiki/sources/2022-09-12-yt-XnxbL1-kBpU]])
+- **"The iPad way" — Apple never wants the iPad to work like the Mac.** The what-is-a-computer thesis: Stage Manager
+  and every iPad update are deliberately hobbled because **Apple wants the iPad to stay its own thing, not become a
+  Mac** — which is why the iPad "evolves frustratingly slow." [2022-07-15] ([[../wiki/sources/2022-07-15-yt-Jb88eui8SqQ]])
+- **"Don't be a fan of the company, be a fan of the product."** The capstone of the OnePlus/Oppo-fication →
+  enthusiast-to-normal-company arc (the first OnePlus without the alert slider — losing its identity the way a
+  muted iPhone loses its): **loyalty belongs to the product in your hand, not the logo.** [2022-08-03] ([[../wiki/sources/2022-08-03-yt-4SHlY9AoXzc]])
+- **EVs are the future, not the present — "we need good affordable EVs," "an EV is a chance to rebrand," and the
+  pre-order problem.** The consolidated 2022 EV doctrine: the **four (→ five, incl. good in-car maps) EV
+  fundamentals**; **"an EV is a chance to rebrand"** (Hyundai/Ioniq); the **F-150 Lightning as "the iPhone of pickup
+  trucks" — familiarity is the strategy** (electrify an already-accepted vehicle); and the pre-order takedown —
+  **"pre-orders are interest-free loans," "draw the owl," "add a couple years and several thousand dollars to any
+  promise."** Companies can build one; **shipping in mass is the hard part.** [2022-08-25] ([[../wiki/sources/2022-08-25-yt-d7y9z7pjCRM]]) · [2022-06-08] ([[../wiki/sources/2022-06-08-yt-MjGMeMrH73I]]) · [2022-05-11] ([[../wiki/sources/2022-05-11-yt-U3DNz5asasA]])
+- **Tesla FSD — "the number-one reason I take over is embarrassment, not safety," and "sloppy, but it works."** The
+  first hands-on autonomy assessment: FSD beta is comfortable on well-lined highways and **"not much else"**; it
+  drives like a cautious old lady; **vision-only (no radar/lidar)** worries him in snow/fog; **the robotaxi promise
+  is "far out"** and he **"would not feel comfortable in the back seat"** yet. [2022-12-14] ([[../wiki/sources/2022-12-14-yt-9nF0K2nJ7N8]])
+- **The Apple-lineup buying doctrine — "you don't have to buy a new Mac every year," "performance per dollar," and
+  "don't wait for the next thing, you'll wait forever."** From the M2 Mac reviews: **the big leap was Intel → Apple
+  Silicon; everything since is incremental "bumps"**; if you have any M1 Mac, **you're set**; the value pick is the
+  **Mac mini (same SoC as the $1,999 laptop for $1,299; buy your own display) — don't buy the iMac**; and waiting for
+  the next chip is futile because there's always a faster one 30% away. [2023-01-24] ([[../wiki/sources/2023-01-24-yt-cneoANZKBGk]]) · [2023-01-23] ([[../wiki/sources/2023-01-23-yt-tmGDx9hVWwo]])
+- **The budget-buying heuristic — "good phones are getting cheap, cheap phones are getting good," but "the lower the
+  price, the more I'd buy the older flagship."** At the bottom of the market a **used former-flagship beats a new
+  budget phone** (a $200 OnePlus 7 Pro over a $169 Moto whose "catch" is that it's slow); software updates favor the
+  new, but sustainability and value favor keeping the old — **and don't skip the security patches.** [2023-01-12] ([[../wiki/sources/2023-01-12-yt-1xiqOg1NRPA]])
+- **The iPhone USB-C law — "Apple said comply, not that they'll make a USB-C iPhone; the real plan is portless," and
+  "mandate the goal, not the tech."** The regulation read: Apple's next jump was **never USB-C, it's no port at all
+  (MagSafe)**; the principled objection is that **governments should mandate the end goal (less e-waste, one
+  standard), not the specific technology** (we'll move past USB-C too) — **"when wires wane, wireless will win."** And
+  **"don't lecture me about e-waste, Apple."** [2022-11-02] ([[../wiki/sources/2022-11-02-yt-UdgRUCVUts0]])
+- **The metaverse thesis + the four hot takes + "a good and a bad product at the same time."** A cluster of sharp
+  2022 opinions: **"the internet is controlled by ads and devices"** (why every giant wants to own the next
+  foundation — "when companies truly compete, that's when we win"); the **four hot takes** (**crypto investing is
+  basically gambling** if you can't explain the value beyond hype; **TikTok and YouTube are separate pies**;
+  **regular people don't care about panel gaps**; **"5G sucks — expectations are the thief of joy"**); the
+  assistant read **"it's an ecosystem question as much as a skills question"** (Google Assistant still best); and the
+  ratings-philosophy point **"a product can be really good and really bad at the same time — which breaks a single
+  number rating"** (+ companies shipping into **the sunk-cost fallacy**). [2022-10-28] ([[../wiki/sources/2022-10-28-yt-CqkhjL3WvWQ]]) · [2022-12-04] ([[../wiki/sources/2022-12-04-yt-u2mUpkApObk]]) · [2022-12-24] ([[../wiki/sources/2022-12-24-yt-Q2MGqmuEdtU]]) · [2023-01-31] ([[../wiki/sources/2023-01-31-yt-gvqZCMGjh3s]])
+
 ## Values (what he stands for)
 
 - **Make what you'd want to watch and can't find (added synthesis pass 9, 2026-07-23).** His stated

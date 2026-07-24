@@ -378,6 +378,25 @@ _From the 2020 corpus — a run of durable Apple-behavior, market-structure, pri
 - **The 5 movements of 2021.** Short-form is here to stay; crypto/web3; custom silicon (underrated); alternate form
   factors gaining momentum; and EVs #1. [2021-12-26] ([[../../sources/2021-12-26-yt-fBHq7U8hLp8]])
 
+## 2022 additions (synthesis pass 21, 2026-07-24)
+- **The "repackaging / re-gifting" strategy — "new chip, old body," "innovation is saved for the Pro."** The SE
+  formula generalized to the iPhone 14 ("the Tim Cook logistics touch"; "the baseline iPhone is just boring"). [2022-09-16] ([[../../sources/2022-09-16-yt-v94jRN2FhGo]])
+- **"Benchmarks are less relevant than ever" — custom-silicon accelerators matter more.** What a chip accelerates
+  (media/ML/ProRes) beats its Geekbench score; the Rivian-vs-Porsche "pick by what you want to DO" analogy. [2022-09-19] ([[../../sources/2022-09-19-yt-ltD4TVN9wAY]])
+- **"Samsung steers the ship" (foldables) + "the iPad way" + "don't be a fan of the company, be a fan of the
+  product."** Samsung sets the foldable form factor and subsidizes the weird R&D; Apple keeps the iPad from becoming
+  a Mac on purpose; loyalty belongs to the product, not the logo. [2022-09-12] ([[../../sources/2022-09-12-yt-XnxbL1-kBpU]]) · [2022-07-15] ([[../../sources/2022-07-15-yt-Jb88eui8SqQ]]) · [2022-08-03] ([[../../sources/2022-08-03-yt-4SHlY9AoXzc]])
+- **The iPhone USB-C law — "comply ≠ USB-C; the real plan is portless"; "mandate the goal, not the tech"; "when
+  wires wane, wireless will win."** [2022-11-02] ([[../../sources/2022-11-02-yt-UdgRUCVUts0]])
+- **The metaverse thesis — "the internet is controlled by ads and devices"; "when companies truly compete, that's
+  when we win."** Why every giant wants to own the next foundation. [2022-10-28] ([[../../sources/2022-10-28-yt-CqkhjL3WvWQ]])
+- **"What does 'Pro' even mean?" — professional vs enthusiast; "Pro is just used to sell you."** Plus "what 'Pro'
+  means to Apple / if you have to ask, you don't need it" (Apple Watch Ultra). [2022-11-18] ([[../../sources/2022-11-18-yt-O_WbmIIy4vk]]) · [2022-09-21] ([[../../sources/2022-09-21-yt-HjEqOWjTkHE]])
+- **The Apple-lineup buying doctrine — "the real leap was Intel→Apple Silicon; now incremental bumps"; "you don't
+  have to buy a new Mac every year"; "performance per dollar" (Mac mini); "don't wait for the next thing."** [2023-01-24] ([[../../sources/2023-01-24-yt-cneoANZKBGk]]) · [2023-01-23] ([[../../sources/2023-01-23-yt-tmGDx9hVWwo]])
+- **Ratings philosophy — "a product can be really good and really bad at the same time"; companies ship into "the
+  sunk-cost fallacy."** (HomePod 2). And "an ecosystem question as much as a skills question" (assistants). [2023-01-31] ([[../../sources/2023-01-31-yt-gvqZCMGjh3s]]) · [2022-12-24] ([[../../sources/2022-12-24-yt-Q2MGqmuEdtU]])
+
 ## Related
 - Even-handed Apple-vs-Android platform framing → [[../smartphones/smartphones|Smartphones hub]]
 - Cybertruck design provocation → [[../ev-cars/ev-cars|EVs & Cars hub]]

@@ -597,6 +597,23 @@ rules._
 - **The smaller fold — "the fix everyone wanted was making it smaller."** The Oppo Find N's notebook-feel form
   factor (a smaller phone with a bigger battery than the Fold 3). [2021-12-15] ([[../../sources/2021-12-15-yt-_VAlGmtfDN0]])
 
+## 2022 additions (synthesis pass 21, 2026-07-24)
+- **Cameras "aren't just cameras anymore" — "partly photons, but primarily processing."** Software makes a bigger
+  difference than the sensor; the big-sensor transition overprocesses (Pixel 6 → dialed in by the 7; the iPhone 14
+  Pro is in that phase now); **skin-tone accuracy (Real Tone vs Apple's even-lighting) is a first-class review
+  axis.** [2023-01-05] ([[../../sources/2023-01-05-yt-88kd9tVwkH8]])
+- **"What does 'Pro' even mean?" — professional vs enthusiast; "Pro is just used to sell you"; the Paradox of iPad
+  Pro.** He keeps using his 3-year-old A12Z because iPadOS wastes the silicon. [2022-11-18] ([[../../sources/2022-11-18-yt-O_WbmIIy4vk]])
+- **"The M2 Macs are back to bumps" — "Pro = what it lets you do faster."** The real leap was Intel→Apple Silicon;
+  grounded in the ProRes-export benchmark (56s→32s→23s) rather than a spec sheet. [2023-01-23] ([[../../sources/2023-01-23-yt-tmGDx9hVWwo]])
+- **"Performance per dollar" (Mac mini) — "you don't have to buy a new Mac every year."** More CPU than a base Mac
+  Pro; same SoC as the $1,999 laptop for $1,299; "default to the Mac mini, don't buy the iMac; bring your own
+  display." [2023-01-24] ([[../../sources/2023-01-24-yt-cneoANZKBGk]])
+- **The budget-buying heuristic — "good phones cheap, cheap phones good," but "the lower the price, the more I'd buy
+  the old flagship."** The catch on a cheap phone is speed; buy the security patches. [2023-01-12] ([[../../sources/2023-01-12-yt-1xiqOg1NRPA]])
+- **"A really good and a really bad product at the same time" — resisting a single number rating.** (HomePod 2:
+  great speaker, bad smart speaker, still a Siri speaker.) [2023-01-31] ([[../../sources/2023-01-31-yt-gvqZCMGjh3s]])
+
 ## Recurring franchises (as review formats)
 - **Smartphone Awards** (annual buyer's guide) → see [[../smartphones/smartphones|Smartphones hub]].
 - **Blind Smartphone Camera Test** (unbiased ELO-scored evaluation) → see [[../smartphones/smartphones|Smartphones hub]].

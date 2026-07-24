@@ -204,6 +204,22 @@ _From the 2020 corpus — the Taycan review + the "Dear Electric Cars" manifesto
 - **The standing wish — a good sub-$30,000 EV with 220+ miles of range.** The #1 thing that didn't ship in 2021 (the
   rumored Tesla Model 2, or whoever beats them to it). [2021-12-26] ([[2021-12-26-yt-fBHq7U8hLp8]])
 
+## 2022 additions (synthesis pass 21, 2026-07-24)
+- **"We need good affordable EVs" + the four (→ five) EV fundamentals + "an EV is a chance to rebrand."** Range,
+  charging, performance, storage — plus good in-car maps (Ioniq 5); electrifying is a branding reset. [2022-08-25] ([[2022-08-25-yt-d7y9z7pjCRM]])
+- **The F-150 Lightning — "the iPhone of pickup trucks"; familiarity is the strategy.** Electrify an already-accepted
+  vehicle rather than reinventing the shape. [2022-06-08] ([[2022-06-08-yt-MjGMeMrH73I]])
+- **The pre-order problem — "pre-orders are interest-free loans," "draw the owl," "add a couple years and several
+  thousand dollars."** EVs are the future, not the present; anyone can build one, shipping in mass is the hard part
+  (Lordstown, Rivian receipts). [2022-05-11] ([[2022-05-11-yt-U3DNz5asasA]])
+- **The Lucid Air — "one-up Tesla at everything"; "start at the top trims and work down = trouble."** The interior
+  genuinely one-ups Tesla; only tackling Tesla's top trims might be trouble. [2022-11-11] ([[2022-11-11-yt-4yjRIcRc9qY]])
+- **Tesla FSD — "embarrassment, not safety," is the main reason to take over; "sloppy, but it works."** Great on
+  highways, not much else; vision-only worries in bad weather; the robotaxi promise is "far out"; wouldn't sit in
+  the back seat yet. [2022-12-14] ([[2022-12-14-yt-9nF0K2nJ7N8]])
+- **"Tesla has no PR/ads → word-of-mouth marketing."** The upside/downside of control applied to marketing (+ the
+  Streisand effect). [2022-06-24] ([[2022-06-24-yt-CkoquiSnqbk]])
+
 ## Related
 - Auto Focus channel → [[wiki/entities/auto-focus]]
 - Cybertruck design as *industry* commentary → [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]]
