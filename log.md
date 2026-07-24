@@ -4,6 +4,31 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Oct 31 → Nov 24, 7 ingested + 1 skip (the CyberTruck order + AirPods Pro + the 16" MacBook Pro + "why phones iterate")
+
+Stage B. Ingested the November-2019 wave to L2 (1131→**1138**): **LG G8X** (foldables), **Beats Solo Pro**,
+**AirPods Pro Review: Imperfectly Perfect** (★★), **iPhone 11 Pro vs Original iPhone** (★★ biography), **16"
+MacBook Pro First Impressions** (★★ biography), **The 108-Megapixel Camera** (★★), and **Why I Ordered a Tesla
+CyberTruck** (★★). All 7 solo/Marques-fronted → persona-eligible; captions clean. **2020 Moto RAZR Impressions
+(yt-UCv7qwuLpHs) → skipped** (garbled foreign-auto-caption ASR gibberish; RE-FETCH flagged since it's a notable
+folding-icon return — same pattern as the Boosted Rev / Note 9 videos). Ledger @mkbhd now ~510 open (P2:~475,
+P3:35); L2=1138, L3=0. (Post-pass-17; debt now substantial — pass-18 due at the end-of-2019 era boundary, ~1-2
+batches away: Smartphone/creator awards typically close the year.)
+
+Synthesis notes: for pass 18 — (1) a new **design-disruption thesis** (CyberTruck): "to break into a locked-in,
+mature market (F-150 loyalty) you HAVE to be radically different" + the sharp **"Apple makes intentionally-jarring
+design choices knowing the memes will come, so it becomes iconic"** parallel — strong tech-industry-commentary
+material. (2) The **"if I could only pick one / everyday fundamentals beat spec-superiority"** decision framework
+crystallizes as **"imperfectly perfect"** (AirPods Pro over the technically-better Sony XM3). (3) A **"why year-
+over-year phones exist"** thesis (small bumps compound over 3-4 years in a mature market) — a reusable defense of
+incremental updates. (4) **megapixels-don't-mean-everything + software-is-a-huge-part-of-the-camera** reinforced
+(108MP Xiaomi: center-sharp/edges-fall-apart; 108MP+heavy-NR < 12MP+great-processing). (5) **foldable optimism**
+continues ("foldables aren't a gimmick; the market is maturing; they're here to stay"). (6) BIOGRAPHY, rich:
+**ordered a triple-motor CyberTruck** ("embracing my position as a tech reviewer on the bleeding edge"); **first
+phone = LG Voyager, first iPhone owned/reviewed = 5s**; **Retro Tech S1 = 6 episodes, early Dec 2019**; the **16"
+MacBook Pro = his new editing laptop** (note the tension with his Oct "Surface Laptop 3 might be my next" line);
+the self-aware **loved→hated→came-back Beats arc.** None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Oct 2 → Oct 22, 8/8 ingested (Techtober: MS Surface/foldables, 2 guest interviews, the Pixel 4 "hype machine")
 
 Stage B. Ingested the October-2019 Techtober wave to L2 (1123→**1131**): **MS Future Foldables** (Surface
