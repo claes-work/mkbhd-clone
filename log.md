@@ -4,6 +4,46 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 5) — 2018 Jul 13 → Aug 23, 5/8 ingested + 3 L1 (the i9 MacBook Pro thermal-throttling exposé + "Why I Don't Use the Pixel" + the Note 9 five-pillars review)
+
+Stage B. Seventh batch of the 2018 era (1029→**1034 L2**): **Prime Picks: #1 Unlocked Smartphone (Moto G6)**,
+**i9 MacBook Pro 2018**, **Why I Don't Use the Pixel!**, **Prime Picks: #1 Headphones**, and **Samsung Galaxy
+Note 9 Review**. All 5 solo/Marques-fronted → persona-eligible; captions clean. **3 L1 this batch** (see below).
+Ledger @mkbhd now 620 open (P2:585, P3:35); L2=1034, L3=0. (Post-pass-15; debt now **7 batches / ~50 sources** —
+the pass-16 checkpoint is imminent; the 2018 flagship season (iPhone XS / Pixel 3) is the natural era boundary.)
+
+⚠️ **3 L1 this batch:** (a) **Asus ROG Phone Impressions** (yt-JF-Fkbm0XjU) and (b) **The 2019 iPhone X Models**
+(yt-0sXvuUrJa0o) — **no subtitles** → L1, not ingested. (c) **Galaxy Note 9 Impressions** (yt-9AxYQOX5_FM) has
+**garbled captions** (a foreign auto-translation artifact — complete gibberish) → L1, **superseded by the clean
+full Note 9 Review** (yt-ihEhAbVRC78, ingested this batch). All three ledger-flagged to RE-FETCH if clean captions
+appear.
+
+Synthesis notes (for pass 16) —
+**(1) LANDMARK — the i9 MacBook Pro thermal-throttling exposé** (own-testing rigor): "**Apple loves thin, quiet
+laptops to a fault — they'd rather throttle the CPU than ramp the fans**"; instead of synthetic benchmarks he ran
+**his own Final Cut RED-8K render test** (iMac Pro **6:53** / 2017 MBP **25:38** / 2018 i9 **21:21** ≈ **15%**
+faster); the anti-thinness provocation **"maybe we should ask Apple for a *thicker* pro laptop"** (laptop version
+of his make-phones-thicker-for-battery thread); and the reused **"skip this great laptop and wait"** buyer framing.
+**(2) LANDMARK — "Why I Don't Use the Pixel" (no-allegiance + longevity)**: the daily-driver switch **Pixel 2 →
+OnePlus 6**; "**I have no allegiance — as soon as I like a phone better, that's the one I stick with**"; the
+**Pixel 2 slowed down in under a year** (two units, animations dropping below 60 fps); the **RAM-matters-now
+reversal** ("a couple years ago I'd have said OnePlus put extra RAM in just to impress — now I observe 4 vs 8 GB
+matters"); and the durable reviewing meta-insight **"you don't fully know how a phone will bear out over time —
+you're guessing."** **(3) The five-pillars framework, cleanly applied** (Note 9 Review): great display/build/
+performance/camera/battery — the Note 9 **checks every box and finally fixes the battery**; "**incremental is one
+of the best compliments you can give a phone**"; camera **"firmly third place"** (Pixel 2 #1, iPhone X ~#2–3,
+citing his own Blind Test); anti-Scene-Optimizer (auto-enhancement); and the recurring **remap-the-Bixby-button**.
+**(4) CREATOR-BUSINESS — the "Prime Picks" series origin** (buy Amazon's #1 best-seller and test it) + the
+**budget-phone philosophy** (strategic feature trade-downs) + the **hold-Motorola-to-account** update call-out +
+**"I will never not hate logos on the front of phones."** **(5) Consumer-behavior — the cheap-headphone
+buyer-priority framework** (functional/comfortable/durable; **sound is low on the list**) + **"EarPods may be the
+most popular headphones in the world by volume"** + the anti-over-bass taste + a **red-and-black** appearance tell.
+**Next iteration: run Stage S (pass 16)** — debt at 7 batches / ~50 sources, and the 2018 first-half→flagship-season
+boundary is here; promote the accumulated H1-2018 material (the walled-garden framework, the Auto Focus method +
+"opposite of a Tesla," the Google Duplex AI-thesis, the platform trilogy, the colored-phones/press-cycle decode,
+the i9-throttling/thin-to-a-fault + no-allegiance + "you're guessing at longevity" reviewing insights, and the
+five-pillars/"incremental is a compliment" reframe) into topics + persona, then recompile the system prompt (v16).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 7) — 2018 Jun 12 → Jul 5, 7/8 ingested + 1 no-captions (the platform trilogy: On IGTV/YouTube Competition + Dear YouTube! + The Truth About Colored Smartphones)
 
 Stage B. Sixth batch of the 2018 era (1022→**1029 L2**): **HTC U12+ Review**, **Vivo NEX S Impressions**, **On
