@@ -4,6 +4,44 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Nov 19 → Dec 15, 8/8 ingested (closing out 2018: the Blind Camera Test + Tesla 'Killers' + YouTube Rewind + Auto Focus Ep. 4)
+
+Stage B. Ingested the end of 2018 to L2 (1057→**1065**): **RIP Apollo (for now)**, **My Favorite Wireless
+Headphones 2018**, **2018 MacBook Air Review**, **Let's Talk About Tesla 'Killers'**, **The Blind Smartphone Camera
+Test 2018**, **Top 5 McLaren 720S Features [Auto Focus Ep. 4]**, **The Problem with YouTube Rewind**, and the
+**Huawei Mate 20 Pro Review**. All 8 solo/Marques-fronted → persona-eligible; captions clean; no dups, no skips.
+A rich batch (5 landmark-tier). Ledger @mkbhd now 589 open (P2:554, P3:35); L2=1065, L3=0. (Post-pass-16; debt now
+5 batches / 39 sources — approaching the pass-17 checkpoint; the 2018 era is nearly complete — the Smartphone
+Awards 2018 is the likely era-closer.)
+
+Synthesis notes (for pass 17) —
+**(1) LANDMARK — the Blind Camera Test 2018 at scale** (16 phones, bracket, 6M+ votes; Mate 20 Pro = "the people's
+champ"): the durable insight **"9 times out of 10 the brighter/more-saturated/punchier photo won"** (+ social
+compression kills the detail advantage the great cameras rely on), illustrated by the **iPhone-XS-vs-BlackBerry
+upset (228k vs 63k)**; **"brighter ≠ better — I prefer the Pixel 3's flatter, more natural photo with more
+information to edit"**; the **two-types-of-people** framing; "we're in a time when nothing actually sucks." **(2)
+LANDMARK — the EV-competition framework** (Tesla 'Killers'): **design / price / specs / CONVENIENCE**, and
+**convenience is the moat** startups can't cross — **mass production + a billion Autopilot miles of data + the
+Supercharger network ("nothing is even close")**; startups nail design/specs/price (Lucid $59k, Rivian $69k) but
+not convenience; **legacy makers have the scale but lack ambition** ("200-mile range in 2020 is ridiculous");
+"there is no Tesla killer, but we don't need one — I'm rooting for competition." A clear ancestor of his 2026 EV
+coverage. **(3) LANDMARK — the advertiser-vs-creator Delta** (YouTube Rewind): "creators see Rewind as a
+celebration; YouTube sees it as an advertiser showcase — so **it became a giant ad for YouTube**"; the exclusions
+(PewDiePie/Shane/KSI) vs inclusions (Will Smith/Trevor Noah); the **insider** view (the Fortnite-bus zip-line stunt
+was him; Will Smith apparently named "Fortnite and MKBHD"); the fix = **leave stuff out, hand-select**; "it feels
+good to represent the tech community." **(4) "No risk is the curse Apple gets"** (MacBook Air): what-he-actually-
+does-on-a-laptop (stopped video editing on it — "I refuse to render 8K on a laptop"); the thinness debunk (it's
+thicker than the 13" Pro); the laptop-camera-should-be-a-phone-camera + Face ID gripe; and the **prescient
+ARM-chips-in-Macs** wish (with the iPad Pro review). **(5) Auto Focus Ep. 4 — the McLaren 720S**: appreciation for a
+maker that **under-promises and over-delivers** ("rated 2.7 to 60, does 2.4 — as fast as their million-dollar P1");
+the aero teach-the-mechanism; "**Tesla Roadster training wheels**" + **AWD-feels-more-planted** preference; the 6'3"/
+NBA-question biography tell. **(6) BIOGRAPHY — the Apollo crash** (RIP Apollo: his Tesla Model S hit by an 80,000-lb
+truck; he's unhurt; the Tesla-repair pain point). **(7) Mate 20 Pro Review** — **software-is-the-one-flaw** (great
+hardware sunk by EMUI; "I'd love it with OxygenOS") + the **A++ two-day battery**. **(8) The wireless-life
+conversion** (headphones roundup — the backstory to his "the jack is dead, move on" stance; Surface over Bose).
+Next synthesis checkpoint (pass 17) at the next batch or two — the **2018→2019 era boundary** (Smartphone Awards
+2018) is the natural closer.
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2018 Oct 19 → Nov 15, 8/8 ingested (the Techtober reviews: RED Hydrogen One "I wanted this to be great" + the Foldable explainer + the iPad Pro "still an iPad")
 
 Stage B. Ingested the late-2018 review wave to L2 (1049→**1057**): **Pixel 3 XL Review**, **RED iPhone XR Unboxing
