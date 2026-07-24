@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Jun 6 → Jul 2, 8/8 ingested (the WWDC software wave + the Dream Phone + "companies compete, we win")
+
+Stage B. Ingested the summer-2019 wave to L2 (1101→**1109**): **Top 5 iOS 13 Features** (WWDC — dark mode +
+Sign-in-with-Apple), **iPad OS Impressions** (★★ resolves the held-back-by-software arc), **The Closest Thing to
+AirPower** (Air Unleashed knockoff), **The Dream Smartphone 2019** (★★ personal-preferences map), **OnePlus 7:
+Way Under the Radar** (★★), **PowerBeats Pro Review**, **The iPad Only Challenge** (★★ biography workflow), and
+**Bose Headphones 700** (★★). All 8 solo/Marques-fronted → persona-eligible; captions clean; no dups, no skips
+(a rich batch — 5 landmark-tier). Ledger @mkbhd now ~542 open (P2:~507, P3:35); L2=1109, L3=0. (Post-pass-17;
+debt now ~3 batches — pass-18 due at ~10 batches or the end-of-2019 era boundary.)
+
+Synthesis notes: the standout for pass 18 is a strong REINFORCEMENT of the **"competition is good for consumers"**
+value — stated explicitly THREE times this batch (OnePlus 7 "if you know what I know about competition, is a good
+thing for all of us"; Bose 700 "companies compete, we win" — the canonical one-liner; echoing the Huawei-ban
+version). Also genuinely-new/sharpened: (1) the **"incredible hardware held back by software" arc RESOLVES** on
+iPad OS ("this update saves the iPad Pro") + the durable **"mad Apple held features back vs happy they listened"**
+ambivalence; (2) a **LANDMARK personal-preferences map** (Dream Phone) — his own stated hardware taste: matte
+black, front-facing speakers, headphone jack, polycarbonate-over-glass, ultrawide>telephoto, Pixel-photos +
+iPhone-video, no notch/pop-up gimmicks — prime persona-voice/beliefs material; (3) the **"pro is overused"**
+marketing-language peeve (PowerBeats + Mac Pro + the 16" MBP aside) and **physical-buttons-over-touch** usability
+value; (4) **"Apple would rather cancel than ship short of the stage promise"** (AirPower knockoff); (5) BIOGRAPHY
+— 2019 workflow (Retro Tech S1 shooting, iMac Pro in-studio, Canon EOS R photo pipeline, RED-footage-too-heavy-to-
+mobile-edit, NY Empire game footage). None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 May 8 → Jun 4, 7 ingested + 1 L1 (the Pixel 3a "flips the script" + the Huawei Ban explainer + the 2019 Mac Pro ends the "don't cancel it" saga)
 
 Stage B. Ingested the late-spring-2019 wave to L2 (1094→**1101**): **Pixel 3a Impressions** ("flips the script"),
