@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Jul 7 → Aug 11, 8/8 ingested (the YouTuber-money explainer, Tensor's vertical-integration thesis, and the Z Fold/Flip 3)
+
+Stage B. Ingested the mid-2021 wave to L2 (1269→**1277**): **iPadOS 15 Review: Dropped Expectations** (★★), **How
+Do YouTubers Make Money?** (★★), **The iPhone 13 Models** (★, light dummy-preview), **Nothing Ear(1) Review** (★),
+**The Electric Hummer** (★), **Pixel 6's Tensor Chip: Let's Talk** (★★), **Galaxy Z Flip 3 Impressions** (★), and
+**Galaxy Z Fold 3 Impressions** (★). 8/8 captions clean, no skips/L1 this batch. All solo/Marques-fronted →
+persona-eligible (no full sponsored reads flagged this batch; the Studio Channel launched). Ledger @mkbhd now ~350
+open (P2:~315, P3:35); L2=1277, L3=0. (Post-pass-19; debt ~6 batches / ~41 sources since the high-water at 1236 —
+pass-20 due at ~10 batches or the end-of-2021 era boundary.)
+
+Synthesis notes (for pass 20, at the 2021 boundary): (1) landmark **creator-business** ("How Do YouTubers Make
+Money?"): the **three revenue buckets** (YouTube/AdSense ads + self-sold in-video ads + products) + the **embargo/
+NDA** system + **"treated like tech journalists" + buy-it-after-the-review** + **"the product is the subject — it's
+on the tech industry to make interesting stuff"** + the promotable **basketball-in-the-park hobby-vs-job** analogy
++ **creator-burnout-is-real** + **self-taught** (Skillshare). (2) landmark **"Pixel 6's Tensor Chip"**: **vertical
+integration finally comes to Google** (White Chapel) + **computational photography applied to video** + the **M1
+efficiency parallel** + the strategic core **"longer software updates to keep you on the phone longer"** (vertical-
+integration-as-retention) + **cutting out Qualcomm** + the **ecosystem-wide-silicon** future. (3) the **iPadOS 15**
+thesis: **"expectations are the thief of joy"** + **"the iPad lives between the iPhone and the Mac because Apple
+won't cannibalize its own products"** + the **iPad-only challenge** + "make a weather app" (Dark Sky). (4) design/
+consumer reads: the **transparent-design-forces-neatness** (Nothing Ear(1), Teenage Engineering) + **"most people
+buy earbuds for features + looks, not sound"** + **"expectations are the thief of joy" (ignore the hype)**. (5)
+foldables: the **Z Flip 3 is the recommendable foldable** at the lowest-ever **\$999** (getting foldables to a
+regular-phone price) + the **Z Fold 3** — most-well-built, **first water-resistant foldable (IPX8; dust-is-the-
+hinge-nemesis)**, the **under-display-selfie-camera-is-a-bleeding-edge-risk-on-the-least-used-camera**, and the
+**S-Pen-workarounds → "Samsung should keep the Note."** (6) EV: the **Electric Hummer** (9,200 lb / 0–60 in 3 s /
+crab walk; biggest-frunk + charge-indicator-headlights; "electric Hummer is an oxymoron") + the recurring **"every
+year for the next 10 will be the most interesting EV year yet."** Biography: the **Studio Channel launch** (mid-
+2021); iPhone-13 read — **MagSafe-isn't-ready-so-it's-too-early-to-go-portless.** None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Jun 2 → Jul 2, 7 ingested + 1 L1 (the copy/why-Apple-is-late commentary pair, Beats, and the ultimate enthusiast phone)
 
 Stage B. Ingested the summer-2021 commentary/software wave to L2 (1262→**1269**): **When Smartphones Copy Each
