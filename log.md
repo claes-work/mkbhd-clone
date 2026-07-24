@@ -4,6 +4,30 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Oct 2 → Oct 22, 8/8 ingested (Techtober: MS Surface/foldables, 2 guest interviews, the Pixel 4 "hype machine")
+
+Stage B. Ingested the October-2019 Techtober wave to L2 (1123→**1131**): **MS Future Foldables** (Surface
+Neo/Duo), **2019 Surface Family Impressions** (★★ biography), **Talking Tech w/ Satya Nadella** (interview,
+mixed), **Talking Tech & Meme Review w/ Will Smith** (interview, mixed), **Apple Watch Series 5 Review**,
+**Pixel 4 Impressions** (★★), **OnePlus 7T Pro**, and **Pixel 4 Review: Inside the Hype Machine** (★★). All 8
+captions clean; no dups, no skips. **Two guest interviews (Satya Nadella, Will Smith) → attribution: mixed —
+guest statements quarantined; only Marques's framing is persona data.** Ledger @mkbhd now ~518 open (P2:~483,
+P3:35); L2=1131, L3=0. (Post-pass-17; debt building — pass-18 due at the end-of-2019 era boundary, now close.)
+
+Synthesis notes: for pass 18 — (1) **ultrawide-over-telephoto** reaches its sharpest form: **"the one thing you
+can't fake with software is an ultrawide"** (Pixel 4's omission; Google's "we think telephoto is more important"
+jab; the Pixel 4's 2x tele = "the most useless second camera they could've put in"). (2) A new **camera-evaluation
+framework — the "Pixel vs iPhone camera graph"**: the middle (most photos, most of the time) favors the Pixel's
+punchy look; the edges (low light, ultrawide) favor the iPhone, which is **truer-to-life** and crushes video —
+"if I could only pick one, iPhone 11 Pro (more versatile)." (3) **High-refresh advocacy** restated as **"my
+favorite trend in smartphones of the past year"** (Pixel 4), plus the Force-90Hz developer-options trick and a
+critique of Google's dynamic-switching. (4) BIOGRAPHY — **the Surface Laptop 3 will likely be his next laptop
+("I'm not tied to macOS on the go anymore")** — a notable off-Mac-for-mobile signal (Oct 2019). (5) A recurring
+**"the platform owner also makes the hardware"** analytical lens (posed to Nadella re: Windows, as he does for
+Android). (6) The **"worst UI in any tech product in a decade"** (Apple Watch blob chooser) — a voice beat. (7)
+Reward-experimentation continues (loves MS's renewed foldable commitment). GUEST content (Nadella, Will Smith)
+stays quarantined. None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Sep 5 → Sep 26, 8/8 ingested (the iPhone 11 launch wave + the Porsche Taycan + the Galaxy Fold re-do resolves the saga)
 
 Stage B. Ingested the September-2019 launch wave to L2 (1115→**1123**): **Let's Talk About Porsche Taycan** (★★
