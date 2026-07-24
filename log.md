@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 May 19 → Jun 16, 6 ingested + 1 skip + 1 L1 (How-Teslas-Upgrade + the Escobar-scam anatomy + "Reflecting on the Color of My Skin")
+
+Stage B. Ingested the late-May→mid-Jun-2020 wave to L2 (1180→**1186**): **How Teslas Upgrade Over Time** (★★),
+**Poco F2 Pro** (★), **Escobar Responds! A PSA** (★★), **Reflecting on the Color of My Skin** (★★ landmark
+personal/identity), **CyberTruck Phone Impressions** (★ Caviar CyberPhone), and **Top 5 Android 11 Features** (★).
+All 6 solo → persona-eligible; captions clean. **Surface Headphones 2 (yt-ByayqNQU2fA) → skipped** (garbled
+foreign-auto-caption gibberish; RE-FETCH — matte-black-everything voice/aesthetic). **The Largest Daily Driver
+Unboxing (yt-gfC8Y66tR6o) → L1** (no captions). Ledger @mkbhd now ~454 open (P2:~419, P3:35); L2=1186, L3=0.
+(Post-pass-18; debt 5 batches — pass-19 due at the end-of-2020 era boundary or ~10 batches.)
+
+Synthesis notes (for pass 19, at the 2020 boundary): (1) **BIOGRAPHY/VALUES landmark — "Reflecting on the Color of
+My Skin"** (June 2020): his experience as a **Black creator/athlete** (golf since 10, ultimate frisbee, tech-since-
+15 all in non-diverse fields; supportive parents); the **role-model rule** ("look up to someone for what they're
+good at"); **"silence feels worse — I'd rather speak up"**; an explicit **anti-racism value** ("no problem losing
+racist followers"); wanting to **be a role model** for kids who look like him; the **genuinely-engage-don't-just-
+subscribe** algorithm insight; the Model S **"Phantom" replaces Apollo.** Handle with care, in his own words. (2)
+the **"cars should improve like tech / OTA + fleet-learning moat"** thesis (Tesla as a software company) + Smart
+Summon "a nightmare." (3) the **4-step scam-anatomy** media-literacy framework (Escobar) + **all-press-is-good-
+press** + the **give-to-charity** ethic. (4) the **price-is-the-logo / collectible-riding-a-press-wave** luxury
+thread (Caviar CyberPhone — the wheels callback). (5) **"Android is mature now"** + **accessibility-features-are-
+for-everyone** (Voice Access) + Pixel-for-updates. (6) the pop-up-camera full-screen preference + "the action is
+in the budget space" (Poco F2 Pro). None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2020 Apr 27 → May 15, 7 ingested + 1 skip (the $700 wheels luxury-brand explainer + iPhone-11-Pro-6-months + the budget-phone blueprint)
 
 Stage B. Ingested the late-Apr→mid-May-2020 wave to L2 (1173→**1180**): **Moto Edge+ Review** (★★), **iPhone 11
