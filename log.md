@@ -4,6 +4,34 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Jun 2 → Jul 2, 7 ingested + 1 L1 (the copy/why-Apple-is-late commentary pair, Beats, and the ultimate enthusiast phone)
+
+Stage B. Ingested the summer-2021 commentary/software wave to L2 (1262→**1269**): **When Smartphones Copy Each
+Other** (★★), **Why iPhone's Features are Always 'Late'** (★★), **Top 5 Android 12 Features** (★, light), **Forgot
+About Beats by Dre?** (★), **Windows 11 Reactions** (★), **Sony Xperia 1 III** (★), and **iOS 15 Hands-On** (★,
+light). **L1 (no-captions): Why Everything is an Ultrabook** (yt-U3JprndeVYU) — driver-marked, RE-FETCH. All 7
+ingested are solo/Marques-fronted → persona-eligible (sponsored outros flagged: Nebula/CuriosityStream on the copy
+video — co-owner; ExpressVPN on Android 12; dbrand on Beats; Skillshare on iOS 15). Ledger @mkbhd now ~359 open
+(P2:~324, P3:35); L2=1269, L3=0. (Post-pass-19; debt ~5 batches since the high-water at 1236 — pass-20 due at ~10
+batches or the end-of-2021 era boundary.)
+
+Synthesis notes (for pass 20, at the 2021 boundary): (1) the landmark **copy/why-Apple-is-late commentary pair**:
+**"copying is fine — as long as you copy the good stuff"** + the **second-mover advantage** + **"if the good
+things are in one place, it doesn't matter where they came from"** + **"good artists copy, great artists copy but
+tweak it"** (Copy Each Other); and **"Apple's features are late but often better because the ecosystem constraint
+multiplies dev time — every team must plug into everything — while Google's siloed teams innovate faster but
+disconnected"** + the **continuity/ecosystem-flex** payoff + the **bleeding-edge-vs-polished-and-plugged-in**
+tradeoff (Features are 'Late'). (2) **Beats brand-strategy**: **marketing-over-R&D** bought ~70% of the high-end
+market + **brand-cachet-like-Tesla** + the **\$3B largest-ever Apple acquisition** + **kept-alongside-not-competing-
+with-AirPods** + the dual-native Studio Buds "the competition woke up." (3) the **Sony Xperia 1 III "ultimate
+enthusiast phone"**: headphone-jack/notification-LED/microSD/dedicated-shutter/4K-120Hz-locked + the novel
+**variable-optical-zoom** telephoto + **technical-marvel-but-mediocre-photos** + **"almost no one should buy it"**
+(the why-people-dont-buy-Sony thesis at its extreme). (4) BIOGRAPHY: **"I'm a Mac user because of Final Cut, not
+macOS"** (Windows 11) + **"mostly self-taught" + the Skillshare class** (iOS 15). (5) platform/software reads:
+**Android privacy is now "above and beyond the iPhone" (Material You)**; **"meet people where their apps are"**
+(Android-apps-on-Windows / the Windows odd-even quality cycle); **Focus-modes-are-the-best** (the iOS ecosystem-
+sync payoff); **"Apple bought Dark Sky and stole it from Android."** None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Apr 21 → May 28, 7 ingested + 1 skip (the Paradox of Choice, Right to Repair, the M1 iMac/iPad, and the F-150 Lightning)
 
 Stage B. Ingested the spring-2021 Apple/EV wave to L2 (1255→**1262**): **Colored iMacs? (4/20 event reactions)**
