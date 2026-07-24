@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Jan 29 → Mar 13, 7 ingested + 1 skip (Dogecoin explained, "nothing is confirmed until Apple goes on stage," and the feature-vs-gimmick microscope)
+
+Stage B. Ingested the Feb–Mar-2021 wave to L2 (1243→**1250**): **Galaxy S21 Review: Would You Notice?** (★),
+**Huawei Mate Xs Impressions** (★), **How to Upgrade a PlayStation 5** (light, accessories), **Dogecoin: Explained**
+(★★), **iPhone 13 'Confirmed'?! NOPE** (★★, media-literacy + Q&A biography), **ROG Phone 5 Ultimate Review** (★),
+and **The Smartphone With a Microscope Camera** (★★, Oppo Find X3 Pro). **Skipped: 2021 Tesla Model S Refresh
+Reaction** (yt-DHvkyrey3JE) — garbled foreign auto-captions (Korean-derived ASR gibberish), RE-FETCH. All 7
+ingested are solo/Marques-fronted → persona-eligible (the ZTE... n/a; PS5 accessories has no sponsor; no sponsored
+reads flagged this batch beyond dbrand mentions). Ledger @mkbhd now ~383 open (P2:~348, P3:35); L2=1250, L3=0.
+(Post-pass-19; debt ~2 batches since the high-water at 1236 — pass-20 due at ~10 batches or the end-of-2021 era
+boundary.)
+
+Synthesis notes (for pass 20, at the 2021 boundary): (1) landmark **crypto explainer** (Dogecoin): **not-financial-
+advice** posture + **the joke that outgrew itself** + **"the crypto for the people"** (accessible because it
+doesn't take itself seriously) + the **Tron sponsored-tweet authenticity counter-example** + **Elon-drives-the-
+volume / "the currency of internet attention"** + **don't-risk-what-you-can't-lose / diversify**. (2) landmark
+**media-literacy** ("iPhone 13 NOPE"): **"'confirmed' is being abused — nothing is confirmed until Apple goes on
+stage"** + **wireless-charging-is-inefficient** (so EVs won't lose the port) + the **computational-imaging "we
+don't know what's real"** early-deepfake flag + BIOGRAPHY (the mechanical-keyboard conversion / Keychron K2, the
+HTC One M8 GPe favorite, Daft Punk's breakup — Discovery/"Too Long", the Model S Plaid tease, Retro Tech S2, NBA
+fandom, NASA Perseverance enthusiasm). (3) **feature-vs-gimmick** (Oppo microscope): **a gimmick becomes a feature
+by iterating on it** + **"I hate BAD macro cameras, not the idea of a good one"** (softens the anti-padded-camera
+stance) + **"own the camera bump"** + **ColorOS-is-now-a-favorite-Android-skin** (hot take, above OxygenOS) + the
+billion-color/10-bit-pipeline read. (4) the **S21 "would you notice?" / smart-sacrifices** balancing act + **hot
+take: Samsung's portrait mode is now the best** + microSD/MST-are-missed. (5) foldables: **the Mate Xs is the
+most-advanced-but-the-outer-fold-isn't-ready** (back plastic scratches) → **inside-fold-is-next**; **dbrand-secures-
+the-un-gettable**. (6) the ROG Phone 5: the **battery-health suite + "bypass mode"** (pro-longevity) + the
+**headphone-jack-came-back** (a first) + **"18 GB RAM = bragging rights"** spec-skepticism + **"a sports car you can
+daily."** None inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2021 Jan 12 → Jan 27, 7 ingested + 1 L1 (into 2021: the enthusiast-brand theory, the S21 trio, and "the only real Pro phone")
 
 Stage B. First 2021 batch — ingested the Jan-2021 wave to L2 (1236→**1243**): **What Happened to OnePlus?** (★★),
