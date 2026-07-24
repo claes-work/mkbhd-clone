@@ -4,6 +4,32 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Sep 5 → Sep 26, 8/8 ingested (the iPhone 11 launch wave + the Porsche Taycan + the Galaxy Fold re-do resolves the saga)
+
+Stage B. Ingested the September-2019 launch wave to L2 (1115→**1123**): **Let's Talk About Porsche Taycan** (★★
+EV), **iPhone 11 Pro Impressions** (★★), **iPhone 11 Impressions**, **Asus ROG Phone 2 Review** (★★), **Samsung
+Galaxy Fold Re-do** (★★ resolves the saga), **Unboxing Every Green iPhone 11**, **iPhone 11 Pro Review: For the
+Love of Cameras** (★★), and **OnePlus 7T Review** (high refresh). All 8 solo/Marques-fronted → persona-eligible;
+captions clean; no dups, no skips (a rich batch — 5 landmark-tier). Note: the ROG Phone 2 captions, previously
+absent, have now appeared and were ingested normally. Ledger @mkbhd now ~526 open (P2:~491, P3:35); L2=1123, L3=0.
+(Post-pass-17; debt building — pass-18 due at the next era boundary (end of 2019) or ~10 batches; strong
+reinforcement is accumulating — consider a checkpoint soon.)
+
+Synthesis notes: this batch is a HEAVY reinforcement wave for pass 18. (1) **Competition is good for consumers**
+restated twice more — EV edition (Taycan: "room for more than one premium sedan... competition makes better
+products, we win"; "Tesla killer is lazy — Tesla pushed Porsche") and camera edition (iPhone 11 Pro: "they're all
+fighting to make the best camera to put in our pockets, and we win from that"). (2) **High-refresh-rate advocacy**
+crystallizes into a catchphrase — **"high refresh rate all the things, please"** (ROG Phone 2 AND OnePlus 7T),
+plus "the 90 Hz x-factor is so hard to switch back from" and OnePlus 7T = "the cheapest phone with high refresh."
+(3) **New EV framework** — "range + charging are the two things you must nail first" + the **supercharger-network
+moat** (everyday-driving advantage) — extends the ev-cars hub. (4) The **"pro is overused"** peeve reaches its most
+detailed form (a full checklist of what would make an iPhone actually "pro"). (5) **Camera philosophy** — "closest
+to what the human eye sees" (iPhone A+, more true-to-life than the Pixel's brighter Night Sight). (6) **Fold saga
+RESOLVES** with two promotable ideas — "test with real people, not robot hands" and "own your failure vs the
+stubborn Apple 'you're holding it wrong'"; reward-big-risks. (7) **Front-facing-speakers advocacy** ("an endangered
+species"). (8) BIOGRAPHY — wrapped his Tesla; NY Empire road trips (NYC↔Philly / NYC↔Providence). None
+inline-promoted (L2 only).
+
 ## [2026-07-24] ingest | yt batch (@mkbhd, 8) — 2019 Jul 11 → Aug 27, 6 ingested + 1 skip + 1 L1 (the walled-garden Apple Card + Note 10 duo + "cheap phones are getting good")
 
 Stage B. Ingested the mid/late-summer-2019 wave to L2 (1109→**1115**): **What's in my Tech Bag 2019** (biography
