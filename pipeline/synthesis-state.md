@@ -6,6 +6,22 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
+Synthesized through: **2125 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+
+**PLUS pass 33 (2026-07-25) — L2 2090→2125, ~35 sources across 5 batches; the SOLO @mkbhd "Ask MKBHD" origin-era
+Q&A series (2014–2020) + iOS 27. ✅ @mkbhd main-channel discovered ledger fully drained to L2.** All the subject
+directly (one guest, Peter McKinnon, quarantined). Pass-33 landmarks — ★ **BIAS IS THE POINT** ("reviews are
+biased because they are — I'm not just a spec sheet; calibrate to the reviewer"); ★ **the solo→team story**
+(100% solo → hires in 2017; the 1,000-video/10-year ~2008-signup milestone; the 2019 Q&A wind-down → Waveform
+launch Aug 2019); ★ **production origins** (first review = OG Motorola Droid; camera lineage Sanyo Xacti CG10 →
+… → RED Scarlet; Sigma 18-35 fav lens; Premiere→Final Cut ~2016; the Mac Pro for RED; the 2016 studio build /
+Mega Desk = NextDesk; 8K-upload); ★ **BIO** (6'3"; first-app = Flamingo for Twitter; @MKBHD on Snapchat; was on
+Hot Ones; Superhot/Vive; ~90% Ultimate jerseys; three Ultimate teams; no dog 2014); **positions**
+(anti-benchmark-obsession; pro-EV / EV-skeptics-troubling; pro-cheaper-phones; pro-net-neutrality; batterygate
+= defensible-intent-bad-disclosure; overrated-is-time-dependent; doesn't-vlog). System-prompt recompiled
+**v32→v33**. ⚠️ NOT trained: guest Peter McKinnon; the co-host stories already quarantined.
+
+### (superseded) pass 32 high-water detail
 Synthesized through: **2090 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
 
 **PLUS pass 32 (2026-07-25) — L2 1998→2090, ~92 sources across 12 batches; the earliest @Waveform era (2021–2022)

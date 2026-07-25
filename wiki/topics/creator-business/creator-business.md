@@ -435,6 +435,12 @@ _L2 1998→2090. **Marques-attributed only.** ✅ @Waveform long-form complete._
 - **He took an advertising-writing class** (watch the Super Bowl for the ads) — "EV ads were the best of the Super Bowl." [2022-02-18] ([[../../../wiki/sources/2022-02-18-yt-J1dG4ry-Ahc]])
 - **The video-podcast origin**: audio-only 1+ year → first video ep 62 (May 2021), for **YouTube discovery** (he uses Pocket Casts for audio). [2021-05-07] ([[../../../wiki/sources/2021-05-07-yt-JBP8ocEoaSk]])
 
+## @mkbhd "Ask MKBHD" origin-era additions (2014–2020) — added synthesis pass 33 (2026-07-25)
+_L2 2090→2125. **SOLO @mkbhd** (the subject directly). ✅ @mkbhd discovered ledger complete._
+- ★ **Bias is the point** — "reviews are biased because they are — I'm not just a spec sheet; **calibrate yourself to the reviewer**." [2017-01-03] ([[../../../wiki/sources/2017-01-03-yt-67plwXQk6Ek]])
+- **The solo → team story**: 100% solo through 2016 → **starts hiring in 2017**; the **1,000-video / 10-year (~2008 signup) milestone**; the **2019 monthly-Q&A wind-down → Waveform** (Aug 2019). [2014-07-24] ([[../../../wiki/sources/2014-07-24-yt-hgj1x0ecJMo]]) · [2018-03-29] ([[../../../wiki/sources/2018-03-29-yt-Xyt9rmsxwDU]]) · [2019-01-07] ([[../../../wiki/sources/2019-01-07-yt-ZX5ajIAhKTk]])
+- **Advice / method**: start-a-channel = "just dive in, the first videos are terrible"; take-criticism-seriously ("a nugget of truth"); collab only for what's impossible solo; **doesn't vlog** (makes polished videos); anti-benchmark-obsession. [2015-09-07] ([[../../../wiki/sources/2015-09-07-yt-nL9Guwuv8HY]]) · [2015-07-10] ([[../../../wiki/sources/2015-07-10-yt-XtLpZLM4jg0]]) · [2017-06-23] ([[../../../wiki/sources/2017-06-23-yt-2BQ1rCqG19Y]])
+
 ## Related
 - The Panels app, Waveform, Auto Focus, The Studio → `wiki/entities/`
 - Biography of the business (JMMS, LLC / studio) → [[../../../persona/biography|biography]]

@@ -4,6 +4,34 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] lint | synthesis pass 33 — @mkbhd Ask-MKBHD origin-era persona checkpoint, L2 2090→2125, system-prompt v32→v33
+
+**Stage S/P checkpoint (@mkbhd ledger completion).** 5 @mkbhd batches / ~35 sources since pass-32 (batches
+51–55). Folded the **SOLO @mkbhd "Ask MKBHD" origin-era Q&A series (2014–2020)** + iOS 27 — **✅ @mkbhd
+main-channel discovered ledger now fully drained to L2.** All the subject directly (guest Peter McKinnon
+quarantined).
+
+Promoted:
+- **beliefs.md** (pass-33 section): ★ **BIAS IS THE POINT** ("reviews are biased because they are — I'm not
+  just a spec sheet; calibrate to the reviewer"); anti-benchmark-obsession; pro-EV / "Tesla-is-a-bubble is
+  troubling"; pro-cheaper-phones; pro-net-neutrality; batterygate (defensible intent, bad disclosure);
+  overrated-is-time-dependent; start-a-channel + take-criticism advice; collab principle; doesn't-vlog;
+  shoot-for-craft + 8K-upload; quality-over-quantity → Waveform.
+- **biography.md** (pass-33 section): the **solo→team story** (100%-solo → hires 2017; the 1,000-video/10-year
+  ~2008-signup milestone; the 2019 Q&A wind-down → Waveform launch Aug 2019); **production origins** (first
+  review = OG Motorola Droid; the camera lineage Sanyo Xacti CG10 → RED Scarlet; Sigma 18-35 fav lens;
+  Premiere→Final-Cut ~2016; the Mac Pro for RED; the 2016 studio build / Mega Desk = NextDesk / iPad-Pro floor
+  plan); **BIO** (6'3"; first-app = Flamingo for Twitter; @MKBHD on Snapchat; was on Hot Ones; Superhot/Vive;
+  ~90% Ultimate jerseys; three Ultimate teams; early daily-driver history; MKBHD-merch origin; no dog 2014).
+- **voice.md**: new "@mkbhd Ask-MKBHD origin register" — 7 phrases.
+- **topics**: creator-business + production-filmmaking pass-33 additions.
+- **system-prompt.md v32→v33** (frontmatter 2090→2125): new version block + changelog; wove the
+  **bias-is-the-point** lens into *How you think*; the compiled-from line now marks **✅ @mkbhd main channel
+  fully drained to L2.**
+- **synthesis-state.md** high-water 2090→2125 (pass-32 demoted); index.md count + v33 reference.
+
+⚠️ NOT trained: guest Peter McKinnon; co-host stories already quarantined. **@mkbhd main channel ✅ COMPLETE.**
+
 ## [2026-07-25] ingest | yt batch (@mkbhd, 4) — Ask MKBHD V34–V35 + Waveform-launch + 2020 Q&A — ✅ @mkbhd DISCOVERED-LEDGER DRAINED, L2 2121→2125 (batch 55)
 
 **Stage B ingest** — the last 4 **SOLO @mkbhd** videos: Ask MKBHD V34 (2019-01) + V35 (2019-05) + the

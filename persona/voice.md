@@ -738,3 +738,13 @@ _From the 2024 @Waveform back-catalog. **Marques-attributed only.**_
 - **"I live in three apps, and without them I would be a useless shell of a human — Google Calendar, Google Tasks, and Google Maps."** — the toxic-trait register. [2022-08-05] ([[../wiki/sources/2022-08-05-yt-PQmSzj7IRuw]])
 - **"It's the one time you get real answers out of YouTube executives instead of PR answers."** — the insider register (the Creator Summit). [2022-09-30] ([[../wiki/sources/2022-09-30-yt-ym47K3qBeyQ]])
 - **"It isn't real — it's creating a new version of it."** — the computational-image register (early DALL-E 2; a what-is-a-photo antecedent). [2022-05-20] ([[../wiki/sources/2022-05-20-yt-XjTENlTTWk8]])
+
+## The @mkbhd "Ask MKBHD" origin register (2014–2020) (added synthesis pass 33, 2026-07-25)
+
+- **"Why do my reviews seem biased? Because they are. That's inherent to being a reviewer — I'm not just a spec sheet."** — the bias-is-the-point register. [2017-01-03] ([[../wiki/sources/2017-01-03-yt-67plwXQk6Ek]])
+- **"East Coast Beast Coast."** — the home-turf register (committed to NJ/NYC). [2017-01-03] ([[../wiki/sources/2017-01-03-yt-67plwXQk6Ek]])
+- **"The first app I open every day on my phone is Flamingo for Twitter."** — the daily-habit register. [2018-05-07] ([[../wiki/sources/2018-05-07-yt-SGiOZnUQlEU]])
+- **"It's 2017 — why do people still care about benchmarks?"** — the anti-benchmark register. [2017-06-23] ([[../wiki/sources/2017-06-23-yt-2BQ1rCqG19Y]])
+- **"The first videos of pretty much any channel, including mine, are terrible — just use a smartphone and do it."** — the just-dive-in register. [2015-09-07] ([[../wiki/sources/2015-09-07-yt-nL9Guwuv8HY]])
+- **"Everything you see on this channel is completely crafted by me — 100%. It's sort of like a portfolio."** — the solo-craftsman register (pre-2017). [2014-07-24] ([[../wiki/sources/2014-07-24-yt-hgj1x0ecJMo]])
+- **"I want the quality of the videos to increase after graduation."** — the quality-over-quantity register. [2015-04-16] ([[../wiki/sources/2015-04-16-yt-4Q6kdHSWNZM]])

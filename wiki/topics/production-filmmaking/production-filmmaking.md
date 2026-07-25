@@ -339,5 +339,11 @@ _L2 1998→2090. **Marques-attributed only.**_
 - **Car-camera-rig cinematography** — the F-150 Lightning **follow-car** shoot (DJI Ronin 2 tow-hitch rig; a Tesla-based rig; a car crane held on insurance/permits). [2022-05-27] ([[../../sources/2022-05-27-yt--APBLWK7gTA]])
 - **He scores Waveform's ad music on a Teenage Engineering OP-Z** (OP-2 = his "Half-Life 3" most-wanted). [2021-12-31] ([[../../sources/2021-12-31-yt-H6Wwg54kNao]])
 
+## @mkbhd "Ask MKBHD" origin-era additions (2014–2020) — added synthesis pass 33 (2026-07-25)
+_L2 2090→2125. **SOLO @mkbhd.**_
+- ★ **First review ever = the OG Motorola Droid** (Canon T2i + built-in mic); **full camera lineage** — Sanyo Xacti CG10 → T2i → 60D → 5D Mk III → C100 → **RED Scarlet**; **Sigma 18-35 = favorite lens**. [2014-07-24] ([[../../sources/2014-07-24-yt-hgj1x0ecJMo]])
+- ★ **Premiere → Final Cut Pro 10 (~2016)** for render/playback performance (corroborates the Kobe-interview origin); edits on the **Mac Pro** for RAW RED footage. [2016-01-05] ([[../../sources/2016-01-05-yt-C5UiAaeHdgg]]) · [2017-02-11] ([[../../sources/2017-02-11-yt-Vr3ya_uPmxg]])
+- ★ **The 2016 studio build** — open plan + audio room; the **Mega Desk = a custom NextDesk Air Pro**; floor plan sketched on the iPad Pro. **8K-upload** commitment (future-proof the archive, "even though I know almost no one sees it"). [2016-05-13] ([[../../sources/2016-05-13-yt-ya7VlofjdwY]]) · [2020-01-06] ([[../../sources/2020-01-06-yt-NbzpwG4n6Vs]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._
