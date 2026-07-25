@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 May 26 → Jul 14, 8/8 ingested — ensemble podcast, light-triage L2 (batch 35)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-05-26 → 2023-07-14), L2 1966→1974.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. Includes **two
+guest episodes** (both quarantined).
+
+- ★ **17-aVWFa098** (WWDC/Vision Pro): Marques's **EARLIEST Vision Pro take** (reveal day) — the
+  digital-crown real↔digital dial fixes pure-VR lock-in; **"Google Glass was one of the best inventions
+  ever, destroyed by privacy"**; **UI is the innovation** (eyes+hands+voice, "reminds me of the first
+  iPhone"). iOS 17: **Apple avoids saying "AI"** (says Transformers/ML), **ecosystem leads**. MacBook Air 15
+  = **"the Model Y of the lineup."**
+- ★ **p2jTGQmvBXM** (GUEST Simone Giertz — NOT trained): Marques creator-business — **don't hinge everything
+  on YouTube** ("you can be a Mark Rober, but you can also not be successful"); build a products business
+  alongside videos (echoes his Doug DeMuro convo).
+- ★ **U-p5SdtJNYs** (Threads/Zenfone 10): **small-phone advocate** — loves the Zenfone 9 ("one of my
+  favorite phones ever," his Small Phone of the Year). ⚠️ climbing-gym line = **CO-HOST**, quarantined.
+- ★ **TutEH8se0y4** (Pixel Fold): **foldable enthusiast** ("anything that folds, I'm into it") + the
+  **"fun vs. actually good"** novelty filter.
+- Corroboration/low: **sAhLsoHb2Ys** (Ford adopts NACS + XKCD standards comic; Razr+), **VO-iMK-1ljY**
+  (Reddit API protest; Volvo EX30 $35k EV), **B_CSzCer1-4** (GUEST Doctor Mike — health-tech skepticism),
+  **J8Hd3UGwlJM** (trivia finale, very low).
+
+Synthesis notes: New this batch — (1) ★ **earliest-dated Vision Pro thesis** (reveal-day: spatial-computing
+dial, Google-Glass-killed-by-privacy, UI-is-the-innovation/first-iPhone) — precedes the hands-on & review;
+(2) ★ **"Apple avoids saying AI on stage" (Transformers/ML) + ecosystem-leads** WWDC read; (3) ★
+**MacBook-Air-15 = Model Y of the lineup** analogy; (4) ★ **don't-depend-on-YouTube / build-a-business**
+creator philosophy (Mark Rober comparison); (5) **small-phone advocate** (Zenfone 9); (6) **foldable
+enthusiast** + fun-vs-good filter. Quarantined: climbing-gym (co-host), Simone Giertz + Doctor Mike (guests).
+→ pass-31 checkpoint due in ~4 more @Waveform batches (L2 ~2006) or at channel completion.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Jul 21 → Sep 8, 8/8 ingested — ensemble podcast, light-triage L2 (batch 34)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-07-21 → 2023-09-08), L2 1958→1966.
