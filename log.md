@@ -4,6 +4,25 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 8 P3 specials (Hot Ones, trivia, awards, best-of), 8/8 ingested — ensemble podcast, light-triage L2 (batch 49)
+
+**Stage B ingest** — 8 more @Waveform P3 special episodes (gameshows/trivia/awards/best-of/Hot-Ones),
+L2 2078→2086. ENSEMBLE podcast; only clearly-Marques takes trained. Light-triage — **mostly format episodes,
+very low yield** (4 P3 left → channel completes next batch).
+
+- ★ **-APBLWK7gTA** (Spicy Takes / Hot Ones): **car-camera-rig production** — the F-150 Lightning review used
+  a **second Lightning as a follow car** (DJI Ronin 2 on a tow-hitch rig; a Tesla-based rig; a car crane held
+  back on insurance/permits): "what is the ultimate car-shooting rig?"
+- **vmqtGa5H01w** (ChatGPT Q&A): OnePlus Featuring Keyboard 81 keyboard taste (red keycaps; wants the knob
+  anodized red) — corroborates his mech-keyboard aesthetic.
+- Format/very-low: **awI0hqP36sM** (2023 Waveform Awards), **Kyo32SvrIig** (Guests Best-Of compilation),
+  **8_cLG47zy4U** (VS Vergecast trivia at WWDC), **C8Z1u90wYcg** + **KDZytz_To3Y** (trivia/recs gameshows),
+  **LEdYbuwn7DE** (editors take over — Marques not the focus).
+
+Synthesis notes: New — car-camera-rig production detail (F-150 Lightning follow-car, DJI Ronin 2); keyboard
+taste corroboration. Otherwise format/retrospective. → **@Waveform down to 4 P3 (~1 batch)**; the final batch
+completes the channel, then **pass-32 Stage S** fires.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — last 3 P2 (May 2021) + 5 P3 specials, 8/8 ingested — ensemble podcast, light-triage L2 (batch 48)
 
 **Stage B ingest** — the final 3 P2 (the show's **earliest May-2021 episodes**) + 5 P3 special episodes
