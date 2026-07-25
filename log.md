@@ -4,6 +4,16 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 2 (12): 12 new (digest 02), 0 dup — L2 2131→2143
+
+**Stage C (shorts dedup, @mkbhd batch 2).** 12 @mkbhd gadget-showcase shorts (Oct 2025 → Jan 2026), all
+**genuinely-new standalone micro-takes → consolidated light-L2** ([[2026-mkbhd-shorts-digest-02]]); **0 dups**
+this batch (none were long-form teasers or guest clips). Durable-ish signals: **Pixel-10↔AirDrop interop**;
+**Samsung XR vs a barely-refreshed Vision Pro ("addressed almost nothing")**; the **Nothing Ear (3)
+case-mic "genius idea, bad execution"** concept-vs-execution critique. The rest are ephemeral gadget quips
+(ultrasonic knife, Samsung Trifold, OnePlus-15 scratch-resistance, ridiculous zoom, Aptera solar EV, Meta-glasses
+waveguide-leak PSA, GoT heat-reactive phone, Honor/Xiaomi iPhone-lookalikes). → **97 @mkbhd shorts left**.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 1 (12): 6 new (digest), 5 dup, 1 no-captions — L2 2125→2131
 
 **Stage C (shorts dedup, @mkbhd batch 1).** Fetched 12 @mkbhd shorts (2026). Dedup counts:
