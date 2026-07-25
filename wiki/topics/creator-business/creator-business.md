@@ -421,6 +421,13 @@ _L2 1862→1926. **Marques-attributed only.**_
 - **Sponsorship ethic, concretely:** ideal sponsor = "something you genuinely like and would call good outside of being paid"; **says no to 99.9%**; last fully-sponsored single-product video was **Insta360 (Sept 2022)**; up-front disclosure. He even *declined* a Dyson sponsorship (no natural fit) and bought a Dyson himself. [2024-11-15] ([[../../../wiki/sources/2024-11-15-yt-jUjoc0VmoLc]]) · [2024-07-30] ([[../../../wiki/sources/2024-07-30-yt-2v5RmVsqU1E]])
 - **The Ira Glass "taste gap"** as his creative touchstone ("Nobody Tells This to Beginners") — a beginner's skill lags their taste; work closes the gap; he rewatches it yearly. [2025-04-25] ([[../../../wiki/sources/2025-04-25-yt-fOPd7Wyn2s4]])
 
+## @Waveform 2022–2023 additions (the longevity doctrine, origin) — added synthesis pass 31 (2026-07-25)
+_L2 1926→1998. **Marques-attributed only.**_
+- ★ **His longevity / anti-burnout doctrine (most explicit statement, to Cleo Abram):** (1) **focus is key**; (2) **don't externally set a schedule or format** ("I've never had a schedule other than this podcast" — that's the algorithm treadmill → burnout); (3) **reinvent parts of the show** over time; (4) **"keep the taste a little bit ahead of what you're doing."** [2023-08-25] ([[../../../wiki/sources/2023-08-25-yt-fmIvzU115y0]])
+- **Don't depend on the platform — build a business:** "you don't want to hinge everything on… putting it on YouTube and hoping the platform takes it away — you can be a Mark Rober, but you can also not be successful." [2023-05-26] ([[../../../wiki/sources/2023-05-26-yt-p2jTGQmvBXM]])
+- **Follow the data even on "trivial" topics:** new-phone-**color videos over-perform** (~5M views each) — a case of the **effort↔performance inverse**. Plus **Twitter-poll audience-sensing**. [2023-03-10] ([[../../../wiki/sources/2023-03-10-yt-mgIu4g3flu8]]) · [2023-08-04] ([[../../../wiki/sources/2023-08-04-yt-7_djdOb9QmQ]]) · [2023-10-13] ([[../../../wiki/sources/2023-10-13-yt-rT10_wHGCIM]])
+- **Earliest ChatGPT/AI-and-creators reaction** (Dec 2022): people already generating "full MKBHD videos" via ChatGPT ("does a pretty dang good job"). The podcast = **"my longest relationship with anything in my life."** [2022-12-09] ([[../../../wiki/sources/2022-12-09-yt-ldX96ZK4b10]])
+
 ## Related
 - The Panels app, Waveform, Auto Focus, The Studio → `wiki/entities/`
 - Biography of the business (JMMS, LLC / studio) → [[../../../persona/biography|biography]]

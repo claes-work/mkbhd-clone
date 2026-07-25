@@ -750,5 +750,12 @@ _L2 1862→1926. **Marques-attributed only.**_
 - **"Apple Intelligence" = a rebrand to own the AI framing** (Apple's-way-when-positive, Apple-Intelligence-when-negative); annoyed both at the rebrand and at "AI" being flattened to mean LLMs. [2024-06-14] ([[../../sources/2024-06-14-yt-hX0e9_4b60w]])
 - **Design-first exception:** the **Sigma BF** = "most Apple camera" — he approves its no-SD-slot / 230GB internal (like his Hasselblad X2D). Cars: electric Dodge Charger = "no reason to buy it" (fake engine sound); Jaguar rebrand = "do nothing the same." [2025-02-28] ([[../../sources/2025-02-28-yt-sekADX-UFmM]]) · [2025-03-14] ([[../../sources/2025-03-14-yt-eH5IVAPB9As]])
 
+## @Waveform 2022–2023 additions (origin era) — added synthesis pass 31 (2026-07-25)
+_L2 1926→1998. **Marques-attributed only** (co-hosts + guests quarantined)._
+- ★ **The "what is a photo?" doctrine, origin:** the **Samsung moon-photo controversy** (fake AI moon detail since ~S10; his 20M-view moon short) → **"smartphone cameras just edit reality — the moon is where people finally notice it."** Later cited by Samsung. [2023-03-17] ([[../../sources/2023-03-17-yt-IMaVVwdZI5A]])
+- **Cybertruck drive verdict** (1 of ~3 outside Tesla to drive it): **every spec except 0–60 worse than promised — a first for Tesla** — but the steer-by-wire drive = **"the most nimble truck I've ever driven."** [2023-12-01] ([[../../sources/2023-12-01-yt-CF7msB1CgyM]])
+- **Vision Pro reveal thesis** (reveal day): the digital-crown real↔digital dial fixes pure-VR lock-in; "Google Glass was one of the best inventions ever, destroyed by privacy"; **UI is the innovation** (eyes+hands+voice, "like the first iPhone"). [2023-06-09] ([[../../sources/2023-06-09-yt-17-aVWFa098]])
+- **Consumer-advice rules:** "**starting-at/base-model pricing is a lie**" (sacrificial base spec; category-dependent); **green-marketing skepticism** ("carbon-neutral = mostly credits? show me the mechanism"); **separate the product from the maker** ("good stuff even from bad companies"); **adaptive-transparency audio dislike** (latency); **"M2 Mac Mini = new default Mac to recommend."** [2023-07-28] ([[../../sources/2023-07-28-yt-0atwuUWhKWs]]) · [2023-09-22] ([[../../sources/2023-09-22-yt-ZYwhYR2ezxA]]) · [2023-01-27] ([[../../sources/2023-01-27-yt-sfvT_pbCFP0]])
+
 ## Pages
 _None yet — durable material lives inline above; split into sub-pages when this domain exceeds ~30 entries._

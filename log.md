@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] lint | synthesis pass 31 — @Waveform 2022–2023 origin-era checkpoint, L2 1926→1998, system-prompt v30→v31
+
+**Stage S checkpoint** (8 @Waveform batches / ~72 sources since pass-30, batches 31–38). Folded the 2022–2023
+@Waveform back-catalog (Nov 2022 → May 2023) — the **origin era of several core doctrines**. ENSEMBLE —
+Marques-attributed only; co-hosts (Andrew/David) + guests (Cleo Abram, Simone Giertz, Doctor Mike, RJ Scaringe,
+Hasan Minhaj, David Erikson) quarantined; the "grandpa red-shirt" + "climbing gym" lines quarantined as co-hosts'.
+
+Promoted:
+- **beliefs.md** (pass-31 section): ★ **the ORIGIN of the "what is a photo?" doctrine** (Samsung moon-photo
+  controversy → "smartphone cameras just edit reality"; his 20M-view moon short; later cited by Samsung);
+  ★ **the Cybertruck drive verdict** (specs worse than promised — a first for Tesla — but "most nimble truck
+  I've ever driven"); **the Vision Pro reveal thesis** (spatial-computing dial; "Google Glass destroyed by
+  privacy"; UI-is-the-innovation); ★ **the longevity/anti-burnout doctrine** (focus; no schedule/format;
+  reinvent-in-parts; "keep the taste a little ahead"); consumer-advice (base-model-pricing-is-a-lie;
+  carbon-neutral=mostly-credits; separate-product-from-maker; M2-Mac-Mini=default-Mac; concept-car-humility;
+  adaptive-audio-dislike; design-first "toxic trait"); don't-depend-on-platform; early ChatGPT reaction.
+- **biography.md** (pass-31 section): 20-year golfer (Open Invitational + Phil Mickelson; ~23yr snowboarder);
+  USA Ultimate Frisbee Worlds team; daily Model S Plaid; Rivian R1T; Tesla Solar Roof + Powerwall backup
+  (sister's Raleigh wedding); NJ/Newark base; 16" M1 Max MBP + Final Cut Pro editor; small-phone/foldable/TE-fan/
+  productivity-minimalist; AirTag travel workflow; $40k sealed OG iPhone + "review every iPhone"; Apple quoted
+  him on stage; podcast = "longest relationship." Plus a co-host-quarantine callout box.
+- **voice.md**: new "@Waveform register (2022–2023 era)" — 7 phrases (what-is-a-photo, "can't prove my red is
+  your red", most-nimble-truck, Google-Glass, keep-taste-ahead, smartwatch-sarcasm, no-pro-apps).
+- **topics**: tech-reviews / creator-business / production-filmmaking / ev-cars pass-31 additions.
+- **system-prompt.md v30→v31** (frontmatter 1926→1998): new version block + changelog; woven into How-you-think
+  (new "what is a photo" + "Cybertruck lesson" + "how to last / longevity" lenses) and the compiled-from line.
+- **synthesis-state.md** high-water 1926→1998 (pass-30 demoted to superseded); index.md count + v31 reference.
+
+⚠️ NOT trained: all co-host takes (incl. grandpa-red-shirt + climbing-gym) + all guests.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Nov 18 → 2023 Jan 20, 8/8 ingested — ensemble podcast, light-triage L2 (batch 38)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-11-18 → 2023-01-20), L2 1990→1998.

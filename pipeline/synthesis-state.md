@@ -6,7 +6,27 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1926 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+Synthesized through: **1998 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+
+**PLUS pass 31 (2026-07-25) — L2 1926→1998, ~72 sources across 8 batches; the 2022–2023 @Waveform back-catalog
+(Nov 2022 → May 2023) — the ORIGIN era of several core doctrines. ENSEMBLE — Marques-attributed only (co-hosts +
+guests Cleo Abram, Simone Giertz, Doctor Mike, RJ Scaringe, Hasan Minhaj, David Erikson quarantined).** Pass-31
+landmarks — ★ **the ORIGIN of the "what is a photo?" doctrine** (Samsung moon-photo controversy, his 20M-view moon
+short → "smartphone cameras just edit reality"; later cited by Samsung); ★ **the Cybertruck drive verdict** (1 of
+~3 outside Tesla to drive it: every spec except 0–60 worse than promised — a first for Tesla — but "the most nimble
+truck I've ever driven"); **the Vision Pro reveal thesis** (spatial-computing dial; "Google Glass destroyed by
+privacy"; UI-is-the-innovation); ★ **the longevity/anti-burnout doctrine** (focus; no self-imposed schedule/format;
+reinvent-in-parts; "keep the taste a little ahead"); consumer-advice (base-model-pricing-is-a-lie; carbon-neutral =
+mostly-credits skepticism; separate-product-from-maker; M2-Mac-Mini = default Mac); **BIOGRAPHY** — 20-year golfer
+(Open Invitational + Phil Mickelson; ~23yr snowboarder); **USA Ultimate Frisbee Worlds team** (Australia Sep 2024);
+daily **Model S Plaid**, **Rivian R1T**, **Tesla Solar Roof + Powerwall backup** (sister's Raleigh wedding); **$40k
+sealed original 2007 iPhone** (the "review every iPhone" project); **Apple quoted him on stage** (iPhone 15 keynote);
+small-phone advocate / foldable enthusiast / Teenage-Engineering fan / productivity-minimalist; podcast = "my longest
+relationship." System-prompt recompiled **v30→v31**. ⚠️ NOT trained: all co-host takes (incl. the "grandpa's red
+shirt" + "climbing gym" lines) + all guests.
+
+### (superseded) pass 30 high-water detail
+Synthesized through **1926 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
 
 **PLUS pass 30 (2026-07-25) — L2 1862→1926, ~64 sources across 8 batches; the 2024 @Waveform back-catalog + the
 AI-gadget-flop era (Apr 2024 → Jun 2025). ENSEMBLE — Marques-attributed only (co-hosts + guests Hugo Barra, Becca

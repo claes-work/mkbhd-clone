@@ -308,6 +308,12 @@ _From the founding @AutoFocus corpus (L2 1638→1694; Aug 2022 → Aug 2024). Th
 - **"Lucid one-ups Tesla (luxury); Tesla wins software + network"** — the origin of the Lucid-vs-Tesla thread. [2022-11-11] ([[../../sources/2022-11-11-yt-ZgOkOVyHjH0]])
 - **Biography origins:** the @AutoFocus channel launched Aug 2022; the daily-driver arc (Tesla/2008-Roadster → Model S Plaid "best daily driver for me" → sold on Cars & Bids → the 911); ordered-a-Cybertruck-then-switched-to-the-R1T. See [[../../../persona/biography.md]] (pass 26). [2022-08-25] ([[../../sources/2022-08-25-yt-OKjyz7Jp4kA]]) · [2022-12-20] ([[../../sources/2022-12-20-yt-34VZzBWBDN0]])
 
+## @Waveform 2022–2023 additions (the drive, the fleet, the network) — added synthesis pass 31 (2026-07-25)
+_L2 1926→1998. **Marques-attributed only.** Corroborates the @AutoFocus doctrines above from the podcast side._
+- **Cybertruck drive verdict** (1 of ~3 outside Tesla to drive it): every spec except 0–60 came in **worse than promised — a first for a Tesla** — but the **steer-by-wire drive** (squircle wheel, 10° rear-axle steer, 170° full-lock) = **"the most nimble truck I've ever driven."** [2023-12-01] ([[../../sources/2023-12-01-yt-CF7msB1CgyM]])
+- **"I largely recommend Teslas in the US" — because of the charging network** (vs unreliable Electrify America; a $170k Lucid owner "crossing fingers"). Noted the shift when **Tesla's Magic Dock** opened ~10 US Superchargers to CCS. [2023-03-03] ([[../../sources/2023-03-03-yt-3_ROaNwDE9I]])
+- **Fleet/biography (podcast side):** daily driver a **Tesla Model S Plaid**; **owns a Rivian R1T** (drove it 1.5h upstate NY to test the Magic Dock); home has a **Tesla Solar Roof + Powerwall-style backup**. See [[../../../persona/biography.md]] (pass 31). [2023-08-04] ([[../../sources/2023-08-04-yt-7_djdOb9QmQ]]) · [2022-11-18] ([[../../sources/2022-11-18-yt-fvrd6XAtkNw]])
+
 ## Related
 - Auto Focus channel → [[wiki/entities/auto-focus]]
 - Cybertruck design as *industry* commentary → [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]]

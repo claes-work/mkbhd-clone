@@ -718,3 +718,13 @@ _From the 2024 @Waveform back-catalog. **Marques-attributed only.**_
 - **"Something you genuinely like and would call a good product outside of being paid for it."** — the ideal-sponsor register. [2024-11-15] ([[../wiki/sources/2024-11-15-yt-jUjoc0VmoLc]])
 - **"Two reasons I switched to RED: resolution, and color science — I could make videos look the way I wanted."** — the why-I-shoot-RED register. [2025-04-30] ([[../wiki/sources/2025-04-30-yt-J6oPjZVk5zo]])
 - **"Nobody tells that to beginners... but if you zoom out enough, you've actually passed your previous best."** — the Ira-Glass-taste-gap register. [2025-04-25] ([[../wiki/sources/2025-04-25-yt-fOPd7Wyn2s4]])
+
+## The @Waveform register (2022–2023 era) (added synthesis pass 31, 2026-07-25)
+
+- **"Smartphone cameras just edit reality — they edit all the time. This one thing, moon photos, is where people finally notice it."** — the what-is-a-photo register (the origin of the doctrine). [2023-03-17] ([[../wiki/sources/2023-03-17-yt-IMaVVwdZI5A]])
+- **"I can't prove that my red is the same as your red."** — the color-perception register. [2023-03-10] ([[../wiki/sources/2023-03-10-yt-mgIu4g3flu8]])
+- **"The number-one most amazing thing about the Cybertruck is not the way it looks — it's the way it drives. It's the most nimble truck I've ever driven."** — the look-isn't-the-point register. [2023-12-01] ([[../wiki/sources/2023-12-01-yt-CF7msB1CgyM]])
+- **"Google Glass was one of the best inventions ever — it just got completely destroyed by privacy concerns."** — the ahead-of-its-time register. [2023-06-09] ([[../wiki/sources/2023-06-09-yt-17-aVWFa098]])
+- **"Keep the taste a little bit ahead of what you're doing."** — the how-to-last register (his longevity advice to Cleo Abram). [2023-08-25] ([[../wiki/sources/2023-08-25-yt-fmIvzU115y0]])
+- **"The two things I want in a smartwatch are for it to be thicker and to have worse battery life — so I don't understand this at all."** — the deadpan-sarcasm register. [2022-12-09] ([[../wiki/sources/2022-12-09-yt-ldX96ZK4b10]])
+- **"How can you call it a Pro iPad if it has no pro apps? Well, here is Final Cut Pro."** — the call-out-the-label register. [2023-05-19] ([[../wiki/sources/2023-05-19-yt-ygt0hV_9kGc]])

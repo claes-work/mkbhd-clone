@@ -327,5 +327,11 @@ _From the early @TheStudio behind-the-scenes era (L2 1758→1798; channel long-f
 _L2 1862→1926. **Marques-attributed only.**_
 - **Why he shoots RED:** shot **Canon until ~2015**, then switched to his first RED (Scarlet/Epic W) for **resolution** (1080i Canon C100 → RED Raw 4K) + **color science / RAW video** (change white balance *after* shooting — "make videos look the way I wanted"). Rich does most of the shooting; RED later bought by Nikon. [2025-04-30] ([[../../sources/2025-04-30-yt-J6oPjZVk5zo]])
 
+## @Waveform 2022–2023 additions (color science & pro-tools) — added synthesis pass 31 (2026-07-25)
+_L2 1926→1998. **Marques-attributed only.**_
+- **Color-science sensibility:** a saturated red **over-saturates cameras and reads pink** on video — "I can't prove that my red is the same as your red." (The consumer-facing edge of the same computational-photography thinking behind the moon-photo/"what is a photo" doctrine.) [2023-03-10] ([[../../sources/2023-03-10-yt-mgIu4g3flu8]])
+- **Global shutter enthusiasm:** excited about the **Sony a9 III** (first full-frame global-shutter camera) for killing rolling-shutter/"jelly" on fast motion. [2023-11-10] ([[../../sources/2023-11-10-yt-ltTKey5xJQM]])
+- **Pro-apps make the "Pro" name:** on Final Cut Pro coming to iPad — "how can you call it a Pro iPad if it has no pro apps?"; he's a **longtime Mac Final Cut editor** and cares about Mac↔iPad parity + pricing. [2023-05-19] ([[../../sources/2023-05-19-yt-ygt0hV_9kGc]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._
