@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@TheStudio, 8) — 2021 Oct 19 → 2022 Feb 7, 8/8 ingested — ensemble hard-gated (batch 11, reaches the TRUE channel launch: 2021-10-19)
+
+Batch 11 pushed @TheStudio back to its actual first video (Pixel 6 Unboxing, **2021-10-19** —
+corrected the stale "earliest video" note that had been on 2022-03-09). L2 1774→1782.
+
+Attribution split (8/8):
+- **subject ★ (2):** `jyKLrSeYsoE` Blind Smartphone Camera Test BTS — his own franchise;
+  **methodology/fairness rules** (setup photo loads every variable so no single one like dynamic
+  range decides it; shoot-wide-and-crop for side-by-side; tripod framing reference) + the core
+  **"it's all about processing, and they all process their stuff the same"** thesis; Pixel 5a wins.
+  `iPhywv1Y52c` Tesla camera-car build — **MotoCrane crane on his own Raven Model S** (adds a Model
+  S to the fleet) + car-video **production methodology** (why prior car b-roll was hard).
+- **⚠️mixed (3):** `p_LUKM7xiW0` Techtober (R1T love pre-ownership, non-Tesla-charging thesis, 2021
+  MBP ports comeback, still-waiting-Mac-Pro); `-Y8rdML9fpI` Pixel 6 unboxing (un-iPhone design,
+  aggressive $599/$899 pricing); `DgaDxfnOQ6M` OnePlus 10 Pro (Hasselblad skepticism, "copied Samsung").
+- **co-host/context, NOT trained (3):** `XR5f7py5y2c` **David's Bitrate Leica M11 essay** (camera
+  philosophy quarantined — same boundary as the X100VI correction); `PrdX55H5p1k` team EDC (David
+  hosts, Marques not featured — corroborates David-camera + studio-dog corrections); `pvtKK96VkoE`
+  game night (no substance; "no car" line is a teammate).
+
+Open after: @TheStudio 16 (P2:10 P3:6) · @Waveform 292 · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 2 batches since last checkpoint (checkpoint at 10). **NEXT:** Stage B continues on
+@TheStudio (~1–2 batches to drain P2), then the **final Stage S (pass 28)** fires at @TheStudio
+completion — folding this run's genuinely-new material (Blind-Camera-Test methodology ★, the
+camera-car production node + Raven Model S ★) and recompiling the system prompt v27→v28.
+
+Synthesis notes: NEW (deferred to pass-28) — (1) **Blind Smartphone Camera Test methodology** (the
+setup-photo fairness rule, shoot-wide-and-crop, "it's all processing" thesis) → tech-reviews +
+production topics ★; (2) **camera-car production node + Raven Model S ownership** → biography +
+production ★. Everything else corroborates existing threads. Hard-gated: David's M11/camera essays,
+the team EDC, the studio dogs, and the "no car" teammate line are all excluded from persona.
+
 ## [2026-07-25] ingest | yt batch (@TheStudio, 8) — 2022 Mar 9 → Sep 21, 8/8 ingested — ensemble hard-gated (batch 10, reaches the actual channel launch)
 
 Stage B ingest — tenth @TheStudio batch (2022-03-09 → 2022-09-21) — this reaches the channel's **actual first video** ("Apple March 2022 Event Reactions," 2022-03-09; the batch-9 "earliest" note corrected again). A low-yield launch-era batch: 2 medium Marques-bearing, 6 context. Medium: **Learning card magic with David Blaine** (`⚠️mixed`) — a **biography node**: David Blaine visits the studio (2022) and teaches Marques card magic; reaffirms the Marques↔Blaine friendship ("the balloons thing we did, 2020" — his Ascension stunt); and **Apple September 2022 Event Reactions** — Marques **called the green iPhone 14 Pro** from the color cycle; **"Dynamic Island = basically the LG V10"**; the **Apple-opacity critique** ("makes exceptional audio products but won't explain how they work"); **"just give us USB-C."** The other 6 are context: the March-2022 reactions (Marques's recurring **"wait, the Mac Pro is coming"** beat — which he later resolves by buying it), the iPhone 14 unboxing (minor — purple-disappointment, space-black-Pro), the M2-Air/Nothing intros BTS (Brandon/`co-host`), the DALL·E-vs-Tim challenge (Marques hosts, substance is Tim's), the Match-Cut product-shot contest (Marques guest judge — "likes brighter things"), and the Analogue Pocket review (Adam/`co-host`).
