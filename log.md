@@ -4,6 +4,28 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Jun 3 → Jul 22, 8/8 ingested — ensemble podcast, light-triage L2 (batch 41)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-06-03 → 2022-07-22), L2 2014→2022.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. Two guest episodes
+(Apple execs; Tom Scott — both quarantined). Product-review/buying-advice heavy.
+
+- ★ **KKgutphqX4w** (M2 MBP): **"Who would buy the 13" M2 MacBook Pro?"** — the M2 Air is cheaper AND
+  redesigned (the better laptop); the Pro only adds active cooling. Nothing Phone differentiates on design.
+- ★ **t6cOybVxFH8** (M2 Air): likes the flat "mini MacBook Pro" design but **misses the wedge**; the
+  **"deceptively expensive — don't buy the base model"** base-SSD catch (1×256GB vs 2×128GB parallel).
+- **16OfjUSho1A**: **Xiaomi 12S Ultra** (1-inch-sensor Leica "minion phone") — testing, "I have a hot take."
+- **OUhzNHU6JV4**: Hyundai Ioniq 6 **naming pet peeve** ("bigger number for a smaller car," like Polestar).
+- Low-med: **53XRRScxyxo** (Nothing-first-event critique vs Apple gold standard; JWST), **ZX9yjytlaX0**
+  (RIP Internet Explorer / browser-wars history).
+- ⚠️ Guests NOT trained: **3doTah039pk** (Apple execs Tim Millet + Bob Borchers — residue: keynote-craft
+  appreciation, Federighi "a gem"), **LRi-CrzY6d4** (Tom Scott — recurring friend-of-show reference).
+
+Synthesis notes: New this batch — (1) ★ **M2 MacBook Air/Pro buying-advice** ("who is the 13\" Pro for?"; the
+base-SSD/parallel-NAND warning); (2) Xiaomi-12S-Ultra 1-inch-sensor camera interest; (3) EV-naming pet peeve;
+(4) keynote-craft appreciation (Federighi, epic transitions). Mostly corroboration. Quarantined: Apple execs +
+Tom Scott (guests). → pass-32 checkpoint due in ~7 more @Waveform batches or at channel completion (~51 P2 left).
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Jul 29 → Sep 16, 8/8 ingested — ensemble podcast, light-triage L2 (batch 40)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-07-29 → 2022-09-16), L2 2006→2014.
