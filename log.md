@@ -4,6 +4,33 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Mar 25 → May 20, 8/8 ingested — ensemble podcast, light-triage L2 (batch 42)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-03-25 → 2022-05-20), L2 2022→2030.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. One guest (David
+Blaine). **High-yield batch — two strong biography/notoriety items + more.**
+
+- ★★ **h2rDfW1UbKo** (Twitch): **BIO/notoriety** — invited to the **2022 Met Gala** (Derek Blasberg); and
+  **"I was the first YouTuber invited to an Apple launch event"** (before any YouTubers went; now they're at
+  every tech event). Twitch streamer revenue-split backlash.
+- ★ **tgK9htO8Evo** (Google I/O): **BIO/disclosure** — **his sister + her husband work at Google** (sent him
+  the swag) — a proactive disclosure. Google I/O 2022 recap.
+- ★ **Jv25KXopFAc** (Dyson): **EV reservation-culture skepticism** ("a very loose reservation") vs Apple's
+  clockwork ship discipline (Sony improving). Dyson Zone headphones.
+- ★ **9fjIdTx5bEQ** (DeLorean): **breaks his own prototype-skepticism rule** for nostalgia ("I want the
+  DeLorean EV"); **"sucker for bar tail lights"** (design taste). Right-to-repair.
+- ★ **XjTENlTTWk8** (DALL-E 2): early generative-AI reaction — "it isn't real, it's creating a new version"
+  (a pre-ChatGPT antecedent to "what is a photo"); mini-Android small-phone wish.
+- Context/guest: **XypnALPMcNc** (Mac Studio — his pro-Mac context; ⚠️ **Andrew's** wedding-dance Apple-Watch
+  story QUARANTINED), **u_z6EvDcP0M** (GUEST David Blaine — not trained), **fpYfx6oQWRk** (JWST explainer).
+
+Synthesis notes: New this batch — (1) ★★ **BIO/notoriety: first YouTuber invited to an Apple event + 2022
+Met Gala**; (2) ★ **BIO: sister + brother-in-law work at Google** (disclosure); (3) **EV reservation-culture
+skepticism** + Apple-clockwork ship discipline; (4) **DeLorean-nostalgia rule-break** + bar-tail-lights design
+love; (5) **early DALL-E 2 "it isn't real, a new version"** (what-is-a-photo antecedent). Quarantined: David
+Blaine (guest), Andrew's wedding story. → pass-32 checkpoint due in ~6 more @Waveform batches or at channel
+completion (~43 P2 left).
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Jun 3 → Jul 22, 8/8 ingested — ensemble podcast, light-triage L2 (batch 41)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-06-03 → 2022-07-22), L2 2014→2022.
