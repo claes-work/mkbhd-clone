@@ -4,6 +4,33 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Oct 3 → Nov 14, 8/8 ingested — ensemble podcast, light-triage L2 (batch 18)
+
+Fifth @Waveform batch (light-triage L2, hard co-host gating). L2 1830→1838. A biography-rich batch.
+
+Marques-attributed keepers:
+- **11-14 OnePlus 15 verdict** (his daily driver): monster phone (SD 8 Elite Gen 5, 7,300 mAh, "crazy
+  build quality") but **cameras = the flaw** (dropped Hasselblad; "everything is worse"). BIO: carries
+  a **Hasselblad in his backpack**.
+- **10-03 iPhone 17 Pro vs Leica** — BIO: **he owns a Leica M11 + multiple lenses** (shot the Alps on
+  both for a blind test); iPhone-flattens-vs-Leica = live physics-vs-compute.
+- **10-10 "New Teslas Are a Bad Deal"** — stripped "Standard" Model Y/3 = **upsell price-ladder**; BIO:
+  **cancelled his $50,000 Tesla Roadster reservation** (fully refunded); Instagram creator-rewards judge.
+- **10-14 Adam Mosseri (Instagram head) interview** (guest NOT trained) — **multi-platform creator
+  identity** (YT/shorts/IG/TikTok, transparent) + ask-same-question-twice interviewing technique.
+- Lower-yield: pink-iPhone durability (mechanism-over-hysteria); Windows 10 EOL + M5; humanoid-robot
+  skepticism; free-Photoshop-alt/bloatware.
+
+Open after: @Waveform 252 (P2:235 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: driver counter 3 (checkpoint at 10); @Waveform keepers still accumulating for a
+future Stage S.
+
+Synthesis notes: genuinely-new for a future pass — BIO: **owns a Leica M11 kit**, **cancelled a $50k
+Tesla Roadster reservation**, **carries a Hasselblad**, **multi-platform creator (YT/shorts/IG/TikTok)**;
+and the **stripped-Tesla = upsell-price-ladder** value read + **OnePlus 15 = great-phone-bad-cameras**
+dated verdict. Rest corroborates (physics-vs-compute, mechanism-over-hysteria, first-gen skepticism,
+barrier-lower). Hard-gated: all co-host takes + guest Adam Mosseri.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Nov 21 → 2026 Jan 23, 8/8 ingested — ensemble podcast, light-triage L2 (batch 17)
 
 Fourth @Waveform batch (light-triage L2, hard co-host gating). L2 1822→1830. A high-value batch —
