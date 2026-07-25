@@ -4,6 +4,24 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 4) — final 4 episodes — ✅ @Waveform LONG-FORM COMPLETE, L2 2086→2090 (batch 50)
+
+**Stage B ingest** — the **final 4 @Waveform episodes**, L2 2086→2090. **✅ @Waveform long-form is now FULLY
+DRAINED to L2** (May 2021 → 2026 — ~300 episodes). ENSEMBLE podcast; only clearly-Marques takes trained.
+
+- ★★ **JBP8ocEoaSk** (2021-05-07): **THE FIRST VIDEO PODCAST** (ep 62; the show ran audio-only for 1+ year
+  first). Why video = **YouTube discovery** ("I like video podcasts, it's how I find a lot of them — but I go
+  to **Pocket Casts** for audio-only"); the clips channel already existed; set/mic production detail.
+- ★ **cR4ayi4fbtY** (2022-04-08): Marques's **Twitter edit-button-since-college rant** ("we found the god
+  particle but still can't edit tweets" — pays off Oct 2022); a **Mac Pro story** (his workstation); r/Place.
+- **1aQe0-9ACvs** (ep 100): unbox 100k plaques for **both @Waveform + @WaveformClips**; Cybertruck reactions;
+  5G-vs-planes. **ZVc_Jcu0yIU** (Techtober grab-bag; M1 Pro MacBook event preview).
+
+Synthesis notes: New — the audio→video origin (ep 62; Pocket Casts for audio; discovery rationale); the
+edit-button-since-college pet-want + Mac Pro workstation. **→ @Waveform CHANNEL COMPLETE → pass-32 Stage S
+synthesis checkpoint is now DUE (next iteration): fold batches 39–50's @Waveform-early material (L2 1998→2090,
+~92 sources) into topics/persona, recompile system-prompt v31→v32.**
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 8 P3 specials (Hot Ones, trivia, awards, best-of), 8/8 ingested — ensemble podcast, light-triage L2 (batch 49)
 
 **Stage B ingest** — 8 more @Waveform P3 special episodes (gameshows/trivia/awards/best-of/Hot-Ones),
