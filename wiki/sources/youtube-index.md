@@ -1605,6 +1605,14 @@ Auto-captions have no speaker labels → per-line attribution is uncertain; only
 unambiguously-Marques lines entered the persona/voice quote banks, the rest are
 quarantined on each page (`attribution: uncertain`)._
 
+- 2021-09-24 — [[2021-09-24-yt-vcbkn6LQlbE|The New Space Race!]] · tech-industry-commentary _(Waveform — one of the **earliest video episodes** (Sept 2021). Space race + Starlink/satellite-internet explainer. Shared science lesson, **low yield**.)_
+- 2021-10-01 — [[2021-10-01-yt-4GYxkz51Wno|Tesla's Full Self-Driving Rollout with Quinn of Snazzy Labs]] · tech-industry-commentary, tech-reviews _(Waveform **GUEST Quinn/Snazzy Labs** (Tesla FSD beta) — NOT trained. Amazon Astro ("iPad on wheels") reaction. Low yield.)_
+- 2021-10-08 — [[2021-10-08-yt-IzL20OTbie8|New Surface Laptops and a Day Without Facebook]] · tech-reviews, tech-industry-commentary _(Waveform ensemble; low-med. The Oct-2021 **Facebook/IG/WhatsApp outage** → Marques's cascading-platform-dependence realization ("Facebook down, who cares… then Instagram, that hurts"). New Surface laptops.)_
+- 2021-10-22 — [[2021-10-22-yt-wql1FHQMLFA|Apple's New MacBook Pros, the Pixel 6 and 6 Pro, and more!]] ★★ · production-filmmaking, tech-reviews _(Waveform ensemble. ★★ **BIO**: the **Final Cut Pro origin story** — editing the **Kobe interview @ Staples Center**, John Morrison (TLD) on FCP finished + re-exported before Marques's Premiere export hit 16% → **he switched to FCP**; RED transcodes = babysitting **6-hour exports** → the **travel iMac**. M1 Pro/Max MBP; Pixel 6.)_
+- 2021-10-29 — [[2021-10-29-yt-iXVdeYbgEvQ|A Deeper Look at the Google Pixel 6 and 6 Pro]] ★★ · tech-reviews, smartphones _(Waveform ensemble. ★★ **BIO/pro Ultimate**: his **New York** team **lost to Raleigh in the pro-league FINALS** (entered as the **9-seed**); name-checks the **Saul brothers** (Noah + Isaac). Pixel 6/6 Pro deeper look.)_
+- 2021-11-05 — [[2021-11-05-yt-zgjgMqF5aOc|The Creator Economy and Being a YouTuber with Colin and Samir]] · creator-business, content-strategy _(Waveform **GUEST Colin & Samir** (creator economy) — NOT trained. Recurring creator-peer reference. Residue: Marques's creator-economy interest. Low yield.)_
+- 2021-11-12 — [[2021-11-12-yt-WB35WS524Qk|Sony Xperia Pro-i, a USB-C iPhone, and Twitter Blue!]] · tech-reviews, production-filmmaking, smartphones _(Waveform ensemble; low-med. Sony **Xperia Pro-I** (1-inch pro-shooter phone); early USB-C-iPhone rumor; **Twitter Blue** (pre-Musk paid tier) launch.)_
+- 2021-11-19 — [[2021-11-19-yt-9Yvzd_jXmiw|Apple Changes Course on Right to Repair]] · tech-industry-commentary, tech-reviews _(Waveform ensemble; low-med. Apple **Self Service Repair** (a right-to-repair reversal); Marques's "all arena names are bad but we normalize them by repetition" take (Staples → Crypto.com).)_
 - 2021-11-26 — [[2021-11-26-yt-Ah5SMOt_7uE|A Streamlabs Explainer, Adele Saves Spotify, and Reviewing EVs]] · tech-reviews, tech-industry-commentary _(Waveform ensemble; low-med. EV **rated-vs-real range** (480+mi; 316→~290); Kyle Conner / Out-of-Spec reference; Adele saves Spotify (no default album shuffle); Streamlabs explainer.)_
 - 2021-12-03 — [[2021-12-03-yt-GLDP0SW8k3Y|How MrBeast's Squid Game was Made with SoKrispyMedia]] · production-filmmaking, creator-business _(Waveform **GUEST SoKrispyMedia** (MrBeast Squid Game production) — NOT trained. Residue: Marques's large-scale video-production-craft interest. Low yield.)_
 - 2021-12-10 — [[2021-12-10-yt-whyC-s1g1I8|Sustainable Smartphones, A Retractable Camera, and Pixel Watch]] · tech-reviews, tech-industry-commentary _(Waveform ensemble; low-med. Sustainable smartphones + a retractable camera (does-a-moving-part-earn-its-place); ⚠️ a "grandpa taught me Solitaire" line is **attribution-uncertain** (co-host "grandpa" pattern) — flagged, not trained.)_
@@ -2123,4 +2131,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_2046 videos ingested (L2) so far._
+_2054 videos ingested (L2) so far._

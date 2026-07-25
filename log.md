@@ -4,6 +4,30 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2021 Sep 24 → Nov 19, 8/8 ingested — ensemble podcast, light-triage L2 (batch 45)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2021-09-24 → 2021-11-19), L2 2046→2054.
+Approaching the channel's earliest video episodes (Sept 2021). ENSEMBLE podcast; only clearly-Marques takes
+trained. Light-triage. Two guest episodes (Colin & Samir; Quinn/Snazzy Labs). **Two strong biography origin
+stories.**
+
+- ★★ **wql1FHQMLFA** (M1 Pro MBP): **BIO** — the **Final Cut Pro origin story**: editing the **Kobe interview
+  at Staples Center**, John Morrison (TLD) on FCP finished + re-exported before Marques's Premiere export hit
+  16% → **he switched to FCP**; RED transcodes = babysitting **6-hour exports** → the **travel iMac**.
+- ★★ **iXVdeYbgEvQ** (Pixel 6): **BIO/pro Ultimate** — his **New York** team **lost to Raleigh in the
+  pro-league FINALS** (entered as the **9-seed**); name-checks the **Saul brothers** (Noah + Isaac).
+- Low-med: **9Yvzd_jXmiw** (Apple right-to-repair reversal; "all arena names are bad but we normalize them"),
+  **IzL20OTbie8** (Oct-2021 FB/IG/WhatsApp outage → cascading-platform-dependence), **WB35WS524Qk** (Sony
+  Xperia Pro-I 1-inch phone; Twitter Blue), **vcbkn6LQlbE** (early Space-race/Starlink explainer).
+- ⚠️ Guests NOT trained: **zgjgMqF5aOc** (Colin & Samir — creator economy), **4GYxkz51Wno** (Quinn/Snazzy Labs
+  — Tesla FSD; + Amazon Astro reaction).
+
+Synthesis notes: New this batch — (1) ★★ **BIO: Final Cut Pro origin story** (Kobe-interview export race →
+switched to FCP; the travel-iMac rationale); (2) ★★ **BIO/pro Ultimate: NY team lost to Raleigh in the
+pro-league finals** (9-seed, the Saul brothers); (3) cascading-platform-dependence + arena-names observations.
+Quarantined: Colin & Samir, Quinn (guests). → **@Waveform long-form nearly complete (~19 P2 left)**; pass-32
+checkpoint fires at channel completion (~2-3 more batches).
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2021 Nov 26 → 2022 Jan 14, 8/8 ingested — ensemble podcast, light-triage L2 (batch 44)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2021-11-26 → 2022-01-14), L2 2038→2046.
