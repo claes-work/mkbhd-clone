@@ -4,6 +4,39 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2026 May 8 → Jun 19, 8/8 ingested — ensemble podcast, hard attribution-gated (batch 14, first @Waveform batch of this run)
+
+First @Waveform batch of the run — the ensemble news-recap podcast (Marques + Andrew + David +
+Adam/Mariah/guests), newest-first. **ADOPTED LIGHT-TRIAGE L2 for @Waveform**: episodes run ~3–4k
+transcript lines each with no speaker labels and low durable-persona density, so pages capture the
+segment rundown + Marques's clearly-attributed takes (co-hosts hard-gated), honestly scoped — not
+every minute of each episode. 8/8 ingested.
+
+Marques-attributed keepers (co-hosts/guests quarantined):
+- **06-19** Snap Spectacles AR-glasses positioning critique + AR/VR spectrum + FoV>resolution;
+  smart-home minimalism ("one smart outlet, no lamps, I live in the basement").
+- **06-12** WWDC 2026: iOS 27 = **"the Snow Leopard of Apple releases"** (welcomes perf-over-features);
+  Liquid Glass sliders; the keynote-production read; **new Siri "not that crazy."**
+- **06-05** Nvidia RTX Spark — "the window is huge"; **wait-for-hands-on/benchmark restraint.**
+- **05-29** Fitbit Air — good+buggy; **Google Health Premium AI makes it worse**; embargo-culture note.
+- **05-26** Joanna Stern GUEST interview (her views NOT trained) — Marques's **viewer-connected,
+  product-focused reviewing philosophy** + product-love ethos; BIO: studio ~5 min from his house.
+- **05-22** Google I/O critique — **"Google is 3,000 companies in one,"** no cohesive vision;
+  "I'm not even going to make an I/O recap."
+- **05-15** Android Show — BIO: **now a OnePlus 15 daily driver**; screen-reactions "going to slap."
+- **05-08** **Apple's AI play = "be the compute layer, not the model"**; BIO: **retired the Mac Pro**
+  (discontinued) → the "laptop dilemma" (16" M5 Max MBP) — corroborates the pass-28 basement-M4 node.
+
+Open after: @Waveform 284 (P2:267 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 2 batches since pass-28 checkpoint.
+
+Synthesis notes: mostly corroborating existing threads (Apple substance-over-flash, the Google-lacks-
+cohesion thesis, reviewer restraint, product-focused editorial). Genuinely-new for a future pass:
+BIO updates — **OnePlus 15 daily driver** (2026), **retired the Mac Pro → laptop-dilemma / 16" M5 Max
+MBP**, **lives ~5 min from the Kearny studio**; and the **"Apple = the AI hardware/compute layer"**
+strategic thesis + the **"Snow Leopard" welcome-the-boring-update** framing. Hard-gated: all co-host
+(Andrew/David/Adam/Mariah) takes + guest Joanna Stern.
+
 ## [2026-07-25] lint | synthesis pass 28 — @TheStudio close-out (channel complete), L2 1758→1798, system-prompt v27→v28
 
 **Stage S, final @TheStudio checkpoint** (triggered by channel long-form completion). Folded the
