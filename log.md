@@ -4,6 +4,28 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Aug 30 → Oct 11, 8/8 ingested — ensemble podcast, light-triage L2 (batch 26)
+
+Fifth post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1894→1902.
+
+Marques-attributed keepers:
+- **09-30 ★ Favorite Ordinary Objects** — his non-tech pick = a **Bowflex SelectTech adjustable dumbbell**
+  (he **regularly does free-weight workouts** — "better than any machine"; owns a 52.5-lb pair + a 100-lb
+  set). BIO: confirms he's **designed a shoe (Atoms 251), a wallet, and a backpack**.
+- **10-11 Meta Orion** — firsthand: impressive proof-of-concept (real glasses + ~70° FoV) but a demo, not
+  a product yet (AR framework); tri-folds.
+- **08-30 productivity apps** — he's the **TickTick evangelist** (corroborates his #2 app).
+- **09-13 iPhone 16** — sold on not-yet-shipping Apple Intelligence (anchors the Apple-AI-is-behind arc).
+- Lower-yield: Pixel 9a leak, Quest 3S, Apple fall lineup, Pixel 9 Pro Fold.
+
+Open after: @Waveform 188 (P2:171 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 5 batches since pass-29.
+
+Synthesis notes: genuinely-new for a future pass — the **Bowflex adjustable dumbbell + free-weights-over-
+machines fitness philosophy** + the **designed shoe/wallet/backpack** confirmation → biography ★. Rest
+corroborates (TickTick, AR framework, Apple-AI-behind, foldables). Hard-gated: co-host takes + guest
+carryovers.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Oct 18 → Nov 26, 8/8 ingested — ensemble podcast, light-triage L2 (batch 25)
 
 Fourth post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1886→1894.
