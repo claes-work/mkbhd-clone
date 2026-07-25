@@ -4,6 +4,31 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Apr 5 → May 24, 8/8 ingested — ensemble podcast, light-triage L2 (batch 29)
+
+Eighth post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1918→1926. The
+AI-gadget-flop era — a landmark batch.
+
+Marques-attributed keepers:
+- **04-12 ★ Humane AI Pin** — the landmark **"worst product" review**: only for the reduce-screen-time-
+  at-any-cost person ("you do everything worse, but you'll have less screen time — mission accomplished");
+  core failure = **no explainable use case** (like the Vision Pro; vs the iPod). Origin of the review-
+  responsibility debate.
+- **05-03 Rabbit R1 "is just an app"** — the R1 = an Android app undercuts the device pitch; **VR is still
+  "fun immersive games,"** not the productivity pitch (BIO: owns a **Quest 2**). **04-26 Rabbit R1** first
+  look.
+- **04-05 Vision Pro Worth It** — reaffirms his 4.5-star / no-daily-use-case verdict.
+- **05-17 Google I/O 2024** (Google-AI-firehose critique); **05-24 Copilot+ PCs** (Snapdragon-X-vs-Apple-
+  Silicon, wait-for-benchmarks); **04-19 Hugo Barra** VR interview (guest). Lower-yield: OLED iPad + Pixel 8a.
+
+Open after: @Waveform 164 (P2:147 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 8 batches since pass-29 — **Stage S pass-30 due within ~1-2 batches.**
+
+Synthesis notes: genuinely-new for pass-30 — the **Humane AI Pin verdict** (worst-product / no-use-case,
+origin of the review-responsibility debate) → tech-reviews ★; the **Rabbit R1 AI-gadget skepticism**
+(does-it-need-to-be-a-device); BIO: owns a **Quest 2**. Rest corroborates (Vision-Pro-4.5-star, Google-AI-
+firehose, VR-is-games). Hard-gated: co-host takes + guest Hugo Barra.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 May 31 → Jul 12, 8/8 ingested — ensemble podcast, light-triage L2 (batch 28)
 
 Seventh post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1910→1918.
