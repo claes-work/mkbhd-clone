@@ -1605,6 +1605,14 @@ Auto-captions have no speaker labels → per-line attribution is uncertain; only
 unambiguously-Marques lines entered the persona/voice quote banks, the rest are
 quarantined on each page (`attribution: uncertain`)._
 
+- 2021-07-30 — [[2021-07-30-yt-BhjsTo30_E4|Samsung Folding rumors, the new Nothing Ear(1), Tesla announcements]] · tech-reviews, smartphones _(Waveform — **early episode** (Jul 2021). Nothing **Ear (1)** launch (Carl Pei's new company — the origin of the Nothing brand the show tracks); Samsung fold rumors; Tesla. Low-med.)_
+- 2021-08-06 — [[2021-08-06-yt-S18hbXVNwbM|Tesla FSD Subscription and Google Pixel 6 Breakdown]] · tech-reviews, tech-industry-commentary, smartphones _(Waveform ensemble; low-med. Tesla **FSD as a ~$199/mo subscription** (rent-vs-buy a beta feature); early **Pixel 6 / first Tensor** breakdown.)_
+- 2021-08-13 — [[2021-08-13-yt-saUUceuer_g|Samsung Galaxy Z Fold 3 & Z Flip 3 Deep Dive!]] · tech-reviews, smartphones _(Waveform ensemble; low-med. Z Fold 3 / Flip 3 — the generation foldables went mainstream (IPX8, S Pen, under-display cam, the ~$999 Flip). Corroborates his foldable enthusiasm.)_
+- 2021-08-20 — [[2021-08-20-yt-0XgylnXlVz4|Doug DeMuro on the Tesla Model S Plaid & Car YouTube!]] · tech-reviews, creator-business _(Waveform **GUEST Doug DeMuro** (Model S Plaid, car YouTube) — NOT trained. ★ **BIO**: Marques **"was never a car person until ~2016"** (aligns with the P100D purchase). Recurring reference (his "don't depend on YouTube" convo).)_
+- 2021-08-27 — [[2021-08-27-yt-ZBzZ8OoPmrA|Tesla Bot: Is a Humanoid Robot a Good Idea?]] · tech-industry-commentary, tech-reviews _(Waveform ensemble; low-med. Tesla Bot (AI Day) — Marques's **explain-then-evaluate breakdown** ("how we got here: cars → FSD → humanoid") with measured skepticism. Daft Punk gag.)_
+- 2021-09-03 — [[2021-09-03-yt-F5iRMA93vPM|1000 Mile EV Road Trip Recap]] ★★ · tech-reviews, production-filmmaking _(Waveform ensemble. ★★ **BIO/production**: a **1,000-mile EV road-trip "race"** — Tesla **Model S Plaid** vs **Ford Mustang Mach-E Cal Route 1** (highest-range non-Tesla EV) vs a **gas Audi Q5** control; a loop around **NY/PA/NJ**; the studio split into 3 teams (Marques + Hayato in the Tesla).)_
+- 2021-09-10 — [[2021-09-10-yt-we8pSn3Ztrk|TikTok Outperforms YouTube, Another Google Service, and EV Delays]] · tech-industry-commentary, creator-business _(Waveform ensemble; low-med. ★ **early Cybertruck-manufacturing skepticism** ("had more hope — the shape's meant to be easy to manufacture — but they haven't started"); TikTok surpasses YouTube on watch time.)_
+- 2021-09-17 — [[2021-09-17-yt-Ruzul1ux6OI|New iPhones, iPad Mini, and all the other Apple things!]] · tech-reviews, tech-industry-commentary, smartphones _(Waveform ensemble; low-med. iPhone 13 event + new iPad Mini; the **Epic v. Apple** ruling ("a win for developers" — alternate-payment injunction).)_
 - 2021-09-24 — [[2021-09-24-yt-vcbkn6LQlbE|The New Space Race!]] · tech-industry-commentary _(Waveform — one of the **earliest video episodes** (Sept 2021). Space race + Starlink/satellite-internet explainer. Shared science lesson, **low yield**.)_
 - 2021-10-01 — [[2021-10-01-yt-4GYxkz51Wno|Tesla's Full Self-Driving Rollout with Quinn of Snazzy Labs]] · tech-industry-commentary, tech-reviews _(Waveform **GUEST Quinn/Snazzy Labs** (Tesla FSD beta) — NOT trained. Amazon Astro ("iPad on wheels") reaction. Low yield.)_
 - 2021-10-08 — [[2021-10-08-yt-IzL20OTbie8|New Surface Laptops and a Day Without Facebook]] · tech-reviews, tech-industry-commentary _(Waveform ensemble; low-med. The Oct-2021 **Facebook/IG/WhatsApp outage** → Marques's cascading-platform-dependence realization ("Facebook down, who cares… then Instagram, that hurts"). New Surface laptops.)_
@@ -2131,4 +2139,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_2054 videos ingested (L2) so far._
+_2062 videos ingested (L2) so far._

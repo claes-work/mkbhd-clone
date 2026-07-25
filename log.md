@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2021 Jul 30 → Sep 17, 8/8 ingested — ensemble podcast, light-triage L2 (batch 46)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2021-07-30 → 2021-09-17), the audio-era earliest
+episodes, L2 2054→2062. ENSEMBLE podcast; only clearly-Marques takes trained. Light-triage. One guest (Doug
+DeMuro). **Two strong biography items.**
+
+- ★★ **F5iRMA93vPM** (1000-mile EV road trip): **BIO/production** — a **1,000-mile EV road-trip "race"**:
+  Tesla **Model S Plaid** vs **Ford Mustang Mach-E Cal Route 1** (highest-range non-Tesla EV) vs a **gas Audi
+  Q5** control; a loop around **NY/PA/NJ**; the studio split into 3 teams (Marques + Hayato in the Tesla).
+- ★ **0XgylnXlVz4** (GUEST Doug DeMuro — not trained): **BIO** — Marques **"was never a car person until
+  ~2016"** (aligns with the P100D "Apollo" purchase).
+- ★ **we8pSn3Ztrk** (EV delays): **early Cybertruck-manufacturing skepticism** ("had more hope — the shape's
+  meant to be easy to manufacture — but they haven't started"); TikTok surpasses YouTube on watch time.
+- Low-med: **ZBzZ8OoPmrA** (Tesla Bot explain-then-evaluate breakdown), **Ruzul1ux6OI** (iPhone 13 / Epic-v-
+  Apple "win for developers"), **saUUceuer_g** (Z Fold 3/Flip 3 mainstream foldables), **S18hbXVNwbM** (FSD
+  subscription; Pixel 6/Tensor), **BhjsTo30_E4** (Nothing Ear(1) launch; Samsung fold rumors).
+
+Synthesis notes: New this batch — (1) ★★ **BIO: the 1000-mile EV road-trip** (Plaid vs Mach-E vs Q5; NY/PA/NJ
+loop; 3 studio teams); (2) ★ **BIO: "never a car person until ~2016"** (dates the car-interest origin);
+(3) ★ **early Cybertruck-manufacturing skepticism** (2021, pre-drive). Quarantined: Doug DeMuro (guest).
+→ **@Waveform long-form ONE batch from complete (~11 P2 left)**; **pass-32 checkpoint fires next iteration at
+channel completion.**
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2021 Sep 24 → Nov 19, 8/8 ingested — ensemble podcast, light-triage L2 (batch 45)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2021-09-24 → 2021-11-19), L2 2046→2054.
