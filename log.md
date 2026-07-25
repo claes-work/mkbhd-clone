@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 May 31 → Jul 12, 8/8 ingested — ensemble podcast, light-triage L2 (batch 28)
+
+Seventh post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1910→1918.
+
+Marques-attributed keepers:
+- **06-14 ★ WWDC 2024** — **"Apple Intelligence" = a rebrand to own the AI framing** ("it's Apple's way
+  when it's positive, and Apple Intelligence when AI has a negative connotation"; annoyed both at the
+  rebrand AND at the industry equating "AI" with LLMs); technically = generative models run **locally on
+  Apple-built models**; visionOS 2 = catch-up.
+- **05-31 Google AI Overviews hallucinations** (glue-on-pizza/eat-rocks) — anti-AI-slop / don't-trust-
+  confident-AI stance.
+- **06-25 PodQuiz creator interview** (guest NOT trained) — BIO: **Marques is a longtime PodQuiz fan**;
+  **06-21 YouTube Community Notes** (creator accountability lens).
+- Lower-yield: WWDC preview, tech wishlist, smartphone-season calendar, Galaxy Unpacked 2024.
+
+Open after: @Waveform 172 (P2:155 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 7 batches since pass-29.
+
+Synthesis notes: genuinely-new for a future pass — the **"Apple Intelligence is a rebrand" media-literacy
+read** → consumer-tech-culture ★; the **Google-AI-Overviews-hallucination** cautionary case → anti-AI-slop
+thread; BIO: PodQuiz fandom. Rest corroborates (Vision-Pro-early, fact-checking ethic). Hard-gated: co-host
+takes + guest (PodQuiz creator).
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Jul 19 → Aug 28, 8/8 ingested — ensemble podcast, light-triage L2 (batch 27)
 
 Sixth post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1902→1910.
