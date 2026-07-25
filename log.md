@@ -4,6 +4,35 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2026 Jan 30 → Mar 6, 8/8 ingested — ensemble podcast, light-triage L2 (batch 16)
+
+Third @Waveform batch (light-triage L2, hard co-host gating). L2 1814→1822. Several Marques-centric
+episodes this batch.
+
+Marques-attributed keepers:
+- **02-13 ★ "Does Marques Hate OnePlus?"** — no, **OnePlus is his daily driver** (the 15); his
+  **silicon-carbon battery advocacy**; **editorial-integrity response to clickbait** (changed the
+  "spicy" thumbnail; brought a battery expert on rather than be a "mouthpiece"). Guest Shen/HTC gated.
+- **02-06 "Tesla Gives Up on Model S/X"** — BIO: his **Model S Plaid preorder** (Plaid Plus cancelled
+  → Plaid, "first time Tesla didn't deliver what they said"); Cybertruck may be next.
+- **02-10 "Year in the Life" doc** — the day→week→year progression + **capture-everything ethos** +
+  the **podcast-origin** note.
+- **02-24 "I Refuse to Share my Location"** — **principled location-privacy stance** ("no one has the
+  right to have my location, ever"), tempered by recognizing it as a safety tool for others.
+- **02-27 Samsung Unpacked** — S26 Ultra "looks exactly like an S25 Plus"; **media briefing/content-
+  capture process explainer** (media-process transparency).
+- **03-06** M5 MacBook = incremental (ties to laptop-dilemma); **02-20** "Did they even test this?"
+  segment origin; **01-30** iPhone Fold pricing speculation (low-yield).
+
+Open after: @Waveform 268 (P2:251 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 3 batches since pass-28.
+
+Synthesis notes: genuinely-new for a future pass — (1) **editorial-integrity-under-criticism**
+(thumbnail change + expert-not-mouthpiece) + **silicon-carbon battery advocacy** → creator-business/
+tech-reviews ★; (2) **principled location-privacy stance** → biography; (3) **capture-everything doc
+ethos** + podcast origin → production/creator-business; (4) BIO corroborations: Model S Plaid preorder
+story, OnePlus 15 daily driver. Hard-gated: all co-host takes + guest Shen (HTC).
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2026 Mar 13 → May 1, 8/8 ingested — ensemble podcast, light-triage L2 (batch 15)
 
 Second @Waveform batch (light-triage L2 continues — ~3–4k-line ensemble episodes, hard attribution-
