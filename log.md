@@ -4,6 +4,27 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@mkbhd, 8) — Ask MKBHD V15–V24 (2017–2018), 7/8 ingested (V25 no-captions) — SOLO, L2 2106→2113 (batch 53)
+
+**Stage B ingest** — 8 more **SOLO @mkbhd** Ask MKBHD Q&As (V15–V24, 2017–2018); **7 ingested, V25
+(DC-QGkKrxdM) has no captions → marked L1, skipped** (no page). L2 2106→2113. (@mkbhd now 12 P3 left.)
+
+- ★ **fL30bWrGrfE** (V23): **pro-EV** — the industry "Tesla is a bubble / electric is a fad" belief is
+  **"borderline troubling"** ("great spot by 2020"); **batterygate** — throttling old iPhones is defensible
+  intent but bad disclosure.
+- ★ **2BQ1rCqG19Y** (V17): **anti-benchmark-obsession** — "it's 2017, why do people still care about
+  benchmarks? Performance is good across the board"; OnePlus benchmark-cheat is "dumb."
+- ★ **6joCzIxiUaE** (V24): trend he wants = **cheaper phones** ("budget-flagship gap shrinking"); reluctant
+  acceptance of the **headphone-jack death**; Model 3 on set.
+- ★ **ELo58FBl3R8** (V22): **pro-net-neutrality** ("it sucks"); **Superhot on the HTC Vive** = his most-played
+  game. ★ **n_SDw2LQ9N8** (V15): **doesn't vlog** ("it'd be boring — I make polished videos").
+- Low-med: **VEVWRGC0OJA** (V16, 8K-monitor wallpaper), **ZNAxkJL5OKU** (V18, Galaxy Note FE = revived Note 7).
+
+Synthesis notes: More SOLO opinion/biography — **pro-EV / EV-skeptics-are-troubling**, **anti-benchmark-
+obsession**, **pro-cheaper-phones**, **pro-net-neutrality**, the **Superhot/Vive** gaming detail, **doesn't
+vlog**, and the measured **batterygate** take. Folds with the batches 51–52 Ask MKBHD material at the next
+persona checkpoint. → next: the @mkbhd P3 tail (12), then @WaveformClips (Stage-C dedup), then shorts.
+
 ## [2026-07-25] ingest | yt batch (@mkbhd, 8) — Ask MKBHD V7–V14 (2016–2017), 8/8 ingested — SOLO, L2 2098→2106 (batch 52)
 
 **Stage B ingest** — 8 more **SOLO @mkbhd** videos: the **Ask MKBHD Q&A series V7–V14** (2016–2017). L2
