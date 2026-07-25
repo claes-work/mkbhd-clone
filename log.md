@@ -4,6 +4,20 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 7 (12): 11 new (digest 07), 1 skipped (teaser) — L2 2189→2200
+
+**Stage C (shorts dedup, @mkbhd batch 7).** 12 @mkbhd shorts (Jul → Oct 2023): 11 genuinely-new →
+light-L2 ([[2023-mkbhd-shorts-digest-07]]); 1 skipped (Lotus Emeya = teaser for a full @AutoFocus video). 0
+content dups. Signals: ★ **iPhone-update PSA** — updates don't "nuke" your phone; corroborates his
+**batterygate stance** (defensible intent, badly disclosed) + anti-planned-obsolescence-myth skepticism; ★
+blunt **PlayStation Portal pan** (Wi-Fi Remote-Play only → "for basically no one"); the **iMessage/AirDrop-on-
+Android interop pair** (his walled-garden / green-bubble thread). Rest = gadget/carrier quips (S23 FE, Infinite
+Machine cyber-scooter, Zenon Flex monitor, Visible deceptive-pricing read, emergency-alert PSA, iPhone-15-event
+recap, Galaxy Tab S9 Ultra).
+Synthesis notes: durable → the iPhone-update/batterygate-myth PSA reinforces the existing batterygate belief;
+the iMessage/AirDrop-on-Android interop pair reinforces the RCS/walled-garden thread. Both already represented in
+persona — fold at Stage D. No new persona axis this batch.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 6 (12): 12 new (digest 06), 0 dup — L2 2177→2189
 
 **Stage C (shorts dedup, @mkbhd batch 6).** 12 @mkbhd shorts (Oct 2023 → Feb 2024), all genuinely-new →
