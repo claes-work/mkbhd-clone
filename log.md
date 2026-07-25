@@ -4,6 +4,35 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2026 Mar 13 → May 1, 8/8 ingested — ensemble podcast, light-triage L2 (batch 15)
+
+Second @Waveform batch (light-triage L2 continues — ~3–4k-line ensemble episodes, hard attribution-
+gating co-hosts Andrew/David/Adam/Ellis/Mariah). L2 1806→1814. This batch was **higher-yield than
+batch 14** — two Marques-centric episodes.
+
+Marques-attributed keepers:
+- **04-03 ★ MKBHD's Top 5 Apps** — a rare explicit daily-driver list: **#1 Carrot Weather** (cloned the
+  Dark Sky layout he loved), **#2 TickTick**, **#3 Flighty**, **#4 Waze** ("goated"), **#5 Relay for
+  Reddit** (his one Android app); HMs Copilot/Athletic/Blip/Geekbench-6-Pro/YouTube.
+- **03-17 ★ SXSW live — his 30fps frame-rate philosophy**: refuses 24fps (slow gadget pans stutter
+  under 30; "60+ looks surreal/video-game-y" → "30 is the ultimate perfect tech-review frame rate");
+  restates the octopus framework + the multiple-eyes/fact-check discipline.
+- **03-13** Apple tier list — #1 **Studio Display XDR** (upgrading from his Pro Display XDR); GEAR: a
+  **"dual-display guy."**
+- **03-20** AirPods Max 2 minimal update — **"studio quality" marketing skepticism.**
+- **03-27** Flighty="one of my favorite apps of all time" (corroborates Top-5).
+- **04-10** screen-time-sums-all-devices nuance (corroborates his low screen time); tab-hoarding=co-host.
+- **04-17** memory-shortage → gadget price hikes; **05-01** foldable-iPhone price over/under (low-yield).
+
+Open after: @Waveform 276 (P2:259 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 2 batches since pass-28.
+
+Synthesis notes: genuinely-new for a future pass — (1) **his Top-5 apps + honorable mentions** (Carrot
+Weather/TickTick/Flighty/Waze/Relay; a clean preferences node) → biography ★; (2) **the 30fps
+frame-rate philosophy** (why not 24 or 60) → production ★; (3) GEAR: **dual-display setup + upgrading
+Pro→Studio Display XDR**. Rest corroborates existing threads (Dark Sky, low screen time, marketing
+skepticism, octopus). Hard-gated: all co-host takes + the tab-hoarding.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2026 May 8 → Jun 19, 8/8 ingested — ensemble podcast, hard attribution-gated (batch 14, first @Waveform batch of this run)
 
 First @Waveform batch of the run — the ensemble news-recap podcast (Marques + Andrew + David +
