@@ -4,6 +4,20 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 8 (12): 12 new (digest 08), 0 dup — L2 2200→2212
+
+**Stage C (shorts dedup, @mkbhd batch 8).** 12 @mkbhd shorts (Mar → Jul 2023), all genuinely-new →
+light-L2 ([[2023-mkbhd-shorts-digest-08]]); 0 dups/teasers. Signals: ★ **AirTag → Apple + Google cross-platform
+unwanted-tracking standard** (interop/privacy — rivals-align-when-safety-demands-it, same walled-garden-bridging
+thread as RCS/iMessage); ★ the **Magic Mouse charging-port-on-the-bottom** design-flaw critique (long-standing);
+★ **iOS 17 Personal Voice** accessibility feature (voice-cloning for at-risk users); ★ the **Vision Pro
+reveal-shot tell** (his read-the-marketing-choices eye); the **mid-cycle-color** marketing observation (Yellow
+iPhone 14 Plus). Rest = gadget/EV quips (BMW i7, Tesla $300 charger, OnePlus Pad, Caviar $616k iPhone, world's-
+largest-iPhone build, hum-to-search, gimmick watch).
+Synthesis notes: durable → the Apple–Google tracking standard extends his interop/walled-garden thread; the
+Magic-Mouse-flaw and mid-cycle-color observations are minor corroborations. All fit existing persona axes —
+fold at Stage D; no new axis this batch.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 7 (12): 11 new (digest 07), 1 skipped (teaser) — L2 2189→2200
 
 **Stage C (shorts dedup, @mkbhd batch 7).** 12 @mkbhd shorts (Jul → Oct 2023): 11 genuinely-new →
