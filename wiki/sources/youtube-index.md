@@ -1607,6 +1607,14 @@ quarantined on each page (`attribution: uncertain`)._
 
 - 2022-12-23 — [[2022-12-23-yt-MYrfLmm_cT4|Wrapping Up 2022 + Blind Smartphone Test!]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary
 - 2024-04-23 — [[2024-04-23-yt-v4FYdo-oZQk|How One Small Company Saves Retro Tech]] · consumer-tech-culture, tech-industry-commentary _(guest-led; 0 Marques quotes)_
+- 2025-02-07 — [[2025-02-07-yt--Ga9pblcz7w|Would You Watch YouTube at 4x Speed?]] ⚠️mixed · creator-business, consumer-tech-culture _(low-yield; playback-speed / viewing-habits discussion (make-it-worth-1x vs audiences speeding through).)_
+- 2025-02-14 — [[2025-02-14-yt--1NZc5Xy_SQ|The Next iPhone and Pixel BOTH Leaked!]] ⚠️mixed · smartphones, consumer-tech-culture _(low-yield; next-iPhone + Pixel leak chatter.)_
+- 2025-02-21 — [[2025-02-21-yt-etXLnMJpUxA|iPhone 16E: What Does the “E” Mean?]] ⚠️mixed · smartphones, consumer-tech-culture, tech-industry-commentary _(low-yield; the iPhone 16E (SE successor) naming/value; + **Humane Pin servers going offline** (corroborates his worst-product verdict + buy-hardware-that-outlives-the-company caution).)_
+- 2025-02-26 — [[2025-02-26-yt-x2hQa5heXCU|Why Are There So Many iOS-Only Apps?]] ⚠️mixed · consumer-tech-culture, biography, smartphones _(**dual-phone daily setup** (early 2025: iPhone 16 Pro + Samsung S25 Ultra, ~10 yrs running); **cross-platform availability is a deal-breaker** — "the first thing I check is: is it iPhone only? if it is, I'm less likely to plunge" (explains the iPhone-only flags in his Top-5 apps).)_
+- 2025-02-28 — [[2025-02-28-yt-sekADX-UFmM|If Apple Made a Camera, It’d be the Sigma BF]] ⚠️mixed · production-filmmaking, tech-reviews, consumer-tech-culture _(the **Sigma BF = "the most Apple camera that could possibly be made"** (unibody machined aluminum, metal buttons, knurled body — "I want it to be a good camera so I can use such a beautiful camera"); **approves no-SD-slot / 230GB internal** ("I actually approve," like his Hasselblad X2D). Uses Sigma **18-35 / 24-35** wide zooms.)_
+- 2025-03-07 — [[2025-03-07-yt-AGbOLk-fjYM|Phones Are Finally Fun Again!]] ⚠️mixed · smartphones, consumer-tech-culture _(low-yield; "phones are fun again" optimism (foldables maturing, thin phones, silicon-carbon) — his champion-the-experimentation lens.)_
+- 2025-03-14 — [[2025-03-14-yt-eH5IVAPB9As|Dodge Charger EV Sounds Fake 👎]] ⚠️mixed · ev-cars, tech-reviews, consumer-tech-culture _(**electric Dodge Charger verdict**: "there aren't any good, convincing reasons to buy it"; the fake **Fratzonic** synthesized engine/exhaust sound reads inauthentic on an EV (a gimmick doesn't fix the value case).)_
+- 2025-03-21 — [[2025-03-21-yt-RPZBvKKhTfY|What’s Going On with the Pixel 9A?]] ⚠️mixed · smartphones, tech-reviews, consumer-tech-culture _(low-yield; Pixel 9A mid-range value question (grade-on-the-value-tier).)_
 - 2025-03-28 — [[2025-03-28-yt--vUK9uMn-lI|Flip vs Fold: Why Not Both?]] ⚠️mixed · smartphones, consumer-tech-culture _(low-yield; flip-vs-fold form-factor discussion (flip = "the foldable for regular people," fold = the productivity/screen play).)_
 - 2025-04-04 — [[2025-04-04-yt-E27X9fTqAcU|Nintendo Switch 2 Nintendo Switch 2 Nintendo Switch 2]] ⚠️mixed · consumer-tech-culture, tech-reviews _(low-yield; Switch 2 reveal reactions (bigger screen, magnetic Joy-Cons, Mario Kart World).)_
 - 2025-04-11 — [[2025-04-11-yt-YBoki1ycMMw|The Switch 2 Is Coming…Eventually]] ⚠️mixed · consumer-tech-culture, tech-reviews _(low-yield; Switch 2 preorder/tariff timing turbulence.)_
@@ -1947,4 +1955,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_1870 videos ingested (L2) so far._
+_1878 videos ingested (L2) so far._

@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Feb 7 → Mar 21, 8/8 ingested — ensemble podcast, light-triage L2 (batch 23)
+
+Second post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1870→1878.
+
+Marques-attributed keepers:
+- **02-28 Sigma BF camera** — "the most Apple camera that could possibly be made" (unibody machined
+  aluminum, minimal); **approves the no-SD-slot / 230GB internal** ("I actually approve," like his
+  Hasselblad X2D); uses Sigma **18-35 / 24-35** wide zooms. (gear/aesthetics)
+- **02-26 iOS-only apps** — BIO: the **dual-phone daily setup** (early 2025: iPhone 16 Pro + Samsung
+  S25 Ultra); **cross-platform availability = a deal-breaker** (contextualizes his Top-5 apps).
+- **03-14 Dodge Charger EV** — "no convincing reason to buy it"; the fake Fratzonic engine sound reads
+  inauthentic (a gimmick doesn't fix the value case).
+- **02-21** Humane Pin servers going offline (corroborates his worst-product verdict); **03-07** "phones
+  are fun again" optimism. Lower-yield: Pixel 9A, iPhone/Pixel leaks, 4x-speed viewing habits.
+
+Open after: @Waveform 212 (P2:195 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 2 batches since pass-29.
+
+Synthesis notes: mostly corroborating (anti-gimmick EV lens, Hasselblad/Sigma gear, champion-the-
+experimentation). Genuinely-new for a future pass: the **dual-phone + cross-platform-deal-breaker** app
+behavior; the **Sigma-BF aesthetic endorsement + no-card-slot approval** (a design-first exception).
+Hard-gated: all co-host takes.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Mar 28 → May 9, 8/8 ingested — ensemble podcast, light-triage L2 (batch 22, first post-pass-29)
 
 First @Waveform batch after pass-29 (light-triage L2, hard co-host gating). L2 1862→1870. Two ★
