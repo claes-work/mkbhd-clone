@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Mar 28 → May 9, 8/8 ingested — ensemble podcast, light-triage L2 (batch 22, first post-pass-29)
+
+First @Waveform batch after pass-29 (light-triage L2, hard co-host gating). L2 1862→1870. Two ★
+"favorites" episodes are the keepers.
+
+Marques-attributed keepers:
+- **04-30 ★ "Favorite Cameras" — why he shoots RED.** Two reasons: **resolution** (jumped from a 1080i
+  Canon C100 straight to RED Raw 4K) + **color science / RAW video** (change white balance *after*
+  shooting — "I could make videos look the way I wanted"). **Canon → RED ~2015** (Scarlet/Epic W); Rich
+  does most of the shooting; RED bought by Nikon. Guest Austin Evans quarantined.
+- **04-25 ★ "Favorite YouTube Videos" — his inspiring pick = "Nobody Tells This to Beginners"** (the **Ira
+  Glass "taste gap"**: a beginner's skill lags their taste; work closes the gap — "you've passed your
+  previous best"). Shared ~10 yrs ago, **rewatches yearly** — a core creative touchstone (pairs with the
+  Secret Base/John Bois admiration). Laugh pick: the goofy-murder-trail comic.
+- Lower-yield rumor/news: iPhone 18 release-split, modular tech, OpenAI social, Switch 2 ×2, Flip vs Fold.
+
+Open after: @Waveform 220 (P2:203 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 1 batch since pass-29.
+
+Synthesis notes: genuinely-new for a future pass — **why he shoots RED** (resolution + color-science/RAW,
+Canon→RED ~2015) → production ★; the **Ira Glass "taste gap"** as a yearly-rewatch creative touchstone →
+creator-business/influences ★. Rest low-yield/corroborating. Hard-gated: co-host takes + guest Austin Evans.
+
 ## [2026-07-25] lint | synthesis pass 29 — @Waveform mid-corpus checkpoint, L2 1798→1862, system-prompt v28→v29
 
 **Stage S checkpoint** (8 @Waveform batches / ~64 sources accumulated since pass-28 — folded now rather
