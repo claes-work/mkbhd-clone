@@ -4,6 +4,31 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Jan 21 → Mar 18, 8/8 ingested — ensemble podcast, light-triage L2 (batch 43)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-01-21 → 2022-03-18), L2 2030→2038.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. **Three guest
+episodes** (Hank Green, Josh Wardle/Wordle, + a co-host car quarantine).
+
+- ★ **J1dG4ry-Ahc** (Super Bowl EVs): **BIO** — Marques **took an advertising-writing class** (homework:
+  watch the Super Bowl for the ads) — "stuck with me ever since." Verdict: **"the EV ads were the best of
+  the Super Bowl."** iMessage tapbacks garbling on Android.
+- **2PwsuwaIadg** (iPhone SE): **YouTube dominance** for UGC ("the biggest competition is Vimeo") + the
+  headline that **Vimeo told creators to pay thousands or leave** — platform-dependence caution.
+- **AwM1aNrkCFo** (Apple Spring event): Mac Studio / M1 Ultra + iPhone SE 3; Apple-TV+ / MLB-Friday-Baseball
+  timing opinion.
+- Low-med: **5yepzRM--WY** (Polestar O2 concept + Steam Deck), **Hk34_-JP3RU** (Daft Punk hoax; Galaxy Tab
+  S8 Ultra / OnePlus fold).
+- ⚠️ Guests NOT trained: **sOPIJ84Qg58** (Hank Green — TikTok vs YouTube), **X_e2IEaR4aA** (Josh Wardle —
+  Wordle). ⚠️ **z7H15z7ShVs**: Microsoft-Activision $69B; a host's **Subaru Forester + dog "Mac"** story is
+  a CO-HOST's (Marques drives a Tesla) — quarantined.
+
+Synthesis notes: New this batch — (1) ★ **BIO: Marques took an advertising-writing class + "EV ads were
+the best of the Super Bowl"**; (2) YouTube-dominance / Vimeo-pricing platform observation; (3) Apple-TV+/MLB
+media-strategy note. Mostly corroboration + guests. Quarantined: Hank Green, Josh Wardle (guests), the
+co-host's Subaru/dog-Mac story. → pass-32 checkpoint due in ~5 more @Waveform batches or at channel
+completion (~35 P2 left).
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Mar 25 → May 20, 8/8 ingested — ensemble podcast, light-triage L2 (batch 42)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-03-25 → 2022-05-20), L2 2022→2030.
