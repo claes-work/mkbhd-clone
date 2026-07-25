@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] lint | synthesis pass 30 — @Waveform 2024 back-catalog checkpoint, L2 1862→1926, system-prompt v29→v30
+
+**Stage S checkpoint** (8 more @Waveform batches / ~64 sources since pass-29). Folded the 2024 @Waveform
+back-catalog + the AI-gadget-flop era (Apr 2024 → Jun 2025). ENSEMBLE — Marques-attributed only; co-hosts +
+guests (Hugo Barra, Becca Farsace, Josh Miller, the PodQuiz creator) quarantined.
+
+Promoted (genuinely-new; repeats dropped):
+- **persona/beliefs.md** — new "@Waveform corpus 2024" section: the **Humane AI Pin "worst product" verdict**
+  (no-explainable-use-case doctrine) + **Rabbit R1 "just an app"**; **"Apple Intelligence" = a rebrand**;
+  anti-AI-slop (Google AI Overviews); the **concrete sponsorship ethic** (genuine-use / say-no-99.9% /
+  Insta360-Sept-2022 / disclosure / Dyson-declined); the **Ira Glass "taste gap"** touchstone; Sigma-BF /
+  Dodge-Charger / Jaguar design takes.
+- **persona/biography.md** — new "@Waveform 2024 era" section: **free-weights + Bowflex**; designed
+  **shoe/wallet/backpack**; **why he shoots RED** (Canon→RED ~2015); **Quest 2**; the **iPhone 16 Pro + S25
+  Ultra** dual phone; **PodQuiz** fan; Boosted Boards; the **FBI-at-the-studio / F1-fans-hated-him / AutoFocus
+  origin** stories; the Dyson-sponsorship-declined-but-bought-one story.
+- **persona/voice.md** — new "@Waveform register (2024 era)" (5 phrases).
+- **wiki/topics/** — tech-reviews (Humane/Rabbit/Apple-Intelligence-rebrand/design takes), production (why-RED),
+  creator-business (sponsorship ethic + taste-gap).
+- **persona/system-prompt.md** — recompiled **v29→v30**: frontmatter 1862→1926; new v30 version block + changelog;
+  body woven into `### How you think` (who-is-this-for/does-it-need-to-be-a-device, read-the-branding-game,
+  sponsorship-genuine-use) and `### Who you are` (free-weights/Bowflex, designed shoe/wallet/backpack, Quest 2,
+  dual-phone, PodQuiz, Boosted Boards, why-he-shoots-RED). "Compiled from:" 1862→1926; @Waveform ~128 folded.
+- **pipeline/synthesis-state.md** — high-water advanced 1862→1926 (pass-30 detail; pass-29 demoted).
+- **index.md** — count 1926; system-prompt line v29→v30.
+
+⚠️ NOT trained (hard-gated): all co-host takes; guests Hugo Barra / Becca Farsace / Josh Miller / the PodQuiz creator.
+
+**NEXT:** resume Stage B ingest on @Waveform (~147 P2 left, going back through 2024→2019), then @WaveformClips
+(dedup vs @Waveform), the @mkbhd tail, and the shorts. Continue until Stage D.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Apr 5 → May 24, 8/8 ingested — ensemble podcast, light-triage L2 (batch 29)
 
 Eighth post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1918→1926. The

@@ -6,7 +6,22 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1862 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+Synthesized through: **1926 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+
+**PLUS pass 30 (2026-07-25) — L2 1862→1926, ~64 sources across 8 batches; the 2024 @Waveform back-catalog + the
+AI-gadget-flop era (Apr 2024 → Jun 2025). ENSEMBLE — Marques-attributed only (co-hosts + guests Hugo Barra, Becca
+Farsace, Josh Miller, the PodQuiz creator quarantined).** Pass-30 landmarks — **the Humane AI Pin "worst product"
+verdict** (no-explainable-use-case doctrine; origin of the review-responsibility debate) + **Rabbit R1 "just an app"**
+skepticism; **"Apple Intelligence" = a rebrand to own the AI framing**; anti-AI-slop (Google AI Overviews); the
+**concrete sponsorship ethic** (genuine-use / say-no-99.9% / last-fully-sponsored-Insta360-Sept-2022 / disclosure /
+Dyson-declined-but-bought-one); the **Ira Glass "taste gap"** creative touchstone; **why he shoots RED** (Canon→RED
+~2015, resolution + color-science/RAW); design takes (Sigma BF = "most Apple camera"; Dodge Charger EV; Jaguar rebrand);
+and BIOGRAPHY (free-weights + **Bowflex**; designed **shoe/wallet/backpack**; **Quest 2**; the **iPhone 16 Pro + S25
+Ultra** dual phone; **PodQuiz** fan; Boosted Boards; **FBI-at-the-studio**; F1-fans-hated-him; AutoFocus origin).
+System-prompt recompiled **v29→v30**. ⚠️ NOT trained: all co-host takes + guests.
+
+### (superseded) pass 29 high-water detail
+Synthesized through **1862 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
 
 **PLUS pass 29 (2026-07-25) — L2 1798→1862, ~64 sources across 8 batches; the @Waveform ensemble news-podcast (May 2025 →
 Jun 2026, ingested backward). ENSEMBLE — Marques-attributed only (co-hosts Andrew/David/Adam/Mariah/Ellis + guests Joanna

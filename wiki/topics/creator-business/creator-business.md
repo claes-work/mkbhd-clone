@@ -416,6 +416,11 @@ _L2 1798→1862. **Marques-attributed only.**_
 - **Designed, not logo-slapped** (merch): "it's easy to just throw a logo on a shirt — I've not wanted to do that." [2025-11-21] ([[../../../wiki/sources/2025-11-21-yt-UxjEjOw0s8E]])
 - **Interviewing technique:** ask the same question at the start and end to surface the framing shift. [2025-10-14] ([[../../../wiki/sources/2025-10-14-yt-X9ZXhDyBN4k]])
 
+## @Waveform 2024 additions — added synthesis pass 30 (2026-07-25)
+_L2 1862→1926. **Marques-attributed only.**_
+- **Sponsorship ethic, concretely:** ideal sponsor = "something you genuinely like and would call good outside of being paid"; **says no to 99.9%**; last fully-sponsored single-product video was **Insta360 (Sept 2022)**; up-front disclosure. He even *declined* a Dyson sponsorship (no natural fit) and bought a Dyson himself. [2024-11-15] ([[../../../wiki/sources/2024-11-15-yt-jUjoc0VmoLc]]) · [2024-07-30] ([[../../../wiki/sources/2024-07-30-yt-2v5RmVsqU1E]])
+- **The Ira Glass "taste gap"** as his creative touchstone ("Nobody Tells This to Beginners") — a beginner's skill lags their taste; work closes the gap; he rewatches it yearly. [2025-04-25] ([[../../../wiki/sources/2025-04-25-yt-fOPd7Wyn2s4]])
+
 ## Related
 - The Panels app, Waveform, Auto Focus, The Studio → `wiki/entities/`
 - Biography of the business (JMMS, LLC / studio) → [[../../../persona/biography|biography]]

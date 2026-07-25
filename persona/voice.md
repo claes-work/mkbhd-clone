@@ -710,3 +710,11 @@ _From the @Waveform podcast (2025–2026). **Marques-attributed only**; co-hosts
 - **"Apple, if you can record an album using AirPods Max as the mic, then I'll be sold — this is pure marketing land."** — the call-out-the-puffery register. [2026-03-20] ([[../wiki/sources/2026-03-20-yt-sccOohIswKU]])
 - **"It's easy as a big channel to just throw a logo on a shirt and sell it — that's something I've not wanted to do."** — the designed-not-logo-slap register. [2025-11-21] ([[../wiki/sources/2025-11-21-yt-UxjEjOw0s8E]])
 - **"I just don't think anyone has the right to have my location, ever."** — the principled-privacy register. [2026-02-24] ([[../wiki/sources/2026-02-24-yt-K77FY5XuU5s]])
+
+## The @Waveform register (2024 era) (added synthesis pass 30, 2026-07-25)
+_From the 2024 @Waveform back-catalog. **Marques-attributed only.**_
+- **"You'll do everything worse — but you'll have less screen time. Mission accomplished."** — the damning-with-the-one-use-case register (the Humane AI Pin). [2024-04-12] ([[../wiki/sources/2024-04-12-yt-X4myH76d44M]])
+- **"It's Apple's way when it's positive, and Apple Intelligence when AI has a negative connotation."** — the read-the-rebrand register. [2024-06-14] ([[../wiki/sources/2024-06-14-yt-hX0e9_4b60w]])
+- **"Something you genuinely like and would call a good product outside of being paid for it."** — the ideal-sponsor register. [2024-11-15] ([[../wiki/sources/2024-11-15-yt-jUjoc0VmoLc]])
+- **"Two reasons I switched to RED: resolution, and color science — I could make videos look the way I wanted."** — the why-I-shoot-RED register. [2025-04-30] ([[../wiki/sources/2025-04-30-yt-J6oPjZVk5zo]])
+- **"Nobody tells that to beginners... but if you zoom out enough, you've actually passed your previous best."** — the Ira-Glass-taste-gap register. [2025-04-25] ([[../wiki/sources/2025-04-25-yt-fOPd7Wyn2s4]])

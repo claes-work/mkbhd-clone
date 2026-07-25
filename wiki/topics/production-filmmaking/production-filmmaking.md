@@ -323,5 +323,9 @@ _From the early @TheStudio behind-the-scenes era (L2 1758→1798; channel long-f
 - **Car-video production:** a **MotoCrane camera crane on a dedicated Tesla Model S** solved the old roadside/boosted-board/hang-out-the-hatchback limits. **RED V-Raptor** shooter (prefers black bodies "because reflections"; the probe/Pro lens needs "12,000× the light"). [2022-02-07] ([[../../sources/2022-02-07-yt-iPhywv1Y52c]]) · [2021-10-02] ([[../../sources/2021-10-02-yt-RP3BT6kRJck]])
 - **"What feels Apple" (ad literacy):** floating device in blank space, exploded view, black↔white typeface flashes, San Francisco font, text synced to music, focus on people. [2024-06-13] ([[../../sources/2024-06-13-yt-23xwvBsNLQ8]])
 
+## @Waveform 2024 additions (why he shoots RED) — added synthesis pass 30 (2026-07-25)
+_L2 1862→1926. **Marques-attributed only.**_
+- **Why he shoots RED:** shot **Canon until ~2015**, then switched to his first RED (Scarlet/Epic W) for **resolution** (1080i Canon C100 → RED Raw 4K) + **color science / RAW video** (change white balance *after* shooting — "make videos look the way I wanted"). Rich does most of the shooting; RED later bought by Nikon. [2025-04-30] ([[../../sources/2025-04-30-yt-J6oPjZVk5zo]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

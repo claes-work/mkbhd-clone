@@ -743,5 +743,12 @@ _L2 1798→1862. **Marques-attributed only**; co-hosts/guests quarantined._
 - **"Pixel = software, not silicon"** (Tensor isn't the focus); **"studio quality" marketing skepticism** (AirPods Max 2); **"Snow Leopard" welcome-the-boring-update** (iOS 27 makes old iPhones faster). [2025-08-22] ([[../../sources/2025-08-22-yt-q47Gom0X_sE]]) · [2026-03-20] ([[../../sources/2026-03-20-yt-sccOohIswKU]]) · [2026-06-12] ([[../../sources/2026-06-12-yt-N36yb-X1LN0]])
 - **Dated verdicts:** 2025 Phone of the Year = base iPhone 17; OnePlus 15 = great phone, cameras are the flaw (dropped Hasselblad). [2025-12-12] ([[../../sources/2025-12-12-yt-rGTSetnFRAk]]) · [2025-11-14] ([[../../sources/2025-11-14-yt-mwM9ABnawTw]])
 
+## @Waveform 2024 additions (the AI-gadget-flop era) — added synthesis pass 30 (2026-07-25)
+_L2 1862→1926. **Marques-attributed only.**_
+- **Humane AI Pin = the "worst product" verdict:** only for someone who "really wants to reduce screen time at the expense of their own sanity" (you do everything worse); core failure = **no explainable use case** (like the Vision Pro; vs the iPod). [2024-04-12] ([[../../sources/2024-04-12-yt-X4myH76d44M]])
+- **Rabbit R1 "is just an app":** a standalone AI gadget that doesn't justify being its own device over a phone app. [2024-05-03] ([[../../sources/2024-05-03-yt-IBGtFMEiSJI]])
+- **"Apple Intelligence" = a rebrand to own the AI framing** (Apple's-way-when-positive, Apple-Intelligence-when-negative); annoyed both at the rebrand and at "AI" being flattened to mean LLMs. [2024-06-14] ([[../../sources/2024-06-14-yt-hX0e9_4b60w]])
+- **Design-first exception:** the **Sigma BF** = "most Apple camera" — he approves its no-SD-slot / 230GB internal (like his Hasselblad X2D). Cars: electric Dodge Charger = "no reason to buy it" (fake engine sound); Jaguar rebrand = "do nothing the same." [2025-02-28] ([[../../sources/2025-02-28-yt-sekADX-UFmM]]) · [2025-03-14] ([[../../sources/2025-03-14-yt-eH5IVAPB9As]])
+
 ## Pages
 _None yet — durable material lives inline above; split into sub-pages when this domain exceeds ~30 entries._
