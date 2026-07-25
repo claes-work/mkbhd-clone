@@ -4,6 +4,23 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @WaveformClips bulk dedup (657 → skipped, dup-of @Waveform-longform)
+
+**Stage C (dedup).** The **@WaveformClips** channel is entirely **short segment-clips cut from the @Waveform
+podcast** (e.g. "PlayStation Kills the Disc!", "Nikon Buys RED: What Now?", "The Day Facebook Broke", "Marques'
+Ferrari Luce Rant"). Since the **✅ @Waveform long-form channel is now 100% ingested to L2** (every episode →
+a source page), **every clip is a subset of already-ingested content** and adds no new Marques-attributable
+material.
+
+- **657 open @WaveformClips rows** (P1×1 / P2×620 / P3×36) **marked `status: skipped`, `notes: dup-of:@Waveform-
+  longform`** in `pipeline/ledger.csv` (backup kept in scratchpad). **No pages written** (nothing new to ingest);
+  no silent cap — the full count is recorded here.
+- Result: **NO open long-form rows remain across any channel** (@mkbhd ✅ + @AutoFocus ✅ + @TheStudio ✅ +
+  @Waveform ✅ + @WaveformClips ✅-deduped). Only **~333 shorts** remain (Stage C dedup next).
+
+→ next: **Stage C on shorts** (~333) — dedup each against the fully-ingested long-form (dup → skip with
+dup-of note; genuinely-new short → L2 light ingest). Then **Stage D** (final wrap-up) ends the loop.
+
 ## [2026-07-25] lint | synthesis pass 33 — @mkbhd Ask-MKBHD origin-era persona checkpoint, L2 2090→2125, system-prompt v32→v33
 
 **Stage S/P checkpoint (@mkbhd ledger completion).** 5 @mkbhd batches / ~35 sources since pass-32 (batches
