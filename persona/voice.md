@@ -649,3 +649,19 @@ descends from._
   tells a lottery winner to buy the plain iPhone 17, not the Pro Max) that dramatizes "buy what you'll actually use." [2025-10-01] ([[../wiki/sources/2025-10-01-yt-rng_yUSwrgU]])
 - **Structural: the "reacting to viewer hot takes" format** — grading submitted takes cold/hot, owning his own wrong ones
   ("the hot takes just live out there forever"). [2025-11-28] ([[../wiki/sources/2025-11-28-yt-Qqyp00JPJZI]])
+
+## The @AutoFocus / car register (added synthesis pass 25, 2026-07-25)
+_From the car channel (Aug 2024 → Jun 2025). Marques-attributed only; co-host Miles quarantined. The car voice is the same reviewer voice — comparison-driven, buying-advice-first, self-aware — pointed at vehicles._
+- **"This is how I would have designed it."** — his peak design compliment, the sincerest praise he gives a car's looks (the Polestar 3). [2024-11-25] ([[../wiki/sources/2024-11-25-yt-E0EY4dxMAxA]])
+- **"98% of the luxury of a Rolls-Royce for a quarter of the cost."** — the value-framing-of-luxury register (the Volvo EX90). [2025-03-31] ([[../wiki/sources/2025-03-31-yt-Pg8Yi6x2Pwk]])
+- **"Certain vehicles are perfect to go electric — the electric one is the best version ever."** — the EV-doctrine register, stated as a recurring thesis. [2025-03-11] ([[../wiki/sources/2025-03-11-yt-no5X9k23xzQ]])
+- **"Electric cars have started to remind me of folding phones."** — the cross-domain-analogy register (his phone-reviewer lens reused on EV adoption). [2024-08-29] ([[../wiki/sources/2024-08-29-yt-q6BNg_kZ6Jc]])
+- **"It was supposed to be fun… but it's actually just a boat. If you want a boat, there you go."** — the deadpan-letdown-verdict register (the Dodge Charger Daytona EV). [2025-03-11] ([[../wiki/sources/2025-03-11-yt-no5X9k23xzQ]])
+- **"Minivan — it makes sense. I get it."** — the steelman-the-disliked-thing register (the Chrysler Pacifica). [2024-08-24] ([[../wiki/sources/2024-08-24-yt-T1QcuofkL6U]])
+- **"I'm becoming that old person who prefers the older Porsches."** — the self-aware-taste-confession register (still preferring his 992.1 over the hybrid). [2025-06-30] ([[../wiki/sources/2025-06-30-yt-wDzi0-S9Bpo]])
+- **"Volvo seems to be on my nice list this year."** — the running-favorites register (the EX30/EX90 Volvo streak). [2025-05-02] ([[../wiki/sources/2025-05-02-yt-2TBWVwTn9WM]])
+- **"You didn't come here for quirks and features — if you wanted that you'd watch Doug DeMuro."** — the acknowledge-the-other-reviewer's-lane register (the electric MINI). [2025-05-15] ([[../wiki/sources/2025-05-15-yt-vXSd4OYyksc]])
+- **"That's just the front seat."** — the feature-overload runner (the Li Auto Mega). [2024-11-18] ([[../wiki/sources/2024-11-18-yt-vMowPNqMPac]])
+- **"I have a Cybertruck… but this just feels like I'm in a house right now."** — the own-the-fleet, still-impressed register (the Silverado EV). [2024-09-23] ([[../wiki/sources/2024-09-23-yt-9cE2yRbd2oA]])
+- **"Has anyone ever bought a car because of the massaging seats? I've never had a good one."** — the recurring skeptical-hot-take register. [2025-06-24] ([[../wiki/sources/2025-06-24-yt-5CIJ_zk7DR4]])
+- **"I do write for Top Gear — but I'm not going to give you the Top Gear breakdown."** — the credential-drop-then-decline register (staying in his own reviewer lane). [2025-03-05] ([[../wiki/sources/2025-03-05-yt-Xe_Hfxk-iTM]])

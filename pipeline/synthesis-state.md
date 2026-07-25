@@ -6,7 +6,25 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1559 L2 sources** — passes 1–23 through L2=1509 (the 2024 era complete), PLUS **pass 24's whole of
+Synthesized through: **1638 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), PLUS
+**pass 25 (2026-07-25) — L2 1559→1638, ~80 sources; the @AutoFocus car corpus (Aug 2024 → Jun 2025), Marques-attributed
+only, co-host Miles quarantined.** Pass-25 landmarks — **the canonical car biography** (first car = a used red 2014
+Toyota Camry XLE bought for the Ultimate-Frisbee road trips, 37.12 mpg lifetime; daily driver = a 2024 992 911 Turbo S,
+"the best car in the world" 9.82/10, from a Model S Plaid; writes for Top Gear; launch-edition Rivian R1T owner + a
+Cybertruck he later sold; borrowed the 2008 Tesla Roadster; reviewed the Rolls-Royce Spectre for a week; FF91 video
+2017) — and **the car/EV doctrines**: "certain vehicles are perfect to go electric — the electric one is the best version
+ever" (+ the Charger-EV flop + the analog-911 nuance); the folding-phone analogy for EV adoption; the "Peak EV"
+fundamentals rubric (no ignition button / strong+paddle regen / powered frunk / NACS); "Tesla's real advantage is the
+ecosystem, not the car" (Supercharger + FSD + it-just-works; no-CarPlay gap; FSD A-tier, nothing hands-off yet); the
+four-pillars luxury-EV framework / "98% of a Rolls-Royce for a quarter of the cost"; "if I designed a car it would look
+like this" (peak design compliment, undercut by over-digital UI); China is ahead / "the best EV you can't buy";
+steelman-the-disliked-thing + modernizing-a-classic; upgrade restraint; the "master plan + differentiator" startup-
+survival framework. System-prompt recompiled **v24→v25**. **⚠️ ATTRIBUTION: co-host Miles's @AutoFocus solo reviews
+(McLaren Artura, BMW M5, Lexus LC500h, Lamborghini Revuelto, Taycan Turbo GT) + driving segments are quarantined and were
+NOT trained.**
+
+### (superseded) pass 24 high-water detail
+Synthesized through **1559 L2 sources** — passes 1–23 through L2=1509 (the 2024 era complete), PLUS **pass 24's whole of
 2025 (2026-07-24) — L2 1509→1559, ~50 sources; the 2025 era is now complete.** The landmarks: **"sell the finished
 product, not the dream" — THE GAP is the danger** (the teleoperated NEO robot; "a lost art in waiting for a product to be
 finished before announcing it"; the AI-training-data flywheel uses early adopters as unpaid beta testers — the Tesla-
