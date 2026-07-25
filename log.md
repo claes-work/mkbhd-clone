@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Jan 27 → Mar 24, 8/8 ingested — ensemble podcast, light-triage L2 (batch 37)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-01-27 → 2023-03-24), L2 1982→1990.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. **Strong batch —
+a landmark "what is a photo" origin + a Rivian-ownership BIO.**
+
+- ★★ **IMaVVwdZI5A** (titled "Google Leaked Pixel" but really the **Samsung moon-photo controversy**):
+  **L3-candidate** — the **documented origin of his "what is a photo?" doctrine**. The Reddit blurred-moon
+  proof (Samsung pastes fake AI detail since S10) → **"smartphone cameras just edit reality"** (his
+  iPhone-camera + "Cameras vs Reality" videos); his **20M-view moon short**. Later cited by Samsung
+  ([[2024-02-09-yt-X8gvuyi7oz0]]).
+- ★ **3_ROaNwDE9I** (Tesla Superchargers): **Tesla Magic Dock** opens ~10 US Superchargers to CCS; his
+  **"recommend Teslas in the US for charging"** logic (vs unreliable Electrify America). **BIO** owns a
+  **Rivian R1T**, drove it 1.5hr upstate NY to test the Magic Dock.
+- ★ **sfvT_pbCFP0** (M2 Macs): **M2 Mac Mini = "a new default Mac to recommend"** ($599); don't-upgrade-
+  M1-Pro/Max-yearly; base 14" slower SSD catch.
+- ★ **mgIu4g3flu8** (Top 10 Phones): **color-refresh videos over-perform** (purple/red iPhone ~5M views);
+  **red over-saturates cameras → looks pink**, "I can't prove my red is your red."
+- ★ **VwS96QPYbP8** (HomePod 2): reviewer detail — removable cable, 2 fewer drivers, "still stains wooden
+  tables just not as fast" (white unit).
+- Low-med: **E7XYoMiAuGc** (Nothing Ear fit-great-for-running-but-sounds-bad; VW ID.2; Bing "who is MKBHD"),
+  **2YQbYnCLF28** (MrBeast-healthcare take; TikTok heating; AI search wars), **5ieZRzSGMVs** (Bing/Sydney
+  neutered; paid social).
+
+Synthesis notes: New this batch — (1) ★★ **origin of the "what is a photo / smartphone cameras edit
+reality" doctrine** (Samsung moon controversy, his 20M-view short — L3-candidate); (2) ★ **BIO owns a
+Rivian R1T** + the Tesla-Magic-Dock/"recommend-Teslas-for-charging" EV logic; (3) ★ **M2 Mac Mini = default
+Mac to recommend** buying advice; (4) **color-refresh videos over-perform** + red-oversaturation color
+science; (5) HomePod-2 review-detail sensibility; (6) earbuds-for-running (fit>sound-dealbreaker). → pass-31
+checkpoint due in ~2 more @Waveform batches (L2 ~2006) or at channel completion.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Mar 31 → May 19, 8/8 ingested — ensemble podcast, light-triage L2 (batch 36)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-03-31 → 2023-05-19), L2 1974→1982.
