@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Jul 21 → Sep 8, 8/8 ingested — ensemble podcast, light-triage L2 (batch 34)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-07-21 → 2023-09-08), L2 1958→1966.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. **High-yield batch
+— major biography + a landmark creator-business monologue.**
+
+- ★★ **GAJJ3juWyaA** (Threads/Twitter): **BIO** — Marques is a **20-year golfer** ("my first love, my
+  first sport"); played the inaugural **Open Invitational** (celebrity scramble before The Open), walked
+  security in front of **Phil Mickelson**, on the putting green with him, **team won**; also ~23yr snowboarder.
+- ★ **fmIvzU115y0** (GUEST Cleo Abram — NOT trained): Marques's **longevity advice** — focus is key;
+  **don't externally set a schedule/format** ("I've never had a schedule other than this podcast"; that's the
+  algorithm treadmill → burnout); reinvent parts of the show; **"keep the taste a little ahead of what
+  you're doing."** (coheres with his "On Quitting YouTube" essay)
+- ★ **7_djdOb9QmQ** (iPhone 15): his **Tesla Solar Roof review** packaging story + real-time thumbnail-rating
+  (7→3→1/10 trending); **"inverse relationship between effort and performance"**; **BIO** daily-driver
+  **Tesla Model S Plaid** + solar roof.
+- ★ **0atwuUWhKWs** (Twitter→X): **"starting-at / base-model pricing is a lie"** consumer-advice — sacrificial
+  base spec, starting price = advertising; truest for computers (Apple = less upgradable than ever) but
+  **category-dependent**.
+- Low yield: **AQHEJkiZtI4** (Comcast customer — "great internet, bad TV"), **cN3ueqbuTsQ** (Sony-earbud
+  protocol correction, "don't care, $200 earbuds"), **Z9jekTKnQqM** (ColorWare SM7B mics),
+  **pFn5_1fsxx8** (foldables; VisionPro MagSafe→"magic" renaming, attrib uncertain).
+
+Synthesis notes: New this batch — (1) ★★ **golf biography** (20-yr golfer, first love/sport, Open
+Invitational + Phil Mickelson, team won; ~23yr snowboarder); (2) ★ **landmark longevity/anti-burnout
+advice** (focus, no self-imposed schedule/format, reinvent-in-parts, taste-ahead — his most explicit
+statement of it); (3) ★ **BIO daily Tesla Model S Plaid + Tesla Solar Roof**; (4) **effort↔performance
+inverse** + thumbnail-rating habit; (5) **"starting-at/base-model pricing is advertising"** consumer-advice
+(category-dependent); (6) Comcast customer color. → pass-31 checkpoint due in ~5 more @Waveform batches
+(L2 ~2006) or at channel completion.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Sep 15 → Oct 27, 8/8 ingested — ensemble podcast, light-triage L2 (batch 33)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-09-15 → 2023-10-27), L2 1950→1958.
