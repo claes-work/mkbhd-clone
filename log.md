@@ -4,6 +4,21 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 10 (12): 12 new (digest 10), 0 dup — L2 2224→2236
+
+**Stage C (shorts dedup, @mkbhd batch 10).** 12 @mkbhd shorts (Mar 2022 → Dec 2022, + one recent 2026-07-20 that
+surfaced in the sweep), all genuinely-new → light-L2 ([[2022-mkbhd-shorts-digest-10]]); 0 dups/teasers. Signals:
+★ **"When Apple gets it wrong" / follower-not-first** framework (Apple late to water-resistance/wireless-charging/
+widgets); ★ **Google-vs-iMessage green-bubble saga** (Android surfacing iMessage tapbacks as text to pressure
+Apple toward RCS — interop thread); ★ **Samsung swelling-battery PSA** (+ a rare window into his tech-creator
+network: "fellow creators and I noticed"); ★ **early Meta Quest Pro / VR** take (cautiously impressed, pre-Vision-
+Pro). Rest = feature/gadget quips (Crash-Detection-vs-roller-coasters, Twitter edit-button early access, hidden
+iPhone features, Cybertruck prototype at the Petersen, Apple-Watch stand-hours glitch, AirPods Pro 2 case, Green
+iPhone 13, Nikon P1100 superzoom).
+Synthesis notes: durable → the "Apple-is-late / follower-not-first" framework is a real persona axis worth an
+explicit belief line; the green-bubble beat + Samsung-battery creator-network detail reinforce existing threads.
+Fold at Stage D.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 9 (12): 12 new (digest 09), 0 dup — L2 2212→2224
 
 **Stage C (shorts dedup, @mkbhd batch 9).** 12 @mkbhd shorts (Dec 2022 → Mar 2023), all genuinely-new →
