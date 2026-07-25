@@ -4,6 +4,33 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Mar 31 → May 19, 8/8 ingested — ensemble podcast, light-triage L2 (batch 36)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-03-31 → 2023-05-19), L2 1974→1982.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. One guest episode
+(Rivian CEO, quarantined).
+
+- ★★ **HuCsbGcyV48** (\$40k iPhone): **BIO** — Marques **won an auction for a SEALED, unopened original
+  2007 iPhone** (~$40k; 16 years preserved; the dents/rips made him *more* confident it was authentic).
+  Ties to the **"review every iPhone" archival project** — needing a working example of every model (the
+  OG a genuine "will it even turn on?").
+- ★ **ygt0hV_9kGc** (Final Cut on iPad): **"how can you call it a Pro iPad if it has no pro apps? Well,
+  here is Final Cut Pro"** — but putting it on the iPad Air "deflates that a little." His questions:
+  **Mac↔iPad parity** (he edits on FCP Mac) + **pricing**.
+- **RdjDDtHvUXA** (GUEST RJ Scaringe, Rivian CEO — NOT trained): Rivian origin (Mainstream Motors → Ava →
+  Rivian); residue = Marques's EV/Rivian + founder-story interest.
+- Low-med: **14iYkfIC6p8** (Nothing Ear 2 = "minor update + custom drivers"; Windows Snipping tip),
+  **C-FLCLjiSYg** (Twitter verified badges gone + AI-too-real early beat; Marques tweets/engages),
+  **5qJRzrMHMTw** (Google I/O 2023 all-AI recap), **7uBZrzet7n4** (overdue-app-features wishlist),
+  **3TzOkOCjFx0** (Secret History of the Internet explainer — very low).
+
+Synthesis notes: New this batch — (1) ★★ **BIO: the $40k sealed original iPhone auction win + the
+"review every iPhone" archival rigor** (working example of every model); (2) ★ **Final Cut Pro on iPad /
+"no Pro iPad without pro apps"** + he's a longtime Mac FCP editor (parity + pricing lens); (3) minor:
+Rivian/founder-story interest, "minor update + custom drivers" iterative-product framing, he-tweets-and-
+audience-feeds-him color. Quarantined: RJ Scaringe (guest). → pass-31 checkpoint due in ~3 more @Waveform
+batches (L2 ~2006) or at channel completion.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 May 26 → Jul 14, 8/8 ingested — ensemble podcast, light-triage L2 (batch 35)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-05-26 → 2023-07-14), L2 1966→1974.
