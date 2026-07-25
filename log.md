@@ -4,6 +4,39 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Nov 3 → Dec 12, 8/8 ingested — ensemble podcast, light-triage L2 (batch 32)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-11-03 → 2023-12-12), L2 1942→1950.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. **Two high-yield
+episodes this batch.**
+
+- ★ **CF7msB1CgyM** (Cybertruck): Marques was **1 of ~3 people outside Tesla to have DRIVEN the
+  Cybertruck**. Every spec except 0-60 came in **worse than promised — a first for Tesla** (340mi range
+  vs 500, 11k lb tow vs 14k, $100k triple-motor vs $69,900, ~850hp, 2.7s 0-60). **But the drive is #1**:
+  first Tesla steer-by-wire "squircle," up to 10° rear-axle steering, 170° full-lock (never hand-over-hand),
+  **"the most nimble truck I've ever driven."** Plus dbrand-vs-Casetify teardown-skin ripping drama.
+- ★ **2as2Ptjf44E** (Humane, Marques+David): his **EARLY (Nov 2023) Humane Pin take** — projector-UI
+  skepticism (sag, daylight, skin-tone, accessibility), "as bad as I think or it could blow my mind" —
+  the **precursor to the Apr-2024 "worst product"** verdict. Ambient-AI **steelman** (ahead of its time?;
+  Ray-Ban glasses). **MyFitnessPal-macros pain** ("if your food doesn't have a barcode, good luck").
+  "Chrome-on-tech is a terrible idea." Cholula "15% of my diet" self-intro bit.
+- **ltTKey5xJQM** (Sony): Marques **admits he was wrong** about the Nissan GTR not being a track car;
+  excited about the **Sony a9 III** = first full-frame **global-shutter** camera (kills rolling-shutter jelly).
+- Corroboration/low yield: **HN-KU1rQfeo** (Apple adopts RCS → corroborates done-with-SMS; OpenAI/Altman;
+  Nothing/Sunbird security vindicates his video), **qH5CB2CyP2w** (GTA6 trailer YouTube record),
+  **TDOMekBPR4U** (CyanogenMod/XDA nostalgia — ROM-flashing lines attrib-uncertain, flagged),
+  **N-_X42WGhqo** (GUEST: Climate Town creator; Marques follows the channel).
+
+⚠️ **jx_KLYqRRWY (M3 MacBook): MARQUES ABSENT** (soundbite only) — nothing trained, ledgered for completeness.
+
+Synthesis notes: New this batch — (1) ★ **Marques drove the Cybertruck** (1 of 3 outside Tesla): specs
+under-delivered for the first Tesla ever, but the steer-by-wire drive = "most nimble truck I've driven"
+(biography + belief); (2) ★ **early Humane Pin skepticism dated to Nov 2023** (precursor arc to the
+worst-product review) + ambient-AI steelman; (3) **MyFitnessPal-macros frustration** (fitness/tracking);
+(4) **admits-when-wrong** on the Nissan GTR; (5) **Sony a9 III global-shutter** enthusiasm; (6) Cholula
+running gag (voice color). Flagged-uncertain (held): XDA/ROM-flashing personal history. → pass-31
+checkpoint due in ~7 more @Waveform batches (L2 ~2006) or at channel completion.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Dec 15 → 2024 Feb 2, 8/8 ingested — ensemble podcast, light-triage L2 (batch 31)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-12-15 → 2024-02-02), L2 1934→1942.
