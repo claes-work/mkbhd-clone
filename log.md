@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@mkbhd, 8) — Ask MKBHD V1–V6 + iOS 27 + S4 interview, 8/8 ingested — SOLO, L2 2090→2098 (batch 51)
+
+**Stage B ingest** — 8 **SOLO @mkbhd** videos (the subject directly — no ensemble gating): the **Ask MKBHD
+Q&A series V1–V6** (2014–2015) + the **iOS 27 hands-on** (2026) + a **Galaxy S4 word-game** interview (2013).
+L2 2090→2098. The Ask MKBHD Q&As are **biography goldmines**. (@mkbhd P2 now fully drained; 28 P3 left.)
+
+- ★★ **hgj1x0ecJMo** (V3): channel is **100% solo** ("like a portfolio"); **first review ever = the OG
+  Motorola Droid** (Canon T2i + built-in mic); the **full early camera lineage** — Sanyo Xacti CG10 → Canon
+  T2i → 60D → 5D Mk III → C100 → RED Scarlet; **Sigma 18-35 = his favorite lens**; **doesn't own a dog**.
+- ★ **NH_7FqSuxkU** (V2): major = **business + technology** (minor info-systems + marketing), **junior year**;
+  pro Ultimate = the **New York Rumble**; **Clippers** fan; the **Nexus-steers-Android** framework.
+- ★ **4Q6kdHSWNZM** (V4): on-camera shirt = **90% Ultimate jerseys**; **THREE Ultimate teams** (Garden State /
+  NY Rumble / college); the **MKBHD-merch origin**; "I want the **quality** to increase after graduation."
+- ★ **VQW48jzIcjk** (V1): 2014 daily-driver rotation (Nexus 5 'MKBHD Edition' 75% / HTC One CyanogenMod / Note
+  3 / iPhone 5S for photos); in-college; was anti-Q&A then relented.
+- ★ **XtLpZLM4jg0** (V5): daily = **Galaxy S6 Edge**; **collab philosophy** (only for what's impossible solo —
+  the dream-smartphone Verge video); fav Tesla color torn **red/gray** (→ the gray Apollo).
+- ★ **nL9Guwuv8HY** (V6): **start-a-channel advice** (dive in; gear doesn't matter; first videos are terrible);
+  **take-criticism-seriously** ("a nugget of truth"; comments affect the next video); Snapchat = MKBHD.
+- **_oRgdlJUD18** (iOS 27): "the **update of refinement**" (most stable Apple betas in a long time); the
+  **Liquid Glass refinement** (2025 critique → 2026 fix). **_bozaSWsDuE** (S4): the tick-tock framing; early
+  Samsung access (2013).
+
+Synthesis notes: Rich SOLO biography — the **camera lineage** + **OG-Droid first review**, the **100%-solo
+operation**, the **college major + three Ultimate teams (NY Rumble)**, the **daily-driver history** (Nexus 5 →
+S6 Edge), the **MKBHD-merch origin**, the **collab philosophy** + **start-a-channel/criticism advice**, and the
+**favorite-Tesla-color→gray-Apollo** foreshadowing. Worth folding at the next persona checkpoint. → next: the
+@mkbhd P3 tail (28), then **@WaveformClips** (617 — clips of the ✅complete @Waveform → Stage-C dedup), then
+shorts (364, Stage C).
+
 ## [2026-07-25] lint | synthesis pass 32 — ✅ @Waveform channel-completion checkpoint, L2 1998→2090, system-prompt v31→v32
 
 **Stage S checkpoint (channel completion).** 12 @Waveform batches / ~92 sources since pass-31 (batches 39–50).
