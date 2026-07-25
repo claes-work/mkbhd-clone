@@ -4,6 +4,16 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 3 (12): 10 new (digest 03), 1 joke-skip, 1 no-captions — L2 2143→2153
+
+**Stage C (shorts dedup, @mkbhd batch 3).** 12 @mkbhd shorts (May–Sep 2025). **10 genuinely-new → light-L2**
+([[2025-mkbhd-shorts-digest-03]]); durable-ish signals: the **iPhone-Air thinness tradeoffs** (anti-thinness),
+a **camera-sensor-damage PSA** (permanent baked-in damage on his iPhone 16 Pro), and **YouTube thumbnail-A/B
+early access** (creator tooling). Rest = ephemeral gadget/UX quips (NFL-headset explainer, $750-flashlight,
+Samsung quick-settings regression, iOS-26 all-clear-icons preview, USB-C AA battery, Google AI clothes try-on,
+$900 massaging shoes). **1 skipped** = an **April-Fools promo joke** (Panels × Johnny IV "Essence of Cloud").
+**1 no-captions** → L1. → **86 @mkbhd shorts left**.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 2 (12): 12 new (digest 02), 0 dup — L2 2131→2143
 
 **Stage C (shorts dedup, @mkbhd batch 2).** 12 @mkbhd gadget-showcase shorts (Oct 2025 → Jan 2026), all
