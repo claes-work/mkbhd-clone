@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Sep 15 → Oct 27, 8/8 ingested — ensemble podcast, light-triage L2 (batch 33)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-09-15 → 2023-10-27), L2 1950→1958.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. Solid batch —
+several crisp clearly-Marques takes.
+
+- ★ **YtkGDypHA_w** (iPhone 15 event): **Apple QUOTED Marques on stage** — Tim Cook cited his MacBook-Air-15
+  review line ("instantly rocket to the top of the lineup"); he was in the audience, "felt all the eyes go
+  like that." (notoriety marker, cf. Samsung quoting him on "what is a photo")
+- ★ **ZYwhYR2ezxA** (Apple Watch S9): **carbon-neutral skepticism** — "it's got to be mostly credits, right?
+  I need to know how they're doing this"; grants recycled-aluminum wins but presses the parts you can't
+  control (trucks, stores, the grid).
+- ★ **rT10_wHGCIM** (Pixel 8 Pro): **runs Twitter/X polls to sense his audience** (self-driving-Uber 55/45);
+  layered **self-driving nuance** (love-the-idea vs is-the-tech-ready; Waymo SF 7×7 mi, no highways).
+- ★ **jk-tLyokU1g** (Apple Pencil): **"I'm for good stuff to come out even if it's from companies who've
+  done horrible things"** (separates product from maker, re: Meta).
+- ★ **ZjibX4JmeMk** (Pixel Buds): **dislikes adaptive/conversation-detection transparency** (1.5-2s lag,
+  "same reason I don't like it on the AirPods Pro").
+- ★ **UykwuWaBV_4** (M3 spec): **concept-car humility** — "same reaction skeptics had to the Cybertruck,
+  hope I'm just as wrong about these EVs" (credits that the it'll-never-ship skeptics were wrong).
+- Low yield: **ED_dA2VqjfE** (Google kills Google Podcasts → YouTube Music), **3ihjz7g1OQM** (GUEST: AI
+  engineering leader, not trained).
+
+Synthesis notes: New this batch — (1) ★ **Apple quoted Marques on stage** at the iPhone 15 keynote
+(notoriety); (2) ★ **carbon-neutral/green-marketing skepticism** ("show me the mechanism, mostly credits?");
+(3) ★ **Twitter-poll audience-sensing** as a content habit + layered self-driving framing; (4) **"good
+products even from bad companies"** (separate product from maker); (5) **adaptive-transparency-audio
+dislike** (cross-brand, latency); (6) **concept-car humility** (Cybertruck skeptics were wrong). → pass-31
+checkpoint due in ~6 more @Waveform batches (L2 ~2006) or at channel completion.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Nov 3 → Dec 12, 8/8 ingested — ensemble podcast, light-triage L2 (batch 32)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-11-03 → 2023-12-12), L2 1942→1950.
