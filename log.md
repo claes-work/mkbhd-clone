@@ -4,6 +4,17 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 5 (12): 12 new (digest 05), 0 dup — L2 2165→2177
+
+**Stage C (shorts dedup, @mkbhd batch 5).** 12 @mkbhd shorts (Apr–Oct 2024), all genuinely-new → light-L2
+([[2024-mkbhd-shorts-digest-05]]); 0 dups. ★★ High-value: the **"AI is stealing my videos"** creator-rights
+take (Apple/AI trained on scraped YouTube transcripts incl. his; **the data-broker layer is the culprit +
+companies must vet sources**; the double-whammy that his **paid manual accessibility captions** got scraped).
+★ **Bloomfield-NJ** confirmation via an AI-gaslighting demo. Rest = topical/gadget quips (new Apple-Intelligence
+Siri, Cybertruck recall PSA, VW ID.Buzz, Beats Solo Buds, wearable step-accuracy, M4-iPad magnets/secret-part
+teardowns, Boston Dynamics Atlas, lightsaber-vs-Nokia, an April-1 studio-tour snippet w/ a Corsair pegboard
+desk). → **62 @mkbhd shorts left**.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 4 (12): 12 new (digest 04), 0 dup — L2 2153→2165
 
 **Stage C (shorts dedup, @mkbhd batch 4).** 12 @mkbhd shorts (Nov 2024 → Mar 2025), all genuinely-new →
