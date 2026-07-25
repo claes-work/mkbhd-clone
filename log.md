@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Jul 19 → Aug 28, 8/8 ingested — ensemble podcast, light-triage L2 (batch 27)
+
+Sixth post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1902→1910.
+
+Marques-attributed keepers:
+- **07-30 ★ Story Time (FBI Tales & Untold MKBHD Stories)** — BIO goldmine: the **FBI surprised him at
+  the studio**; the **Dyson sponsorship (2018)** — he **declined it** (couldn't make it a natural fit) but
+  **bought a Dyson for the studio himself** (sponsorship ethic + he genuinely uses/owns a Dyson); **"most
+  F1 fans hated Marques for a few weeks"**; and the **AutoFocus channel-name origin** (the supercar-filming
+  opportunity).
+- **08-02 New Siri (Apple Intelligence first look)** — arrives in fragments after the iPhone 16 that sold
+  it (Apple-AI-is-behind arc); **08-09 Google antitrust ruling + Chromecast EOL** (Google market-power).
+- **07-19 Move Fast Break TOS** (AI-training-data land-grab / creator consent). Lower-yield: CrowdStrike
+  outage, Pixel 9 ×2, Bluesky-vs-Threads.
+
+Open after: @Waveform 180 (P2:163 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 6 batches since pass-29.
+
+Synthesis notes: genuinely-new for a future pass — the **Dyson-sponsorship-declined-but-bought-one** story
+(sponsorship ethic + Dyson ownership) + the **FBI-at-the-studio** / **F1-fans-hated-him** / **AutoFocus
+origin** biography anecdotes. Rest corroborates (Apple-AI-behind, Google market-power, loves-protocols,
+AI-consent). Hard-gated: co-host tellings.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Aug 30 → Oct 11, 8/8 ingested — ensemble podcast, light-triage L2 (batch 26)
 
 Fifth post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1894→1902.
