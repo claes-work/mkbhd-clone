@@ -1605,6 +1605,14 @@ Auto-captions have no speaker labels → per-line attribution is uncertain; only
 unambiguously-Marques lines entered the persona/voice quote banks, the rest are
 quarantined on each page (`attribution: uncertain`)._
 
+- 2022-07-29 — [[2022-07-29-yt-qChnSdoIMvQ|Mark Rober talks Glitterbomb, Creative Engineering, and Storytelling]] · creator-business, production-filmmaking _(Waveform **GUEST Mark Rober** (Glitterbomb, storytelling) — NOT trained. A recurring MKBHD reference point / context peer. Low yield.)_
+- 2022-08-05 — [[2022-08-05-yt-PQmSzj7IRuw|The Current State of Social Media and Marques's Toxic Trait]] ★ · tech-reviews, creator-business _(Waveform ensemble. ★ **BIO**: Marques's self-named **"toxic trait" = app addiction** — "I live in three apps and without them I'd be a useless shell": **Google Calendar, Google Tasks, Google Maps**; the every-couple-weeks **app-switching urge** (dates the toxic-trait label to 2022).)_
+- 2022-08-12 — [[2022-08-12-yt-J7DNCjs3P0w|Samsung's Stacked Unpacked Event and the Start of Smartphone season]] · tech-reviews, smartphones _(Waveform ensemble; low-med. Galaxy Z Flip 4 / Fold 4 = "incremental refinement" (Flip battery 3400→3700); his measured **"this is just my prediction, we have yet to test"** discipline.)_
+- 2022-08-19 — [[2022-08-19-yt-_hzj5j8Z3Ro|Android 13 and a Tesla Swimming Pool?]] · tech-reviews, tech-industry-commentary _(Waveform ensemble; **low yield**. Comedic Tesla dumpster-pool bit ("both over- and under-engineered"); Android 13 in passing. Nothing trained.)_
+- 2022-08-26 — [[2022-08-26-yt-uqWR9g49tB0|What We Expect from the Apple Event!]] · tech-reviews, smartphones _(Waveform ensemble; low-med. Shared iPhone-14-event predictions (Dynamic Island, the Ultra watch, satellite SOS). Roundtable, nothing distinct.)_
+- 2022-09-02 — [[2022-09-02-yt-T2QucaOohPU|Do Earbuds Need a Touchscreen and Last Minute Apple Predictions]] · tech-reviews _(Waveform ensemble; low-med. ★ Marques's **touchscreen-earbuds-case redundancy analysis** ("a good idea for anyone without a smartwatch — redundant if you have one"; and where do you keep the case?). Apple predictions.)_
+- 2022-09-09 — [[2022-09-09-yt-KU92RAlYvoM|Apple iPhone 14 Event and Apple Watch Ultra!]] · tech-reviews, smartphones _(Waveform ensemble. Apple-campus **design appreciation** (marble handrails "architecture on another level"); ⚠️ the "first time in Steve Jobs Theater" line is **attribution-uncertain / likely a co-host** (Marques is a longtime attendee). iPhone 14 / Watch Ultra recap.)_
+- 2022-09-16 — [[2022-09-16-yt-vGlbCM2coDU|iPhone 14 Recap and Pixel 7 Predictions!]] · tech-reviews, smartphones _(Waveform ensemble; low-med. iPhone 14 post-mortem (Dynamic Island; non-Pro = "iPhone 13S") + Pixel 7 predictions. Roundtable, corroborates main-channel.)_
 - 2022-09-23 — [[2022-09-23-yt-JphA-WAPgUs|JerryRigEverything on Tearing Down Phones and Building EVs]] · tech-reviews, production-filmmaking _(Waveform **GUEST Zack Nelson / JerryRigEverything** (teardowns, DIY EV) — NOT trained. A recurring "friend of the show" / MKBHD collaborator. Low yield.)_
 - 2022-09-30 — [[2022-09-30-yt-ym47K3qBeyQ|Will YouTube Shorts Kill TikTok?]] ★ · creator-business, content-strategy _(Waveform ensemble. ★ Marques's **YouTube Creator Summit** insider access — recorded a pod with **Neil Mohan** (CPO, later CEO); the Summit's "hot topic" = the one time you get real answers not PR. He pressed on the **removed dislike button**, algorithm-vs-creators, a **"not interested" study**. Mohan's answers NOT trained.)_
 - 2022-10-07 — [[2022-10-07-yt-Psi6Cyagi2o|Google Pixel 7 Event: New Watch, Phones, and a Tablet!?]] · tech-reviews, smartphones _(Waveform ensemble; low-med. Twitter **edit button** ("well executed… I do make typos, thank you Twitter"); Pixel 7 event / first Pixel Watch / Pixel Tablet tease.)_
@@ -2083,4 +2091,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_2006 videos ingested (L2) so far._
+_2014 videos ingested (L2) so far._

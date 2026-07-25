@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Jul 29 → Sep 16, 8/8 ingested — ensemble podcast, light-triage L2 (batch 40)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-07-29 → 2022-09-16), L2 2006→2014.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. One guest episode
+(Mark Rober, quarantined). Mostly product-recap/prediction roundtables + one strong bio item.
+
+- ★ **PQmSzj7IRuw** (Toxic Trait): **BIO** — Marques's self-named **"toxic trait" = app addiction**: "I live in
+  three apps and without them I'd be a useless shell" — **Google Calendar, Google Tasks, Google Maps**; the
+  every-couple-weeks **app-switching urge** (dates the "toxic trait" self-label to 2022; the 2022 core-app trio
+  is Google Calendar/Tasks/Maps — an evolution from the later to-do/calendar/email framing).
+- **T2QucaOohPU**: touchscreen-earbuds-case **redundancy analysis** ("redundant if you have a smartwatch").
+- **J7DNCjs3P0w**: Z Flip 4 / Fold 4 "incremental refinement" + his **"just a prediction, we have yet to test"** discipline.
+- **KU92RAlYvoM**: Apple-campus design appreciation (marble handrails) — ⚠️ the "first time in Steve Jobs Theater"
+  line flagged **likely a co-host** (Marques is a longtime attendee), not trained as his bio.
+- Low/roundtable: **vGlbCM2coDU** + **uqWR9g49tB0** (iPhone 14 recap/predictions), **_hzj5j8Z3Ro** (Tesla
+  dumpster-pool joke / Android 13).
+- ⚠️ Guest NOT trained: **qChnSdoIMvQ** (Mark Rober — a recurring MKBHD reference point).
+
+Synthesis notes: New this batch — (1) ★ **BIO: the "toxic trait" = app addiction** (Google Calendar/Tasks/Maps;
+app-switching urge; label dated to 2022); (2) touchscreen-case redundancy analysis; (3) wait-to-test discipline.
+Mostly corroboration. Quarantined: Mark Rober (guest), the "first time in the theater" line (likely co-host).
+→ pass-32 checkpoint due in ~8 more @Waveform batches or at channel completion (~59 P2 left).
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Sep 23 → Nov 11, 8/8 ingested — ensemble podcast, light-triage L2 (batch 39)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-09-23 → 2022-11-11), L2 1998→2006 (crossed 2000).
