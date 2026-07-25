@@ -4,6 +4,43 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] lint | synthesis pass 28 — @TheStudio close-out (channel complete), L2 1758→1798, system-prompt v27→v28
+
+**Stage S, final @TheStudio checkpoint** (triggered by channel long-form completion). Folded the
+EARLY @TheStudio era (channel launch Jul 2021 → 2022) + the whole-corpus close-out (40 sources,
+batches 11–13). **@TheStudio long-form is now COMPLETE (Jul 2021 → Jul 2026, ~104 sources across 13
+batches); only @TheStudio shorts remain.** ENSEMBLE — Marques-attributed only throughout.
+
+Promoted (genuinely-new; repeats dropped):
+- **persona/beliefs.md** — new section "@TheStudio EARLY corpus 2021–2022 + close-out": the Blind
+  Smartphone Camera Test design + "it's all about processing"; fundamentals-over-gear extended ("no
+  excuse to not try"); "what feels Apple" ad-literacy; "grandiose event, incremental product"; the
+  non-Tesla-charging-network thesis (definitive); review-unit transparency + reflections obsession;
+  product-focused editorial; multi-channel vs "video factory"; why-the-team; Samsung>Pixel-Fold.
+- **persona/biography.md** — new section "@TheStudio EARLY era 2021–2022": the physical studio
+  (camera-robot, phone drawer, battery-station rule, Apple-Park lighting, carpet+foam); the
+  desk/backup workflow (Xdesk/HS8/Pro-Display-XDR, edits-on-AirPods, backup philosophy, chair
+  heuristic); the home basement M4 setup; the fleet (Model S Plaid/Raven + dedicated rig car);
+  world's-fastest-Mac-Mini; never-seen-The-Office; doesn't-want-a-dog; David Blaine friendship;
+  co-writes-the-scripts.
+- **persona/voice.md** — new "@TheStudio EARLY register" (7 phrases).
+- **wiki/topics/** — production-filmmaking ("The studio & method 2021–2022"), creator-business
+  ("@TheStudio EARLY additions").
+- **persona/system-prompt.md** — recompiled **v27→v28**: frontmatter 1758→1798; new v28 version
+  block + changelog; body woven into `### How you think` (it's-all-processing, product-focused
+  editorial, meaningful-projects-vs-video-factory, no-excuse-to-not-try, what-feels-Apple,
+  network-not-the-car) and `### Who you are` (the studio he built, clean-surfaces ethos, basement
+  M4 setup, never-seen-The-Office, doesn't-want-a-dog, Model S/rig-car); "Compiled from:" 1758→1798
+  and @TheStudio marked ✅ COMPLETE long-form.
+- **pipeline/synthesis-state.md** — high-water advanced 1758→1798 (pass-28 detail; pass-27 demoted).
+- **index.md** — count 1798; system-prompt line v27→v28.
+
+⚠️ NOT trained (hard-gated): David's camera essays (X100VI/Leica M11); all team round-robins; the
+Ellis "silent hum" audio craft; all studio dogs; the Intel-ad parody skit; the Apple-intern lines.
+
+**NEXT:** ingest resumes on **@Waveform** (275 P2 + 17 P3 — ENSEMBLE, attribution hard-gated), then
+@WaveformClips (dedup vs @Waveform first), @mkbhd tail, and the shorts. Continue until Stage D.
+
 ## [2026-07-25] ingest | yt batch (@TheStudio, 8) — CHANNEL COMPLETE (last 2 P2 + 6 P3), 8/8 ingested — ensemble hard-gated (batch 13); @TheStudio long-form fully drained
 
 Batch 13 drained @TheStudio's final 8 long-form rows (the 2 remaining P2 + 6 scattered P3), and

@@ -6,7 +6,27 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1758 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+Synthesized through: **1798 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+
+**PLUS pass 28 (2026-07-25) — L2 1758→1798, 40 sources; the EARLY @TheStudio era (channel launch Jul 2021 → 2022) + the
+whole-corpus close-out. ✅ @TheStudio long-form is now COMPLETE (batches 1–13, Jul 2021 → Jul 2026 fully drained to L2;
+only @TheStudio shorts remain).** ENSEMBLE — hard attribution-gated (Marques-attributed only; David's camera essays
+[X100VI/Leica M11], the team round-robins, and all studio dogs quarantined). Pass-28 landmarks — **THE PHYSICAL STUDIO he
+built** (carpet+ceiling-foam echo-kill; the permanent top-down set; the **"Mia" camera-robot**; the Apple-Park-inspired
+lighting grid; the **phone drawer**; the **battery-station rule**); **THE DESK/BACKUP WORKFLOW** (Xdesk + Yamaha HS8 +
+dual Pro Display XDR nano-texture; edits-on-ColorWare-AirPods-Pro; the **backup philosophy** "only the final export,
+thumbnail, key clips — get rid of it all"; the chair heuristic; "I didn't clean it"); the **home basement M4 setup**;
+**"clean-surfaces type of guy."** Reviewer-method: the **Blind Smartphone Camera Test design** + **"it's all about
+processing"**; **"what feels Apple"** ad-literacy; **"grandiose event, incremental product"**; the **non-Tesla-charging-
+network thesis** ("not the car, the network"); review-unit-color transparency + reflections obsession. Creator-business:
+**product-focused editorial**; **multi-channel strategy vs Linus's "video factory"**; **why-the-team** ("not just better,
+it's more") + long-form ambitions; Samsung>Pixel-Fold (2023); **fundamentals-over-gear** extended ("$200k robot shot with
+a paper towel + 2 books + a phone — no excuse to not try"). Biography: the **Model S Plaid + Raven + dedicated camera-rig
+car**; **built "the world's fastest Mac Mini"** (→ Mac Studio ~10 yrs later); **never seen The Office**; **doesn't want a
+dog**; the **David Blaine friendship**; **co-writes the scripts**. System-prompt recompiled **v27→v28**.
+
+### (superseded) pass 27 high-water detail
+Synthesized through **1758 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
 through L2=1638, PLUS **pass 26 (2026-07-25) — L2 1638→1694, ~56 sources; the @AutoFocus FOUNDING corpus (Aug 2022 →
 Aug 2024), Marques-attributed only, co-host Miles quarantined — ✅ the @AutoFocus channel is now COMPLETE (Aug 2022 →
 Jul 2026 fully drained to L2).** Pass-26 landmarks — **THE DAILY-DRIVER ARC** (Tesla + the borrowed 2008 Roadster →

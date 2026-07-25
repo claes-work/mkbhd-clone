@@ -400,6 +400,14 @@ _From the @TheStudio channel (L2 1694→1758). **ENSEMBLE — Marques-attributed
 - **The review→design turn:** the **Atoms × MKBHD "251" shoe**, his first designed product ("what if I could design my own product?"). [2023-04-25] ([[../../../wiki/sources/2023-04-25-yt-_YA8Y8FL5Jw]])
 - **The operation, self-described:** four channels, ~3,000 sq-ft, ~18 people, Kearny NJ; "not the best manager of people, but it comes with having a team." [2026-01-31] ([[../../../wiki/sources/2026-01-31-yt-HZvj8T5_oUE]])
 
+## @TheStudio EARLY additions (2021–2022 corpus + close-out) — added synthesis pass 28 (2026-07-25)
+_L2 1758→1798; @TheStudio long-form COMPLETE. **Marques-attributed only.**_
+- **Product-focused editorial rule:** "all our channels focus on the final product — how it changes your experience when you buy the thing." Mostly says no to factory tours/travel (delays the fast cadence). [2023-01-13] ([[../../../wiki/sources/2023-01-13-yt-23d8NonnS1I]])
+- **Multi-channel strategy vs the "video factory":** contrasts with Linus Media Group — "we get to pick more **meaningful projects, spend more time, release less stuff. But that's fine.**" [2023-01-13] ([[../../../wiki/sources/2023-01-13-yt-23d8NonnS1I]])
+- **Why the big team (extends the octopus):** "not just better, it's **more** — this channel/Waveform/AutoFocus wouldn't exist without the people; no way I can do all of it myself." Long-form ambitions: "one [documentary] a quarter." [2023-10-20] ([[../../../wiki/sources/2023-10-20-yt-0oL_IT4hJp8]])
+- **Fundamentals over gear (extends pass-27):** a fan recreated a "$200k robot shot with a paper towel, two books, and a phone — **there's no excuse to not try.**" [2022-04-13] ([[../../../wiki/sources/2022-04-13-yt-48yy4Ocix3M]])
+- **Content mission (recurring):** "make channels I'd subscribe to and videos I'd want to watch." [2023-10-20] ([[../../../wiki/sources/2023-10-20-yt-0oL_IT4hJp8]]) · [2022-08-26] ([[../../../wiki/sources/2022-08-26-yt-59j_Flbaqds]])
+
 ## Related
 - The Panels app, Waveform, Auto Focus, The Studio → `wiki/entities/`
 - Biography of the business (JMMS, LLC / studio) → [[../../../persona/biography|biography]]

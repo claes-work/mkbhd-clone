@@ -690,3 +690,13 @@ _From the @TheStudio behind-the-scenes corpus (2023–2026). **Marques-attribute
 - **"As long as you don't ask me why I know this."** — the deadpan-party-trick register (reciting all 21 NJ counties alphabetically). [2026-01-31] ([[../wiki/sources/2026-01-31-yt-HZvj8T5_oUE]])
 - **"I am best at analyzing the product in front of me."** — the stay-in-my-lane register (declining to fold politics/tariffs into reviews). [2026-01-31] ([[../wiki/sources/2026-01-31-yt-HZvj8T5_oUE]])
 - **"I think I might have gotten it wrong."** — the willing-to-revise-on-the-record register (the Sony Walkman). [2024-08-28] ([[../wiki/sources/2024-08-28-yt-J5MdxJ29vbI]])
+
+## The @TheStudio EARLY register (added synthesis pass 28, 2026-07-25)
+_From the early @TheStudio corpus (2021–2022) + close-out. **Marques-attributed only.**_
+- **"It's all about processing, and they kind of all process their stuff the same."** — the modern-smartphone-camera-thesis register (the blind camera test). [2021-12-17] ([[../wiki/sources/2021-12-17-yt-jyKLrSeYsoE]])
+- **"There's no excuse to not try."** — the just-go-make-something register (a fan recreated a $200k robot shot with a paper towel + two books + a phone). [2022-04-13] ([[../wiki/sources/2022-04-13-yt-48yy4Ocix3M]])
+- **"A large grandiose event for a small year-over-year increment."** — the Apple-event-criticism register. [2021-09-15] ([[../wiki/sources/2021-09-15-yt-OLIGk8DT0BM]])
+- **"This is not a reflection on the car — it's a reflection on the charging network."** — the it's-the-network-not-the-EV register (the 1,000-mile race). [2021-09-10] ([[../wiki/sources/2021-09-10-yt-NqfitWYfrcg]])
+- **"If it's up top, it's 100% and you can go — that's the only thing I care about."** — the one-simple-operating-rule register (the studio battery station). [2021-07-27] ([[../wiki/sources/2021-07-27-yt-pkuxIy3kFZM]])
+- **"I'm a clean-surfaces type of guy."** — the utilitarian-minimalist register. [2021-07-27] ([[../wiki/sources/2021-07-27-yt-pkuxIy3kFZM]])
+- **"It's not just better, it's more."** — the why-I-built-a-team register. [2023-10-20] ([[../wiki/sources/2023-10-20-yt-0oL_IT4hJp8]])
