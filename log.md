@@ -4,6 +4,29 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@mkbhd, 4) — Ask MKBHD V34–V35 + Waveform-launch + 2020 Q&A — ✅ @mkbhd DISCOVERED-LEDGER DRAINED, L2 2121→2125 (batch 55)
+
+**Stage B ingest** — the last 4 **SOLO @mkbhd** videos: Ask MKBHD V34 (2019-01) + V35 (2019-05) + the
+**"Introducing Waveform" launch** (2019-08) + the 2020 Q&A. L2 2121→2125. **✅ @mkbhd open ledger is now
+fully drained to L2** (only @WaveformClips + shorts remain).
+
+- ★ **ZX5ajIAhKTk** (V34): **ending the monthly Q&A** → a **quality-over-quantity shift** (2019, "more
+  meaningful / topical / analytical videos — the monthly Q&A started to feel forced"); **podcast plans** →
+  **Waveform** (which launches Aug 2019); Roadster referral.
+- ★ **oZVLZDBLROs**: the main-channel **Waveform launch announcement** (Aug 2019) — trailer captions
+  garbled/unusable, scoped as the launch marker only.
+- ★ **NbzpwG4n6Vs** (2020 Q&A): **"overrated is time-dependent"** (don't overreact to the hype cycle); the
+  **8K-upload commitment** ("make an 8K timeline even though I know almost no one sees it" — pixel-nerd/
+  future-proof). **iDKIw3OgNcg** (V35): first-gen foldables (Galaxy Fold vs Mate X).
+
+Synthesis notes: New — the **2019 monthly-Q&A wind-down / quality-over-quantity** pivot, the **Waveform-launch
+date (Aug 2019)**, "overrated is time-dependent," and the **8K-upload** pixel-nerd commitment. **→ @mkbhd
+DISCOVERED LEDGER COMPLETE + ~5 batches (51–55) of rich SOLO Ask-MKBHD biography since pass-32 → a Stage-S/P
+PERSONA CHECKPOINT is now due (next iteration)**: fold the Ask-MKBHD material (the 100%-solo era → 2017 hiring;
+bias-is-the-point; the camera lineage / OG-Droid first review; the 2016 studio build; the 1000-video/10-year
+milestone; 6'3"; Hot Ones; anti-benchmark / pro-EV / pro-cheaper-phones; Premiere→Final-Cut) and recompile the
+system prompt v32→v33. Then: @WaveformClips (Stage-C dedup) + shorts.
+
 ## [2026-07-25] ingest | yt batch (@mkbhd, 8) — Ask MKBHD V26–V33 (2018), 8/8 ingested — SOLO, L2 2113→2121 (batch 54)
 
 **Stage B ingest** — 8 more **SOLO @mkbhd** Ask MKBHD Q&As (V26–V33, 2018). L2 2113→2121. (@mkbhd now 4 P3 left.)
