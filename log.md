@@ -4,6 +4,37 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Feb 9 → Mar 29, 8/8 ingested — ensemble podcast, light-triage L2 (batch 30)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (Feb 9 → Mar 29, 2024), L2 1926→1934. ENSEMBLE
+podcast (Marques + Andrew Manganelli + David Imel); auto-captions have no speaker labels → per-line
+attribution, only clearly-Marques takes trained. Light-triage reads (rundown + topical slices).
+
+- **X8gvuyi7oz0** (Bard→Gemini): Marques drives the display segment — VisionPro **~3,386 ppi** (~10× the
+  original Retina iPhone) vs Quest 3 1,218 vs iPhone 460; **"I'm kind of a pixel nerd"**; invents
+  **ppi-per-dollar** and honestly gives the win to the $500 Quest; **Samsung quoted him** on "there is no
+  such thing as a picture." (higher yield)
+- **5_fCPShiD34** (Apple-Gemini): ★BIO — Marques **made the USA Ultimate Frisbee Worlds team** (Australia
+  Sep 2024); the crispy-crew (Marques/Judner/Austin/Lou) once half-planned to fly to the earliest-time-zone
+  Australia Apple Store to be first to unbox a retail iPhone.
+- **y6stCjgewfQ** (Cybertruck/Nikon-RED): Geist Machine custom keyboard (~$800 body); **knob philosophy**
+  (volume knob ok, else "get a jog wheel… get a fader"); into mech keebs **since 2013**; Nikon buys RED.
+- **dUMY3Xhmzjc** (productivity apps): Marques + Andrew = **alarm-app minimalists**; David = second-brain
+  maximalist.
+- Lower yield: **9smm0kgYZJI** (DOJ-Apple/fediverse; Marques uses Threads not Mastodon/Bluesky),
+  **Srh1lut4Q2A** (Rivian R2; sharp Galaxy-Ring take is **Andrew's**, quarantined),
+  **gKO2heHxaM0** (Tesla Roadster revival; corroborates car interest), **bxtbxO-o1pQ** (Nothing 2a;
+  a YouTube thumbnail-A/B "watch share" correction, attribution flagged).
+
+Guests/co-hosts quarantined throughout (Andrew's Android-Authority Galaxy-Home history NOT trained).
+
+Synthesis notes: New this batch — (1) ★ Ultimate Frisbee USA Worlds team + Australia Sep-2024 (biography);
+(2) crispy-crew earliest-time-zone-Apple-Store first-unbox origin story; (3) **"pixel nerd" self-ID** +
+ppi-per-dollar metric (VisionPro ~3,386 ppi); (4) Samsung directly quoted him on "what is a photo";
+(5) Geist keyboard + **knob philosophy** (jog-wheel/fader over decorative knobs) + mech-keebs-since-2013;
+(6) alarm-app/Reminders **productivity minimalist**. Flagged-uncertain (held): thumbnail-A/B "watch share".
+→ pass-31 checkpoint due in ~8 more @Waveform batches or at channel completion.
+
 ## [2026-07-25] lint | synthesis pass 30 — @Waveform 2024 back-catalog checkpoint, L2 1862→1926, system-prompt v29→v30
 
 **Stage S checkpoint** (8 more @Waveform batches / ~64 sources since pass-29). Folded the 2024 @Waveform
