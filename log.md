@@ -4,6 +4,32 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Nov 18 → 2023 Jan 20, 8/8 ingested — ensemble podcast, light-triage L2 (batch 38)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-11-18 → 2023-01-20), L2 1990→1998.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. One guest episode
+(Hasan Minhaj, quarantined). Also relocated a mis-ordered pre-existing 2022-12-23 index row to its correct slot.
+
+- ★★ **fvrd6XAtkNw** (Pixel Fold): **BIO** — Marques's home has **solar + battery (Powerwall-style) backup**;
+  proved itself when a hurricane knocked out the grid while he was at **his sister's wedding in Raleigh**
+  (grid-disconnect notification, 100% battery, 24+h backup, fridge/HVAC stay on).
+- ★ **ldX96ZK4b10** (ChatGPT): Marques's **earliest ChatGPT reaction** (days after launch) — people already
+  generating **"full MKBHD videos" via ChatGPT** ("does a pretty dang good job"); wants to make a video.
+  Podcast streak ~145 eps/3yr = **"my longest relationship"**; ep-1 fly-back-from-California; **14 project
+  apps**; Huawei-watch sarcasm.
+- ★ **u48vyQ9fsWc** (MagSafe Android): **AirTag-in-checked-luggage travel workflow** (tags their tripod bags).
+- ★ **_P8oS2swQ_4** (Clippy/ChatGPT): personal — his plane **turned around mid-descent into Newark** during
+  the Jan-2023 **FAA NOTAM outage**; Nothing Phone 1 US $299 beta.
+- Corroboration/low: **oe1CG87fgDo** (M2 MBP announce, owns 16" M1 Max), **3Zch9Uaxtrw** (GUEST Hasan Minhaj,
+  not trained), **26WvISI14g0** (ICANN explainer), **BOL1l2OWUyk** (trivia finale).
+
+Synthesis notes: New this batch — (1) ★★ **BIO: solar+battery (Powerwall) home backup** + sister's Raleigh
+wedding; (2) ★ **earliest ChatGPT/AI-and-creators reaction** (Dec 2022 — "full MKBHD videos" already being
+generated); (3) **podcast = "my longest relationship"** + the 14-project-apps corroboration; (4) **AirTag
+travel workflow**; (5) FAA-outage flight anecdote (Newark/NJ base). Quarantined: Hasan Minhaj (guest).
+→ **pass-31 checkpoint now DUE** (L2 1998, ~9-10 batches since pass-30's 1926) — run Stage S next iteration
+before continuing @Waveform ingest; the moon-photo "what is a photo" L3-candidate is queued to promote.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Jan 27 → Mar 24, 8/8 ingested — ensemble podcast, light-triage L2 (batch 37)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-01-27 → 2023-03-24), L2 1982→1990.
