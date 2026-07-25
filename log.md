@@ -4,6 +4,30 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Aug 22 → Sep 26, 8/8 ingested — ensemble podcast, light-triage L2 (batch 19)
+
+Sixth @Waveform batch (light-triage L2, hard co-host gating). L2 1838→1846. The iPhone-17-event era.
+
+Marques-attributed keepers:
+- **09-26 "Marques Cancelled His Roadster"** — BIO: the full Tesla Roadster story (two reservations;
+  **cancelled the $50k-paid one** held ~8 yrs since 2017 — $50k in Tesla stock then ≈ $747k now, "I
+  could have done so much with that"; **keeps the Founder Series referral** one, first 1,000).
+- **09-18 iPhone Air tension** (live at Apple Park) — "pretty stoked on it," but it fights his **anti-
+  thinness** stance: **"the iPhone Air feels like something nobody asked for, and yet I want it so bad."**
+- **08-22 Pixel 10 event** — **PixelSnap = favorite feature**; the **"Pixel = software, not silicon"**
+  Tensor thesis.
+- **09-19 Meta Ray-Ban Display glasses** + the iPhone Air "should I get it?" deliberation (Pro chip in
+  the Air; he's been using it).
+- Lower-yield: iPhone 17 event/rumor/invitation (base 17 = eventual Phone of the Year); tech trivia.
+
+Open after: @Waveform 244 (P2:227 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: driver counter growing; @Waveform keepers accumulating for a Stage S.
+
+Synthesis notes: genuinely-new for a future pass — BIO: **the full Roadster story** ($50k held 8 yrs,
+Founder Series kept); the **iPhone Air anti-thinness tension** ("nobody asked, yet I want it"); the
+**"Pixel = software not silicon"** thesis + **PixelSnap** as his favorite. Rest corroborates (iPhone
+17 = PotY, media-literacy on keynotes/invitations). Hard-gated: all co-host takes.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Oct 3 → Nov 14, 8/8 ingested — ensemble podcast, light-triage L2 (batch 18)
 
 Fifth @Waveform batch (light-triage L2, hard co-host gating). L2 1830→1838. A biography-rich batch.
