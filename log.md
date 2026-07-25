@@ -4,6 +4,16 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 6 (12): 12 new (digest 06), 0 dup — L2 2177→2189
+
+**Stage C (shorts dedup, @mkbhd batch 6).** 12 @mkbhd shorts (Oct 2023 → Feb 2024), all genuinely-new →
+light-L2 ([[2024-mkbhd-shorts-digest-06]]); 0 dups. Signals: ★ **BIO the Atoms "251.1" shoe** (designed
+product); ★ the **"price ladder"** Apple-pricing framework ($330 iPad entry → upsell); ★ **gen-2-is-the-real-
+test** first-gen philosophy (Pixel Watch 2); **iPhone-RCS-with-a-catch** (green bubbles stay, no cross-platform
+encryption). Rest = gadget/EV quips (Cybertruck-vs-Europe regs, Vision Pro unboxing + airplane pro-tip, Meta AI
+glasses, airless 3D basketball, Honda briefcase-scooter, wearable step test, a Lambo-rearview-mirror joke).
+→ **50 @mkbhd shorts left**.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 5 (12): 12 new (digest 05), 0 dup — L2 2165→2177
 
 **Stage C (shorts dedup, @mkbhd batch 5).** 12 @mkbhd shorts (Apr–Oct 2024), all genuinely-new → light-L2
