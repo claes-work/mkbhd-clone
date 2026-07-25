@@ -4,6 +4,15 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 4 (12): 12 new (digest 04), 0 dup — L2 2153→2165
+
+**Stage C (shorts dedup, @mkbhd batch 4).** 12 @mkbhd shorts (Nov 2024 → Mar 2025), all genuinely-new →
+light-L2 ([[2025-mkbhd-shorts-digest-04]]); 0 dups. Signals: **Sigma-BF = "the camera Apple would make"**
+(corroboration); the **Sora→Veo AI-video** authenticity beat; the **re-upload-1000-times** compression
+experiment (production-literacy); a **golf-simulator** hobby node (Best Buy partnership). Rest = gadget/feature
+quips (Apple-Silicon cheat sheet, Samsung-object-eraser-beats-Apple, iPhone Live Text, laundry-symbol AI,
+thermochromic Realme, Li Auto Mega, ROG Phone 9, Harry-Potter Oppo). → **74 @mkbhd shorts left**.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 3 (12): 10 new (digest 03), 1 joke-skip, 1 no-captions — L2 2143→2153
 
 **Stage C (shorts dedup, @mkbhd batch 3).** 12 @mkbhd shorts (May–Sep 2025). **10 genuinely-new → light-L2**
