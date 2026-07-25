@@ -4,6 +4,26 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2021 Jun 4 → Jul 23, 8/8 ingested — ensemble podcast, light-triage L2 (batch 47)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2021-06-04 → 2021-07-23) — the show's very
+first episodes, L2 2062→2070. ENSEMBLE podcast; only clearly-Marques takes trained. Light-triage. Mostly
+low-yield early-era episodes; the Model S Plaid impressions corroborate the daily-driver origin.
+
+- ★ **3Si12n4iwKg** (Inside Look Plaid): Marques's **raw lived-with Model S Plaid impressions** (the yoke;
+  picked it up Friday); BIO callback — "I did this when I first got **Apollo** — immediately that weekend I
+  had an **Ultimate tournament**."
+- Low/roundtable: **rN5f3wsaFt4** (Plaid delivery-event reaction; browser-market game), **1ZcJv3aY2Mc**
+  (Canada 2035 gas-car ban), **uN1W-YeVP-U** (Windows 11 first impressions; Xperia 1 III), **xwk2xUQ9RH4**
+  (Twitter Blue + WWDC 2021; Roblox microtransactions), **PV6GFSHMi1I** (space tourism; 69° weather bug),
+  **NHdhFVpxLSs** (early trivia gameshow), **A-U3rQ5eEKU** (world's-fastest charging/car; ⚠️ co-host's
+  phone-issues vent NOT trained — confirms "Marques is the phone reviewer").
+
+Synthesis notes: New this batch — mostly corroboration; the Model S Plaid lived-with impressions + the
+Apollo/Ultimate-tournament callback reinforce the daily-driver origin. Quarantined: the co-host phone-issues
+complaint. → **@Waveform long-form nearly drained: only 3 P2 + 17 P3 left (~2 more batches)**; pass-32
+Stage S synthesis checkpoint fires at @Waveform channel completion.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2021 Jul 30 → Sep 17, 8/8 ingested — ensemble podcast, light-triage L2 (batch 46)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2021-07-30 → 2021-09-17), the audio-era earliest

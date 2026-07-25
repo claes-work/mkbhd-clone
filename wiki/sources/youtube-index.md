@@ -1605,6 +1605,14 @@ Auto-captions have no speaker labels → per-line attribution is uncertain; only
 unambiguously-Marques lines entered the persona/voice quote banks, the rest are
 quarantined on each page (`attribution: uncertain`)._
 
+- 2021-06-04 — [[2021-06-04-yt-A-U3rQ5eEKU|World's Fastest Charging & World's Fastest Car!]] · tech-reviews, tech-industry-commentary _(Waveform — **early episode** (Jun 2021). World's-fastest charging + fastest car (Plaid-era). ⚠️ a host's phone-problems vent is a **CO-HOST's**, not trained; confirms **"Marques is the phone reviewer."** Low yield.)_
+- 2021-06-11 — [[2021-06-11-yt-xwk2xUQ9RH4|Twitter Blue and WWDC Reactions!]] · tech-industry-commentary, tech-reviews _(Waveform ensemble; low-med. Twitter Blue (first paid tier) + WWDC 2021 (iOS 15); a Roblox-microtransactions aside (PC/Xbox = cosmetics vs mobile pay-to-win).)_
+- 2021-06-18 — [[2021-06-18-yt-rN5f3wsaFt4|Tesla Model S Plaid Reaction!]] · tech-reviews, tech-industry-commentary _(Waveform ensemble; low-med. Model S Plaid delivery-event reaction (tri-motor, the yoke — pre-hands-on); a browser-market game (Chrome ~64 / Safari ~18 / Edge).)_
+- 2021-06-25 — [[2021-06-25-yt-NHdhFVpxLSs|Tech Trivia Gameshow!]] · tech-industry-commentary _(Waveform early tech-trivia gameshow (format). **Very low yield**, nothing trained.)_
+- 2021-07-02 — [[2021-07-02-yt-uN1W-YeVP-U|Sony Xperia 1 III & the Creator Economy]] · tech-reviews, creator-business _(Waveform ensemble; low-med. Windows 11 first impressions (centered start, phone-like UI); Sony Xperia 1 III creator phone; creator-economy talk.)_
+- 2021-07-09 — [[2021-07-09-yt-1ZcJv3aY2Mc|Canada Bans Sale of Fuel Burning Cars!]] · tech-industry-commentary, tech-reviews _(Waveform ensemble; low-med. Canada's 2035 new-gas-car-sales ban — the mandate-vs-charging-infrastructure question. Corroborates his charging-is-half-the-story thesis.)_
+- 2021-07-16 — [[2021-07-16-yt-PV6GFSHMi1I|Space Tourism is Here! Would You Go?]] · tech-industry-commentary _(Waveform ensemble; **low yield**. Billionaire suborbital space tourism (Branson/Bezos); a weather-app "won't-show-69°" bug comedy.)_
+- 2021-07-23 — [[2021-07-23-yt-3Si12n4iwKg|An Inside Look at the Tesla Model S Plaid!]] · tech-reviews, production-filmmaking _(Waveform ensemble. ★ Marques's **raw lived-with Model S Plaid impressions** (the yoke; picked it up Friday); ★ BIO callback — "I did this when I first got **Apollo** — immediately that weekend I had an **Ultimate tournament**.")_
 - 2021-07-30 — [[2021-07-30-yt-BhjsTo30_E4|Samsung Folding rumors, the new Nothing Ear(1), Tesla announcements]] · tech-reviews, smartphones _(Waveform — **early episode** (Jul 2021). Nothing **Ear (1)** launch (Carl Pei's new company — the origin of the Nothing brand the show tracks); Samsung fold rumors; Tesla. Low-med.)_
 - 2021-08-06 — [[2021-08-06-yt-S18hbXVNwbM|Tesla FSD Subscription and Google Pixel 6 Breakdown]] · tech-reviews, tech-industry-commentary, smartphones _(Waveform ensemble; low-med. Tesla **FSD as a ~$199/mo subscription** (rent-vs-buy a beta feature); early **Pixel 6 / first Tensor** breakdown.)_
 - 2021-08-13 — [[2021-08-13-yt-saUUceuer_g|Samsung Galaxy Z Fold 3 & Z Flip 3 Deep Dive!]] · tech-reviews, smartphones _(Waveform ensemble; low-med. Z Fold 3 / Flip 3 — the generation foldables went mainstream (IPX8, S Pen, under-display cam, the ~$999 Flip). Corroborates his foldable enthusiasm.)_
@@ -2139,4 +2147,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_2062 videos ingested (L2) so far._
+_2070 videos ingested (L2) so far._
