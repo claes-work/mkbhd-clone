@@ -4,6 +4,38 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2023 Dec 15 → 2024 Feb 2, 8/8 ingested — ensemble podcast, light-triage L2 (batch 31)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2023-12-15 → 2024-02-02), L2 1934→1942.
+ENSEMBLE podcast (Marques + Andrew Manganelli + David Imel); no speaker labels → only clearly-Marques
+takes trained. Light-triage. **Lower-yield/corroboration-heavy batch, but two strong new items + one
+important quarantine.**
+
+- **QCtNHw_hhNo** (Amie app): ★ Marques's **"weakness/toxic trait" for beautifully-designed apps &
+  websites** (design-first taste as a consumer); ★ his **core apps = to-do list, calendar, email** + the
+  all-in-one switching-cost problem (deepens productivity-minimalist thread).
+- **dKbT0iFia0I** (S24): "sides look **exactly like the iPhone** — only the camera differentiates";
+  **Galaxy AI is the story**, the presentation "felt like Google I/O." (corroborates main-channel S24 take)
+- **rSJNMRwVwWc** (Epic v Google, Dec 2023): ★ first-person **"the Gemini demo was heavily edited and I
+  still think that's okay — my hot take"** — dates the existing belief back to Dec 2023.
+- **NlHk4HQDgaM**: GUEST interview w/ **David Erikson (Teenage Engineering co-founder)** — NOT trained;
+  residue = Marques is a **TE fan (OP-1/OP-Z owner)**.
+- **OS1yRYsXddU** (VisionPro): sharpened **"Dual Loop band > Solo Knit"** comfort verdict; "flawed but
+  interesting" restated.
+- Low yield: **4yaUegwRUXg** (Rabbit R1 CES; EPA/WLTP/CLTC range correction, attrib uncertain),
+  **b5SswTrl970** (Masimo-v-Apple ITC Apple-Watch ban explainer, nothing trained),
+  **kd2OCjjZ1EY** (Tom Scott retrospective; "you can only go up in production quality" flagged-uncertain).
+
+⚠️ **Attribution quarantine (kd2OCjjZ1EY):** the "grandpa's red Fruit-of-the-Loom shirt inherited when he
+died" story is a **CO-HOST's** biography, NOT Marques's — the transcript shows Marques "obviously searching"
+for his Tom Scott pick while another host tells it. Must NOT enter Marques's biography.
+
+Synthesis notes: New this batch — (1) Marques's **design-first "toxic trait"** for beautiful apps/websites;
+(2) **core apps = to-do/calendar/email** (productivity-minimalist corroboration); (3) **TE fan (OP-1/OP-Z)**;
+(4) Gemini-demo-edited-"still-okay" dated back to Dec 2023; (5) sharpened VisionPro Dual-Loop-band verdict.
+Corroboration-heavy otherwise. Flagged-uncertain (held): "only-go-up production quality." → pass-31
+checkpoint due in ~8 more @Waveform batches (L2 ~2006) or at channel completion.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Feb 9 → Mar 29, 8/8 ingested — ensemble podcast, light-triage L2 (batch 30)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (Feb 9 → Mar 29, 2024), L2 1926→1934. ENSEMBLE
