@@ -4,6 +4,43 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@TheStudio, 8) — CHANNEL COMPLETE (last 2 P2 + 6 P3), 8/8 ingested — ensemble hard-gated (batch 13); @TheStudio long-form fully drained
+
+Batch 13 drained @TheStudio's final 8 long-form rows (the 2 remaining P2 + 6 scattered P3), and
+**pushed the true channel launch back to 2021-07-27 (the Studio Tour)**. **@TheStudio long-form is
+now fully L2** (only shorts remain across all channels). L2 1790→1798. A high-value close-out batch.
+
+Attribution split (8/8):
+- **subject ★★ (1):** `pkuxIy3kFZM` **MKBHD Studio Tour 2021** — production/biography goldmine (the
+  whole studio he built): carpet+ceiling-foam echo-kill design; permanent top-down room; the "Mia"
+  **camera-robot**; the **phone drawer**; the **Apple-Park-inspired lighting grid**; the **battery-
+  station rule**; **"clean-surfaces type of guy"** ethos.
+- **⚠️mixed, Marques-rich (6):** `23d8NonnS1I` Q&A 2023 (**multi-channel strategy vs Linus "video
+  factory"**, product-focused editorial, long-form ambitions); `0oL_IT4hJp8` reacts-to-comments
+  (**why-the-big-team rationale**, Samsung>Pixel-Fold, Secret Base influence); `23xwvBsNLQ8`
+  fake-Apple-ads (**"what feels Apple"** ad-literacy + built **"world's fastest Mac Mini"** early
+  video → Mac Studio ~10 yrs later); `48yy4Ocix3M` fan-intros (**"paper towel + 2 books + phone
+  recreated a $200k robot shot — no excuse not to try"** fundamentals-over-gear); `3y0y_Papw2s`
+  team-home-desks (his **basement M4/XDR/Keychron** setup + utilitarian ethos); `WZdROTl4b0o`
+  Name-That-Phone (tactile phone-recognition, "camera guy").
+- **⚠️mixed/context (1):** `59j_Flbaqds` team Q&A (keepers: **doesn't want his own dog**, the
+  **dedicated camera-rig car**; Mariah/Ellis join 2022).
+
+Open after: **@TheStudio 0 long-form** · @Waveform 292 · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+**NEXT (Stage S — checkpoint due: @TheStudio channel complete):** run the **final Stage S pass 28**
+over the whole @TheStudio corpus (batches 1–13) + recompile `persona/system-prompt.md` v27→v28,
+then resume ingest on @Waveform (also ENSEMBLE, hard-gated).
+
+Synthesis notes: LARGE payload for pass-28 — NEW ★ this batch: (1) **the studio itself** (design
+principles, camera-robot, phone drawer, battery-station rule, clean-surfaces ethos) →
+production/biography ★★; (2) **home basement setup** (M4/XDR) → biography; (3) **why-the-team +
+multi-channel "meaningful projects vs video factory" + product-focused editorial + long-form
+ambitions** → creator-business ★; (4) **fundamentals-over-gear / "no excuse not to try"** →
+creator-business/production ★; (5) **"what feels Apple" ad-literacy** + **world's-fastest-Mac-Mini**
+bio → consumer-tech-culture/biography ★; (6) BIO: **doesn't want a dog**, dedicated camera-rig car,
+Samsung>Pixel-Fold (2023). Hard-gated: David's fundamentals-epistemology, the team round-robins,
+the silent-hum audio craft, all studio dogs — excluded from persona.
+
 ## [2026-07-25] ingest | yt batch (@TheStudio, 8) — 2021 Aug 6 → Oct 12, 8/8 ingested — ensemble hard-gated (batch 12, reaches the NEW true launch: 2021-08-06 Desk Tour)
 
 Batch 12 pushed @TheStudio back further to **2021-08-06** (the Desk Setup Tour — now the channel's
