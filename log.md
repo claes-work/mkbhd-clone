@@ -4,6 +4,23 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 9 (12): 12 new (digest 09), 0 dup — L2 2212→2224
+
+**Stage C (shorts dedup, @mkbhd batch 9).** 12 @mkbhd shorts (Dec 2022 → Mar 2023), all genuinely-new →
+light-L2 ([[2023-mkbhd-shorts-digest-09]]); 0 dups/teasers. Signals: ★★ **"stop reading megapixel counts"** —
+the short-form of his signature **Blind Smartphone Camera Test** (image quality = processing, not spec-sheet MP;
+direct extension of anti-spec-sheet / "bias is the point"); ★ **Samsung S23 Ultra moon photos** (computational-
+photography / what-is-a-photo tell, pre-controversy); ★ **Qi2 = MagSafe-as-open-standard** (interop/standards
+thread); ★ **iPhone 16.3.1 "slower charging" = Clean Energy Charging** (headline-debunk register, like the
+batterygate-myth PSA); ★ the **Microsoft–OpenAI $1B thesis** ("4 ways AI can save Microsoft"); ★ **AI-generated
+music (MusicLM)** (AI-authenticity); collab-quality critique (Realme Coca-Cola echoes the designed-not-logo
+Atoms ethos). Rest = gadget quips (Oppo Find N2 Flip, Vivo X90 Pro+, F-150 frunk, 100× zoom, Intel-Mac-Pro
+overpriced).
+Synthesis notes: durable → the **megapixels-don't-matter / blind-camera-test** framework is a CORE persona belief
+(anti-spec-sheet) and should be surfaced explicitly at Stage D if not already crisp; the moon-photo tell extends
+the what-is-a-photo doctrine; Qi2/tracking-standard/RCS form a consistent interop-standards thread worth a single
+persona line. Fold at Stage D.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 8 (12): 12 new (digest 08), 0 dup — L2 2200→2212
 
 **Stage C (shorts dedup, @mkbhd batch 8).** 12 @mkbhd shorts (Mar → Jul 2023), all genuinely-new →
