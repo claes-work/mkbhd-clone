@@ -57,7 +57,7 @@ Monthly lint. *Needs from user: consent to install schedules.*
 
 - [x] Phase 0 — Identity & infrastructure (bootstrap) — done 2026-07-14
 - [x] Phase 1 — Biography & source map (bootstrap) — done 2026-07-14
-- [ ] Phase 2 — Books & landmark documents
-- [ ] Phase 3 — Video corpus
+- [~] Phase 2 — Books & landmark documents — N/A (Marques has no book/course; landmark long-form videos ingested inline at L3 within Phase 3)
+- [x] Phase 3 — Video corpus — **done 2026-07-25.** ✅✅ **CORPUS COMPLETE**: every ingestable row across @mkbhd (2009 origin → Dec 2025) + @AutoFocus + @TheStudio + @Waveform long-form (~300 eps) + the SOLO @mkbhd shorts corpus (10 Stage-C digests) drained to L2 = **2236 sources**. Only no-captions rows remain (un-ingestable). Persona compiled to **v34**. Ensemble attribution enforced throughout (co-hosts/guests quarantined). @WaveformClips + non-@mkbhd shorts skipped as dup-of-longform.
 - [ ] Phase 4 — Articles & social
-- [ ] Phase 5 — Automation
+- [ ] Phase 5 — Automation (freshness cron — `tools/refresh_sources.py` picks up new uploads going forward)

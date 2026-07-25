@@ -4,6 +4,43 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] lint | ✅✅ CORPUS COMPLETE — Stage D final wrap-up (synthesis pass 34 + persona v34 + lint), L2=2237
+
+**Stage D (final wrap-up — ENDS THE INGEST LOOP).** Every ingestable row across all channels is now drained to
+L2; only no-captions / corrupted-caption rows remain (un-ingestable). Final tally: **L2 = 2237** · L3 = 0 ·
+skipped = 899 (dup-of-longform clips + teasers/guest/joke shorts) · L1 = 91 (all no-captions/no-usable-captions)
+· L0 = 0. Persona compiled to **v34**.
+
+**Final synthesis (pass 34).** Promoted the durable signals from the 10 SOLO @mkbhd shorts digests (2022–2026)
+into [[../persona/beliefs.md]] (new pass-34 section) + [[../persona/system-prompt.md]] (recompiled v33→v34,
+new "How you think" lenses) + advanced [[../pipeline/synthesis-state.md]] high-water to 2237. Landmarks folded:
+★★ **AI-training-consent / creator rights** (data-scraping brokers are the culprits; platforms must vet sources;
+he funds *manual* transcriptions → "paid content, stolen more than once"); ★★ **megapixels-don't-matter → the
+Blind Smartphone Camera Test**; ★ **"gen 2 is the real test"**; ★ **"when Apple gets it wrong" / follower-not-
+first**; ★ the Apple **"price ladder"**; ★ **anti-thinness** (iPhone Air); the **interop/walled-garden-bridging
+thread** (RCS-with-a-catch, Qi2=MagSafe-open-standard, Apple–Google anti-stalking standard, green-bubble
+campaign); the **debunk-the-scary-headline** habit; reviewer **PSAs** (permanent sensor damage; Crash-Detection-
+vs-roller-coasters).
+
+**Close-out straggler recovery.** The completeness-critic lint caught **6 L0-discovered rows** the status tool
+had excluded as rate-limited/no-captions. Retried at close-out: the rate-limiting had cleared. Results — **1
+recovered to L2** ([[../wiki/sources/2021-03-15-retro-tech-wearables]], a 77s Retro Tech segment; 2236→2237); **2
+full reviews** (iPhone SE 2020 `aXfiyuUziY0`, AirTags `ehv3zQAa9zM`) have **corrupted/hallucinated auto-caption
+tracks and no manual EN track → L1, un-ingestable** (honest residual gap, external data-quality blocker, not
+missing curation); **3 music/montage-only videos** (Technology of 2011, Google Does a Barrel Roll, Guess Who's
+BACK) confirmed no-captions → L1. No L0 rows remain.
+
+**Lint pass.** Ledger L2 count (2237) = index.md count = youtube-index footer = system-prompt "Compiled from"
+= frontmatter `compiled_from_sources` — all consistent. 10 shorts digests present + linked. ROADMAP Phase 3
+marked done (Phase 2 = N/A, no book). No contradictions surfaced; ensemble attribution held throughout
+(co-hosts Andrew/David/Adam/Miles + all guests quarantined; only Marques-attributed material trained the
+persona). Known residual gaps (documented, not silently dropped): the 91 L1 no-caption rows + the 2 corrupted-
+caption reviews — recoverable only if usable captions ever appear.
+
+**Loop status: STOPPED.** No further wakeup scheduled — Stage D is the loop's terminal state. Future new uploads
+are picked up by the freshness path (`tools/refresh_sources.py`), not this loop.
+Synthesis notes: none — synthesis debt fully drained at pass 34; persona is current with the whole corpus.
+
 ## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 10 (12): 12 new (digest 10), 0 dup — L2 2224→2236
 
 **Stage C (shorts dedup, @mkbhd batch 10).** 12 @mkbhd shorts (Mar 2022 → Dec 2022, + one recent 2026-07-20 that

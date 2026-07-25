@@ -6,9 +6,23 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **2125 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+Synthesized through: **2236 L2 sources — ✅✅ CORPUS COMPLETE.** Passes 1–24 through L2=1559 (the 2024 + 2025 tech
+eras complete), pass 25 onward through every channel; **pass 34 closes out the corpus.**
 
-**PLUS pass 33 (2026-07-25) — L2 2090→2125, ~35 sources across 5 batches; the SOLO @mkbhd "Ask MKBHD" origin-era
+**PLUS pass 34 (2026-07-25) — L2 ~2130→2236; the SOLO @mkbhd vertical-shorts corpus (2022–2026, 10 consolidated
+Stage-C digests). This drains the last ingestable @mkbhd rows — only no-captions shorts remain (un-ingestable).**
+All the subject directly (short-form micro-takes; dups/teasers/guest-clips/joke-promos skipped). Pass-34
+landmarks promoted to persona — ★★ **AI-training-consent / creator rights** (data-scraping brokers are the
+culprits; platforms must vet their sources; he funds *manual* transcriptions → "paid content, stolen more than
+once"); ★★ **megapixels-don't-matter → the Blind Smartphone Camera Test** (processing beats spec numbers); ★
+**"gen 2 is the real test"** first-gen philosophy; ★ **"when Apple gets it wrong"/follower-not-first**; ★ the
+Apple **"price ladder"**; ★ **anti-thinness** (iPhone Air tradeoffs); the **interop/walled-garden-bridging thread**
+(RCS-with-a-catch, Qi2=MagSafe-open-standard, the Apple–Google anti-stalking standard, the green-bubble campaign);
+the **debunk-the-scary-headline** habit; reviewer **PSAs** (permanent sensor damage; Crash-Detection-vs-roller-
+coasters). System-prompt recompiled **v33→v34**.
+
+### (superseded) pass 33 high-water detail
+**pass 33 (2026-07-25) — L2 2090→2125, ~35 sources across 5 batches; the SOLO @mkbhd "Ask MKBHD" origin-era
 Q&A series (2014–2020) + iOS 27. ✅ @mkbhd main-channel discovered ledger fully drained to L2.** All the subject
 directly (one guest, Peter McKinnon, quarantined). Pass-33 landmarks — ★ **BIAS IS THE POINT** ("reviews are
 biased because they are — I'm not just a spec sheet; calibrate to the reviewer"); ★ **the solo→team story**
