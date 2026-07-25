@@ -4,6 +4,30 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Oct 18 → Nov 26, 8/8 ingested — ensemble podcast, light-triage L2 (batch 25)
+
+Fourth post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1886→1894.
+
+Marques-attributed keepers:
+- **11-15 ★ Final Cut 11 / sponsorship ethic** — the ideal sponsor = "something you genuinely like and
+  would call good outside of being paid"; **says no to 99.9%**; the pod's **last fully-sponsored single-
+  product video was Insta360 (Sept 2022)**; full disclosure ("we just got paid by DJI, take it with a
+  grain of salt"). Plus **Final Cut Pro 11** = his editor.
+- **10-18 Tesla We Robot** — un-nuanced-promises skepticism (Cybercab/Optimus vs shipping-autonomy
+  reality); BIO: his **education-content history** (a Skillshare course + a MasterClass).
+- **10-25 Meta vs Snap AR** — an early instance of his AR-glasses framework (compute-vs-wearability, FoV).
+- **10-29 Becca Farsace** going-independent interview (guest NOT trained) — his creator-career framing.
+- Lower-yield: M4 Macs, love/hate apps, Google-sell-Chrome antitrust, CEO trivia.
+
+Open after: @Waveform 196 (P2:179 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 4 batches since pass-29.
+
+Synthesis notes: genuinely-new for a future pass — the **sponsorship ethic detail** (genuine-use test,
+say-no-99.9%, the multi-year gap between sponsored videos, up-front disclosure) → creator-business ★;
+his **education-content history** (Skillshare + MasterClass) → biography. Rest corroborates (AR
+framework, Tesla-autonomy skepticism, Final-Cut editor, laptop-dilemma). Hard-gated: co-host takes +
+guest Becca Farsace + the Boosted documentary carried over.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Nov 29 → 2025 Jan 31, 8/8 ingested — ensemble podcast, light-triage L2 (batch 24)
 
 Third post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1878→1886.
