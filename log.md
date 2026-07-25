@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Nov 21 → 2026 Jan 23, 8/8 ingested — ensemble podcast, light-triage L2 (batch 17)
+
+Fourth @Waveform batch (light-triage L2, hard co-host gating). L2 1822→1830. A high-value batch —
+two strong Marques nodes.
+
+Marques-attributed keepers:
+- **11-25 ★ "Do You Feel Guilty about Bad Reviews?"** — dense review-ethics: **no guilt** (the Mossberg
+  "couldn't care less about your stock price"); **"bad *products* kill companies, not bad reviews"**
+  (a review only accelerates an existing trend); **anti-pile-on** (his moderate RED Hydrogen review
+  got roasted "for giving it any points"); candid **review scope = product utility, not geopolitics**
+  ("everything has always been tech... is this good? should you buy it?").
+- **12-12 Phone of the Year 2025 = the base iPhone 17** (120Hz+brighter display, improved square
+  selfie sensor, 256GB base at the same price); "phone of the year ≠ most popular" — for the
+  enthusiast/value audience.
+- **11-21** merch **"designed, not logo-slap"** ethos; **01-16** the Xiaomi×Leica camera phone
+  (camera-first, silicon-carbon battery); **01-23** he analyzes YouTube CEO Neil Mohan's letter
+  himself; **11-28** AirDrop↔Quick Share via the EU DMA; **12-05** Galaxy Z TriFold build quality;
+  **01-09** CES 2026 recap (low-yield).
+
+Open after: @Waveform 260 (P2:243 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: driver counter 2 (checkpoint at 10); @Waveform keepers accumulating for a future
+Stage S — the 30fps philosophy, Top-5 apps, review-ethics, editorial-integrity, silicon-carbon
+advocacy, location-privacy, capture-everything ethos.
+
+Synthesis notes: genuinely-new for a future pass — (1) **review-ethics doctrine** (no guilt /
+bad-products-not-bad-reviews / anti-pile-on / product-utility-not-geopolitics scope) → creator-
+business ★; (2) **2025 Phone of the Year = base iPhone 17** (dated verdict); (3) **merch designed-not-
+logo-slap** ethos → creator-business. Rest corroborates (silicon-carbon advocacy, Xiaomi-one-ups-
+iPhone, foldable-premium). Hard-gated: all co-host takes + guest experts.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2026 Jan 30 → Mar 6, 8/8 ingested — ensemble podcast, light-triage L2 (batch 16)
 
 Third @Waveform batch (light-triage L2, hard co-host gating). L2 1814→1822. Several Marques-centric
