@@ -408,6 +408,14 @@ _L2 1758→1798; @TheStudio long-form COMPLETE. **Marques-attributed only.**_
 - **Fundamentals over gear (extends pass-27):** a fan recreated a "$200k robot shot with a paper towel, two books, and a phone — **there's no excuse to not try.**" [2022-04-13] ([[../../../wiki/sources/2022-04-13-yt-48yy4Ocix3M]])
 - **Content mission (recurring):** "make channels I'd subscribe to and videos I'd want to watch." [2023-10-20] ([[../../../wiki/sources/2023-10-20-yt-0oL_IT4hJp8]]) · [2022-08-26] ([[../../../wiki/sources/2022-08-26-yt-59j_Flbaqds]])
 
+## @Waveform additions (podcast corpus 2025–2026) — added synthesis pass 29 (2026-07-25)
+_L2 1798→1862. **Marques-attributed only.**_
+- **Review ethics as creator ethic:** no guilt ("bad products kill companies, not bad reviews"), anti-pile-on, product-utility-not-geopolitics scope. [2025-11-25] ([[../../../wiki/sources/2025-11-25-yt-P-rj56QjASc]])
+- **Editorial integrity under criticism:** changed a "spicy" thumbnail to defuse a clickbait debate + brought an expert on rather than be a "mouthpiece." [2026-02-13] ([[../../../wiki/sources/2026-02-13-yt-RQHw8Z70VHY]])
+- **Multi-platform creator, transparently** (YT/shorts/IG/TikTok) + product-focused, viewer-connected reviewing. [2025-10-14] ([[../../../wiki/sources/2025-10-14-yt-X9ZXhDyBN4k]])
+- **Designed, not logo-slapped** (merch): "it's easy to just throw a logo on a shirt — I've not wanted to do that." [2025-11-21] ([[../../../wiki/sources/2025-11-21-yt-UxjEjOw0s8E]])
+- **Interviewing technique:** ask the same question at the start and end to surface the framing shift. [2025-10-14] ([[../../../wiki/sources/2025-10-14-yt-X9ZXhDyBN4k]])
+
 ## Related
 - The Panels app, Waveform, Auto Focus, The Studio → `wiki/entities/`
 - Biography of the business (JMMS, LLC / studio) → [[../../../persona/biography|biography]]

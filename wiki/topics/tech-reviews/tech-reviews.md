@@ -736,5 +736,12 @@ _From the @TheStudio channel. **ENSEMBLE — Marques-attributed only**; David's 
 - **Blind Smartphone Camera Test** (unbiased ELO-scored evaluation) → see [[../smartphones/smartphones|Smartphones hub]].
 - **Dope Tech** (aspirational/novelty gear) → see [[../consumer-tech-culture/consumer-tech-culture|Consumer Tech Culture hub]].
 
+## @Waveform additions (podcast corpus 2025–2026) — added synthesis pass 29 (2026-07-25)
+_L2 1798→1862. **Marques-attributed only**; co-hosts/guests quarantined._
+- **Review ethics:** no guilt (Mossberg "couldn't care less about your stock price"); **"bad products kill companies, not bad reviews"** (a review only accelerates an existing trend); **anti-pile-on** (his moderate RED Hydrogen review got roasted for "giving it points"); review scope = **product utility, not geopolitics**. [2025-11-25] ([[../../sources/2025-11-25-yt-P-rj56QjASc]])
+- **Anti-thinness, resolved with silicon-carbon:** thin is OK *only* if it doesn't sacrifice battery ("if you did this ultra-thin phone with silicon carbon it could have had the same battery life") — unifies anti-thinness + his silicon-carbon advocacy; frames the iPhone Air. [2025-05-16] ([[../../sources/2025-05-16-yt-4bQikdI0XGs]])
+- **"Pixel = software, not silicon"** (Tensor isn't the focus); **"studio quality" marketing skepticism** (AirPods Max 2); **"Snow Leopard" welcome-the-boring-update** (iOS 27 makes old iPhones faster). [2025-08-22] ([[../../sources/2025-08-22-yt-q47Gom0X_sE]]) · [2026-03-20] ([[../../sources/2026-03-20-yt-sccOohIswKU]]) · [2026-06-12] ([[../../sources/2026-06-12-yt-N36yb-X1LN0]])
+- **Dated verdicts:** 2025 Phone of the Year = base iPhone 17; OnePlus 15 = great phone, cameras are the flaw (dropped Hasselblad). [2025-12-12] ([[../../sources/2025-12-12-yt-rGTSetnFRAk]]) · [2025-11-14] ([[../../sources/2025-11-14-yt-mwM9ABnawTw]])
+
 ## Pages
 _None yet — durable material lives inline above; split into sub-pages when this domain exceeds ~30 entries._

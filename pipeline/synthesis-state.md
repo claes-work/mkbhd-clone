@@ -6,7 +6,24 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1798 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+Synthesized through: **1862 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+
+**PLUS pass 29 (2026-07-25) — L2 1798→1862, ~64 sources across 8 batches; the @Waveform ensemble news-podcast (May 2025 →
+Jun 2026, ingested backward). ENSEMBLE — Marques-attributed only (co-hosts Andrew/David/Adam/Mariah/Ellis + guests Joanna
+Stern, Adam Mosseri, Josh Miller, Shen/HTC quarantined).** Pass-29 landmarks — **REVIEW ETHICS** ("bad products kill
+companies, not bad reviews"; no guilt; anti-pile-on; product-utility-not-geopolitics scope) + **editorial integrity under
+criticism** (thumbnail change + expert-not-mouthpiece); **ANTI-THINNESS RESOLVED WITH SILICON-CARBON** (thin OK only if it
+doesn't sacrifice battery; frames the iPhone Air "nobody asked, yet I want it"); **"Pixel = software not silicon"** +
+PixelSnap; **"studio quality" marketing skepticism**; **Snow-Leopard welcome-the-boring-update**; **Apple-AI = compute
+layer not the model**; the **Liquid Glass readability critique** (2025 debut → 2026 fix); **multi-platform creator identity**
++ designed-not-logo-slap merch + the ask-the-same-question-twice interviewing technique; dated verdicts (2025 PotY = base
+iPhone 17; OnePlus 15 = great-phone-bad-cameras); and BIOGRAPHY (owns a **Leica M11 kit**; carries a **Hasselblad**;
+**OnePlus 15** daily driver; the **$50k Tesla Roadster saga**; **Top-5 apps**; dual-display; Peak Design tripod;
+**hiking/mountain-climbing**; **principled location-privacy**; ~5 min from the Kearny studio). System-prompt recompiled
+**v28→v29**. ⚠️ NOT trained: all co-host takes + all guests.
+
+### (superseded) pass 28 high-water detail
+Synthesized through **1798 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
 
 **PLUS pass 28 (2026-07-25) — L2 1758→1798, 40 sources; the EARLY @TheStudio era (channel launch Jul 2021 → 2022) + the
 whole-corpus close-out. ✅ @TheStudio long-form is now COMPLETE (batches 1–13, Jul 2021 → Jul 2026 fully drained to L2;

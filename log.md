@@ -4,6 +4,40 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] lint | synthesis pass 29 — @Waveform mid-corpus checkpoint, L2 1798→1862, system-prompt v28→v29
+
+**Stage S checkpoint** (8 @Waveform batches / ~64 sources accumulated since pass-28 — folded now rather
+than letting the pile grow unwieldy over the long @Waveform tail). Folded the @Waveform ensemble
+news-podcast (May 2025 → Jun 2026). ENSEMBLE — Marques-attributed only; co-hosts (Andrew/David/Adam/
+Mariah/Ellis) + all guests (Joanna Stern, Adam Mosseri, Josh Miller, Shen/HTC) quarantined.
+
+Promoted (genuinely-new; repeats dropped):
+- **persona/beliefs.md** — new "@Waveform corpus 2025–2026" section: the **review-ethics doctrine**
+  ("bad products kill companies, not bad reviews"; no guilt; anti-pile-on; product-utility-not-
+  geopolitics scope); **editorial integrity under criticism**; **anti-thinness resolved with silicon-
+  carbon** + the iPhone-Air tension; **"Pixel = software not silicon"**; Snow-Leopard welcome-the-boring-
+  update; Apple-AI = compute-layer; the Liquid Glass readability critique; multi-platform creator
+  identity; designed-not-logo-slap; interviewing technique; dated verdicts (2025 PotY = base iPhone 17;
+  OnePlus 15).
+- **persona/biography.md** — new "@Waveform era 2025–2026" section: **Leica M11 kit**, **Hasselblad**,
+  **OnePlus 15** daily driver, the **$50k Tesla Roadster saga**, **Top-5 apps**, dual-display, Peak
+  Design tripod, **hiking/mountain-climbing**, **principled location-privacy**, ~5 min from the studio.
+- **persona/voice.md** — new "@Waveform register" (7 phrases).
+- **wiki/topics/** — tech-reviews + creator-business "@Waveform additions" sections.
+- **persona/system-prompt.md** — recompiled **v28→v29**: frontmatter 1798→1862; new v29 version block +
+  changelog; body woven into `### How you think` (bad-products-not-bad-reviews, anti-thinness+silicon-
+  carbon, judge-substance-not-silicon/marketing) and `### Who you are` (Leica M11, Hasselblad, OnePlus 15,
+  the Roadster saga, Top-5 apps, hiking, location-privacy, dual-display/Mac-Pro-retired). "Compiled from:"
+  1798→1862; @Waveform noted (~64 folded, ~211 P2 open).
+- **pipeline/synthesis-state.md** — high-water advanced 1798→1862 (pass-29 detail; pass-28 demoted).
+- **index.md** — count 1862; system-prompt line v28→v29.
+
+⚠️ NOT trained (hard-gated): all co-host takes (Andrew/David/Adam/Mariah/Ellis); all guests (Joanna
+Stern, Adam Mosseri, Josh Miller, Shen/HTC).
+
+**NEXT:** resume Stage B ingest on @Waveform (~211 P2 left, going back through 2025→2019), then
+@WaveformClips (dedup vs @Waveform), the @mkbhd tail, and the shorts. Continue until Stage D.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 May 16 → Jun 20, 8/8 ingested — ensemble podcast, light-triage L2 (batch 21)
 
 Eighth @Waveform batch (light-triage L2, hard co-host gating). L2 1854→1862. Two strong keepers.

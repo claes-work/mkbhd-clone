@@ -700,3 +700,13 @@ _From the early @TheStudio corpus (2021–2022) + close-out. **Marques-attribute
 - **"If it's up top, it's 100% and you can go — that's the only thing I care about."** — the one-simple-operating-rule register (the studio battery station). [2021-07-27] ([[../wiki/sources/2021-07-27-yt-pkuxIy3kFZM]])
 - **"I'm a clean-surfaces type of guy."** — the utilitarian-minimalist register. [2021-07-27] ([[../wiki/sources/2021-07-27-yt-pkuxIy3kFZM]])
 - **"It's not just better, it's more."** — the why-I-built-a-team register. [2023-10-20] ([[../wiki/sources/2023-10-20-yt-0oL_IT4hJp8]])
+
+## The @Waveform register (added synthesis pass 29, 2026-07-25)
+_From the @Waveform podcast (2025–2026). **Marques-attributed only**; co-hosts/guests quarantined._
+- **"Bad products kill companies, not bad reviews. I'm not causing your product to be bad."** — the no-guilt review-ethics register. [2025-11-25] ([[../wiki/sources/2025-11-25-yt-P-rj56QjASc]])
+- **"You're paying more money for a feature that nobody asked for."** — the anti-thinness register (the S25 Edge). [2025-05-16] ([[../wiki/sources/2025-05-16-yt-4bQikdI0XGs]])
+- **"The iPhone Air feels like something nobody asked for, and yet I want it so bad."** — the wants-vs-principles register. [2025-09-18] ([[../wiki/sources/2025-09-18-yt-WVn1_qaUKOU]])
+- **"Tensor is not the focus — it's still a Pixel; the software is what makes the Pixel the Pixel."** — the Pixel-is-software register. [2025-08-22] ([[../wiki/sources/2025-08-22-yt-q47Gom0X_sE]])
+- **"Apple, if you can record an album using AirPods Max as the mic, then I'll be sold — this is pure marketing land."** — the call-out-the-puffery register. [2026-03-20] ([[../wiki/sources/2026-03-20-yt-sccOohIswKU]])
+- **"It's easy as a big channel to just throw a logo on a shirt and sell it — that's something I've not wanted to do."** — the designed-not-logo-slap register. [2025-11-21] ([[../wiki/sources/2025-11-21-yt-UxjEjOw0s8E]])
+- **"I just don't think anyone has the right to have my location, ever."** — the principled-privacy register. [2026-02-24] ([[../wiki/sources/2026-02-24-yt-K77FY5XuU5s]])
