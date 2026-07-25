@@ -4,6 +4,21 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — non-@mkbhd shorts bulk dedup (213 → skipped, dup-of long-form)
+
+**Stage C (dedup, part 2).** The **@Waveform (90), @TheStudio (103), and @AutoFocus (20)** shorts are vertical
+clips/teasers of channels **already 100% ingested to L2** (same logic as the @WaveformClips dedup) — plus the
+@TheStudio ones are largely team/BTS ensemble content (e.g. "What's on Brandon's Desk?"). They add no new
+Marques-attributable material.
+
+- **213 shorts marked `status: skipped`, `notes: dup-of:<channel>-longform`** in `pipeline/ledger.csv`. No
+  pages written; full count logged (no silent cap).
+- **Remaining: 120 @mkbhd shorts** (the SUBJECT's own short-form) — these get **proper Stage-C dedup** next
+  (fetch captions → dup of an ingested long-form video → skip; genuinely-new standalone short → L2 light
+  ingest with 2-3 quotes).
+
+→ next: **Stage C on the 120 @mkbhd shorts** (in ~20-per batches), then **Stage D** ends the loop.
+
 ## [2026-07-25] ingest | Stage C — @WaveformClips bulk dedup (657 → skipped, dup-of @Waveform-longform)
 
 **Stage C (dedup).** The **@WaveformClips** channel is entirely **short segment-clips cut from the @Waveform
