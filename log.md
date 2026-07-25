@@ -4,6 +4,42 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@TheStudio, 8) — 2021 Aug 6 → Oct 12, 8/8 ingested — ensemble hard-gated (batch 12, reaches the NEW true launch: 2021-08-06 Desk Tour)
+
+Batch 12 pushed @TheStudio back further to **2021-08-06** (the Desk Setup Tour — now the channel's
+earliest video; corrected the note off the 2021-10-19 Pixel 6 row). A HIGH-VALUE batch — the
+richest Marques content in the @TheStudio run. L2 1782→1790.
+
+Attribution split (8/8):
+- **subject ★★ (1):** `cxp-FCDUkNc` **Desk Setup Tour 2021** — a gear/workflow/biography goldmine.
+  Durable persona nodes: **backup philosophy** (keeps only final export + thumbnail + key clips,
+  "get rid of it all"); **chair heuristic** ("budget? hours/day?" → Herman Miller Embody); **edits
+  on ColorWare AirPods Pro**; the **anti-reflection obsession** (Pro Display XDR nano-texture); the
+  **"I didn't clean it" authenticity ethos**. Gear: Xdesk Air Pro, Yamaha HS8 + Apollo Twin, MX
+  Master 3, Keychron K2, Mac Pro + 16" MBP, Final Cut.
+- **⚠️mixed, Marques-rich (5):** `NqfitWYfrcg`+`Eb-vBAS2Dls` **1000 Mile Race** (BIO: **Model S
+  Plaid** ownership; the **definitive non-Tesla-charging-network thesis** — "not the car, the
+  network"; BIO: **never seen The Office**; learning-by-doing ethos); `qAzZGMJcMS4` iPhone 13
+  unboxing (dbrand anti-reflection rig, **review-unit-color transparency**, "regular Pro gets the
+  better camera"); `RP3BT6kRJck` RED V-Raptor (reflections obsession, handheld-first-person);
+  `OLIGk8DT0BM` Apple Sept 2021 ("**grandiose event, incremental product**" + iPhone 13 "S upgrade").
+- **co-host/context, NOT trained (2):** `pKfbSzTumXk` Brandon's intro-craft (keeper: Marques
+  co-writes scripts + the video-length-guessing ritual; David = **David Imel**); `USn9EWaaBnc`
+  Intel-ad parody skit (fictional, no data).
+
+Open after: **@TheStudio 8 (P2:2 P3:6)** · @Waveform 292 · @WaveformClips 622 · @mkbhd 36 · shorts
+364. **NEXT:** batch 13 drains @TheStudio's last 8 long-form rows (2 P2 + 6 P3) → **channel long-
+form COMPLETE**, which triggers the **final Stage S (pass 28)** + system-prompt recompile v27→v28.
+
+Synthesis notes: NEW (deferred to pass-28, now a large payload) — (1) **desk/gear/workflow +
+authenticity ethos + backup philosophy + chair heuristic** → biography/production/creator-business
+★★; (2) **the non-Tesla-charging-network thesis, definitively documented** + **Model S Plaid** →
+ev-cars/biography ★; (3) **"grandiose event, incremental product"** media criticism →
+consumer-tech-culture ★; (4) RED-camera commitment + reflections obsession + review-unit-color
+transparency + video-length ritual (Marques co-writes scripts) → production/creator-business; (5)
+BIO: never seen The Office. Hard-gated: Brandon's intro-craft, the Apple-intern lines, the parody
+skit — all excluded from persona.
+
 ## [2026-07-25] ingest | yt batch (@TheStudio, 8) — 2021 Oct 19 → 2022 Feb 7, 8/8 ingested — ensemble hard-gated (batch 11, reaches the TRUE channel launch: 2021-10-19)
 
 Batch 11 pushed @TheStudio back to its actual first video (Pixel 6 Unboxing, **2021-10-19** —
