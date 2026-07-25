@@ -1746,6 +1746,24 @@ Artura, BMW M5, Lexus LC500h), which trains the persona NOT AT ALL. Always check
 - 2026-06-24 — [[2026-06-24-yt-d0t7wpkFc6U|Slate Truck First Look: The $25,000 Modular EV!]] ★ · ev-cars, tech-reviews, tech-industry-commentary
 - 2026-07-13 — [[2026-07-13-yt-FefIWhfl5Lg|Porsche Macan Turbo EV - Worth 3 Model Ys?]] ★ · ev-cars, tech-reviews _(co-host Miles quarantined)_
 
+## @TheStudio
+
+_Behind-the-scenes / vlogs / how-we-make-videos channel — **ENSEMBLE, hard attribution-
+gated.** The ~18-person MKBHD team (Andrew, Mariah, Vin, Michael, Ellis, Rufus, Harper,
+Brandon, Tim, David, Eric, Rich, Olivia, Miles, et al.) narrates most of it. **Only
+Marques-attributed segments train the persona**; every page carries a `> ⚠️ ATTRIBUTION`
+banner and per-line gating. Tags: `attribution: ⚠️mixed` (Marques frames/appears but co-
+hosts take segments) or, where no line is confidently Marques, treated as context-only._
+
+- 2025-10-12 — [[2025-10-12-yt-eNgD1kg3U14|The MKBHD Method™ For Editing High Quality Videos]] ★ ⚠️mixed · production-filmmaking, creator-business _(**the 4 editing principles** — good in/good out; focus (what you cut matters); don't be boring but don't be insulting; know your audience — + his **video-selection method** ("look forward by looking backwards"; connect new tech to past audience interest) + "I've never regretted making a video just for the views" + "YouTube is a treadmill" + **"I will never lie to you."** Team craft segments = context.)_
+- 2025-11-26 — [[2025-11-26-yt-dbL5Ht1M5Ms|Our BUDGET Everyday Tech Gifts ($16 to $100)]] ⚠️mixed · consumer-tech-culture, tech-reviews _(team Secret-Santa gag; minimal persona value; lone likely-Marques nugget = CMF Buds Pro 2 "sound like hot garbage" until you install the app + kill "ultra bass" (attribution uncertain).)_
+- 2026-01-31 — [[2026-01-31-yt-HZvj8T5_oUE|We Filmed Our Studio Like an Episode of The Office (for 1 year)]] ★ ⚠️mixed · biography, creator-business, production-filmmaking _(**canonical BIO year-doc** — 4 channels / ~3,000 sq-ft / 18 people; **World Games GOLD, Team USA Ultimate Frisbee, Chengdu**; first job **caddy at Essex County Country Club** + **Liberty Science Center** volunteer; names **every NJ county alphabetically**; "I am best at analyzing the product in front of me"; "not the best manager of people." Team narration = context.)_
+- 2026-02-26 — [[2026-02-26-yt-fMp3TPlEBQg|MKBHD's Desk Setup, But For Normal(ish) People]] ⚠️mixed · production-filmmaking, consumer-tech-culture, tech-reviews _(dated **gear inventory** of his real desk — Next Desk Air (4 legs = anti-wobble), Herman Miller Embody since college, Keychron Q1 Max, MX Master 4 **+** trackpad (editing gestures), Opal C1 (invested in it), **Yamaha HS8 "simply the best,"** Sennheiser HD 650, Apollo Twin, ×2 Pro Display XDR, **Mac Pro kept for ~90 TB storage**. $33,330 real vs ~$6k knockoff. Andrew's replica = context.)_
+- 2026-03-26 — [[2026-03-26-yt-UecKUN9AUaM|Can MKBHD's Team Make ANY Phone Look Cinematic??]] ⚠️mixed · tech-reviews, production-filmmaking _(guessing-game — **confirms his phone-camera-eval eye**: DoF falloff + balanced color → high-end; soft shadow fall-off + dynamic range → big sensor; "ultra-wides are never corner-to-corner sharp"; "that's not an iPhone flare." Team VFX = context.)_
+- 2026-04-13 — [[2026-04-13-yt-luq4Vsy38Ac|How This Hologram* Breaks Physics]] ⚠️mixed · tech-reviews, consumer-tech-culture, tech-industry-commentary _(Ellis-narrated explainer; Marques nugget = **reviewer doctrine "judging tech before its use-case exists is like judging a McLaren P1 before we had roads"** — great to a technologist, a hard sell to a buyer; hologram physics/Voxon = context.)_
+- 2026-05-27 — [[2026-05-27-yt-rVUBIzOwci8|FREE Apps We ACTUALLY Use]] ⚠️mixed · consumer-tech-culture, production-filmmaking _(team round-robin; **NO Marques-attributed content** — entity/culture context only: the studio tool stack + a local-AI/privacy, pro-open-source/anti-Adobe team lean.)_
+- 2026-07-03 — [[2026-07-03-yt-Puny-2wkMZA|4 Principles For Starting A Successful YouTube Channel]] ★ ⚠️mixed · creator-business, production-filmmaking _(**his closing monologue** — channel named **"Marques Brownlee" = intentional freedom** (not a restrictive brand name); **MKB=me, HD=high definition + high quality**; **minimal-but-tight sponsors** ("the quality of the sponsor," not the count); **"luck is when preparation meets opportunity."** Team frameworks (outlier/trend theory, CPM math) = context.)_
+
 ## @WaveformClips
 
 _Podcast clips channel — each clip is an excerpt of a full @Waveform episode, so the
@@ -1761,4 +1779,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_1694 videos ingested (L2) so far._
+_1702 videos ingested (L2) so far._
