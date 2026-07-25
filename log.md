@@ -4,6 +4,31 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Sep 23 → Nov 11, 8/8 ingested — ensemble podcast, light-triage L2 (batch 39)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-09-23 → 2022-11-11), L2 1998→2006 (crossed 2000).
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. Two guest episodes
+(JerryRigEverything, Austin Evans — both quarantined). **Creator/platform-heavy batch.**
+
+- ★ **ym47K3qBeyQ** (YouTube Shorts): **YouTube Creator Summit insider access** — recorded a pod with **Neil
+  Mohan** (CPO, later CEO); the Summit's "hot topic" is the one time you get real answers not PR. He pressed on
+  the **removed dislike button**, algorithm-vs-creators, and a "not interested" study. (Mohan's answers not trained.)
+- ★ **sTqgZCAtFr8** (Twitter verification): **"YouTube is still the only S-tier social media platform"** + the
+  platform-bias meta-observation (a take about YouTube feels hot ON Twitter because "the site defends itself"; on
+  IG no one would see it). Musk buys Twitter, $8 verification.
+- **-Vhi83gaLHU**: USB-C iPhone **"confirmed*"** via the EU common-charger law (Apple "will comply" to Joanna Stern) —
+  keeps "confirm" in quotes.
+- Low-med: **2khEqqMKi9M** (Twitter Official-badge chaos, he tweeted it; AirPods worse; Matter lands),
+  **nhlCndotHAU** (Apple Watch crash-detection roller-coaster false-positives; Pixel 7/Quest Pro),
+  **Psi6Cyagi2o** (Twitter edit button "I love it"; Pixel 7 event).
+- ⚠️ Guests NOT trained: **JphA-WAPgUs** (JerryRigEverything/Zack Nelson), **zwWafD-vXNM** (Austin Evans game).
+
+Synthesis notes: New this batch — (1) ★ **YouTube Creator Summit insider access + Neil Mohan interviews** (his
+creator-ecosystem standing; dislike-button/algorithm-vs-creators topics); (2) ★ **"YouTube = only S-tier platform"
++ platform-bias meta-observation** (where you post distorts a take's reception); (3) USB-C-iPhone "confirmed*"
+careful-hedge; minor real-time-Twitter-participant + edit-button color. Quarantined: JerryRig + Austin Evans
+(guests). → pass-32 checkpoint due in ~9 more @Waveform batches or at channel completion (~67 P2 left).
+
 ## [2026-07-25] lint | synthesis pass 31 — @Waveform 2022–2023 origin-era checkpoint, L2 1926→1998, system-prompt v30→v31
 
 **Stage S checkpoint** (8 @Waveform batches / ~72 sources since pass-30, batches 31–38). Folded the 2022–2023
