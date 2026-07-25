@@ -4,6 +4,25 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@mkbhd, 8) — Ask MKBHD V26–V33 (2018), 8/8 ingested — SOLO, L2 2113→2121 (batch 54)
+
+**Stage B ingest** — 8 more **SOLO @mkbhd** Ask MKBHD Q&As (V26–V33, 2018). L2 2113→2121. (@mkbhd now 4 P3 left.)
+
+- ★★ **Xyt9rmsxwDU** (V26): the **1,000th video** ever + the **10-year YouTube anniversary** (~2008 signup);
+  self-assessment — **most-improved = efficiency/speed**, **least-improved = noise control** (audio).
+- ★ **SGiOZnUQlEU** (V28, GUEST Peter McKinnon — not trained): **BIO** 6'3" height; **first app of the day =
+  Flamingo for Twitter**; Ultimate athlete (Peter does no sports).
+- ★ **i7FtVfokRYU** (V29): **BIO** he was **on Hot Ones** ("the wings really are that hot" — origin of the
+  later Waveform Hot-Ones bit); Cotton Bureau merch.
+- Low-med/product: **uwxxQ9FZXow** (V33, Apple-vs-OnePlus event clash — Techtober crunch), **wIaowvCQG1M** (V31,
+  Pocophone F1 value + matte-black-AirPods want), **MtUxFCicxuM** (V27), **nIs8xAr_nIo** (V30, dual/guest),
+  **sb77YWaEsi8** (V32, iPhone XR value framing).
+
+Synthesis notes: New — the **1000-videos/10-year milestone** (~2008 YouTube signup) + the efficiency-most /
+noise-control-least self-assessment; **BIO 6'3"**, **first-app = Flamingo for Twitter**, **was on Hot Ones**.
+Otherwise corroboration. Folds with batches 51–53 at the next persona checkpoint. → next: the last @mkbhd P3
+(4), then @WaveformClips (Stage-C dedup), then shorts.
+
 ## [2026-07-25] ingest | yt batch (@mkbhd, 8) — Ask MKBHD V15–V24 (2017–2018), 7/8 ingested (V25 no-captions) — SOLO, L2 2106→2113 (batch 53)
 
 **Stage B ingest** — 8 more **SOLO @mkbhd** Ask MKBHD Q&As (V15–V24, 2017–2018); **7 ingested, V25
