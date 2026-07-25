@@ -723,6 +723,14 @@ accountability video) — the review lenses get named outright and the hardware 
   (a self-corrected 2025 mistake). The **reviewer's guide (a per-device spec PDF) is his official spec source** — "I
   can't fact-check specs by Googling; Google gives rumored specs." [2025-11-13] ([[../../sources/2025-11-13-yt-2MdQWo9fHZs]]) · [2025-12-23] ([[../../sources/2025-12-23-yt-v-sCZN3FbR0]])
 
+## @TheStudio additions (behind-the-scenes corpus 2023–2026) — added synthesis pass 27 (2026-07-25)
+_From the @TheStudio channel. **ENSEMBLE — Marques-attributed only**; David's camera essays (X100VI, Leica M11/M11-P/Monochrom, GFX 100 II) quarantined._
+- **Physics vs. compute:** "physics is why phone cameras will never match big sensors; compute is why they look closer every day." His blind-test tells: DoF fall-off, dynamic range, ultra-wides-never-corner-sharp, iPhone-flare signature, and the iPhone's habit of brightening faces. [2024-10-22] ([[../../../wiki/sources/2024-10-22-yt-oka31nU8V1c]]) · [2026-03-26] ([[../../../wiki/sources/2026-03-26-yt-UecKUN9AUaM]])
+- **The "McLaren P1 before roads" doctrine:** judge nascent-category tech on its own terms (great to a technologist) while being honest about buyer utility. [2026-04-13] ([[../../../wiki/sources/2026-04-13-yt-luq4Vsy38Ac]])
+- **The dead-smartphone canon:** Aquos Crystal = thin-bezel origin; Essential PH-1 = iconic; Surface Duo = "worst product I've reviewed"; RED Hydrogen = the gimmick-as-the-whole-point lesson; Nexus One = origin, Nexus 6P = pinnacle. (His LG Wing TikTok = his most-viewed content ever, 35M.) [2024-04-25] ([[../../../wiki/sources/2024-04-25-yt-APA5IES2fEU]]) · [2024-08-14] ([[../../../wiki/sources/2024-08-14-yt-k6cuXwFy2io]])
+- **Vision Pro verdict:** "4.5 stars; for a first-gen product, pretty great; worth the hype, not the price; no clear use yet." [2024-02-09] ([[../../../wiki/sources/2024-02-09-yt-6uYL2ZP8rZ4]])
+- **Revising a take:** the Sony Walkman — "I might have gotten it wrong; it's a nice DAC, just not a Walkman." [2024-08-28] ([[../../../wiki/sources/2024-08-28-yt-J5MdxJ29vbI]])
+
 ## Recurring franchises (as review formats)
 - **Smartphone Awards** (annual buyer's guide) → see [[../smartphones/smartphones|Smartphones hub]].
 - **Blind Smartphone Camera Test** (unbiased ELO-scored evaluation) → see [[../smartphones/smartphones|Smartphones hub]].

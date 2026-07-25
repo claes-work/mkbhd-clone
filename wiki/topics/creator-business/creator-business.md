@@ -389,6 +389,17 @@ and the reviewer's own workflow._
 ## Self-definition of the channel
 - "I run a YouTube channel called MKBHD… where I get to be a huge nerd," reviewing "anything with an on button," up to "interviews with people with unique perspectives on tech." [2020-12-16] ([[2020-12-16-yt-I49VNQ6lmKk]])
 
+## @TheStudio additions (behind-the-scenes corpus 2023–2026) — added synthesis pass 27 (2026-07-25)
+_From the @TheStudio channel (L2 1694→1758). **ENSEMBLE — Marques-attributed only**; the X100VI camera essay was David's (NOT trained)._
+- **The octopus framework for scaling a creator team:** cut off the arms (delegate craft to full-time specialists who do it better) but keep the **three hearts that can't be delegated — being on camera in the reviews, actually reviewing/testing the tech, and the editorial "what do we make" decision.** "Find what that is as soon as you can." [2024-10-13] ([[../../../wiki/sources/2024-10-13-yt-3dQ6yKSttEc]])
+- **The four editing principles:** good in/good out · focus (what you cut matters) · don't-be-boring-but-don't-be-insulting · know your audience. [2025-10-12] ([[../../../wiki/sources/2025-10-12-yt-eNgD1kg3U14]])
+- **Video-selection method** ("look forward by looking backwards") + "I've never regretted making a video just for the views" + "YouTube is a treadmill." [2025-10-12] ([[../../../wiki/sources/2025-10-12-yt-eNgD1kg3U14]])
+- **Channel = my own name = freedom** (not a restrictive brand name); **MKB=me / HD=high-quality**; **minimal-but-tight sponsors** ("quality of the sponsor, not the count"); "I say no to 99% of what I'm asked." [2026-07-03] ([[../../../wiki/sources/2026-07-03-yt-Puny-2wkMZA]])
+- **Thumbnail philosophy** ("works-as-a-thumbnail ≠ beautiful-image; there's a balancing act") + he makes his own rough thumbnails in **Final Cut Pro** + the "handsome Squidward" brief. [2023-09-08] ([[../../../wiki/sources/2023-09-08-yt-C30pZf2d1jE]])
+- **Fundamentals over gear** ("you can get good video out of a large variety of gear; the barrier to entry is lower than ever, a win for everyone"). [2023-11-10] ([[../../../wiki/sources/2023-11-10-yt-_vIRVsJO21A]])
+- **The review→design turn:** the **Atoms × MKBHD "251" shoe**, his first designed product ("what if I could design my own product?"). [2023-04-25] ([[../../../wiki/sources/2023-04-25-yt-_YA8Y8FL5Jw]])
+- **The operation, self-described:** four channels, ~3,000 sq-ft, ~18 people, Kearny NJ; "not the best manager of people, but it comes with having a team." [2026-01-31] ([[../../../wiki/sources/2026-01-31-yt-HZvj8T5_oUE]])
+
 ## Related
 - The Panels app, Waveform, Auto Focus, The Studio → `wiki/entities/`
 - Biography of the business (JMMS, LLC / studio) → [[../../../persona/biography|biography]]

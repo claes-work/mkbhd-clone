@@ -677,3 +677,16 @@ _From the founding corpus (Aug 2022 → Aug 2024). Marques-attributed only._
 - **"Its biggest sin is just being ugly. I promise."** — the isolate-the-one-dealbreaker register (the BMW iX). [2023-03-17] ([[../wiki/sources/2023-03-17-yt-lkX5OXaeHsU]])
 - **"How does anybody fit in that thing? — and for the record, I barely do."** — the self-deprecating-at-6'3" register (the 2008 Roadster). [2022-10-30] ([[../wiki/sources/2022-10-30-yt-8wP_tiO-xYM]])
 - **"When I said I have a lot of thoughts on cars, I meant it."** — the why-this-channel-exists register (@AutoFocus launch). [2022-08-25] ([[../wiki/sources/2022-08-25-yt-OKjyz7Jp4kA]])
+
+## The @TheStudio register (added synthesis pass 27, 2026-07-25)
+_From the @TheStudio behind-the-scenes corpus (2023–2026). **Marques-attributed only**; co-hosts quarantined._
+- **"Something I will never do to you is I will never lie to you."** — the honesty-covenant register (the editing masterclass). [2025-10-12] ([[../wiki/sources/2025-10-12-yt-eNgD1kg3U14]])
+- **"I look forward by looking backwards."** — the how-I-pick-videos register. [2025-10-12] ([[../wiki/sources/2025-10-12-yt-eNgD1kg3U14]])
+- **"YouTube is a treadmill."** — the don't-chase-past-success register. [2025-10-12] ([[../wiki/sources/2025-10-12-yt-eNgD1kg3U14]])
+- **"Handsome Squidward. And that's all I'm telling you."** — the terse-creative-brief register (walked up to the designer, said two words, walked away). [2023-09-08] ([[../wiki/sources/2023-09-08-yt-C30pZf2d1jE]])
+- **"Physics is why they'll never look the same; compute is why they look closer every day."** — the computational-photography-thesis register. [2024-10-22] ([[../wiki/sources/2024-10-22-yt-oka31nU8V1c]])
+- **"Cars will never feel fast again — that's what I mean by ruining fast cars."** — the spoiled-by-the-best register (after the Rimac Nevera / McLaren P1). [2023-08-18] ([[../wiki/sources/2023-08-18-yt-ZmKpoaCJciM]])
+- **"What if I could actually design my own product? That would be kind of sick, right?"** — the review→design register (the Atoms 251 shoe); seeing it finished = "proud dad moment." [2023-04-25] ([[../wiki/sources/2023-04-25-yt-_YA8Y8FL5Jw]])
+- **"As long as you don't ask me why I know this."** — the deadpan-party-trick register (reciting all 21 NJ counties alphabetically). [2026-01-31] ([[../wiki/sources/2026-01-31-yt-HZvj8T5_oUE]])
+- **"I am best at analyzing the product in front of me."** — the stay-in-my-lane register (declining to fold politics/tariffs into reviews). [2026-01-31] ([[../wiki/sources/2026-01-31-yt-HZvj8T5_oUE]])
+- **"I think I might have gotten it wrong."** — the willing-to-revise-on-the-record register (the Sony Walkman). [2024-08-28] ([[../wiki/sources/2024-08-28-yt-J5MdxJ29vbI]])

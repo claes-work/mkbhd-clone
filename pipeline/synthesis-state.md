@@ -6,7 +6,7 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1694 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+Synthesized through: **1758 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
 through L2=1638, PLUS **pass 26 (2026-07-25) — L2 1638→1694, ~56 sources; the @AutoFocus FOUNDING corpus (Aug 2022 →
 Aug 2024), Marques-attributed only, co-host Miles quarantined — ✅ the @AutoFocus channel is now COMPLETE (Aug 2022 →
 Jul 2026 fully drained to L2).** Pass-26 landmarks — **THE DAILY-DRIVER ARC** (Tesla + the borrowed 2008 Roadster →
@@ -21,6 +21,31 @@ like-it ≠ bad," "horsepower ≠ sportiness," "a great EV no one should buy," "
 signature tech-product analogy ("ROG Phone of trucks", the Top Gear "toaster-oven"); and "Lucid one-ups Tesla (luxury),
 Tesla wins software + network." System-prompt recompiled **v25→v26**. **⚠️ ATTRIBUTION: co-host Miles's @AutoFocus solo
 reviews + driving segments remained quarantined and were NOT trained.**
+
+**PLUS pass 27 (2026-07-25) — L2 1694→1758, 64 sources; the @TheStudio behind-the-scenes/vlog channel (Jan 2023 → Jul
+2026), ingested backward (reaches the channel's first video, 2023-01-27).** ENSEMBLE channel — **hard attribution-
+gated: Marques-attributed only.** The ~18-person team (David, Ellis, Andrew, Miles, Mariah, Vin, Michael, Brandon, Tim,
+Adam, Harper, et al.) quarantined. **⚠️ ATTRIBUTION CORRECTION carried through: the Fujifilm-X100VI camera essay was
+DAVID's, not Marques's (mis-filed then corrected in the ingest run) — its "everyday pocket X100V / I hate editing
+photos, let the color scientist deal with the color" beliefs are David's and were NOT trained.** Pass-27 landmarks —
+**creator-business/production (the genuinely-new cluster): the OCTOPUS FRAMEWORK** (delegate the arms / keep the three
+non-delegatable hearts — on-camera, testing the tech, the editorial "what to make"); **the four editing principles**
+(good-in-good-out, focus, don't-be-boring-but-don't-be-insulting, know-your-audience); **the video-selection method**
+("look forward by looking backwards"; "never regretted a video made just for views"; "YouTube is a treadmill"); **the
+thumbnail philosophy** ("works-as-a-thumbnail ≠ beautiful-image") + makes his own rough thumbnails in Final Cut Pro +
+the "handsome Squidward" brief; **channel-named-after-himself = freedom**; **minimal-but-tight sponsors**;
+**fundamentals-over-gear**; **"I will never lie to you"**; **the Atoms 251 shoe = his first designed product**
+(review→design turn). **Reviewer method/canon:** "physics vs compute" computational-photography thesis; the "McLaren P1
+before roads" doctrine; willing-to-revise (the Sony Walkman); the **dead-smartphone canon** (Aquos thin-bezel origin,
+Essential PH-1 iconic, Surface Duo "worst," RED Hydrogen gimmick-lesson, Nexus One origin/6P pinnacle; LG Wing TikTok =
+his most-viewed content ever, 35M); Vision Pro "4.5, worth-hype-not-price." **Biography specifics:** BMW owner; the
+career-firsts (1,500+ videos; first event = Samsung NYC; first CES 2018; first MWC 2015); Hurricane-Sandy college era
+(Hoboken/Stevens); low screen time ~2h45m; barely-games; vacuums the studio carpet; no-visitors policy; basement-filmed
+origin videos; Kearny NJ; In-N-Out ritual; Dark Sky; Samsung-X5-SSD leak; the Tim-Cook-interview-on-an-S24-Ultra
+("could you not?"); airport-punctual; spends his own miles on crew travel; the McLaren P1 = his dream car. System-prompt
+recompiled **v26→v27**. **⚠️ ATTRIBUTION: all @TheStudio co-host/team material (David's camera essays, Ellis's audio,
+Andrew's outdoor/mower, Miles's segments, the iPhone-12-mini = Ellis, the right-to-repair line = uncertain) quarantined
+and NOT trained.**
 
 ### (superseded) pass 25 high-water detail
 Synthesized through **1638 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), PLUS
