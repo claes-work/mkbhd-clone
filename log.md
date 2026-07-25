@@ -4,6 +4,31 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2024 Nov 29 → 2025 Jan 31, 8/8 ingested — ensemble podcast, light-triage L2 (batch 24)
+
+Third post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1878→1886.
+
+Marques-attributed keepers:
+- **01-29 Vision Pro Turns One** — reality check a year after his 4.5-star review: impressive tech +
+  the **spatial pinning** ("so fine, doesn't wiggle"), but **"still a big heavy thing on your face that
+  leaves red marks"** — a put-it-down device. Corroborates his **dual-display** preference + the demos-
+  make-your-brain-go-wow note.
+- **12-06 Jaguar rebrand** — "the mission was: **do absolutely nothing the same as the previous cars**"
+  (the "Copy Nothing"/Type 00 total-break design critique).
+- **11-29 Boosted to Busted** (David-narrated doc + founder interview quarantined) — Marques: Boosted =
+  **"the Tesla of electric skateboards"**; BIO: he used Boosted Boards (in videos + behind-car b-roll).
+- **01-31 DeepSeek** disrupts the AI cost-moat (ties to Apple=compute-layer); **01-17 TikTok ban**
+  (multi-platform-creator platform-dependence lens). Lower-yield: S25 iterative, CES 2025, Apple-Watch-
+  to-a-wedding etiquette.
+
+Open after: @Waveform 204 (P2:187 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: 3 batches since pass-29.
+
+Synthesis notes: mostly corroborating (Vision Pro 4.5-star verdict + dual-display; Apple=compute-layer;
+multi-platform creator). Genuinely-new-ish: the **Jaguar "do nothing the same" rebrand read** (design
+critique) + **Boosted = Tesla-of-eboards** / his Boosted-Board usage (biography). Hard-gated: co-host
+takes + the Boosted documentary + founder interview.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Feb 7 → Mar 21, 8/8 ingested — ensemble podcast, light-triage L2 (batch 23)
 
 Second post-pass-29 @Waveform batch (light-triage L2, hard co-host gating). L2 1870→1878.
