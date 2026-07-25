@@ -1755,6 +1755,14 @@ Marques-attributed segments train the persona**; every page carries a `> ⚠️ 
 banner and per-line gating. Tags: `attribution: ⚠️mixed` (Marques frames/appears but co-
 hosts take segments) or, where no line is confidently Marques, treated as context-only._
 
+- 2023-01-27 — [[2023-01-27-yt-W8NXybaQhR0|We've Never Fixed a Phone Before!]] ⚠️mixed · consumer-tech-culture, tech-reviews _(**earliest @TheStudio video** — team iFixit screen-repair challenge (Marques+Andrew on an iPhone 13 Pro Max); a right-to-repair DIY line ("if someone's going to mess it up, I want to mess it up") is **attribution-uncertain** (Marques or Andrew) — NOT trained. Context.)_
+- 2023-02-06 — [[2023-02-06-yt-Wse6eN-CBG4|Making the 2023 MKBHD Intro Animation!]] co-host · production-filmmaking _(**Michael-narrated** motion-design BTS of the 2023 intro; **NO Marques content** (his only input: "short, include the logo"). Context.)_
+- 2023-02-14 — [[2023-02-14-yt-as_kxJn4Xwc|Can an iPad Control Our Camera Robot?]] ⚠️mixed · production-filmmaking _(production BTS — the iPad control for the camera robot cuts robot-shot setup from ~4 h to minutes (demoed on the Galaxy S23 intro); **no substantive Marques content** (he hand-acts the "wrong phone" skit). Context.)_
+- 2023-03-01 — [[2023-03-01-yt-ALxcrf3nQqI|Why Is This Mouse So Expensive?]] co-host · consumer-tech-culture, tech-reviews _(**team gaming-enthusiast** review of the $280 Razer Viper Mini SE; **NO Marques content** — context.)_
+- 2023-03-17 — [[2023-03-17-yt-qtI4ffVSC7o|Can We Build a Keyboard From Memory?]] ⚠️mixed · consumer-tech-culture, biography _(team keycap-from-memory game; minor Marques bio — he goes **all-letters-first** confidently (touch-typing), places **2nd** (tied w/ Tim). Context.)_
+- 2023-03-31 — [[2023-03-31-yt-FePZammFCCU|Does Anyone Need a Walkman in 2024?]] ⚠️mixed · tech-reviews, consumer-tech-culture _(**Miles + Ellis** review a ~$900 Android Sony Walkman (great audio, bad everything-else); **NO Marques content** — context (another **Ellis = iPhone 12 mini** cross-check).)_
+- 2023-04-13 — [[2023-04-13-yt-WWMfLfhZqxc|This $9000 camera can't see color?? (Leica M11 Monochrome)]] co-host · tech-reviews, production-filmmaking _(**David-narrated** Leica M11 Monochrom essay (monochrome sensor / no color-filter-array); **NO Marques content** — confirms David authors the studio's Leica deep-dives. Context.)_
+- 2023-04-25 — [[2023-04-25-yt-_YA8Y8FL5Jw|Behind the MKBHD x Atoms 251 Launch!]] ⚠️mixed · creator-business, biography _(BTS of Marques's **Atoms × MKBHD "251" shoe** — his **first designed product** ("I reviewed products for so long… what if I could design my own?"; "proud dad moment") — the review→design milestone. Production one-take = team context.)_
 - 2023-05-12 — [[2023-05-12-yt-ODbRHS6r8RE|Are Lawn Mowers Tech Now?]] co-host · consumer-tech-culture, tech-reviews _(**Andrew-narrated** EGO Z6 electric ride-on mower review ("the office calls me dad"); **NO Marques content** — context (F-150-Lightning-vs-gas analogy is Andrew's).)_
 - 2023-05-19 — [[2023-05-19-yt-J0urPcc1GWs|Google I/O 2023 Travel Vlog!]] ⚠️mixed · consumer-tech-culture, biography _(team crew travel vlog (Project Starline); Marques one of the crew — **no substantive subject content**; bio: the studio is in **Kearny, NJ**; he spends his own airline miles to fly the crew. Context.)_
 - 2023-06-02 — [[2023-06-02-yt-Qx9ZigGGXps|Something Strange Happens When You See From a God's Eye View]] ⚠️mixed · consumer-tech-culture, production-filmmaking _(team goofy "third-person rig" experiment (XREAL glasses + action cam); **NO Marques content** — context.)_
@@ -1827,4 +1835,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_1750 videos ingested (L2) so far._
+_1758 videos ingested (L2) so far._
