@@ -4,6 +4,35 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 May 16 → Jun 20, 8/8 ingested — ensemble podcast, light-triage L2 (batch 21)
+
+Eighth @Waveform batch (light-triage L2, hard co-host gating). L2 1854→1862. Two strong keepers.
+
+Marques-attributed keepers:
+- **05-16 ★ "Who Cares About Thin Phones?"** — the **definitive anti-thinness statement** (Samsung S25
+  Edge): "you're sacrificing arguably the most important thing [battery] and paying MORE for a feature
+  nobody asked for"; the **silicon-carbon key** — "if you did this ultra-thin phone with silicon carbon
+  it could have had the same battery life, and that would have been fine." Thin is OK *only* if it
+  doesn't sacrifice battery. Foreshadows the iPhone Air.
+- **06-13 WWDC 25 Liquid Glass debut** — "I'm mixed on it"; a **readability critique via his video-
+  editing craft** (Apple's dynamic light/dark flipping breaks "halfway between a dark and a light").
+  Anchors the LG arc (2025 critique → 2026 opacity-sliders/edge-sharpening fix).
+- **05-23 Google I/O 2025** — corroborates his Google-lacks-cohesion critique.
+- **06-02 Josh Miller (Browser Company) interview** (guest NOT trained) — skeptical power-user framing of
+  the Arc→Dia AI-browser pivot.
+- Lower-yield: YouTube-UI gripes, Switch 2, "Chrome killer?", cursed-inventions game.
+
+Open after: @Waveform 228 (P2:211 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: **8 @Waveform batches (~64 sources) folded since pass-28** — a large ★-heavy pile.
+**Stage S pass-29 is now due within ~1–2 batches** (approaching the 10-batch threshold).
+
+Synthesis notes: genuinely-new for pass-29 — the **definitive anti-thinness + silicon-carbon unification**
+★ (thin OK only if battery isn't sacrificed); the **Liquid Glass readability critique** (video-editor's
+legibility standard); + the full @Waveform pile (Leica M11, $50k Roadster story, review-ethics doctrine,
+30fps philosophy, Top-5 apps, editorial-integrity, silicon-carbon advocacy, location-privacy, iPhone-Air
+tension, Pixel-is-software, multi-platform identity, hiking/climbing, product-focused editorial). Rest
+corroborates (Google critique). Hard-gated: all co-host takes + guest Josh Miller.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Jun 27 → Aug 15, 8/8 ingested — ensemble podcast, light-triage L2 (batch 20)
 
 Seventh @Waveform batch (light-triage L2, hard co-host gating). L2 1846→1854. A rumor/pre-event-heavy
