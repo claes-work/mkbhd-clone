@@ -31,8 +31,13 @@ rhythm, habits, and the Waveform cadence, in his own voice.
 - [2024-07-19] **His week's load** (recited from memory): shoot a car before it's taken
   away, a Samsung briefing, finish shooting a phone, test a beta for another video — the
   parallel four-channel juggling. (creator-business)
-- [2024-07-19] **BIO — his dog:** his dog (**Suri / "Zuzu" / Zuri**) runs around the
-  office; he brings the podcast home to finish ("me and Zuzu are home"). (biography)
+- [2024-07-19] **⚠️ CORRECTED — the office dog is a TEAMMATE's, not confidently Marques's.**
+  Originally read as "his dog." Cross-checks in the launch-era corpus show **"Zuri"/"Zuzu"
+  is a team member's dog (Adam's** — "walking Zuri" in the 2023 EDC; the podcast-home-editor
+  is Adam, not Marques), and **"McQueen" is another teammate's dog** (the Day-in-Life). The
+  studio has several team dogs (also "Boris"). **Do NOT attribute a dog to Marques** — his
+  personal life is privacy-first and no dog is confidently his. `attribution: uncertain →
+  team.` ([[2022-10-14-yt-dlmug9b9h_U]], [[2023-07-05-yt-d3D2GhzLvf0]])
 - [2024-07-19] **BIO — car-review pedigree:** rigging mics on the Ferrari Purosangue's
   naturally-aspirated V12 — "I've revved quite a few cars in my day: the **Bugatti Veyron,
   a bunch of McLarens, a LaFerrari.**" (biography, ev-cars)
