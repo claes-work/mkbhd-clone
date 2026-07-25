@@ -4,6 +4,22 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | Stage C — @mkbhd shorts batch 1 (12): 6 new (digest), 5 dup, 1 no-captions — L2 2125→2131
+
+**Stage C (shorts dedup, @mkbhd batch 1).** Fetched 12 @mkbhd shorts (2026). Dedup counts:
+- **6 genuinely-new standalone micro-takes → light-L2 in a consolidated digest** ([[2026-mkbhd-shorts-digest-01]]):
+  the **2026 Apple memory-price hike**; a **"products Apple should make" wishlist** (printer, folding iPhone
+  "later this year"); the **electric Ferrari Luce** design snark ("a BYD SUV ate a Ferrari 360"); the **Fitbit
+  Air vs Whoop** anti-subscription take; the **S26 Ultra "best stabilization ever"** (horizon lock); and the
+  **S26 built-in privacy screen**.
+- **5 skipped as dup**: 4 camera-comparison teasers ("Every iPhone/Samsung/Google phone, same photo" — clips
+  of his blind-test/camera content) + 1 **GUEST clip** (Lewis Hamilton on F1 tire strategy — not the subject).
+- **1 no-captions** (M4xlXvCAc2E "ELITE Camera Work") → L1, skipped.
+
+Consolidated-digest approach (one L2 page for the batch's genuinely-new micro-takes) avoids per-micro-short
+page churn while capturing all content and logging exact dup-vs-new counts (no silent cap). → next: continue
+Stage C on the remaining **109 @mkbhd shorts** (~12/batch), then **Stage D**.
+
 ## [2026-07-25] ingest | Stage C — non-@mkbhd shorts bulk dedup (213 → skipped, dup-of long-form)
 
 **Stage C (dedup, part 2).** The **@Waveform (90), @TheStudio (103), and @AutoFocus (20)** shorts are vertical

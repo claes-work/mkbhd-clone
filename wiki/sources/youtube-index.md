@@ -11,6 +11,8 @@ pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
 
 ## @mkbhd
 
+- **Shorts digests** — [[2026-mkbhd-shorts-digest-01|@mkbhd Shorts Digest 01]] (2026 genuinely-new micro-takes; Stage-C). _Camera-comparison teasers + guest clips skipped as dup._
+
 _Main solo tech-review channel — Marques-fronted. These are solo videos, so all content
 is Marques-attributed (persona/voice data); no per-line quarantine needed._
 
@@ -2202,4 +2204,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_2125 videos ingested (L2) so far._
+_2131 videos ingested (L2) so far._
