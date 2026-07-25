@@ -4,6 +4,25 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — last 3 P2 (May 2021) + 5 P3 specials, 8/8 ingested — ensemble podcast, light-triage L2 (batch 48)
+
+**Stage B ingest** — the final 3 P2 (the show's **earliest May-2021 episodes**) + 5 P3 special episodes
+(year-rewinds, SXSW live, Favorite Cameras, Q&A mailbag), L2 2070→2078. **All @Waveform P2 now drained**
+(0 P2, 12 P3 left). ENSEMBLE podcast; only clearly-Marques takes trained. Light-triage — low yield.
+
+- **Jl2ciIU4Qm4** (Shorts vs TikTok, May 2021): ★ historical note — **Waveform started AUDIO-ONLY** (the
+  hosts first saw each other's faces around here).
+- **B6Su6HUJNoY** (Favorite Cameras, P3): Marques opens with **"photography is subjective"** (restates his
+  camera doctrine); Hasselblad owner; David = resident camera expert.
+- **pFiRYgvg69E** (Q&A mailbag, P3): Zen Browser verdict ("solid, needs features to switch full-time").
+- Low/retrospective: **290I49CkuuM** (Right-to-repair deep dive — origin of the pro-repair stance),
+  **Dkjv211DnjY** (Android 12 Material You / M1 iMac), **90uSWCHQaso** + **VS9unVTr01E** (2025 & 2024
+  year-rewind montages), **9r2vObU3CEg** (SXSW 2025 live show).
+
+Synthesis notes: mostly corroboration/context. New: Waveform-started-audio-only historical note;
+"photography is subjective" camera-doctrine restatement. → **@Waveform P2 fully drained; 12 P3 specials left
+(~1-2 batches)**; will drain them to complete the channel, then run **pass-32 Stage S at @Waveform completion.**
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2021 Jun 4 → Jul 23, 8/8 ingested — ensemble podcast, light-triage L2 (batch 47)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2021-06-04 → 2021-07-23) — the show's very
