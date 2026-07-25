@@ -4,6 +4,32 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@mkbhd, 8) — Ask MKBHD V7–V14 (2016–2017), 8/8 ingested — SOLO, L2 2098→2106 (batch 52)
+
+**Stage B ingest** — 8 more **SOLO @mkbhd** videos: the **Ask MKBHD Q&A series V7–V14** (2016–2017). L2
+2098→2106. More biography/creator-business goldmines. (@mkbhd now 20 P3 left.)
+
+- ★★ **67plwXQk6Ek** (V12): **2017 = the year he starts HIRING** ("everything up to this point has been made
+  by me — it's time to expand the operation") — ends the 100%-solo era; ★★ **review philosophy** — "biased?
+  because they are — I'm not just a spec sheet; **calibrate yourself to the reviewer**"; **"East Coast Beast
+  Coast"** (committed to NJ/NYC); Apollo's power-steering fix (a wiring contaminant).
+- ★ **ya7VlofjdwY** (V9): **building the first studio (2016)** — open plan + a separate audio room; the **Mega
+  Desk = a custom NextDesk Air Pro**; sketched the **floor plan on his iPad Pro with the Pencil**.
+- ★ **C5UiAaeHdgg** (V7): dated **Premiere → Final Cut Pro 10 switch** (~5 yrs on Premiere → FCP for render/
+  playback **performance** — corroborates the Kobe-interview export-race story).
+- ★ **4l8eeqgCJnQ** (V10): studio built by ~Aug 2016; the **shoot-RED-for-craft-not-delivery** rationale.
+- ★ **Vr3ya_uPmxg** (V13): **switched back to the Mac Pro** for editing (RAW RED footage; the MacBook Pro
+  couldn't keep up). ★ **7q48xYdb8is** (V11): the **original Moto 360** = "favorite smartwatch design ever."
+- **9VbD649W8EY** (V14): the RX100-overheating-4K Moto-X war story. **C-8Ux5ZQLLI** (V8): Model 3 anticipation;
+  upload-workflow detail.
+
+Synthesis notes: More SOLO biography/creator-business — ★★ the **2017 solo→team hiring transition**, the
+**bias-is-the-point review philosophy** ("calibrate to the reviewer"), the **2016 studio build** (Mega Desk /
+iPad-Pro floor plan), the **Premiere→Final Cut switch** (2016, corroborating the Kobe story), the **Mac-Pro-for-
+RED-footage** workstation, "East Coast Beast Coast," and the **original-Moto-360 design taste**. Worth folding at
+the next persona checkpoint (with the batch-51 Ask MKBHD material). → next: the @mkbhd P3 tail (20), then
+@WaveformClips (Stage-C dedup), then shorts.
+
 ## [2026-07-25] ingest | yt batch (@mkbhd, 8) — Ask MKBHD V1–V6 + iOS 27 + S4 interview, 8/8 ingested — SOLO, L2 2090→2098 (batch 51)
 
 **Stage B ingest** — 8 **SOLO @mkbhd** videos (the subject directly — no ensemble gating): the **Ask MKBHD
