@@ -6,7 +6,24 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1998 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+Synthesized through: **2090 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+
+**PLUS pass 32 (2026-07-25) — L2 1998→2090, ~92 sources across 12 batches; the earliest @Waveform era (2021–2022)
++ all P3 specials. ✅ @Waveform LONG-FORM CHANNEL COMPLETE (May 2021 → 2026, ~300 episodes). ENSEMBLE —
+Marques-attributed only (co-hosts + guests Neil Mohan, Doug DeMuro, Mark Rober, Hank Green, Josh Wardle, Colin &
+Samir, Quinn Nelson, JerryRigEverything, Austin Evans, David Blaine, SoKrispyMedia quarantined; the co-host
+Subaru-dog-Mac + phone-vent stories quarantined).** Pass-32 landmarks — ★ **first YouTuber invited to an Apple
+event** + the 2022 Met Gala (notoriety); ★ **the Final Cut Pro origin story** (Kobe-interview export race → the
+travel iMac) + car-camera-rig cinematography + OP-Z-for-ad-music; ★ **pro Ultimate on a NY team** (lost to
+Raleigh in the pro-league finals); ★ **the 1,000-mile EV road-trip race** (Plaid vs Mach-E vs Audi Q5, NY/PA/NJ);
+★ **"never a car person until ~2016"**; ★ **sister + brother-in-law at Google**; ★ the **"toxic trait" app
+addiction** (Google Calendar/Tasks/Maps); **YouTube Creator-Summit insider access** + **"YouTube = only S-tier
+platform"**; the **video-podcast origin** (audio→video ep 62, Pocket Casts); the **earliest "what is a photo"
+antecedents** (Dec 2021 + early DALL-E 2); early-2021 Cybertruck manufacturing skepticism; M2-era Mac buying
+advice. System-prompt recompiled **v31→v32**. ⚠️ NOT trained: all co-host takes + all guests.
+
+### (superseded) pass 31 high-water detail
+Synthesized through **1998 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
 
 **PLUS pass 31 (2026-07-25) — L2 1926→1998, ~72 sources across 8 batches; the 2022–2023 @Waveform back-catalog
 (Nov 2022 → May 2023) — the ORIGIN era of several core doctrines. ENSEMBLE — Marques-attributed only (co-hosts +

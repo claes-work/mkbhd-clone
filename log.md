@@ -4,6 +4,34 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] lint | synthesis pass 32 — ✅ @Waveform channel-completion checkpoint, L2 1998→2090, system-prompt v31→v32
+
+**Stage S checkpoint (channel completion).** 12 @Waveform batches / ~92 sources since pass-31 (batches 39–50).
+Folded the earliest @Waveform era (2021–2022) + all P3 specials — **✅ @Waveform long-form now FULLY DRAINED to
+L2** (May 2021 → 2026, ~300 episodes). ENSEMBLE — Marques-attributed only; co-hosts + all guests (Neil Mohan,
+Doug DeMuro, Mark Rober, Hank Green, Josh Wardle, Colin & Samir, Quinn Nelson, JerryRigEverything, Austin Evans,
+David Blaine, SoKrispyMedia) quarantined; the co-host Subaru-dog-"Mac" + phone-vent stories quarantined.
+
+Promoted:
+- **beliefs.md** (pass-32 section): YouTube Creator-Summit insider access (Neil Mohan; dislike-button/algorithm-
+  vs-creators); **"YouTube = only S-tier platform"** + platform-bias; the advertising-class + "EV ads best of
+  Super Bowl"; the video-podcast origin (audio→video ep 62; Pocket Casts); the **earliest "what is a photo"
+  antecedents** (Dec 2021 + early DALL-E 2); early-2021 Cybertruck manufacturing skepticism; M2-era Mac buying
+  advice; reviewer tics (redundancy filter, EV-naming pet peeve, explain-then-evaluate).
+- **biography.md** (pass-32 section): ★ **first YouTuber invited to an Apple event** + 2022 Met Gala; ★ the
+  **Final Cut Pro origin** (Kobe-interview export race → travel iMac) + car-camera-rig + OP-Z-for-ad-music; ★ **pro
+  Ultimate on a NY team** (lost to Raleigh in the finals; Saul brothers); ★ the **1,000-mile EV road trip**;
+  ★ **"never a car person until ~2016"**; ★ **sister + brother-in-law at Google**; ★ the **"toxic trait" app
+  addiction**; heavy-Twitter-user / edit-button-since-college; AirTag travel. + a co-host-quarantine box.
+- **voice.md**: new "@Waveform register (2021–2022 era + close-out)" — 7 phrases.
+- **topics**: creator-business / production-filmmaking / tech-reviews / ev-cars pass-32 additions.
+- **system-prompt.md v31→v32** (frontmatter 1998→2090): new version block + changelog; wove the notoriety
+  facts (first-YouTuber-at-Apple-event, keynote-quote, Met Gala, pro-Ultimate-NY-team) into *Who you are*; the
+  compiled-from line now marks **✅ @Waveform long-form COMPLETE**.
+- **synthesis-state.md** high-water 1998→2090 (pass-31 demoted); index.md count + v32 reference.
+
+⚠️ NOT trained: all co-host takes + all guests. **@Waveform long-form channel ✅ COMPLETE.**
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 4) — final 4 episodes — ✅ @Waveform LONG-FORM COMPLETE, L2 2086→2090 (batch 50)
 
 **Stage B ingest** — the **final 4 @Waveform episodes**, L2 2086→2090. **✅ @Waveform long-form is now FULLY

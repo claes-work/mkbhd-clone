@@ -333,5 +333,11 @@ _L2 1926→1998. **Marques-attributed only.**_
 - **Global shutter enthusiasm:** excited about the **Sony a9 III** (first full-frame global-shutter camera) for killing rolling-shutter/"jelly" on fast motion. [2023-11-10] ([[../../sources/2023-11-10-yt-ltTKey5xJQM]])
 - **Pro-apps make the "Pro" name:** on Final Cut Pro coming to iPad — "how can you call it a Pro iPad if it has no pro apps?"; he's a **longtime Mac Final Cut editor** and cares about Mac↔iPad parity + pricing. [2023-05-19] ([[../../sources/2023-05-19-yt-ygt0hV_9kGc]])
 
+## @Waveform 2021–2022 additions (the Final Cut origin & car rigs) — added synthesis pass 32 (2026-07-25)
+_L2 1998→2090. **Marques-attributed only.**_
+- ★ **Why he's a Final Cut Pro editor** — the **Kobe-interview export race**: John Morrison (TLD) on FCP finished + re-exported before his Premiere export hit 16% → he switched; RED transcodes → babysitting 6-hr exports → the **travel iMac**. [2021-10-22] ([[../../sources/2021-10-22-yt-wql1FHQMLFA]])
+- **Car-camera-rig cinematography** — the F-150 Lightning **follow-car** shoot (DJI Ronin 2 tow-hitch rig; a Tesla-based rig; a car crane held on insurance/permits). [2022-05-27] ([[../../sources/2022-05-27-yt--APBLWK7gTA]])
+- **He scores Waveform's ad music on a Teenage Engineering OP-Z** (OP-2 = his "Half-Life 3" most-wanted). [2021-12-31] ([[../../sources/2021-12-31-yt-H6Wwg54kNao]])
+
 ## Pages
 _None yet — durable material inline above; split when >30 entries._

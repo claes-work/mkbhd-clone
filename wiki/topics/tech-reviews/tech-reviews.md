@@ -757,5 +757,11 @@ _L2 1926→1998. **Marques-attributed only** (co-hosts + guests quarantined)._
 - **Vision Pro reveal thesis** (reveal day): the digital-crown real↔digital dial fixes pure-VR lock-in; "Google Glass was one of the best inventions ever, destroyed by privacy"; **UI is the innovation** (eyes+hands+voice, "like the first iPhone"). [2023-06-09] ([[../../sources/2023-06-09-yt-17-aVWFa098]])
 - **Consumer-advice rules:** "**starting-at/base-model pricing is a lie**" (sacrificial base spec; category-dependent); **green-marketing skepticism** ("carbon-neutral = mostly credits? show me the mechanism"); **separate the product from the maker** ("good stuff even from bad companies"); **adaptive-transparency audio dislike** (latency); **"M2 Mac Mini = new default Mac to recommend."** [2023-07-28] ([[../../sources/2023-07-28-yt-0atwuUWhKWs]]) · [2023-09-22] ([[../../sources/2023-09-22-yt-ZYwhYR2ezxA]]) · [2023-01-27] ([[../../sources/2023-01-27-yt-sfvT_pbCFP0]])
 
+## @Waveform 2021–2022 additions (earliest antecedents) — added synthesis pass 32 (2026-07-25)
+_L2 1998→2090. **Marques-attributed only.** ✅ @Waveform long-form complete._
+- ★ **"What is a photo?" — earliest antecedents**: a **Dec-2021** "representation of reality but not exactly reality" line + his **early DALL-E 2** "it isn't real, it's creating a new version." [2021-12-17] ([[../../sources/2021-12-17-yt-RUsM67XklcM]]) · [2022-05-20] ([[../../sources/2022-05-20-yt-XjTENlTTWk8]])
+- **Early Cybertruck skepticism (2021)** — manufacturing-grounded ("the shape's meant to be easy to make — but they haven't started"). [2021-09-10] ([[../../sources/2021-09-10-yt-we8pSn3Ztrk]])
+- **M2-era Mac buying advice**: "who would buy the 13\" M2 MacBook Pro?" (the Air is better+cheaper); the base-SSD/parallel-NAND catch; "M2 Mac Mini = new default Mac." [2022-06-24] ([[../../sources/2022-06-24-yt-KKgutphqX4w]]) · [2022-07-22] ([[../../sources/2022-07-22-yt-t6cOybVxFH8]])
+
 ## Pages
 _None yet — durable material lives inline above; split into sub-pages when this domain exceeds ~30 entries._

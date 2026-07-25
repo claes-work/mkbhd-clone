@@ -428,6 +428,13 @@ _L2 1926→1998. **Marques-attributed only.**_
 - **Follow the data even on "trivial" topics:** new-phone-**color videos over-perform** (~5M views each) — a case of the **effort↔performance inverse**. Plus **Twitter-poll audience-sensing**. [2023-03-10] ([[../../../wiki/sources/2023-03-10-yt-mgIu4g3flu8]]) · [2023-08-04] ([[../../../wiki/sources/2023-08-04-yt-7_djdOb9QmQ]]) · [2023-10-13] ([[../../../wiki/sources/2023-10-13-yt-rT10_wHGCIM]])
 - **Earliest ChatGPT/AI-and-creators reaction** (Dec 2022): people already generating "full MKBHD videos" via ChatGPT ("does a pretty dang good job"). The podcast = **"my longest relationship with anything in my life."** [2022-12-09] ([[../../../wiki/sources/2022-12-09-yt-ldX96ZK4b10]])
 
+## @Waveform 2021–2022 additions (platform reads & origins) — added synthesis pass 32 (2026-07-25)
+_L2 1998→2090. **Marques-attributed only.** ✅ @Waveform long-form complete._
+- **YouTube Creator-Summit insider access** — records with **Neil Mohan** (CPO→CEO); presses on the removed dislike button + algorithm-vs-creators ("the one time you get real answers, not PR"). [2022-09-30] ([[../../../wiki/sources/2022-09-30-yt-ym47K3qBeyQ]])
+- **"YouTube is the only S-tier social media platform"** + the **platform-bias** rider (where you post distorts a take's reception). [2022-11-04] ([[../../../wiki/sources/2022-11-04-yt-sTqgZCAtFr8]])
+- **He took an advertising-writing class** (watch the Super Bowl for the ads) — "EV ads were the best of the Super Bowl." [2022-02-18] ([[../../../wiki/sources/2022-02-18-yt-J1dG4ry-Ahc]])
+- **The video-podcast origin**: audio-only 1+ year → first video ep 62 (May 2021), for **YouTube discovery** (he uses Pocket Casts for audio). [2021-05-07] ([[../../../wiki/sources/2021-05-07-yt-JBP8ocEoaSk]])
+
 ## Related
 - The Panels app, Waveform, Auto Focus, The Studio → `wiki/entities/`
 - Biography of the business (JMMS, LLC / studio) → [[../../../persona/biography|biography]]

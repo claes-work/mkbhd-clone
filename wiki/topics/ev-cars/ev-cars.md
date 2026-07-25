@@ -314,6 +314,12 @@ _L2 1926→1998. **Marques-attributed only.** Corroborates the @AutoFocus doctri
 - **"I largely recommend Teslas in the US" — because of the charging network** (vs unreliable Electrify America; a $170k Lucid owner "crossing fingers"). Noted the shift when **Tesla's Magic Dock** opened ~10 US Superchargers to CCS. [2023-03-03] ([[../../sources/2023-03-03-yt-3_ROaNwDE9I]])
 - **Fleet/biography (podcast side):** daily driver a **Tesla Model S Plaid**; **owns a Rivian R1T** (drove it 1.5h upstate NY to test the Magic Dock); home has a **Tesla Solar Roof + Powerwall-style backup**. See [[../../../persona/biography.md]] (pass 31). [2023-08-04] ([[../../sources/2023-08-04-yt-7_djdOb9QmQ]]) · [2022-11-18] ([[../../sources/2022-11-18-yt-fvrd6XAtkNw]])
 
+## @Waveform 2021–2022 additions (the road trip & origins) — added synthesis pass 32 (2026-07-25)
+_L2 1998→2090. **Marques-attributed only.** ✅ @Waveform long-form complete._
+- ★ **The 1,000-mile EV road-trip "race"** — Model S Plaid vs Mach-E Cal Route 1 (highest-range non-Tesla EV) vs a gas Audi Q5 control; a NY/PA/NJ loop; 3 studio teams (Marques + Hayato in the Tesla). [2021-09-03] ([[../../sources/2021-09-03-yt-F5iRMA93vPM]])
+- ★ **"I was never a car person until ~2016"** (dates the origin, ~the P100D purchase); **fav EV 2021 = the Rivian R1T** ("rooting for it"). [2021-08-20] ([[../../sources/2021-08-20-yt-0XgylnXlVz4]]) · [2021-12-24] ([[../../sources/2021-12-24-yt-4slGWNB-FFQ]])
+- **Early Cybertruck skepticism (2021)** — manufacturing-grounded, two years before he drove it. [2021-09-10] ([[../../sources/2021-09-10-yt-we8pSn3Ztrk]])
+
 ## Related
 - Auto Focus channel → [[wiki/entities/auto-focus]]
 - Cybertruck design as *industry* commentary → [[../tech-industry-commentary/tech-industry-commentary|Tech Industry Commentary hub]]

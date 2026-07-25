@@ -831,6 +831,31 @@ _From the 2022–2023 @Waveform back-catalog (L2 1926→1998, ~72 sources across
 
 > ⚠️ **Attribution caution (co-host quarantine):** In the 2024-01-05 "best tech of 2023" episode, a **"grandpa's red Fruit-of-the-Loom shirt inherited when he died"** story is a **CO-HOST's** biography, NOT Marques's (the transcript shows Marques "obviously searching" for his pick while another host tells it). Likewise the "climbing gym" phone-durability line (2023-07-07) is a co-host's. **Neither is part of Marques's biography.** ([[../wiki/sources/2024-01-05-yt-kd2OCjjZ1EY]] · [[../wiki/sources/2023-07-07-yt-U-p5SdtJNYs]])
 
+## Corpus-derived anchors (@Waveform 2021–2022 origins: notoriety, the Final Cut origin, pro Ultimate, the road trip) — added synthesis pass 32 (2026-07-25)
+_From the earliest @Waveform era + specials (L2 1998→2090, ~92 sources). **✅ @Waveform long-form fully drained.** ENSEMBLE — Marques-attributed only; guests + co-host stories quarantined (incl. the co-host Subaru-Forester-and-dog-"Mac" story — Marques drives a Tesla). Absolute dates preserved._
+
+### Notoriety & career-firsts (NEW)
+- ★★ **First YouTuber invited to an Apple launch event.** Researching whether creators had gone to the **2022 Met Gala** (he was invited, by Google/YouTube's **Derek Blasberg**), he drew the parallel: **"I was actually the first YouTuber that was invited to an Apple launch event"** — back when there were none — "and now, not to take credit, but… there are YouTubers at every tech event." A defining marker of his role legitimizing creators in tech media. [2022-05-06] ([[../wiki/sources/2022-05-06-yt-h2rDfW1UbKo]])
+
+### Production origins (NEW)
+- ★★ **Why he's a Final Cut Pro editor — the Kobe-interview origin.** He first edited on **Premiere**; shooting the **Kobe Bryant interview at Staples Center**, **John Morrison (TLD)** was on **Final Cut** and **finished + re-exported his video before Marques's Premiere export hit 16%** — so **he switched to Final Cut Pro.** Even so, **RED transcodes mean babysitting ~6-hour exports**, which is why he built the **travel-iMac / iMac Pro** workflow (bringing a desktop on planes). [2021-10-22] ([[../wiki/sources/2021-10-22-yt-wql1FHQMLFA]])
+- **Car-camera-rig cinematography.** For the **Ford F-150 Lightning** review he used a **second Lightning as a follow car** — a **DJI Ronin 2 on a tow-hitch rig** — plus a **Tesla-based rig** and a **car camera crane** (held back on insurance/permits). [2022-05-27] ([[../wiki/sources/2022-05-27-yt--APBLWK7gTA]])
+- **He scores Waveform's ad music on a Teenage Engineering OP-Z** (OP-1/OP-Z owner; the rumored OP-2 is his "Half-Life 3" most-wanted). His workstation includes a **tower Mac Pro** and a **16" M1 Max MacBook Pro**. [2021-12-31] ([[../wiki/sources/2021-12-31-yt-H6Wwg54kNao]]) · [2022-04-08] ([[../wiki/sources/2022-04-08-yt-cR4ayi4fbtY]])
+
+### Sports & hobbies (NEW / refined)
+- ★★ **Pro Ultimate — a New York team.** His pro-league season: his **New York** team **lost to Raleigh in the pro-league finals** (they'd entered as roughly the **9-seed**); he name-checks the **Saul brothers** (Noah + Isaac) from the Ultimate world. Refines the "pro Ultimate player" thread with the NY-team detail. [2021-10-29] ([[../wiki/sources/2021-10-29-yt-iXVdeYbgEvQ]])
+
+### Cars & the road trip (NEW / refined)
+- ★★ **The 1,000-mile EV road-trip "race."** A whole-studio production: **Tesla Model S Plaid** vs **Ford Mustang Mach-E Cal Route 1** (the highest-range non-Tesla EV) vs a **gas Audi Q5** control, on a loop around **New York, Pennsylvania, and New Jersey**, split into three teams (**Marques + Hayato in the Tesla**). Confirms his tri-state home region. [2021-09-03] ([[../wiki/sources/2021-09-03-yt-F5iRMA93vPM]])
+- ★ **"I was never a car person until ~2016"** — dating his car obsession to right around the P100D "Apollo" purchase. His **fav EV of 2021 was the Rivian R1T** ("I'm rooting for it"). [2021-08-20] ([[../wiki/sources/2021-08-20-yt-0XgylnXlVz4]]) · [2021-12-24] ([[../wiki/sources/2021-12-24-yt-4slGWNB-FFQ]])
+
+### Family & personal (NEW)
+- ★ **His sister and her husband work at Google** (they sent him Google swag — disclosed proactively). [2022-05-13] ([[../wiki/sources/2022-05-13-yt-tgK9htO8Evo]])
+- ★ **His self-named "toxic trait" = app addiction.** "I live in three apps and without them I'd be a useless shell of a human": in 2022, **Google Calendar, Google Tasks, and Google Maps**; plus the every-couple-weeks **app-switching urge**. [2022-08-05] ([[../wiki/sources/2022-08-05-yt-PQmSzj7IRuw]])
+- **Heavy, detail-oriented Twitter user** — he'd **wanted a Twitter edit button "since college"** ("we found the god particle but still can't edit tweets"); a real-time participant in the platform's drama (tweeting the verified-badge chaos live). Also an **AirTag-in-the-tripod-bags** traveler. [2022-04-08] ([[../wiki/sources/2022-04-08-yt-cR4ayi4fbtY]]) · [2023-01-06] ([[../wiki/sources/2023-01-06-yt-u48vyQ9fsWc]])
+
+> ⚠️ **Attribution caution (co-host quarantine, this era):** the **Subaru Forester + dog "Mac"** new-car story (2022-01-21) is a **co-host's**, not Marques's (he drives a Tesla); likewise a co-host's phone-reliability vent. Not part of Marques's biography. ([[../wiki/sources/2022-01-21-yt-z7H15z7ShVs]])
+
 ## Personal life (privacy-first by policy)
 
 - **Not married**; reported long-term relationship, but partner names conflict across low-quality aggregators — **kept private / not asserted**. 📰/low confidence ([[2026-07-14-research-biography-dossier]])

@@ -728,3 +728,13 @@ _From the 2024 @Waveform back-catalog. **Marques-attributed only.**_
 - **"Keep the taste a little bit ahead of what you're doing."** — the how-to-last register (his longevity advice to Cleo Abram). [2023-08-25] ([[../wiki/sources/2023-08-25-yt-fmIvzU115y0]])
 - **"The two things I want in a smartwatch are for it to be thicker and to have worse battery life — so I don't understand this at all."** — the deadpan-sarcasm register. [2022-12-09] ([[../wiki/sources/2022-12-09-yt-ldX96ZK4b10]])
 - **"How can you call it a Pro iPad if it has no pro apps? Well, here is Final Cut Pro."** — the call-out-the-label register. [2023-05-19] ([[../wiki/sources/2023-05-19-yt-ygt0hV_9kGc]])
+
+## The @Waveform register (2021–2022 era + close-out) (added synthesis pass 32, 2026-07-25)
+
+- **"YouTube is still the only S-tier social media platform."** — the platform-hierarchy register. [2022-11-04] ([[../wiki/sources/2022-11-04-yt-sTqgZCAtFr8]])
+- **"I was never a car person until probably like 2016."** — the origin-story register. [2022-08-20] ([[../wiki/sources/2021-08-20-yt-0XgylnXlVz4]])
+- **"We found the god particle at the LHC, but we still can't edit tweets."** — the exasperated-pet-want register. [2022-04-08] ([[../wiki/sources/2022-04-08-yt-cR4ayi4fbtY]])
+- **"I thought the EV ads were the best of the Super Bowl."** — the ad-critic register (he took an advertising class). [2022-02-18] ([[../wiki/sources/2022-02-18-yt-J1dG4ry-Ahc]])
+- **"I live in three apps, and without them I would be a useless shell of a human — Google Calendar, Google Tasks, and Google Maps."** — the toxic-trait register. [2022-08-05] ([[../wiki/sources/2022-08-05-yt-PQmSzj7IRuw]])
+- **"It's the one time you get real answers out of YouTube executives instead of PR answers."** — the insider register (the Creator Summit). [2022-09-30] ([[../wiki/sources/2022-09-30-yt-ym47K3qBeyQ]])
+- **"It isn't real — it's creating a new version of it."** — the computational-image register (early DALL-E 2; a what-is-a-photo antecedent). [2022-05-20] ([[../wiki/sources/2022-05-20-yt-XjTENlTTWk8]])
