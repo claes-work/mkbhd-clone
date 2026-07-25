@@ -4,6 +4,30 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2021 Nov 26 → 2022 Jan 14, 8/8 ingested — ensemble podcast, light-triage L2 (batch 44)
+
+**Stage B ingest** — 8 more @Waveform back-catalog episodes (2021-11-26 → 2022-01-14), L2 2038→2046.
+ENSEMBLE podcast; no speaker labels → only clearly-Marques takes trained. Light-triage. One guest
+(SoKrispyMedia). Nearing the channel's Sept-2021 start.
+
+- ★ **RUsM67XklcM** (fav fold): the **earliest-dated "what is a photo" antecedent** (Dec 2021) —
+  "computing to spit out an image that is a **representation of reality but not exactly reality**" — the
+  seed of the doctrine, well before the Mar-2023 Samsung moon crystallized it. (attribution flagged.)
+- ★ **4slGWNB-FFQ** (best of 2021): **fav EV 2021 = the Rivian R1T** ("far and away… I'm rooting for it");
+  EVs through the studio (e-tron GT / F-150 Lightning / EQS, some written up for Top Gear).
+- ★ **H6Wwg54kNao** (2022 wishlist): most-wanted = the rumored **Teenage Engineering OP-2** ("Half-Life 3");
+  reveals **he uses the OP-Z to make Waveform's ad music** (OP-1/OP-Z owner — specifies the TE-fan thread).
+- Low-med: **Ah5SMOt_7uE** (EV rated-vs-real range; Kyle Conner/Out-of-Spec; Adele-saves-Spotify),
+  **2JKhGrwCLBk** (CES 2022 / LG rollable), **zaGRRepaDJQ** (Pixel 6 Pro bugs; iMessage-vs-RCS; Wordle),
+  **whyC-s1g1I8** (sustainable phones; ⚠️ grandpa-Solitaire attrib-uncertain, flagged).
+- ⚠️ Guest NOT trained: **GLDP0SW8k3Y** (SoKrispyMedia — MrBeast Squid Game production).
+
+Synthesis notes: New this batch — (1) ★ **earliest what-is-a-photo antecedent** ("representation of reality
+but not exactly reality," Dec 2021 — predates the Samsung-moon origin); (2) ★ **fav EV 2021 = Rivian R1T**;
+(3) ★ **uses the Teenage Engineering OP-Z for Waveform's ad music** + OP-2 most-wanted. Quarantined:
+SoKrispyMedia (guest), grandpa-Solitaire (uncertain). → pass-32 checkpoint due in ~4 more @Waveform batches
+or at channel completion (~27 P2 left — the Sept-2021 start is close).
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2022 Jan 21 → Mar 18, 8/8 ingested — ensemble podcast, light-triage L2 (batch 43)
 
 **Stage B ingest** — 8 more @Waveform back-catalog episodes (2022-01-21 → 2022-03-18), L2 2030→2038.
