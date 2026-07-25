@@ -6,7 +6,24 @@ as `Synthesis notes:` lines (every ingest batch appends one). See `tools/SYNTHES
 and `tools/synthesis_batch.py` for the driver._
 
 ## High-water mark
-Synthesized through: **1638 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), PLUS
+Synthesized through: **1694 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), pass 25
+through L2=1638, PLUS **pass 26 (2026-07-25) — L2 1638→1694, ~56 sources; the @AutoFocus FOUNDING corpus (Aug 2022 →
+Aug 2024), Marques-attributed only, co-host Miles quarantined — ✅ the @AutoFocus channel is now COMPLETE (Aug 2022 →
+Jul 2026 fully drained to L2).** Pass-26 landmarks — **THE DAILY-DRIVER ARC** (Tesla + the borrowed 2008 Roadster →
+Model S Plaid ~1.5 yrs/30k mi, "the best daily driver in the world for me" → turned 30, bought the 911, sold the Plaid
+on Cars & Bids; ordered-a-Cybertruck-then-switched-to-the-R1T; @AutoFocus launched Aug 2022, shot on smartphones) and
+**the DOCTRINE ORIGINS**: "perfect to go electric" was born on 2022–23 luxury sedans (Lyriq → "make an electric
+Escalade," which GM built; Bentley; the BMW i7 that underpins the Rolls-Royce Spectre) WITH its boundary — sports cars
+can't be electric yet (why he bought a gas 911); the "electrification of the sports car" doctrine (Ferrari 296);
+"charging is half the story" → the NACS "win for everyone" thesis (+ monopoly caveat; "Tesla's the new gas station");
+capacitive-buttons-are-bad / "all input is error is wrong" (as a Plaid owner); the reviewer-method principles ("don't-
+like-it ≠ bad," "horsepower ≠ sportiness," "a great EV no one should buy," "almost perfect but one dealbreaker"); the
+signature tech-product analogy ("ROG Phone of trucks", the Top Gear "toaster-oven"); and "Lucid one-ups Tesla (luxury),
+Tesla wins software + network." System-prompt recompiled **v25→v26**. **⚠️ ATTRIBUTION: co-host Miles's @AutoFocus solo
+reviews + driving segments remained quarantined and were NOT trained.**
+
+### (superseded) pass 25 high-water detail
+Synthesized through **1638 L2 sources** — passes 1–24 through L2=1559 (the 2024 + 2025 tech eras complete), PLUS
 **pass 25 (2026-07-25) — L2 1559→1638, ~80 sources; the @AutoFocus car corpus (Aug 2024 → Jun 2025), Marques-attributed
 only, co-host Miles quarantined.** Pass-25 landmarks — **the canonical car biography** (first car = a used red 2014
 Toyota Camry XLE bought for the Ultimate-Frisbee road trips, 37.12 mpg lifetime; daily driver = a 2024 992 911 Turbo S,

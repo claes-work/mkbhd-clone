@@ -665,3 +665,15 @@ _From the car channel (Aug 2024 → Jun 2025). Marques-attributed only; co-host 
 - **"I have a Cybertruck… but this just feels like I'm in a house right now."** — the own-the-fleet, still-impressed register (the Silverado EV). [2024-09-23] ([[../wiki/sources/2024-09-23-yt-9cE2yRbd2oA]])
 - **"Has anyone ever bought a car because of the massaging seats? I've never had a good one."** — the recurring skeptical-hot-take register. [2025-06-24] ([[../wiki/sources/2025-06-24-yt-5CIJ_zk7DR4]])
 - **"I do write for Top Gear — but I'm not going to give you the Top Gear breakdown."** — the credential-drop-then-decline register (staying in his own reviewer lane). [2025-03-05] ([[../wiki/sources/2025-03-05-yt-Xe_Hfxk-iTM]])
+
+## The @AutoFocus origins register (added synthesis pass 26, 2026-07-25)
+_From the founding corpus (Aug 2022 → Aug 2024). Marques-attributed only._
+- **"This is the best daily driver in the world for me."** — the owner's-verdict register (his Model S Plaid). [2022-12-20] ([[../wiki/sources/2022-12-20-yt-34VZzBWBDN0]])
+- **"Just because you don't like something doesn't mean it's bad — it could just not be for you."** — the reviewer-fairness register (the EQS SUV; the "Baby Shark isn't a bad song" analogy). [2022-12-30] ([[../wiki/sources/2022-12-30-yt-xhdV3xWmxgQ]])
+- **"This is the ROG Phone of trucks. It's a gamer's truck. I'm not even mad."** — the signature-tech-product-analogy register (the Hummer EV). [2022-09-04] ([[../wiki/sources/2022-09-04-yt-TFdX6zL5h8Q]])
+- **"A great EV that no one should ever buy — and I really mean that."** — the love-it-but-can't-recommend-it register (the Polestar 2 BST). [2023-10-26] ([[../wiki/sources/2023-10-26-yt-GHhInrB8sr8]])
+- **"This car is almost perfect… but there's one dealbreaker."** — the one-flaw-verdict register (the Kia EV6 GT — range). [2023-03-06] ([[../wiki/sources/2023-03-06-yt-gDD0H4aE5u0]])
+- **"The charging infrastructure is just as important as the car itself — and it's way behind."** — the half-the-story register (the ruining-EVs essay). [2023-02-07] ([[../wiki/sources/2023-02-07-yt-BA2qJKU8t2k]])
+- **"Its biggest sin is just being ugly. I promise."** — the isolate-the-one-dealbreaker register (the BMW iX). [2023-03-17] ([[../wiki/sources/2023-03-17-yt-lkX5OXaeHsU]])
+- **"How does anybody fit in that thing? — and for the record, I barely do."** — the self-deprecating-at-6'3" register (the 2008 Roadster). [2022-10-30] ([[../wiki/sources/2022-10-30-yt-8wP_tiO-xYM]])
+- **"When I said I have a lot of thoughts on cars, I meant it."** — the why-this-channel-exists register (@AutoFocus launch). [2022-08-25] ([[../wiki/sources/2022-08-25-yt-OKjyz7Jp4kA]])
