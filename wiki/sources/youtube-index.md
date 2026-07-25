@@ -1607,6 +1607,14 @@ quarantined on each page (`attribution: uncertain`)._
 
 - 2022-12-23 — [[2022-12-23-yt-MYrfLmm_cT4|Wrapping Up 2022 + Blind Smartphone Test!]] ★ · smartphones, tech-reviews, consumer-tech-culture, tech-industry-commentary
 - 2024-04-23 — [[2024-04-23-yt-v4FYdo-oZQk|How One Small Company Saves Retro Tech]] · consumer-tech-culture, tech-industry-commentary _(guest-led; 0 Marques quotes)_
+- 2025-06-27 — [[2025-06-27-yt-71IFHyHY8MA|Tesla’s Robotaxi Test Takes to the Streets!]] ⚠️mixed · ev-cars, smartphones, tech-industry-commentary _(Tesla Robotaxi supervised test launch (safety monitors) via his wait-for-the-data self-driving lens; + his **"Pro vs non-Pro = just how many cameras"** axiom (referenced) + fold-cameras-worse-because-thinner. Samsung Unpacked rumors.)_
+- 2025-07-04 — [[2025-07-04-yt-Fn4J0MBedrI|Nothing’s First Flagship!]] ⚠️mixed · tech-reviews, consumer-tech-culture, smartphones _(Nothing Phone 3 (first flagship) + **Nothing Headphone One design critique** (mismatched corner radius; plastic-vs-glass "gets oily, looks cheap"); production-transparency: **"I use the light headphones because they look better on camera"** (not compromised).)_
+- 2025-07-11 — [[2025-07-11-yt-FsHMZpNyYbo|Unpacking Samsung Galaxy Unpacked 2025!]] ⚠️mixed · smartphones, tech-reviews, consumer-tech-culture _(**Galaxy Z Fold 7 = "finally thinner"** (wider, thinner bezels, better camera closing the fold-vs-Ultra gap); prices up ~€200; he's seeing more Folds "in the wild.")_
+- 2025-07-18 — [[2025-07-18-yt-xfcMSYl8zDw|Samsung’s Tri-Fold Phone is Coming!]] ⚠️mixed · smartphones, consumer-tech-culture _(low-yield; Samsung tri-fold rumor (sets up the [[2025-12-05-yt-pmmEha5fbR4]] hands-on).)_
+- 2025-07-25 — [[2025-07-25-yt-03Mj85zE3aU|Pixel 10 Leak Shows it Has Three Cameras?]] ⚠️mixed · smartphones, consumer-tech-culture _(low-yield; Pixel 10 three-camera leak (base gaining a telephoto); sets up the Pixel 10 event.)_
+- 2025-08-01 — [[2025-08-01-yt-XuNMN3_GGG4|The Next iPhone Will Be…Orange?]] ⚠️mixed · smartphones, consumer-tech-culture _(low-yield; iPhone 17 Pro orange color rumor (his color-prediction track record).)_
+- 2025-08-08 — [[2025-08-08-yt-q3Astu36nx8|Gadgets We're Loving Right Now!]] ⚠️mixed · consumer-tech-culture, biography, production-filmmaking _(his current gadget love = the **Peak Design carbon travel tripod** (~$600, since ~2018; "too expensive AND really high quality"; kept in his backpack for hiking). BIO: he's **been mountain climbing / hiking a lot** recently.)_
+- 2025-08-15 — [[2025-08-15-yt-YlCgi2Bozzo|Apple is Making an Actually Affordable Macbook??]] ⚠️mixed · consumer-tech-culture, tech-reviews _(low-yield; rumored **A18-powered** low-cost MacBook — "pretty amazing" if the price lands, could reshape the entry tier.)_
 - 2025-08-22 — [[2025-08-22-yt-q47Gom0X_sE|The Pixel 10 Event: The Good, the Bad, the Jimmy Fallon]] ⚠️mixed · smartphones, tech-reviews, consumer-tech-culture _(his favorite Pixel 10 feature = **PixelSnap** (Qi2 magnets — "very well thought out"); the **"Pixel = software, not silicon"** thesis ("Tensor is not the focus — it's the clever software/AI that makes the Pixel the Pixel"). Otherwise iterative.)_
 - 2025-08-26 — [[2025-08-26-yt-Eq8F6moYOjE|Can You Beat Us At Tech Trivia?]] ⚠️mixed · consumer-tech-culture _(low-yield; tech-trivia game episode — no substantive persona takes.)_
 - 2025-08-29 — [[2025-08-29-yt-yFt223XU6Fs|What Does the iPhone Event Invitation Mean?]] ⚠️mixed · smartphones, consumer-tech-culture _(low-yield; the annual iPhone-invitation-decoding ritual ahead of the Sept keynote.)_
@@ -1923,4 +1931,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_1846 videos ingested (L2) so far._
+_1854 videos ingested (L2) so far._

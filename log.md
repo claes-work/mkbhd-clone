@@ -4,6 +4,35 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Jun 27 → Aug 15, 8/8 ingested — ensemble podcast, light-triage L2 (batch 20)
+
+Seventh @Waveform batch (light-triage L2, hard co-host gating). L2 1846→1854. A rumor/pre-event-heavy
+batch (lower yield), but a few keepers.
+
+Marques-attributed keepers:
+- **08-08 "Gadgets We're Loving"** — his gadget love = the **Peak Design carbon travel tripod** (~$600,
+  since ~2018; "too expensive AND really high quality"); BIO: he's **been mountain climbing / hiking a
+  lot** recently (a new active-outdoors hobby note).
+- **07-04 Nothing's First Flagship** — Nothing Phone 3 + Headphone One **industrial-design critique**
+  (mismatched corner radius, plastic-vs-glass "looks cheap"); production-transparency: **"I use the
+  light headphones because they look better on camera"** (not compromised).
+- **07-11 Samsung Unpacked 2025** — Z Fold 7 = **"finally thinner"** + better camera.
+- **06-27 Tesla Robotaxi** supervised test; his **"Pro vs non-Pro = just cameras"** axiom.
+- Lower-yield rumor/leak episodes: affordable A18 MacBook, orange iPhone, Pixel 10 three cameras,
+  Samsung tri-fold coming.
+
+Open after: @Waveform 236 (P2:219 P3:17) · @WaveformClips 622 · @mkbhd 36 · shorts 364.
+Synthesis debt: driver counter 2 (checkpoint at 10) — but 7 @Waveform batches (~56 sources) folded
+since pass-28 with a large diverse keeper pile; **a Stage S is warranted soon** to fold it before it
+grows unwieldy.
+
+Synthesis notes: genuinely-new for the next pass — BIO: **hiking/mountain-climbing hobby**, the **Peak
+Design tripod**; the **"I use the light headphones because they film better"** production-transparency;
+plus the growing @Waveform pile (Leica M11, $50k Roadster story, review-ethics doctrine, 30fps
+philosophy, Top-5 apps, editorial-integrity, silicon-carbon advocacy, location-privacy, iPhone-Air
+tension, Pixel-is-software, multi-platform identity, product-focused editorial). Rest corroborates.
+Hard-gated: all co-host takes.
+
 ## [2026-07-25] ingest | yt batch (@Waveform, 8) — 2025 Aug 22 → Sep 26, 8/8 ingested — ensemble podcast, light-triage L2 (batch 19)
 
 Sixth @Waveform batch (light-triage L2, hard co-host gating). L2 1838→1846. The iPhone-17-event era.
