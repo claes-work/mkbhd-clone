@@ -4,6 +4,19 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-27] ingest | Discovery refresh — +4 new rows (3 P1 fresh uploads) since corpus close-out
+
+**Discovery refresh** (`tools/refresh_sources.py --clone mkbhd`, newest-30 per channel across all 5 TARGET
+channels). Found **+3 videos + 1 short** published since the 2026-07-25 close-out, written into the ledger as
+open rows:
+- **yt-8Hx2yvWSgs0** | @mkbhd video **P1** | 2026-07-22 | "Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought" — SOLO Marques, ingestable.
+- **yt-WVsG3daysEM** | @Waveform video **P1** | 2026-07-24 | "Samsung's Newest Foldable is Here!" — ensemble, attribution-gated.
+- **yt-y-gqIq__29E** | @WaveformClips video **P1** | 2026-07-23 | "Apple is Suing OpenAI!" — clip, dedup tier (dedupe vs @Waveform first).
+- **yt-tCGBoTY8sq4** | @TheStudio short **P3** | 2026-07-25 | "What Sound Does An iPhone Make?" — ensemble short.
+
+The corpus is no longer at "nothing open" — the ingest loop now has real P1 work again. Not yet ingested (this
+entry only records discovery). Synthesis notes: none (no ingest performed this step).
+
 ## [2026-07-25] lint | ✅✅ CORPUS COMPLETE — Stage D final wrap-up (synthesis pass 34 + persona v34 + lint), L2=2237
 
 **Stage D (final wrap-up — ENDS THE INGEST LOOP).** Every ingestable row across all channels is now drained to
