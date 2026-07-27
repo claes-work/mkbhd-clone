@@ -4,6 +4,36 @@ _Append-only change record. Entry format: `## [YYYY-MM-DD] <type> | <title>` wit
 _`<type>` ∈ `setup | plan | ingest | query | lint | persona-qa`._
 _Ingest entries end with a synthesis-notes line (the synthesis-debt trail)._
 
+## [2026-07-27] ingest | Refresh batch — 3 P1 fresh uploads ingested (L2 2237→2240), 1 short skipped
+
+**Stage B (fresh-upload batch from the 2026-07-27 discovery refresh).** Processed all 4 newly-discovered rows:
+- **[[2026-07-22-yt-8Hx2yvWSgs0]]** — @mkbhd **SOLO**, "Samsung Z Fold 8 (Wide) Impressions." Full-attribution
+  L2. ★ Signals: Samsung "started first but got caught and passed" (follower-not-first); the crease finally
+  near-solved (titanium film/backplate; Oppo N6 10/10 → this 8.5/10 → last year 5/10); ★ the **anti-Apple
+  positioning read** (Samsung pre-drops a passport-style "Fold 8" *under* the candybar "Fold 8 Ultra" ahead of
+  Apple's expected Sept foldable iPhone); ★ **memory-price macro** ("many more devices — and that iPhone — will
+  be more expensive because of memory price increases"); surprised he'd daily the smaller Fold (Surface-Duo
+  "good parts").
+- **[[2026-07-23-yt-y-gqIq__29E]]** — @WaveformClips **ENSEMBLE** clip, "Apple is Suing OpenAI!" Genuinely-new
+  (parent ep not ingested), light-L2, Marques-attributed only. ★★ the **"next big thing after the iPhone"
+  framework** (anything replacing the iPhone can't connect to it → must own messaging/people-connection, which
+  OpenAI doesn't → "probably a dumb bad product, way too early"; Humane-Pin callback); ★ the **Pegatron factory
+  tour** (BIO; "that's how leaks happen"); ★ industry-insider inbox reads (poaching pitches; contacts-follow-you).
+- **[[2026-07-24-yt-WVsG3daysEM]]** — @Waveform **ENSEMBLE** episode, "Samsung's Newest Foldable is Here!"
+  Light-triage L2, Marques-attributed only. Corroborates the solo foldable take (Ultra-name = pure positioning;
+  4:3 inner display ≈ medium-format sensors / photo-friendly; $1,900 = his biggest beef). ⚠️ Quarantined: the
+  "Android Authority" history = David Imel / Adam Molina, NOT Marques.
+- **Skipped:** yt-tCGBoTY8sq4 (@TheStudio short "What Sound Does An iPhone Make?") — ensemble comedy skit, no
+  subject-attributable content.
+
+Bookkeeping: 3 rows → L2 (2237→2240), 1 short → skipped; youtube-index gained a "Post-completion fresh uploads"
+section + footer 2240; index.md count 2240. Ledger consistent (L2=2240, skipped=902, L1=89, L0=0). Persona
+unchanged at **v34** (3 videos of debt; signals corroborate existing axes — no churn recompile).
+Synthesis notes: DEBT for next Stage S — ★★ the "next big thing after the iPhone" framework sharpens the
+Humane-Pin/what-replaces-the-smartphone thread; ★ the follower-not-first-applied-to-Samsung-foldables + the
+memory-price macro + the Pegatron-tour BIO are all promotable but sub-landmark; promote when ~10 batches
+accumulate or on request.
+
 ## [2026-07-27] ingest | Discovery refresh — +4 new rows (3 P1 fresh uploads) since corpus close-out
 
 **Discovery refresh** (`tools/refresh_sources.py --clone mkbhd`, newest-30 per channel across all 5 TARGET

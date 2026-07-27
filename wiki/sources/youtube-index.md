@@ -1,6 +1,6 @@
 ---
 type: source-subindex
-updated: 2026-07-22
+updated: 2026-07-27
 ---
 
 # YouTube Sources Sub-Index
@@ -8,6 +8,16 @@ updated: 2026-07-22
 All ingested YouTube video source pages, grouped by channel, in publication-date order.
 **★ = L3-candidate** (flagged for promotion into topics/persona during a synthesis
 pass). Pipeline state per video lives in [[../../pipeline/ledger.csv]].
+
+## Post-completion fresh uploads (discovery-refresh)
+
+_New videos discovered after the 2026-07-25 corpus close-out, via `tools/refresh_sources.py`. Listed here
+rather than surgically inserted into the completed per-channel sections below._
+
+- 2026-07-22 — [[2026-07-22-yt-8Hx2yvWSgs0|Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!]] ★ · @mkbhd · SOLO · tech-reviews, smartphones (foldables; anti-Apple positioning read; memory-price macro)
+- 2026-07-23 — [[2026-07-23-yt-y-gqIq__29E|Apple is Suing OpenAI!]] ★ · @WaveformClips · ENSEMBLE (Marques-attributed only) · the "next big thing after the iPhone" framework + Pegatron tour
+- 2026-07-24 — [[2026-07-24-yt-WVsG3daysEM|Waveform: Samsung's Newest Foldable is Here!]] · @Waveform · ENSEMBLE (Marques-attributed only) · foldables panel + Light Flip; ⚠️ Android-Authority history = David/Adam, not Marques
+- _Skipped:_ yt-tCGBoTY8sq4 (@TheStudio short "What Sound Does An iPhone Make?") — ensemble comedy skit, no subject-attributable content.
 
 ## @mkbhd
 
@@ -2205,4 +2215,4 @@ lines enter the persona/voice banks._
 - 2026-06-25 — [[2026-06-25-yt-EJRCoU6ZWno|Specs on Specs, Oh Snap!]] ★ · tech-reviews, tech-industry-commentary, consumer-tech-culture _(Marques Dope Tech/tweet quotes)_
 
 ---
-_2237 videos ingested (L2) so far._
+_2240 videos ingested (L2) so far._
